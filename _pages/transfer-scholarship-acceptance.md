@@ -8,7 +8,7 @@ post_date: 2015-09-14 08:23:52
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/youarein/transfer-scholarship-acceptance/
+  http://www.umw.edu/admissions/youarein/transfer-scholarship-acceptance/
 published: true
 ---
 <strong>Acceptance Certificate must be returned to the Office of Admissions by May 1.</strong>
@@ -23,4 +23,4 @@ The recipient qualifies to receive a scholarship for up to six regular semesters
 	<li>Should the recipient be placed on social or administrative probation, or be found guilty of an Honor Code violation, the scholarship will be withdrawn and charges to the student shall be adjusted according to the University’s refund policy.</li>
 	<li>Should the recipient withdraw during the academic year, an adjustment in the amount of the scholarship will be made according to the University’s refund policy.</li>
 </ol>
-[gravityform id="5" title="false" description="true"]
+[gravityform id="5" title="true" description="false" ajax="true"]
