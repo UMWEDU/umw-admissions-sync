@@ -6,7 +6,7 @@ post_date: 2015-10-08 16:39:56
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/visit/receptions/
+  http://www.umw.edu/admissions/visit/receptions/
 published: true
 ---
 <img class="wp-image-44541 alignright" style="margin: 30px 20px;" src="http://admissions.umw.edu/undergraduate/files/2012/09/R.Hurley.jpg" alt="President Hurley" width="267" height="315" />We will hope you and your parents can join us for a reception. You will be able to discover more about the University of Mary Washington and meet admissions staff, students, and alumni.
@@ -17,6 +17,6 @@ published: true
 Snag-a-Job Headquarters
 4851 Lake Brook Drive
 Glen Allen, VA 23060
-6:30 - 8 p.m.
+6:45 - 8 p.m.
 
 Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772cd50e1904e24becb5a22005ca0d0c49">register</a> by Nov 6.
