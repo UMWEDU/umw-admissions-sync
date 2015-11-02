@@ -5,7 +5,7 @@ author: Admin
 post_date: 2011-12-14 15:13:47
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/youarein/
+permalink: http://www.umw.edu/admissions/youarein/
 published: true
 eps-slideshow-enable:
   - "0"
@@ -95,4 +95,4 @@ Welcome to the University of Mary Washington! We're excited to have you join us 
 
 <a href="/admissions/youarein/enrollment-deposit/">Pay your deposit</a>. To pay online, you'll need your Student ID which can be found on your enrollment form in your offer packet.
 
-Check out the next steps for becoming a full member of the UMW family! These differ for transfer students entering in <a href="http://www.umw.edu/admissions/youarein/next-steps/transfers">Spring of 2016</a> and the <a href="/admissions/youarein/next-steps/">Class of 2020</a>. We look forward to seeing you on campus! If you’re an incoming freshman, be sure to join the <a href="http://www.facebook.com/groups/UMWClassof2020">UMW Class of 2020</a> Facebook page!
+Check out the next steps for becoming a full member of the UMW family! These differ for transfers and freshmen entering in <a href="http://www.umw.edu/admissions/youarein/next-steps/transfers">spring of 2016</a>  and <a href="/admissions/youarein/next-steps/">fall of 2016</a>. We look forward to seeing you on campus! If you’re an incoming freshman, be sure to join the <a href="http://www.facebook.com/groups/UMWClassof2020">UMW Class of 2020</a> Facebook page!
