@@ -18,7 +18,7 @@ Congratulations! You’ve embarked on your life-altering journey into higher edu
 	<li><a href="https://www.ets.org/toefl">Test of English as a Foreign Language</a> (TOEFL). Applicants must earn a composite score of 88 TOEFL IBT.</li>
 	<li><a href="http://www.ielts.org/">International English Language Testing System</a> (IELTS). Applicants must earn a score of 6.5 on the academic exam.</li>
 	<li><a href="https://sat.collegeboard.org/home">College Board’s SAT</a>. Applicants must earn a critical reading score of 550 to 640 and a math score of 550 to 620. (Use UMW SAT testing code 5398.)</li>
-	<li>ACT. Applicants must earn a composite score of 23 or higher. (Use UMW ACT testing code 4414.)</li>
+	<li><a href="http://www.actstudent.org/">ACT</a>. Applicants must earn a composite score of 23 or higher. (Use UMW ACT testing code 4414.)</li>
 	<li><a href="http://www.els.edu/en/EnglishPrograms/Program?prgm=EAP-GeneralEnglish-academic-english">Certificate of Completion</a> from the ELS Language Center’s Intensive English Program, including Level 112, English for Academic Purposes</li>
 </ul>
 </li>
