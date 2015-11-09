@@ -6,16 +6,16 @@ post_date: 2015-08-07 16:37:54
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/checklist/entering-class-profile/
+  http://www.umw.edu/admissions/undergraduate/checklist/entering-class-profile/
 published: true
 ---
-This profile is intended to provide a general picture of the students who were admitted and enrolled by UMW in the Bachelor of Arts/Bachelor of Science degree program for the fall of 2014. Any statistical portrait is limited in its ability to describe the full range of individual differences among students who are enrolled by the University. UMW does not admit students by any rigid formula, and we seek to enroll a diverse and well-rounded student body.
+This profile is intended to provide a general picture of the students who were admitted and enrolled by UMW in the Bachelor of Arts/Bachelor of Science degree program for the fall of 2015. Any statistical portrait is limited in its ability to describe the full range of individual differences among students who are enrolled by the University. UMW does not admit students by any rigid formula, and we seek to enroll a diverse and well-rounded student body.
 <h2>The Freshman Class</h2>
 The Admissions Committee reviews each candidate’s file individually, giving careful consideration to all aspects of the record. The committee places strong emphasis on the quality of the student’s secondary school curriculum. Successful candidates present records of sound preparation for study in the liberal arts and sciences. Advanced, honors-level, and Advanced Placement or International Baccalaureate course work is highly encouraged.
 
-The committee reviewed 5,336 freshman applications for the fall of 2014. Admission was offered to 4,094 candidates and 856 students enrolled as first-time freshmen.
+The committee reviewed 5,551 freshman applications for the fall of 2015. Admission was offered to 4,588 candidates and 987 students enrolled as first-time freshmen.
 <h2>Multicultural Diversity</h2>
-The University of Mary Washington strives to enroll a student body that is culturally and ethnically diverse. In 2014, 24 percent of the entering students identified themselves as racially or ethnically diverse.
+The University of Mary Washington strives to enroll a student body that is culturally and ethnically diverse. In 2015, 24 percent of the entering students identified themselves as racially or ethnically diverse.
 <h2>Secondary School Performance</h2>
 The University of Mary Washington views each freshman candidate’s academic achievement is viewed in the context of his or her particular high school. When evaluating high-school performance, we give consideration to the course offerings and academic character of each secondary school. Applicants who are admitted to UMW have excelled in strong programs of study, typically including Advanced Placement, International Baccalaureate, or similar honors-level and advanced classes. Although there is much variation among high schools, grade-point average is one important descriptor of the academic quality of the freshman class.
 
@@ -30,12 +30,12 @@ In the information below, the “Middle 50%” indicates the range into which fe
 <tr>
 <th>High-School GPA</th>
 <td>3.63</td>
-<td>3.54</td>
+<td>3.53</td>
 </tr>
 <tr>
 <th>Mean SAT</th>
 <td>1030-1220</td>
-<td>1030-1190</td>
+<td>1010-1190</td>
 </tr>
 <tr>
 <th>ACT composite</th>
@@ -45,6 +45,6 @@ In the information below, the “Middle 50%” indicates the range into which fe
 </tbody>
 </table>
 <h2>Geographic Distribution:</h2>
-The 2014 freshmen came from 27 states besides Virginia. The largest contingent of students came from the following states: Virginia, Maryland, New Jersey, and Pennsylvania. International students came from the United Kingdom, Austria, Ethiopia, Pakistan, South Korea, and Uganda.
+The 2015 freshmen came from 29 states with the majority coming from Virginia, Maryland, New York, New Jersey, and Pennsylvania. International degree seeking students have enrolled from China, Costa Rica, Lebanon, Madagascar, Saudi Arabia, Sweden, United Kingdom, Venezuela, and Vietnam.
 
 The Admissions staff is always available to answer questions about the admissions process. Call us at (540) 654-2000 or 800-468-5614.
