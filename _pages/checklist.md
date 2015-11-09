@@ -6,7 +6,7 @@ post_date: 2015-05-26 18:51:28
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/checklist/
+  http://www.umw.edu/admissions/undergraduate/checklist/
 published: true
 ---
 Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ details. Take a look at this handy checklist and start getting everything submitted. We’re excited to read your application!
@@ -16,6 +16,7 @@ Suggested filing dates are Nov. 1 for Early Decision, Nov. 15 for Early Action
 Use the checklist below to be sure you’ve got everything covered.
 <ul>
 	<li>Send <a href="https://apply.commonapp.org/Login">The Common Application</a>, with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
+	<li>If you are requesting review under the binding Early Decision, you must invite your counselor to sign the Early Decision Agreement before you can submit your application.  If you are not able to gather signatures electronically, you may print the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Early_Decision_Agreement.pdf">Early Decision Agreement</a> found here and send to UMW. Remember, this form has to be signed by the student, parent or legal guardian, and your high school counselor and is required to complete your Early Decision application.</li>
 	<li>Ask your guidance counselor to complete and sign the Secondary School Report, included on the Common Application, and provide a copy of your official high school transcript. (Home-schooled applicants should provide documentation of their educational experiences, as well.)</li>
 	<li>If you completed college work during high school, request that an official college transcript be sent to UMW.</li>
 	<li>Submit at least one letter of recommendation from your guidance counselor, teacher, or school official. (Find forms on <a href="https://www.commonapp.org/Login">The Common Application site</a>.)</li>
