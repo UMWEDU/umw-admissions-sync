@@ -13,10 +13,11 @@ published: true
 <p style="text-align: left;">Please call the admissions office at (540) 654-2000 or (800) 468-5614 with any questions.</p>
 
 <h2 style="text-align: left;">Upcoming Events:</h2>
-<strong>Richmond, VA: Wednesday, Nov 11</strong>
-Snag-a-Job Headquarters
-4851 Lake Brook Drive
-Glen Allen, VA 23060
-6:45 - 8 p.m.
+<strong>Montgomery County, MD: Tuesday, Dec. 1</strong>
+Glen Echo Park
+7300 MacArthur Blvd
+Glen Echo, MD 20812
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772cd50e1904e24becb5a22005ca0d0c49">register</a> by Nov 6.
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776f39bf36fd2f49d0afe3cdb15a072996">register</a> by Nov. 24.
+
+&nbsp;
