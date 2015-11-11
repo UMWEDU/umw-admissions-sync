@@ -6,17 +6,17 @@ post_date: 2015-08-07 16:23:35
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/washington-and-alvey/
+  http://www.umw.edu/admissions/undergraduate/checklist/freshman-scholarships/washington-and-alvey/
 published: true
 ---
 <h2>Washington Scholar Program</h2>
-If you are a Virginia resident, you may be considered for the Washington Scholars program. Priority is given to those who apply for admission to the University of Mary Washington by November 15, 2014. The Washington Scholar will receive an award equal to full tuition, fees, room, and board. The scholarship is renewable through four years of undergraduate study.
+If you are a Virginia resident, you may be considered for the Washington Scholars program. Priority is given to those who apply for admission to the University of Mary Washington by November 15. The Washington Scholar will receive an award equal to full tuition, fees, room, and board. The scholarship is renewable through four years of undergraduate study.
 
-The Washington Scholars program recognizes Virginia high school seniors with exceptional academic credentials. Two Washington Scholarships will be awarded to incoming freshmen for the fall of 2015.
+The Washington Scholars program recognizes Virginia high school seniors with exceptional academic credentials. Two Washington Scholarships will be awarded to incoming freshmen for the fall semester of their incoming year.
 <h2 class="bold">Alvey Scholars Program</h2>
 If you are an out of state resident, you may be considered for the Alvey Scholars program which is given every other year. The Alvey Scholar will receive an award equal to full tuition, fees, room, and board. The scholarship is renewable through four years of undergraduate study.
 
-The Alvey Scholars program recognizes out of state high school seniors with exceptional academic credentials. One Alvey Scholarship will be awarded to an incoming freshman for the fall of 2015.
+The Alvey Scholars program recognizes out of state high school seniors with exceptional academic credentials. One Alvey Scholarship will be awarded to an incoming freshman for the fall semester of their incoming year.
 <h2 class="bold">Scholarship Criteria</h2>
 Qualified candidates must be students who are:
 <ul>
@@ -32,7 +32,7 @@ Qualified candidates must be students who are:
 	<li>Show promise for providing service and leadership to the college community through extracurricular activities</li>
 </ul>
 <h2>Recipient Selection</h2>
-<p class="bold">Semi-finalist candidates are invited and expected to participate in the following on-campus activities in March 2015:</p>
+<p class="bold">Semi-finalist candidates are invited and expected to participate in the following on-campus activities in March of the year they are being considered:</p>
 
 <ul>
 	<li>The Washington and Alvey Scholars Banquet</li>
