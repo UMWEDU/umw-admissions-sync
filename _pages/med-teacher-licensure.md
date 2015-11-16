@@ -23,8 +23,6 @@ Pathways Include:
 	<li>Special Education: General Curriculum (Grades K-12)</li>
 	<li>Teaching English as a Second Language (Grades PreK-12)</li>
 </ul>
-&nbsp;
-
 <strong>Is UMW’s Master of Education with Initial Teacher Licensure program right for me?</strong>
 
 The Master of Education with Initial Teacher Licensure program is designed for adults who have earned a bachelor’s degree and wish to obtain teaching credentials. The program is designed to meet the needs of adult learners, with courses in the evenings and on weekends, and in blended and online formats.
