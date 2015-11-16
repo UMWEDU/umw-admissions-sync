@@ -34,4 +34,4 @@ The UMW recommended filing dates are designed to give newly admitted students th
 </ul>
 (UMW’s MBA program also accepts non-degree students and admits degree-seeking students for the <strong>second</strong> eight-week session of each semester, which begins in October in the fall and in March in the spring. It’s a great way to get a head start on courses.)
 
-<strong> **All Graduate Assistant applicants must apply for Fall admission by March 1. **</strong>
+<strong>**All Graduate Assistant applicants must apply for Fall admission by March 1. **</strong>
