@@ -39,7 +39,7 @@ Recommended filing dates are <strong>April 15</strong> for fall admission, <stro
 
 Take a look at the <a href="http://www.umw.edu/admissions/graduate/degrees/med-profdev/med-profdev-checklist/"><strong>Master of Education for Professional Development or Added Endorsement Checklist</strong></a> for the materials you’ll need to get started.
 
-<strong><h3>How can I learn more about UMW’s Master of Education for Professional Development or Added Endorsement program?</strong>
+<strong><h3>How can I learn more about UMW’s Master of Education for Professional Development or Added Endorsement program?</strong></h3>
 
 Contact:
 
