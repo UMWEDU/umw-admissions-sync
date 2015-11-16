@@ -13,19 +13,19 @@ published: true
 
 Whether you are developing managerial skills, seeking career advancement, or cultivating an entrepreneurial advantage, a master’s degree in business administration will put you on the path to success. Combining theory with practice, the UMW graduate business degree will allow you to gain a thorough understanding of best practices in the competitive business environment and prepare you for a position of advanced responsibility and leadership.
 
-<strong>Is UMW’s MBA program right for me?</strong>
+<strong><h3>Is UMW’s MBA program right for me?</strong></h3>
 
 The Master of Business Administration within UMW’s College of Business is a great choice for new and experienced professionals who want to assume management and leadership positions in a variety of organizational settings. Candidates should – but are not required to – possess two or more years of professional or technical work experience.
 
-<strong>What will I learn?</strong>
+<strong><h3>What will I learn?</strong></h3>
 
 The MBA program is designed to produce creative leaders and is facilitated by a faculty with extensive business experience and academic credentials. UMW gives you the knowledge and skills it takes to manage the technical and human sides of organizations. We combine core courses that foster leadership, teamwork, and problem-solving with electives that advance your personal goals. You will gain an understanding of best practices in the competitive business environment. Other opportunities include networking within the Fredericksburg/Stafford community through classmates and guest speakers featured throughout the program.
 
-<strong>What careers will I be prepared for?</strong>
+<strong><h3>What careers will I be prepared for?</strong></h3>
 
 Graduates of the UMW MBA program are well-prepared for a variety of leadership positions in Fortune 500 companies, government agencies, not-for-profits, and entrepreneurial ventures.  Recent graduates of UMW’s MBA program have landed positions with organizations such as Boeing, Booz Allen Hamilton, Citibank, Geico, General Dynamics, Intuit, Lockheed Martin, JP Morgan Chase, and Northrop Grumman.
 
-<strong>What are our graduates saying about UMW’s MBA program?</strong>
+<strong><h3>What are our graduates saying about UMW’s MBA program?</strong></h3>
 
 <em>The University of Mary Washington’s MBA program offered a convenient means of developing business skills in the classroom at night and putting them to work the next day. My UMW MBA will give me a great advantage in business and my career.</em>
 
@@ -37,11 +37,11 @@ Graduates of the UMW MBA program are well-prepared for a variety of leadership p
 
 &nbsp;
 
-<strong>How long will it take to complete the program?</strong>
+<strong><h3>How long will it take to complete the program?</strong>
 
 UMW offers courses in its MBA program in a variety of formats and locations, including an evening program at our Stafford and Dahlgren campuses designed with those with job and family responsibilities in mind. Most classes meet one night per week for eight weeks. Take a full course load to finish in two years or less, or take one course at a time. You are allowed six years to complete the degree.
 
-<strong>When and how do I apply for acceptance to the program?</strong>
+<strong><h3>When and how do I apply for acceptance to the program?</strong></h3>
 
 To enroll during the fall semester, the suggested filing date is Aug. 1. (All students applying for graduate assistant positions must apply for fall admission by March 1.) For spring, the suggested filing date is by Nov. 15. For summer term, it is April 1st. UMW accepts post-filing date applications on a rolling, space-available basis.
 
@@ -51,7 +51,7 @@ Get a head start on your courses by signing up for the second eight-week session
 
 Take a look at our <a href="http://www.umw.edu/admissions/graduate/degrees/mba/mba-checklist/"><strong>MBA Application Checklist</strong></a> for the materials you’ll need to get started.
 
-<strong>How can I learn more about UMW’s MBA program?</strong>
+<strong><h3>How can I learn more about UMW’s MBA program?</strong></h3>
 
 Contact Information:
 
