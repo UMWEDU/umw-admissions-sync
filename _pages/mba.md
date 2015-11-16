@@ -37,7 +37,7 @@ Graduates of the UMW MBA program are well-prepared for a variety of leadership p
 
 &nbsp;
 
-<strong><h3>How long will it take to complete the program?</strong>
+<strong><h3>How long will it take to complete the program?</strong></h3>
 
 UMW offers courses in its MBA program in a variety of formats and locations, including an evening program at our Stafford and Dahlgren campuses designed with those with job and family responsibilities in mind. Most classes meet one night per week for eight weeks. Take a full course load to finish in two years or less, or take one course at a time. You are allowed six years to complete the degree.
 
