@@ -16,7 +16,7 @@ The Washington Scholars program recognizes Virginia high school seniors with exc
 <h2 class="bold">Alvey Scholars Program</h2>
 If you are an out of state resident, you may be considered for the Alvey Scholars program which is given every other year. The Alvey Scholar will receive an award equal to full tuition, fees, room, and board. The scholarship is renewable through four years of undergraduate study.
 
-The Alvey Scholars program recognizes out of state high school seniors with exceptional academic credentials. One Alvey Scholarship will be awarded to an incoming freshman for the fall semester of their incoming year.
+The Alvey Scholars program recognizes out of state high school seniors with exceptional academic credentials. One Alvey Scholarship will be awarded to an incoming first-year student for the fall semester of their incoming year.
 <h2 class="bold">Scholarship Criteria</h2>
 Qualified candidates must be students who are:
 <ul>
