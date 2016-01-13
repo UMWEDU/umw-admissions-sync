@@ -108,7 +108,7 @@ eps-slideshow-link-thickbox-45851:
 	<li>Complete your First Year Seminar Survey in late February.</li>
 	<li>Capture your <a href="http://technology.umw.edu/logins/">NET ID</a> after paying your deposit. (NET IDs become available in late February).</li>
 	<li>Complete your <a href="http://students.umw.edu/residencelife/agreement2015/">Housing and Dining Services Agreement</a> in late February. Contact the <a href="/directory/department/provost/engagement/disability-resources/">Office of Disability Resources</a> at (540) 654-1266 with any questions about special <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">housing accommodation requests</a>.</li>
-	<li>Register and attend Destination UMW event for admitted students.</li>
+	<li>Register and attend <a href="http://www.umw.edu/admissions/youarein/next-steps/destination-umw/">Destination UMW</a> event for admitted students.</li>
 	<li>Register for and attend <a href="http://orientation.umw.edu/">Orientation</a> for first year students in June, a two-day program required for all incoming students and parents. Register through the <a href="https://orgsync.com/82489/chapter">Eagle Gateway</a> on <a href="https://orgsync.com/home/551">MyUMW</a> in April.</li>
 	<li>Ask your Guidance Counselor to submit a Final Grade Report or a final high school transcript as soon as your final grades are available, but no later than July 1.</li>
 	<li>Have all Advanced Placement or International Baccalaureate exam scores and/or official transcripts of all college coursework sent directly to the <a href="/directory/department/admissions/">Admissions Office</a> at UMW.</li>
