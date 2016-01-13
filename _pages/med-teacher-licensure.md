@@ -22,26 +22,21 @@ Pathways Include:
 	<li>Special Education: General Curriculum (Grades K-12)</li>
 	<li>Teaching English as a Second Language (Grades PreK-12)</li>
 </ul>
-<strong> </strong>
 <h2>Is UMW’s Master of Education with Initial Teacher Licensure program right for me?</h2>
 The Master of Education with Initial Teacher Licensure program is designed for adults who have earned a bachelor’s degree and wish to obtain teaching credentials. The program is designed to meet the needs of adult learners, with courses in the evenings and on weekends, and in blended and online formats.
 
 <strong>Teachers with provisional or conditional licenses, those who need to renew their licenses, students who need one to two courses, and those with an in-progress application to the program may take courses as non-degree students.</strong>
 
-For more information about non-degree options, contact the Assistant Dean of Advising for the College of Education, Connie Gallahan, at (540) 286-8030 or <a href="mailto:cgallaha@umw.edu"><strong>cgallaha@umw.edu</strong></a>.
-<strong>
+For more information about non-degree options, contact the Assistant Dean of Advising for the College of Education, Connie Gallahan, at (540) 286-8030 or <a href="mailto:cgallaha@umw.edu"><strong>cgallaha@umw.edu</strong></a>.<strong>
 </strong>
 <h3>What will I learn?</h3>
-Through basic course work and field experiences prescribed by Virginia Licensure Regulations (VLR), teacher candidates learn to demonstrate and apply the teaching and subject knowledge competencies in the VLR and demonstrated by skillful teachers. You’ll acquire an initial teaching license and receive the support, supervision, evaluation, and advising you need to pinpoint the type of educator you want to become. You will learn to teach for understanding, focus on the nature of the learner, make critical decisions, master content expertise, and create a motivating classroom culture. Students gain experience and skill in monitoring professional growth through research, reflection, and problem solving. Most courses require students to complete field experiences in public schools.
-<strong>
+Through basic course work and field experiences prescribed by Virginia Licensure Regulations (VLR), teacher candidates learn to demonstrate and apply the teaching and subject knowledge competencies in the VLR and demonstrated by skillful teachers. You’ll acquire an initial teaching license and receive the support, supervision, evaluation, and advising you need to pinpoint the type of educator you want to become. You will learn to teach for understanding, focus on the nature of the learner, make critical decisions, master content expertise, and create a motivating classroom culture. Students gain experience and skill in monitoring professional growth through research, reflection, and problem solving. Most courses require students to complete field experiences in public schools.<strong>
 </strong>
 <h3>What careers will I be prepared for?</h3>
-Courses focus on Virginia licensure regulations and prepare you to teach elementary, middle, secondary, preK-12, or special education.
-<strong>
+Courses focus on Virginia licensure regulations and prepare you to teach elementary, middle, secondary, preK-12, or special education.<strong>
 </strong>
 <h3>When are courses offered?</h3>
-Courses are available evenings, weekends, and in blended and online formats.
-<strong>
+Courses are available evenings, weekends, and in blended and online formats.<strong>
 </strong>
 <h3>When and how do I apply for acceptance to the program?</h3>
 To enroll for the fall semester, the suggested filing date is <strong>April 15</strong>. (All students applying for a residential graduate assistant position with the Student Affairs department must apply for fall admission by <strong>March 1</strong>.) For spring, the suggested filing date is <strong>Sept. 15</strong>. For summer, it’s <strong>Feb. 15</strong>. UMW accepts post-filing date applications on a rolling, space-available basis.
