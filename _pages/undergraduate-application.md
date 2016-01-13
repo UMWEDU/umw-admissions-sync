@@ -6,7 +6,7 @@ post_date: 2015-08-07 14:29:16
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/apply/undergraduate-application/
+  http://www.umw.edu/admissions/apply/undergraduate-application/
 published: true
 ---
 The University of Mary Washington welcomes your application for admission. UMW uses The Common Application exclusively.
@@ -16,7 +16,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 <ul>
 	<li>Freshman Applicants
 <ul>
-	<li>Early Decision - November 1</li>
+	<li>Early Decision - October 15</li>
 	<li>Early Action – November 15</li>
 	<li>Regular Decision - February 1</li>
 </ul>
