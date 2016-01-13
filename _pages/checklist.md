@@ -1,6 +1,6 @@
 ---
 ID: 20
-post_title: Freshman Admission
+post_title: First-Year Admission
 author: Katherine Stosch
 post_date: 2015-05-26 18:51:28
 post_excerpt: ""
