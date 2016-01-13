@@ -15,25 +15,20 @@ Contact our office at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu
 <h3>Individual Attention</h3>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/"><strong>pre-admission</strong></a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> to schedule your appointment.
 <ul>
-	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/"><strong>Master of Business Administration</strong></a></li>
-</ul>
-<ul>
+	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/"><strong>Master of Business Administration</strong></a>
 <ul>
 	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.</li>
 </ul>
+</li>
 </ul>
 <ul>
 	<li><strong><u>MSGA Information Session</u></strong>
 <ul>
 	<li>For students interested in the new <a href="http://www.umw.edu/admissions/graduate/degrees/msga/"><strong>Master of Science in Geospatial Analysis</strong></a> (MSGA) program, we offer a program-specific presentation led by our faculty within the <a href="http://cas.umw.edu/geography/"><strong>Geography Department</strong></a>. Come hear more about the requirements for UMW’s newest graduate degree program!</li>
-</ul>
-</li>
-</ul>
-<ul>
-<ul>
 	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.</li>
 	<li>Sessions begin at 6:30 p.m. in Monroe Hall on the Fredericksburg campus: 1301 College Ave., Fredericksburg, VA 22401. Registration is encouraged, but not required.</li>
 </ul>
+</li>
 </ul>
 <h3>Additional Visit Opportunities</h3>
 <strong><u>M.Ed. with Teacher Licensure Information Session</u></strong>
