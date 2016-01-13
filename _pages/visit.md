@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2015-05-26 01:36:38
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/visit/
+permalink: http://www.umw.edu/admissions/visit/
 published: true
 ---
 <img class="size-full wp-image-93" src="/admissions/wp-content/uploads/sites/6/2015/05/visit.jpg" alt="Dancer shows his skills at the annual Multicultural Fair, Saturday, April 13, 2013. (Photo by Norm Shafer)." width="800" height="327" />
@@ -16,7 +16,7 @@ Meet our master teachers; catch up with current students; check out our classroo
 
 There are so many ways to get to know us. Learn more and register for:
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Information sessions & tours</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses.</li>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours & information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses.</li>
 	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Seeing is believing! Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
 	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal. Pick your visit based on your academic interests and follow a student through a typical day on campus.</li>
 	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
