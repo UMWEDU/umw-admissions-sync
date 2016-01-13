@@ -1,14 +1,14 @@
 ---
 ID: 47721
 post_title: >
-  Freshman Scholarship Acceptance
+  First-Year Scholarship Acceptance
   Certificate
 author: Admin
 post_date: 2014-11-05 14:03:08
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/youarein/freshman-scholarship-acceptance/
+  http://www.umw.edu/admissions/youarein/freshman-scholarship-acceptance/
 published: true
 ---
 <strong>Acceptance Certificate must be returned to the Office of Admissions by May 1.</strong>
