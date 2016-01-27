@@ -6,14 +6,14 @@ post_date: 2014-11-05 11:10:41
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/youarein/next-steps/enrollment-deposit/
+  http://www.umw.edu/admissions/youarein/next-steps/enrollment-deposit/
 published: true
 ---
 <strong>Congratulations once again on being admitted to UMW!</strong> To confirm your intent to attend Mary Washington, you can either send a check or pay online.
 
-<strong>Spring 2015</strong> Deadline: Due by the date indicated on your letter
+<strong>Spring</strong> Deadline: Due by the date indicated on your letter
 
-<strong>Fall 2015</strong> Deadline: May 1
+<strong>Fall</strong> Deadline: May 1
 
 To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. </em>
 <h2>Admissions Deposit Online Payment</h2>
