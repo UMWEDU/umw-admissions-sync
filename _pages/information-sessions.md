@@ -37,8 +37,8 @@ For students interested in our <a href="http://www.umw.edu/admissions/graduate/d
 <ul>
 	<li><strong>Ed. with teacher licensure information sessions (select date to register):</strong>
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b5044b47d9144eb78815b386b1b39352"><strong>November 2</strong></a></li>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577373dc74b57be4a9aa311dc7821ffbb3e"><strong>December 7</strong></a>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778e32e42449534c7cb7892940a6f53515"><strong>Thursday February 18</strong></a></li>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577224aa6c968e240279144a101157c0ca2"><strong>Monday April 18</strong></a>
 <ul>
 	<li>The session begins at 6 p.m. in the North building’s University Hall on the Stafford Campus: <a href="https://goo.gl/maps/pa8z3"><strong>121 University Blvd., Fredericksburg, VA 22406</strong></a>. Registration is encouraged, but is not required.</li>
 </ul>
