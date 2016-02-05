@@ -12,7 +12,7 @@ published: true
 <h2>Destination UMW</h2>
 We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted student and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel.
 
-Choose a date and register today!
+<strong>Choose a date and register today!</strong>
 <ul>
 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eb43a72c73fe4cfa9bf96c12a4e464cf" target="_blank" rel="nofollow">March 19</a></li>
 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778ef402bf3d684a4fa69cd91eaabd87f8" target="_blank" rel="nofollow">April 16</a></li>
@@ -20,7 +20,7 @@ Choose a date and register today!
 <h2>Multicultural Overnight Visit Experience (MOVE)</h2>
 Join UMW student hosts for an overnight campus experience! During your stay, you'll attend class with current students, explore campus, hear about our student life programs, enjoy dinner with student leaders, and finish the night with extracurricular activities around campus before spending the night in a residence hall. On Saturday, be sure to enjoy the 26th annual Multicultural Fair which brings thousands of people every year to campus!
 
-Select the date below and register today!
+<strong>Select the date below and register today!</strong>
 <ul>
 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777e90b589d8794cc1915c148cba78140a" target="_blank" rel="nofollow">April 8</a></li>
 </ul>
