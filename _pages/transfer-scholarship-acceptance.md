@@ -13,7 +13,7 @@ published: true
 ---
 <strong>Acceptance Certificate must be returned to the Office of Admissions by May 1.</strong>
 
-The recipient qualifies to receive a scholarship for up to six regular semesters of continuous study at the University of Mary Washington provided that all of the following conditions are satisfied:
+The recipient qualifies to receive a scholarship for up to six regular semesters of continuous undergraduate study at the University of Mary Washington provided that all of the following conditions are satisfied:
 <ol>
 	<li>The recipient will receive a scholarship each academic year. One-half of the scholarship will be credited each semester to the student’s account (fall and spring). Awards are dependent on domicile status in Virginia or another state.<strong> Virginia residency is based on responses to residency questions on the application for admission or the Virginia in State Tuition Rates (VIT) form. Awards may be changed in the event domicile is changed after awarding</strong>.</li>
 	<li>The recipient must be a full-time residence hall student at the University of Mary Washington, except in the specific case of a pre-approved study abroad program as detailed or if the student’s original status is that of a commuting student. For purposes of this scholarship, the student must successfully complete at least 12 credit hours each semester. <strong>Scholarships may be reduced or withdrawn for students changing from residential to commuter.</strong></li>
