@@ -13,7 +13,7 @@ published: true
 ---
 <strong>Acceptance Certificate must be returned to the Office of Admissions by May 1.</strong>
 
-The recipient qualifies to receive a scholarship for each of four academic years (Fall/Spring) of continuous study at the University of Mary Washington provided that all of the following conditions are satisfied:
+The recipient qualifies to receive a scholarship for each of four academic years (Fall/Spring) of continuous undergraduate study at the University of Mary Washington provided that all of the following conditions are satisfied:
 <ol>
 	<li>The recipient will receive a scholarship for each academic year that the qualifications are met.  One-half of the scholarship will be credited each semester to the student’s account.  Awards are dependent on domicile status in Virginia or another state.  Virginia residency is based on responses to residency questions on the application for admission or the Virginia In-state Tuition Rates (VIT) form.  Awards may be changed in the event domicile is changed after awarding.</li>
 </ol>
