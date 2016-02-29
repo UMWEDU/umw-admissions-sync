@@ -6,7 +6,7 @@ post_date: 2015-06-11 16:36:21
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/parents/
+  http://www.umw.edu/admissions/undergraduate/parents/
 published: true
 ---
 Your baby’s all grown up and ready to go on to great things. How did this happen?
@@ -25,7 +25,7 @@ Surrounded by Fredericksburg’s Civil War battlefields, museums, and quaint sho
 <h2>How will we afford this?</h2>
 The University of Mary Washington is consistently ranked as one of the country’s top “<a href="http://adminfinance.umw.edu/studentaccounts/tuition-and-fees/">best value</a>” schools by such publications as <em>Fiske Guide to Colleges</em>, <em>The Princeton Review</em>, and <em>Kiplinger’s Personal Finance</em>.
 
-Each year UMW administers more than $32 million in financial assistance, including <a href="https://fafsa.ed.gov/">educational loans</a> totaling $19 million. The <a href="http://adminfinance.umw.edu/financialaid/">Office of Financial Aid</a> is here to help students afford the education they deserve through an array of grants, scholarships, loans, and student employment opportunities.
+Each year UMW administers more than $32 million in financial assistance, including <a href="https://fafsa.ed.gov/">educational loans</a> totaling $19 million. The <a href="http://www.umw.edu/financialaid/">Office of Financial Aid</a> is here to help students afford the education they deserve through an array of grants, scholarships, loans, and student employment opportunities.
 <h2>Will my student be safe and well at UMW?</h2>
 From their very first day on campus, all UMW students pledge to follow the <a href="http://students.umw.edu/honor-system/">Honor Code</a>, agreeing to conduct themselves with integrity and commit to high ethical standards.
 
