@@ -6,10 +6,10 @@ post_date: 2015-05-26 01:27:25
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/international/
+  http://www.umw.edu/admissions/international/
 published: true
 ---
-If you’re thinking of pursuing a <a href="/admissions/international/first-year-process/">bachelor’s</a> – or master’s – degree in the U.S., where higher education is among the finest in the world, the University of Mary Washington, with its “best value” and “green college” ratings, might be for you.
+If you’re thinking of pursuing a <a href="/admissions/international/first-year-process/">bachelor’s</a> – or <a href="http://www.umw.edu/admissions/international/graduate-school/">master’s</a> – degree in the U.S., where higher education is among the finest in the world, the University of Mary Washington, with its “best value” and “green college” ratings, might be for you.
 
 [gallery link="none" ids="110,111,112,113,114,115" orderby="rand"]
 
