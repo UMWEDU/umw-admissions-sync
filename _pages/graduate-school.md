@@ -1,12 +1,12 @@
 ---
 ID: 158
-post_title: Graduate Admissions
+post_title: International Graduate Admissions
 author: Shelley Keith
 post_date: 2015-08-06 14:51:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/international/graduate-school/
+  http://www.umw.edu/admissions/international/graduate-school/
 published: true
 ---
 <h1 style="font-size: 1.875rem; font-weight: bold;">Graduate Admissions for International Students</h1>
