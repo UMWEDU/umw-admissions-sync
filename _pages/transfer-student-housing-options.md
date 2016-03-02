@@ -6,7 +6,7 @@ post_date: 2015-06-11 16:05:44
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/transfer/transfer-student-housing-options/
+  http://www.umw.edu/admissions/transfer/transfer-student-housing-options/
 published: true
 ---
 <h2>We’ll Leave the Lights on for You!</h2>
@@ -19,7 +19,7 @@ So, to live on or off campus – that is now the question...
 
 Convenience, proximity to classes and classmates, security, and wringing the most out of the traditional college experience, living right in the thick of things, are all pluses that lure students to on-campus quarters. Restricted access to residential buildings, nearby UMW Police, and Resident Assistants on duty each night add to a feeling of safety. Residence Life staff promote community learning and help see students through challenges. And, with fellow students just down the hall or right across campus, there’s plenty of opportunity for out-of-class learning.
 
-UMW offers an array of on-campus housing options, from residence halls to student apartments. Check out the choices at <a href="http://students.umw.edu/residencelife/">Residence Life</a>.
+UMW offers an array of on-campus housing options, from residence halls to student apartments. Check out the choices at <a href="/residencelife/">Residence Life</a>.
 
 <h2>Off-campus housing</h2>
 
