@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/apply/undergraduate-application/
 published: true
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15946238917;s:3:"url";s:62:"http://www.umw.edu/admissions/apply/undergraduate-application/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15946238917";}s:4:"time";i:1457375777;}}'
 ---
 The University of Mary Washington welcomes your application for admission. UMW uses The Common Application exclusively.
 <h2>Apply Online Using the Common Application</h2>
@@ -25,6 +27,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 <ul>
 	<li>Summer admission – March 1</li>
 	<li>Fall admission – April 1</li>
+	<li>Spring admission – October 15</li>
 </ul>
 </li>
 </ul>
