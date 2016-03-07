@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/visit/shadow-a-student/
 published: true
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945869764;s:3:"url";s:53:"http://www.umw.edu/admissions/visit/shadow-a-student/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945869764";}s:4:"time";i:1457374678;}}'
 ---
 <h2><img class="alignnone size-full wp-image-206" src="/admissions/wp-content/uploads/sites/6/2015/08/convergenceview.jpg" alt="Student walking by the ITCC" width="100%" />Come experience life at UMW — up close and personal!</h2>
 These visits (for seniors only) are scheduled for one day, Monday through Friday, generally between the hours of 9 a.m. and 4 p.m. This enables you to be on campus for all or part of a day when classes are in session in order to sample both the academic and community life of the University.  Our hosts are student volunteers who are active in many ways on campus. Guests are also permitted to attend classes or activities with the host’s friends when mutually agreeable.
