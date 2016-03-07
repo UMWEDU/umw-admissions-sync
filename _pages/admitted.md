@@ -24,3 +24,18 @@ Join UMW student hosts for an overnight campus experience! During your stay, you
 <ul>
 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777e90b589d8794cc1915c148cba78140a" target="_blank" rel="nofollow">April 8</a></li>
 </ul>
+<h2>Receptions</h2>
+Congratulations on your admission to UMW! We’re hosting an Alumni Reception in your area to meet you and your family. Come join UMW alumni to learn more! You’ll also have the opportunity to meet other admitted students from your area.
+
+<strong>Please click on a date below to register.</strong>
+<ul>
+	<li>Fairfax, VA
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 10</a>
+2-4 p.m.</li>
+	<li>Fredericksburg, VA
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779a958f72bfed4c39bb48f882479673ff" target="_blank" rel="nofollow">April 17</a>
+2-4 p.m.</li>
+	<li>Virginia Beach, VA
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357779b55f9609a940008349314294f2b90a" target="_blank" rel="nofollow">April 17</a>
+2-4 p.m.</li>
+</ul>
