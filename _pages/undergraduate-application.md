@@ -23,7 +23,6 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 </li>
 	<li>Transfer Applicants
 <ul>
-	<li>We are still accepting applications for Spring 2016</li>
 	<li>Summer admission – March 1</li>
 	<li>Fall admission – April 1</li>
 </ul>
