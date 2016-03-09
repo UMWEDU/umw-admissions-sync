@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/youarein/next-steps/admitted/
 published: true
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
 ---
 <h2>Destination UMW</h2>
 We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted student and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel.
@@ -30,7 +32,7 @@ Congratulations on your admission to UMW! We’re hosting an Alumni Reception in
 <strong>Please click on a date below to register.</strong>
 <ul>
 	<li>Fairfax, VA
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 10</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 17</a>
 2-4 p.m.</li>
 	<li>Fredericksburg, VA
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779a958f72bfed4c39bb48f882479673ff" target="_blank" rel="nofollow">April 17</a>
