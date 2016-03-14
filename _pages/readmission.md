@@ -6,7 +6,7 @@ post_date: 2015-08-12 08:04:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/readmission/
+  http://www.umw.edu/admissions/undergraduate/readmission/
 published: true
 ---
 <h2>Come back to UMW!</h2>
@@ -19,6 +19,5 @@ Where did you go? We’ve missed you! If you’re an undergraduate student who�
 	<li>Readmitted students are subject to current degree requirements.</li>
 	<li>If you’ve attended any other educational institution during your absence from UMW, you must submit an official transcript from that school.</li>
 	<li>Candidates wishing to be considered for in-state tuition must complete a new <a href="http://www.umw.edu/documents/document/application-for-virginia-in-state-tuition-rates-2/">Application for Virginia in-State Tuition Rates</a> form.</li>
-	<li>All non-United States citizens must complete the <a href="http://www.umw.edu/documents/document/international-student-application-supplement/">International Student Application Supplement</a>.</li>
 </ul>
 For additional general information on readmission and reinstatement, check out our <a href="http://publications.umw.edu/academicproceduresdirectory/readmission-procedures/">Readmission Procedures</a> or call (540) 654-2000.
