@@ -8,7 +8,7 @@ layout: page
 permalink: http://www.umw.edu/admissions/transfer/
 published: true
 wpsi_page_checks:
-  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16044448727;s:3:"url";s:39:"http://www.umw.edu/admissions/transfer/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044448727";}s:4:"time";i:1457979589;}}'
+  - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16044448727;s:3:"url";s:39:"http://www.umw.edu/admissions/transfer/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044448727";}s:4:"time";i:1457979615;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16044448727;s:3:"url";s:39:"http://www.umw.edu/admissions/transfer/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044448727";}s:4:"time";i:1457979589;}}'
 ---
 <h2>Transferring to UMW is easy!</h2>
 Great ratings in some of higher education’s most prestigious publications, an impressive location between state and national capitals, a renowned reputation for service-oriented learning ...
