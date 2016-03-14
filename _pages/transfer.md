@@ -5,17 +5,17 @@ author: Shelley Keith
 post_date: 2015-05-26 01:27:03
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/transfer/
+permalink: http://www.umw.edu/admissions/transfer/
 published: true
 ---
 <h2>Transferring to UMW is easy!</h2>
 Great ratings in some of higher education’s most prestigious publications, an impressive location between state and national capitals, a renowned reputation for service-oriented learning ...
 
-The only thing missing from the University of Mary Washington is you!
+The only thing missing from the University of Mary Washington is you! <a href="http://www.umw.edu/admissions/apply">Apply today!</a>
 
 If you’ve earned a high-school diploma, GED, or equivalent, you can apply to transfer to UMW from any two- or four-year school, no matter where you are in your college career.
 
-With an associate’s degree and a 3.25 minimum cumulative GPA, you may qualify for UMW’s <a href="/admissions/transfer/guaranteed-admission-agreement/">Guaranteed Admissions Agreement </a>with the Virginia Community College System (VCCS) and Richard Bland College. In fall 2013, nearly 300 students – from the Virginia Community College System and other schools, both inside and outside Virginia – did just that, transferring into UMW’s bachelor’s of arts and sciences programs.
+With an associate’s degree and a 3.25 minimum cumulative GPA, you may qualify for UMW’s <a href="/admissions/transfer/guaranteed-admission-agreement/">Guaranteed Admissions Agreement </a>with the Virginia Community College System (VCCS) and Richard Bland College. In fall 2015, nearly 850 students – from the Virginia Community College System and other schools, both inside and outside Virginia – did just that, transferring into UMW’s bachelor’s of arts and sciences programs.
 
 Students who transfer to Mary Washington also can apply to our:
 <ul>
