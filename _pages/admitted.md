@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/admissions/youarein/next-steps/admitted/
 published: true
 wpsi_page_checks:
-  - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457550087;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
+  - 'a:3:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979041;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457550087;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
 ---
 <h2>Destination UMW</h2>
 We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted student and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel.
@@ -31,6 +31,9 @@ Congratulations on your admission to UMW! We’re hosting an Alumni Reception in
 
 <strong>Please click on a date below to register.</strong>
 <ul>
+	<li>Gaithersburg, MD
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0f77f5b5ebf4e79a1343533e6134c43">April 3</a>
+2-4 p.m.</li>
 	<li>Richmond, VA
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f3fbc13106954328a2d61689578233e1">April 10</a>
 2-4 p.m.</li>
