@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/admissions/youarein/next-steps/admitted/
 published: true
 wpsi_page_checks:
-  - 'a:3:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979041;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457550087;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
+  - 'a:4:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979096;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979041;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457550087;}i:3;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
 ---
 <h2>Destination UMW</h2>
 We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted student and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel.
@@ -31,19 +31,9 @@ Congratulations on your admission to UMW! We’re hosting an Alumni Reception in
 
 <strong>Please click on a date below to register.</strong>
 <ul>
-	<li>Gaithersburg, MD
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0f77f5b5ebf4e79a1343533e6134c43">April 3</a>
-2-4 p.m.</li>
-	<li>Richmond, VA
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f3fbc13106954328a2d61689578233e1">April 10</a>
-2-4 p.m.</li>
-	<li>Fairfax, VA
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 17</a>
-2-4 p.m.</li>
-	<li>Fredericksburg, VA
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779a958f72bfed4c39bb48f882479673ff" target="_blank" rel="nofollow">April 17</a>
-2-4 p.m.</li>
-	<li>Virginia Beach, VA
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357779b55f9609a940008349314294f2b90a" target="_blank" rel="nofollow">April 17</a>
-2-4 p.m.</li>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0f77f5b5ebf4e79a1343533e6134c43">April 3</a> - Gaithersburg, MD - 2-4 p.m.</li>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f3fbc13106954328a2d61689578233e1">April 10</a> - Richmond, VA - 2-4 p.m.</li>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 17</a> - Fairfax, VA - 2-4 p.m.</li>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779a958f72bfed4c39bb48f882479673ff" target="_blank" rel="nofollow">April 17</a> - Fredericksburg, VA - 2-4 p.m.</li>
+	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357779b55f9609a940008349314294f2b90a" target="_blank" rel="nofollow">April 17</a> - Virginia Beach, VA - 2-4 p.m.</li>
 </ul>
