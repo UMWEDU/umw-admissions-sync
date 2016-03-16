@@ -6,7 +6,7 @@ post_date: 2015-05-26 18:51:51
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/transfer/transfer-applicant-process/transfer-applicant-checklist/
+  http://www.umw.edu/admissions/transfer/transfer-applicant-process/transfer-applicant-checklist/
 published: true
 ---
 Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ details. Take a look at this handy checklist and start getting everything submitted. We’re excited to read your application!
@@ -23,4 +23,4 @@ Use the checklist below to be sure you’ve got everything covered.
 </ul>
 We can’t wait to get your application! We’ll send you an email when we receive it and let you know if anything’s missing. Please know that it’s your responsibility to make sure your file is complete and to keep copies of all application materials.
 
-UMW’s <a href="http://cas.umw.edu/bls/">Bachelor of Liberal Studies (BLS)</a> program, available to adult students who want to earn a bachelor’s degree at UMW, may provide greater flexibility and transferrable credit from nontraditional sources. For information on the BLS, visit Adult Degree Completion Admissions or contact the Office of Admissions at 540/654-2000 or 800/468-5614.
+UMW’s <a href="http://cas.umw.edu/bls/">Bachelor of Liberal Studies (BLS)</a> program, available to adult students who want to earn a bachelor’s degree at UMW, may provide greater flexibility and transferrable credit from nontraditional sources. For information on the BLS, visit Adult Degree Completion Admissions or contact the Office of Admissions at (540) 654-2000 or (800) 468-5614.
