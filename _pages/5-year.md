@@ -6,7 +6,7 @@ post_date: 2016-04-04 10:12:04
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/degrees/mba/umw-eagle-mba-41-program/
+  http://www.umw.edu/admissions/graduate/degrees/mba/5-year/
 published: true
 ---
 <h2>Earn Two Degrees in Five Years!</h2>
