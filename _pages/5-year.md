@@ -19,7 +19,7 @@ Students for both summer and fall terms may qualify to receive a housing incenti
 <h3>College of Business Admission Requirements<strong>
 </strong></h3>
 <ul>
-	<li>Graduate application for admission
+	<li><a href="http://www.umw.edu/admissions/apply/graduate-applications/">Graduate application for admission</a>
 • Transcripts
 • Résumé</li>
 	<li>GMAT/GRE scores</li>
