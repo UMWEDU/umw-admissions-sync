@@ -10,7 +10,11 @@ permalink: >
 published: true
 ---
 <ul>
-	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/"><strong>Master of Business (MBA)</strong></a></li>
+	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/"><strong>Master of Business (MBA)</strong></a>
+<ul>
+	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/5-year/">MBA 4+1 Program</a></li>
+</ul>
+</li>
 	<li><strong><u>Master of Education (M.Ed.)</u></strong>
 <ul>
 	<li><a href="http://www.umw.edu/admissions/graduate/degrees/med-profdev/"><strong>Professional Development/Added Endorsement</strong></a></li>
