@@ -9,9 +9,7 @@ permalink: http://www.umw.edu/admissions/graduate/
 published: true
 ---
 <img class="" src="https://umwedu.smugmug.com/Stafford-Campus/i-tDp87Qb/0/X2/Library%203-X2.jpg" alt="" width="1280" height="823" />
-
-<strong><u>A Tradition of Academic Excellence</u></strong>
-
+<h2><strong>A Tradition of Academic Excellence</strong></h2>
 UMW has over 105 years of history and is one of Virginia’s outstanding public liberal arts and sciences universities, providing a superior education that inspires and enables our students to make positive changes in the world.  At UMW, graduate students will:
 <ul>
 	<li>Develop a deeper knowledge of subject matter</li>
@@ -20,19 +18,14 @@ UMW has over 105 years of history and is one of Virginia’s outstanding public 
 	<li>Achieve personal and professional goals</li>
 	<li>Establish distinct credibility in their profession</li>
 </ul>
-<strong><u>Convenience</u></strong>
-
+<h5><strong>Convenience</strong></h5>
 Classes are offered in the evenings to accommodate your busy schedule. Some courses are also taught in weekend, online and blended formats.
-
-<strong><u>Location</u></strong>
-
+<h5><strong>Location</strong></h5>
 Graduate programs are offered at UMW’s <a href="https://www.google.com/maps/place/University+Hall,+121+University+Blvd,+Fredericksburg,+VA+22406/@38.3705197,-77.5316395,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6eb1a48998ae1:0xaf08a3168308bde4">Stafford campus</a>, with free ample parking and an onsite library, right off Route 17, close to Interstate 95.  Some graduate programs are also offered on the downtown Fredericksburg campus, close to the historic district with easy access to Route 1 and Interstate 95.
 
 Positioned in Fredericksburg, between our nation’s capital and the capital city of Virginia, UMW is a nexus for engagement among diverse communities and is dedicated to supporting professional advancement, economic development and improving the regional quality of life. Opportunities also thrive for future employment attributable to the outstanding reputation of UMW graduates.
-
-<strong><u>Best Buy</u></strong>
-
-The University of Mary Washington provides an exceptional education at an <a href="http://adminfinance.umw.edu/studentaccounts/tuition-and-fees/staffordcampus/#__utma=1.1977989319.1445481205.1445892298.1445879441.8&amp;__utmb=1.4.9.1445975515974&amp;__utmc=1&amp;__utmx=&amp;__utmz=1.1445481205.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&amp;__utmv=-&amp;__utmk=97771167">affordable price</a>.  UMW is continuously recognized by <em>Fiske Guide to Colleges, The Princeton Review</em> and <em>Kiplinger’s Personal Finance</em> as a “best value school”.
+<h5><strong>Best Buy</strong></h5>
+The University of Mary Washington provides an exceptional education at an <a href="http://adminfinance.umw.edu/studentaccounts/tuition-and-fees/stafford-campus/">affordable price</a>.  UMW is continuously recognized by <em>Fiske Guide to Colleges, The Princeton Review</em> and <em>Kiplinger’s Personal Finance</em> as a “best value school”.
 
 Check out <a href="http://www.umw.edu/admissions/graduate/degrees/"><strong>UMW’s graduate degrees</strong></a> and call, text, or tweet us to learn more.
 
