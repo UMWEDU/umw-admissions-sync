@@ -13,7 +13,7 @@ wpsi_page_checks:
 ---
 The University of Mary Washington welcomes your application for admission. UMW uses The Common Application exclusively.
 <h2>Apply Online Using the Common Application</h2>
-Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Application</a>, essay, and application fee or approved waiver online. The Common Application Online will be updated shortly to reflect UMW’s brand new Early Decision application option. UMW specific questions will not be available beginning Tuesday, August 18 into Wednesday, August 19 while Early Decision is added, but you may continue to work on your Common Application. We appreciate your patience as we implement this recent change.
+Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Application</a>, essay, and application fee or approved waiver online.
 <h2>Suggested Filing Dates</h2>
 <ul>
 	<li>Freshman Applicants
