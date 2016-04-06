@@ -31,6 +31,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 </ul>
 </li>
 </ul>
+<h3>Merit and curriculum based scholarships are still available for freshmen applicants.</h3>
 <h2>UMW Codes</h2>
 <ul>
 	<li>SAT Code Number: 5398</li>
