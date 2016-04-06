@@ -30,7 +30,6 @@ Congratulations on your admission to UMW! We’re hosting an Alumni Reception in
 
 <strong>Please click on a date below to register.</strong>
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0f77f5b5ebf4e79a1343533e6134c43">April 3</a> - Gaithersburg, MD - 2-4 p.m.</li>
 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f3fbc13106954328a2d61689578233e1">April 10</a> - Richmond, VA - 2-4 p.m.</li>
 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 17</a> - Fairfax, VA - 2-4 p.m.</li>
 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779a958f72bfed4c39bb48f882479673ff" target="_blank" rel="nofollow">April 17</a> - Fredericksburg, VA - 2-4 p.m.</li>
