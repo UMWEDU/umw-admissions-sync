@@ -13,7 +13,7 @@ published: true
 <h3>Preferred application filing dates:</h3>
 <strong>Spring semester:</strong> October 15
 <strong>Summer semester</strong>: March 1
-<strong>Fall semester:</strong> April 1
+<strong>Fall semester:</strong> Still accepting applications
 
 <a href="http://www.umw.edu/admissions/apply/undergraduate-application/">See the application for admission</a>.
 <h3>Required application documents:</h3>
