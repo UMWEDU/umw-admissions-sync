@@ -17,6 +17,6 @@ Congratulations once again on being admitted to UMW! To confirm your intent to 
 </ul>
 To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after the deadline date. Internet Explorer is recommended to pay your deposit online.
 <h2>Admissions Deposit Online Payment</h2>
-[new grad deposit iframe shortcode here]
+[wpv-view name="Admissions Deposit iFrame"]
 
 For more information on payment plans, call EaglePAY at (800) 609-8056 or <a href="http://www.umw.edu/directory/department/administration/finance/student-accounts/">Student Accounts</a> at (540) 654-1250.
