@@ -16,22 +16,22 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 
 <strong>Select the date below and register today!</strong>
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778ef402bf3d684a4fa69cd91eaabd87f8" target="_blank" rel="nofollow">April 16</a></li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778ef402bf3d684a4fa69cd91eaabd87f8" target="_blank" rel="nofollow">April 16</a></li>
 </ul>
 <h2>Multicultural Overnight Visit Experience (MOVE)</h2>
 Join UMW student hosts for an overnight campus experience! During your stay, you'll attend class with current students, explore campus, hear about our student life programs, enjoy dinner with student leaders, and finish the night with extracurricular activities around campus before spending the night in a residence hall. On Saturday, be sure to enjoy the 26th annual Multicultural Fair which brings thousands of people every year to campus!
 
 <strong>Select the date below and register today!</strong>
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777e90b589d8794cc1915c148cba78140a" target="_blank" rel="nofollow">April 8</a></li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777e90b589d8794cc1915c148cba78140a" target="_blank" rel="nofollow">April 8</a></li>
 </ul>
 <h2>Receptions</h2>
 Congratulations on your admission to UMW! We’re hosting an Alumni Reception in your area to meet you and your family. Come join UMW alumni to learn more! You’ll also have the opportunity to meet other admitted students from your area.
 
 <strong>Please click on a date below to register.</strong>
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f3fbc13106954328a2d61689578233e1">April 10</a> - Richmond, VA - 2-4 p.m.</li>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 17</a> - Fairfax, VA - 2-4 p.m.</li>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779a958f72bfed4c39bb48f882479673ff" target="_blank" rel="nofollow">April 17</a> - Fredericksburg, VA - 2-4 p.m.</li>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357779b55f9609a940008349314294f2b90a" target="_blank" rel="nofollow">April 17</a> - Virginia Beach, VA - 2-4 p.m.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f3fbc13106954328a2d61689578233e1">April 10</a> - Richmond, VA - 2-4 p.m.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d090b3aeb53416bb908fa921f01ac31" target="_blank" rel="nofollow">April 17</a> - Fairfax, VA - 2-4 p.m.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779a958f72bfed4c39bb48f882479673ff" target="_blank" rel="nofollow">April 17</a> - Fredericksburg, VA - 2-4 p.m.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357779b55f9609a940008349314294f2b90a" target="_blank" rel="nofollow">April 17</a> - Virginia Beach, VA - 2-4 p.m.</li>
 </ul>
