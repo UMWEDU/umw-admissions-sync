@@ -11,14 +11,14 @@ published: true
 ---
 <strong><span style="color: #ff0000">VCCS Counselor and Advisor Workshop: Friday, June 3, 2016</span></strong>
 
-Join members of the transfer admissions and advising team, along with the deans and faculty from the College of Arts and Sciences, the College of Business, and the College of Education as we share practical information to help you guide your VCCS students to transfer opportunities at UMW. The workshop begins at 8 a.m. in the Digital Auditorium in the Hurley Convergence Center on the Fredericksburg campus.
+Join members of the transfer admissions and advising team, along with the deans and faculty from the College of Arts and Sciences, College of Business, and the College of Education as we share practical information to help you guide your VCCS students to transfer opportunities at UMW. The workshop begins at 8 a.m. in the Digital Auditorium in the Hurley Convergence Center on the Fredericksburg campus.
 
 Workshop Activities:
 <ul>
- 	<li>Transfer Admission Process</li>
- 	<li>Academic Advising for the UMW Bound Student</li>
- 	<li>Q&amp;A with Academic Deans, Faculty, and Administrators</li>
- 	<li>Student Life at UMW (Transfer Student Panel)</li>
+ 	<li>Admissions and advising</li>
+ 	<li>College specific presentations</li>
+ 	<li>Student life</li>
+ 	<li>Transfer student panel</li>
  	<li>Lunch in the University Center</li>
  	<li>Tour a residence hall and academic buildings</li>
 </ul>
