@@ -8,7 +8,7 @@ post_date: 2016-04-19 15:44:53
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/graduate-enrollment-deposit-waiverdeferral-form/
+  http://www.umw.edu/admissions/graduate/contact-graduate/graduate-enrollment-deposit-waiverdeferral-form/
 published: true
 ---
 [gravityform id="7" title="false" description="false"]
