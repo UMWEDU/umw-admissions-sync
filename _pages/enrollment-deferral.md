@@ -6,7 +6,7 @@ post_date: 2016-05-05 11:44:35
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/enrollment-deferral/
+  http://www.umw.edu/admissions/undergraduate/checklist/enrollment-deferral/
 published: true
 ---
 [gravityform id="9" title="true" description="true"]
