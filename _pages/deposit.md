@@ -6,14 +6,14 @@ post_date: 2016-03-28 11:33:23
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/deposit/
+  http://www.umw.edu/admissions/graduate/contact-graduate/deposit/
 published: true
 ---
 Congratulations once again on being admitted to UMW! To confirm your intent to attend Mary Washington, you can either send a check or pay online.
 <ul>
-	<li><strong>Spring Deadline: December 10<sup>th</sup> </strong></li>
-	<li><strong>Summer Deadline: April 20<sup>th</sup> </strong></li>
-	<li><strong>Fall Deadline: August 1<sup>st</sup> </strong></li>
+ 	<li><strong>Spring Deadline: December 10<sup>th</sup> </strong></li>
+ 	<li><strong>Summer Deadline: April 20<sup>th</sup> </strong></li>
+ 	<li><strong>Fall Deadline: August 1<sup>st</sup> </strong></li>
 </ul>
 To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after the deadline date. Internet Explorer is recommended to pay your deposit online.
 <h2>Admissions Deposit Online Payment</h2>
