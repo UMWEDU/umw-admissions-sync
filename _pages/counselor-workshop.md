@@ -13,7 +13,7 @@ published: true
 
 Join members of the transfer admissions and advising team, along with the deans and faculty from the College of Arts and Sciences, College of Business, and the College of Education as we share practical information to help you guide your VCCS students to transfer opportunities at UMW. The workshop begins at 8 a.m. in the Digital Auditorium in the Hurley Convergence Center on the Fredericksburg campus. A continental breakfast and lunch in the University Center will be provided.
 
-Workshop Activities:
+Workshop Activities (<a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/CommCollegeAdvisor-Day-June-2016.pdf">tentative agenda</a>):
 <ul>
  	<li>Admissions and advising</li>
  	<li>College specific presentations</li>
