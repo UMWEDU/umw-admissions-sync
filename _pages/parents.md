@@ -1,44 +1,41 @@
 ---
-ID: 58
-post_title: Resources for Parents
-author: Katherine Stosch
-post_date: 2015-06-11 16:36:21
+ID: 47801
+post_title: Parents
+author: Admin
+post_date: 2015-06-03 09:06:51
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/parents/
+  http://www.umw.edu/admissions/youarein/parents/
 published: true
 ---
-Your baby’s all grown up and ready to go on to great things. How did this happen?
+<img class="alignnone size-full wp-image-48038" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/06/UMWMom-e1441229944460.jpg" alt="Mom and daughter in a residence hall." width="100%" />
+<h2>Parent’s Summer Chat Series</h2>
+We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’ve scheduled a Summer Chat Series for parents.
 
-No doubt about it, the transition from high school to college is emotionally charged, for everyone involved, including parents. The University of Mary Washington is here to help.
+<strong>Orientation: What's in it for you?</strong> - June 9 from 6-7:30 p.m.
 
-Lost in a sea of paperwork? Confused by campus visits, tours, and open houses? Confounded by financial aid forms?
+<strong>Shopping for College</strong> - July 14 from 6-7:30 p.m.
 
-The answers to the following FAQs might help ease your anxiety, but don’t hesitate to contact the UMW Office of Admissions at 800-468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a> with any questions or concerns.
-<h2>Where is UMW?</h2>
-<a href="https://www.google.com/maps/place/University+of+Mary+Washington/">UMW</a> is located in historic Fredericksburg, Virginia, directly between two important cities. We’re an hour south of Washington, D.C., and an hour north of Richmond, the capital of the Commonwealth of Virginia. This incredible location lends itself to a rich array of internship, research, and volunteer opportunities for intellectual and professional growth. Who knows, your student might even land a job before graduation.
+<strong>What to Expect on Move In day</strong> - August 10 from 6-7:30 p.m.
 
-Surrounded by Fredericksburg’s Civil War battlefields, museums, and quaint shops and eateries, and with Central Park, the East Coast’s largest shopping center, teeming with hundreds of the hottest retailers and restaurants just a few miles away, UMW offers a rich dichotomy of <a href="http://students.umw.edu/studentactivities/things-to-do-at-umw/">exploration</a>.
-<h2>How do we get started?</h2>
-<a href="/admissions/visit/">Seeing is believing</a>, and we hope one of the first steps in your family’s quest to find the perfect college, will be a visit to our beautiful wooded campus in historic Fredericksburg. We’re betting you and your student will fall in love with everything from our stately Georgian architecture and quaint brick-lined walkways to our enticing array of dining and entertainment options on and around campus.
-<h2>How will we afford this?</h2>
-The University of Mary Washington is consistently ranked as one of the country’s top “<a href="http://adminfinance.umw.edu/studentaccounts/tuition-and-fees/">best value</a>” schools by such publications as <em>Fiske Guide to Colleges</em>, <em>The Princeton Review</em>, and <em>Kiplinger’s Personal Finance</em>.
+<strong>How to Support Your UMW Student from Home</strong> - September 8 from 6-7:30 p.m.
 
-Each year UMW administers more than $32 million in financial assistance, including <a href="https://fafsa.ed.gov/">educational loans</a> totaling $19 million. The <a href="http://www.umw.edu/financialaid/">Office of Financial Aid</a> is here to help students afford the education they deserve through an array of grants, scholarships, loans, and student employment opportunities.
-<h2>Will my student be safe and well at UMW?</h2>
-From their very first day on campus, all UMW students pledge to follow the <a href="http://students.umw.edu/honor-system/">Honor Code</a>, agreeing to conduct themselves with integrity and commit to high ethical standards.
+<a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Sign on to join a scheduled chat</a>. You’ll be able to join the chat 10 minutes prior to the start time. Please use your student’s name to sign onto the chat and enter the private code that can be found in your email.
 
-For your student’s safety, emergency blue-light response systems are strewn throughout campus. We provide a constant <a href="http://www.umw.edu/police/">university police presence</a>, safety escort services, and <a href="http://www.umw.edu/alerts/">UMW Alerts</a> – a network of text, email, and online messages notifying students and parents of potential emergencies or concerns both on campus and off.
+We hope you join us to learn how you can support your student from home.  Whether home is Stafford County, VA or San Diego, CA, they are transitioning to their new routine just as you are transitioning to yours. You may have heard from them, or maybe not, about new experiences with professors, classes, extra-curriculars, the city of Fredericksburg, or even laundry in the residence halls. And this may lead you to think about their interaction in our community.
 
-<a href="http://students.umw.edu/healthcenter/">UMW’s Health Center</a> includes a full-time physician, nurse practitioners, RNs, and an <a href="http://students.umw.edu/healthcenter/after-hours-advice/">after-hours</a> HealthLink phone service; it offers programs and services in education, prevention, and self-care. The campus is located less than five minutes from the region’s largest healthcare facility.
+Our staff are happy to take your questions, accept your comments, and address concerns to help you learn more about:
+<ul>
+ 	<li><a href="/familyweekend/">Family Weekend</a> activities (Sept. 16-18)</li>
+ 	<li>Academic support systems (tutoring, the <a href="http://academics.umw.edu/writing-fredericksburg/">Writing Center</a>, the <a href="http://academics.umw.edu/speaking/speaking-center/">Speaking Center</a>, professors’ office hours)</li>
+ 	<li>Meal plans and other dining options</li>
+ 	<li><a href="http://students.umw.edu/healthcenter/">Student Health Center</a> and other wellness options - confirm your student submitted their student health forms or bring them on Family Weekend!</li>
+ 	<li>Connecting with other students and engaging in the community</li>
+ 	<li>Information parents may access</li>
+ 	<li>Ways you can direct your student when they experience an obstacle</li>
+ 	<li>Other ways you may want to connect with the UMW community as a parent</li>
+</ul>
+You are their comfort and sounding board amidst significant change.  We’d like to help you help them!
 
-Students can tap into the offerings of <a href="http://academics.umw.edu/disability/">Disability Resources</a>; the <a href="http://students.umw.edu/counseling/">Talley Center for Counseling Services</a>, with individual therapy, group counseling, crisis intervention, consultation, and referrals; and more.
-<h2>Will my student be comfortable and happy at UMW?</h2>
-<a href="http://adminfinance.umw.edu/eagleone/">UMW students</a> have a wide array of living arrangements from which to choose, from same-sex and co-ed dorms to living-and-learning communities and apartments for upper-classmen. All <a href="http://students.umw.edu/residencelife/residencehalls/">residence halls</a> have laundry rooms, vending machines, kitchens, TV rooms, study lounges, and recreational space.
-
-A tantalizing menu of <a href="http://students.umw.edu/residencelife/mealplan/">meal plans</a> and <a href="https://umw.sodexomyway.com/dining-choices/index.html">dining options</a>– from hearty dishes, like the meatloaf and mashed potatoes you serve at home, to fast-food fare, including pizza, pasta, burgers, and sandwiches – awaits. The University Center houses all-you-care-to-eat buffets at nine specialty serving areas, and an in-house bakery with fresh breads and pastries. Global, vegan, vegetarian, and allergen-free options are also available, along with on-campus retailers, like Qdoba Mexican Grill, Jamba Juice, Blackstone Coffee, Naturally Woodstock, and Vocelli Pizza.
-
-And from Move-In Day and Honor Convocation all the way to Commencement, your student’s four-year UMW experience will be packed with <a href="/students/">activities</a>. We offer more than 120 <a href="http://students.umw.edu/studentactivities/list/">clubs and organizations</a>, competitive <a href="http://umweagles.com/landing/index">NCAA sports</a> teams, and a calendar full of annual events, from Relay for Life to the Multicultural Fair.
-<h2>What if I have other questions?</h2>
-Want more fab facts about UMW? Don’t hesitate to contact the Office of Admissions at (800) 468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
+<a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Sign on to join a scheduled chat</a>. You’ll be able to join the chat 10 minutes prior to the start time. Please use your student’s name to sign onto the chat and enter the private code that can be found in your email.
