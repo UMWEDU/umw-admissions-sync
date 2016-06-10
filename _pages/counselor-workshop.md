@@ -9,16 +9,16 @@ permalink: >
   http://www.umw.edu/admissions/visit/counselor-workshop/
 published: true
 ---
-<strong><span style="color: #ff0000">VCCS Counselor and Advisor Workshop: Friday, June 3, 2016</span></strong>
+<strong><span style="color: #ff0000">Counselor Day Workshop: Wednesday, November 16</span></strong>
 
-Join members of the transfer admissions and advising team, along with the deans and faculty from the College of Arts and Sciences, College of Business, and the College of Education as we share practical information to help you guide your VCCS students to transfer opportunities at UMW. The workshop begins at 8 a.m. in the Digital Auditorium in the Hurley Convergence Center on the Fredericksburg campus. A continental breakfast and lunch in the University Center will be provided.
+The University of Mary Washington is hosting a drive-in workshop for regional school and college counselors. We hope you join us on Wednesday, November 16 from approximately 8:30 a.m. to 2:30 p.m.
 
-Workshop Activities (<a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/CommCollegeAdvisor-Day-June-2016.pdf">tentative agenda</a>):
+Workshop Activities:
 <ul>
- 	<li>Admissions and advising</li>
- 	<li>College specific presentations</li>
- 	<li>Student life</li>
- 	<li>Transfer student panel</li>
- 	<li>Tour a residence hall and academic buildings</li>
+ 	<li>Get an insider’s view of the Admissions Committee</li>
+ 	<li>Hear about our rigorous liberal arts education and listen to what our students say about life at UMW</li>
+ 	<li>Enjoy lunch with staff and students</li>
 </ul>
-Reserve your space by June 1. Please register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577cc16190660fa4335bc6c3adb7f09acc5">online</a>. We hope to see you soon!
+We hope you can time out of your busy schedule to hear why the University is ranked in every major selective guide and is considered one of the best buys in higher education today.
+
+Reserve your space and register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774c663dbba74343749d29431bc8ce9803">online</a>. We hope to see you in the fall!
