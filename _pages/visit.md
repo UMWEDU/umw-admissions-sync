@@ -10,18 +10,16 @@ published: true
 ---
 <img class="size-full wp-image-93" src="/admissions/wp-content/uploads/sites/6/2015/05/visit.jpg" alt="Dancer shows his skills at the annual Multicultural Fair, Saturday, April 13, 2013. (Photo by Norm Shafer)." width="800" height="327" />
 
-One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington.
-
-Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg.
+One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg.
 
 There are so many ways to get to know us. Learn more and register for:
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours & information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses.</li>
-	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Seeing is believing! Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
-	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal. Pick your visit based on your academic interests and follow a student through a typical day on campus.</li>
-	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
-	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and its amazing facilities with a group from your middle- or high-school, or other organization.</li>
-	<li>Self-guided tours: Grab a tour pamphlet and <a href="http://www.umw.edu/documents/document/map-of-fredericksburg-campus/">campus map</a>, head to UMW, and walk through the awesomeness at your own pace.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses.</li>
+ 	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Seeing is believing! Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
+ 	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal. Pick your visit based on your academic interests and follow a student through a typical day on campus.</li>
+ 	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
+ 	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and its amazing facilities with a group from your middle- or high-school, or other organization.</li>
+ 	<li>Self-guided tours: Grab a tour pamphlet and <a href="http://www.umw.edu/documents/document/map-of-fredericksburg-campus/">campus map</a>, head to UMW, and walk through the awesomeness at your own pace.</li>
 </ul>
 <h2>Virtual tour</h2>
 It’s not like being here, but you can get a feel for UMW by following along with this <a href="/admissions/#virtualtour">guided interactive tour</a>.
