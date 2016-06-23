@@ -13,6 +13,6 @@ The University of Mary Washington wants to reward you for your academic excelle
 
 Please visit our <a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a> to better anticipate your total cost of attendance incorporating both merit scholarship awards and need based financial aid.
 
-The graph below is based on the fall 2016 entering class.
+The chart below is based on the fall 2016 entering class.
 
 <img class="alignnone size-full wp-image-220" src="/admissions/wp-content/uploads/sites/6/2015/08/Scholarship-Graphic.png" alt="How test scores and GPA relate to scholarship awards" width="100%" />
