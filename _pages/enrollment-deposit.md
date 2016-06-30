@@ -15,12 +15,12 @@ published: true
 
 <strong>Fall</strong> Deadline: May 1
 
-To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. </em>
+To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. (Please note: Due to system updates, paying online will be unavailable from 2 p.m. June 30 to 12 p.m. July 1. We apologize for any inconvenience.)</em>
 <h2>Admissions Deposit Online Payment</h2>
 [wpv-view name="Admissions Deposit iFrame"]
 <h3>Benefits to paying early include:</h3>
 <ul>
-	<li><a href="http://technology.umw.edu/logins">NET ID creation</a> for portal and email access. You will not be able to create your ID until you pay your enrollment deposit.</li>
-	<li>Early registration for June orientation dates where you will select your courses for the fall semester.</li>
-	<li>For more information on payment plans, call EaglePAY at (800) 609-8056 or <a href="/directory/department/administration/finance/student-accounts/">Student Accounts</a> at (540) 654-1250.</li>
+ 	<li><a href="http://technology.umw.edu/logins">NET ID creation</a> for portal and email access. You will not be able to create your ID until you pay your enrollment deposit.</li>
+ 	<li>Early registration for June orientation dates where you will select your courses for the fall semester.</li>
+ 	<li>For more information on payment plans, call EaglePAY at (800) 609-8056 or <a href="/directory/department/administration/finance/student-accounts/">Student Accounts</a> at (540) 654-1250.</li>
 </ul>
