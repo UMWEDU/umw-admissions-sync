@@ -15,18 +15,18 @@ Contact our office at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu
 <h3>Individual Attention</h3>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/"><strong>pre-admission</strong></a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> to schedule your appointment.
 <ul>
-	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/"><strong>Master of Business Administration</strong></a>
+ 	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/"><strong>Master of Business Administration</strong></a>
 <ul>
-	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.</li>
+ 	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.</li>
 </ul>
 </li>
 </ul>
 <ul>
-	<li><strong><u>MSGA Information Session</u></strong>
+ 	<li><strong><u>MSGA Information Session</u></strong>
 <ul>
-	<li>For students interested in the new <a href="http://www.umw.edu/admissions/graduate/degrees/msga/"><strong>Master of Science in Geospatial Analysis</strong></a> (MSGA) program, we offer a program-specific presentation led by our faculty within the <a href="http://cas.umw.edu/geography/"><strong>Geography Department</strong></a>. Come hear more about the requirements for UMW’s newest graduate degree program!</li>
-	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.</li>
-	<li>Sessions begin at 6:30 p.m. in Monroe Hall on the Fredericksburg campus: 1301 College Ave., Fredericksburg, VA 22401. Registration is encouraged, but not required.</li>
+ 	<li>For students interested in the new <a href="http://www.umw.edu/admissions/graduate/degrees/msga/"><strong>Master of Science in Geospatial Analysis</strong></a> (MSGA) program, we offer a program-specific presentation led by our faculty within the <a href="http://cas.umw.edu/geography/"><strong>Geography Department</strong></a>. Come hear more about the requirements for UMW’s newest graduate degree program!</li>
+ 	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.</li>
+ 	<li>Sessions begin at 6:30 p.m. in Monroe Hall on the Fredericksburg campus: 1301 College Ave., Fredericksburg, VA 22401. Registration is encouraged, but not required.</li>
 </ul>
 </li>
 </ul>
@@ -35,12 +35,12 @@ The graduate admissions staff encourages everyone who has questions about a grad
 
 For students interested in our <a href="http://www.umw.edu/admissions/graduate/degrees/med-teacher-licensure/"><strong>Master of Education with Teacher Licensure</strong></a> program, we also offer a program-specific presentation led by our faculty within the <a href="http://education.umw.edu"><strong>College of Education</strong></a>. These sessions help explain the Virginia Department of Education’s requirements for licensure and the course content of our program in more detail. After our presentation, sit in on part or all of one of our graduate courses in the endorsement area that you would like to pursue!
 <ul>
-	<li><strong>Ed. with teacher licensure information sessions (select date to register):</strong>
+ 	<li><strong>Ed. with teacher licensure information sessions (select date to register):</strong>
 <ul>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778e32e42449534c7cb7892940a6f53515"><strong>Thursday February 18</strong></a></li>
-	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577224aa6c968e240279144a101157c0ca2"><strong>Monday April 18</strong></a>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e1a1985f8b94488ab7a8e37652baaff3">July 26</a></li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357740506cb4feda4d7e91f1d755bff0df36">August 15</a>
 <ul>
-	<li>The session begins at 6 p.m. in the North building’s University Hall on the Stafford Campus: <a href="https://goo.gl/maps/pa8z3"><strong>121 University Blvd., Fredericksburg, VA 22406</strong></a>. Registration is encouraged, but is not required.</li>
+ 	<li>The session begins at 5 p.m. in the North building’s University Hall on the Stafford Campus: <a href="https://goo.gl/maps/pa8z3"><strong>121 University Blvd., Fredericksburg, VA 22406</strong></a>. Registration is encouraged, but is not required.</li>
 </ul>
 </li>
 </ul>
