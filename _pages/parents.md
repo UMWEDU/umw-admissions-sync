@@ -13,8 +13,6 @@ published: true
 <h2>Parent’s Summer Chat Series</h2>
 We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’ve scheduled a Summer Chat Series for parents.
 
-<strong>What to Bring for Your Residence Hall Room</strong> - July 14 from 6-7:30 p.m.
-
 <strong>What to Expect on Move In day</strong> - August 10 from 6-7:30 p.m.
 
 <strong>How to Support Your UMW Student from Home</strong> - September 8 from 6-7:30 p.m.
