@@ -13,17 +13,17 @@ published: true
 <h3>Preferred application filing dates:</h3>
 <strong>Spring semester:</strong> October 15
 <strong>Summer semester</strong>: March 1
-<strong>Fall semester:</strong> Still accepting applications
+<strong>Fall semester:</strong> April 1
 
 <a href="http://www.umw.edu/admissions/apply/undergraduate-application/">See the application for admission</a>.
 <h3>Required application documents:</h3>
 In addition to the application for admission, UMW requires the following items:
 <ul>
 <ul>
-	<li>Official college transcript (one from each college/university attended)</li>
-	<li>Final high school transcript</li>
-	<li>SAT/ACT scores (for students who have completed fewer than 30 credits)</li>
-	<li>Letters of recommendation (encouraged)</li>
+ 	<li>Official college transcript (one from each college/university attended)</li>
+ 	<li>Final high school transcript</li>
+ 	<li>SAT/ACT scores (for students who have completed fewer than 30 credits)</li>
+ 	<li>Letters of recommendation (encouraged)</li>
 </ul>
 </ul>
 <h3>Scholarships</h3>
