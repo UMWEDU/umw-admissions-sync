@@ -1,6 +1,6 @@
 ---
 ID: 48027
-post_title: Counselor Workshop
+post_title: Counselor Day Workshop
 author: Shelley Keith
 post_date: 2015-08-21 13:14:32
 post_excerpt: ""
