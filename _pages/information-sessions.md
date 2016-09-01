@@ -39,7 +39,7 @@ For students interested in our <a href="http://www.umw.edu/admissions/graduate/d
 <ul>
  	<li>Monday, September 26</li>
  	<li>Monday, October 24</li>
- 	<li>Monday, November 14
+ 	<li>Monday, November 14 <a></a>. 
 <ul>
  	<li>The session begins at 5 p.m. in the North building’s University Hall on the Stafford Campus: <a href="https://goo.gl/maps/pa8z3"><strong>123 University Blvd., Fredericksburg, VA 22406</strong></a>. Registration is encouraged, but is not required.</li>
 </ul>
