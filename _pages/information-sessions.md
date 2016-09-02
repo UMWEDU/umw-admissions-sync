@@ -17,7 +17,12 @@ The graduate admissions staff encourages everyone who has questions about a grad
 <ul>
  	<li><a href="http://www.umw.edu/admissions/graduate/degrees/mba/"><strong>Master of Business Administration</strong></a>
 <ul>
- 	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.</li>
+ 	<li>Contact us at <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a> or (540) 286-8000 to inquire about upcoming sessions.
+<ul>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a08a81cf4a354da0abec5449fd56718a">October 5</a> - Geared toward current undergrad students on the Fredericksburg campus</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357722f1777b9c6b42258e1b4f3cef5e15c7">October 11</a> - Prospective MBA students on the Stafford campus</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
