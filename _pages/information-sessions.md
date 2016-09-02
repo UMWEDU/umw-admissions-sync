@@ -42,9 +42,9 @@ For students interested in our <a href="http://www.umw.edu/admissions/graduate/d
 <ul>
  	<li><strong>Ed. with teacher licensure information sessions (select date to register)</strong>
 <ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eb670b5e0fcb4fb799bfed0ec817ce79">Monday, September 26</a></li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773178eecac9c9480bba936f91f8178977">Monday, October 24</a></li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d4d9389e2b7a4370bf1025332254489e">Monday, November 14</a>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eb670b5e0fcb4fb799bfed0ec817ce79">Monday, September 26</a> - Literacy Specialist/Initial Licensure</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773178eecac9c9480bba936f91f8178977">Monday, October 24</a> - Literacy Specialist/Initial Licensure</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d4d9389e2b7a4370bf1025332254489e">Monday, November 14</a> - Literacy Specialist/Initial Licensure
 <ul>
  	<li>The session begins at 5 p.m. in the North building’s University Hall on the Stafford Campus: <a href="https://goo.gl/maps/pa8z3"><strong>123 University Blvd., Fredericksburg, VA 22406</strong></a>. Registration is encouraged, but is not required.</li>
 </ul>
