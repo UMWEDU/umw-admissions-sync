@@ -6,7 +6,7 @@ post_date: 2015-08-07 13:08:50
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/visit/group-tours/
+  http://www.umw.edu/admissions/visit/group-tours/
 published: true
 ---
 The University of Mary Washington is delighted to host special group visits on campus. We ask visiting school groups to limit the number of students to no more than 50 due to limited facility and staff resources.
@@ -19,4 +19,4 @@ To aid with your travel planning, we have <a href="/directory/building/lee-hall/
 
 Please do not make any travel arrangements until you receive confirmation from UMW. If you have any questions, contact the admissions office by email at <a href="mailto:admit@umw.edu">admit@umw.edu</a> or by phone at (540) 654-2000 or 800-468-5614.
 <h2>Join us for Lunch</h2>
-If you plan to enjoy lunch on campus at Seacobeck Dining Hall, please be aware the reduced rate for groups is $6.50 per person. The Sodexo Company recommends groups pay by a single check or credit card to move through the line quickly. Please indicate on the request form if you would like to have lunch on campus and we will help coordinate the details.
+If you plan to enjoy lunch on campus at the Dining Hall in the University Center, please be aware the reduced rate for groups is $6.90 per person. The Sodexo Company recommends groups pay by a single check or credit card to move through the line quickly. Please indicate on the request form if you would like to have lunch on campus and we will help coordinate the details.
