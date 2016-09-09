@@ -13,6 +13,8 @@ The University of Mary Washington wants to reward you for your academic excelle
 
 Please visit our <a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a> to better anticipate your total cost of attendance incorporating both merit scholarship awards and need based financial aid.
 
+Prospective high school seniors now have the option to interview with our Admissions staff as part of the admissions process. Students may choose to interview in person or provide a Zeemee profile to be considered for a "top-up" scholarship that ranges from $1,000 to $7,000.
+
 The chart below is based on the fall 2017 entering class.
 
 <img class="alignnone wp-image-48189 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Scholarship-GraphicTestScores-Fall2016-1024x319.png" width="1024" height="319" />
