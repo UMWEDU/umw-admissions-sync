@@ -13,7 +13,7 @@ Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ det
 
 Suggested filing dates are Nov. 1 for Early Decision, Nov. 15 for Early Action, and Feb. 1 for Priority. Students applying under Early Action will be notified of their acceptance status by the end of January. Regular admissions decisions are sent by letter on or about April 1. All who receive offers of admission have a National Candidate Reply Date of May 1.
 
-Prospective high school seniors now have the option to interview with our Admissions staff as part of the admissions process. Students may choose to interview in person or provide a Zeemee profile to be considered for a "top-up" scholarship that ranges from $1,000 to $7,000.
+Prospective high school seniors now have the option to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> with our Admissions staff as part of the admissions process. Students may choose to interview in person or provide a Zeemee profile to be considered for a "top-up" scholarship that ranges from $1,000 to $7,000.
 <h2>Freshman Admission Checklist</h2>
 Use the checklist below to be sure you’ve got everything covered.
 <ul>
