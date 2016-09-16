@@ -28,6 +28,6 @@ Use the checklist below to be sure you’ve got everything covered.
 </ul>
 </li>
  	<li>Ask your high school to send your mid-year grades to UMW so that the Admissions Committee will have your most current information.</li>
- 	<li>If you’re filing a Free Application for Federal Student Aid (<a href="https://fafsa.ed.gov/">FAFSA</a>), please submit it by March 1, using the UMW code 003746.</li>
+ 	<li>If you’re filing a Free Application for Federal Student Aid (<a href="https://fafsa.ed.gov/">FAFSA</a>), please submit it by February 1, using the UMW code 003746.</li>
 </ul>
 We can’t wait to get your application! We’ll send you an email when we receive it and let you know if anything’s missing. Please know that it’s your responsibility to make sure your file is complete and to keep copies of all application materials.
