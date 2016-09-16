@@ -104,7 +104,7 @@ eps-slideshow-link-thickbox-45851:
 <ul>
  	<li><a href="/admissions/youarein/next-steps/enrollment-deposit/">Pay your deposit</a>. The deposit is refundable until May 1 with the housing portion refundable until May 15.</li>
  	<li>Join the <a href="http://www.facebook.com/groups/UMWClassof2020">UMW Class of 2020</a> Facebook page!</li>
- 	<li>Submit the <a href="https://fafsa.ed.gov/">Free Application for Federal Student Aid</a> (FAFSA) form no later than March 1 to receive maximum consideration for financial aid.</li>
+ 	<li>Submit the <a href="https://fafsa.ed.gov/">Free Application for Federal Student Aid</a> (FAFSA) form no later than February 1 to receive maximum consideration for financial aid.</li>
  	<li>Complete your First Year Seminar Survey in late February.</li>
  	<li>Capture your <a href="http://technology.umw.edu/logins/">NET ID</a> after paying your deposit. (NET IDs become available in late February).</li>
  	<li>Complete your <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a> in late February. Contact the <a href="/directory/department/provost/engagement/disability-resources/">Office of Disability Resources</a> at (540) 654-1266 with any questions about special <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">housing accommodation requests</a>.</li>
