@@ -18,6 +18,7 @@ First year applicants to the University of Mary Washington who maintain at least
 Exceptions to test optional review include:
 <ul>
  	<li>Students applying for admission to the UMW Honors Program</li>
+ 	<li>Students applying for admission to the Pre-Nursing (1+2+1 plan) Program</li>
  	<li>Students applying for merit based scholarships (full-ride Washington and Alvey Scholarships, Presidential, Eagle, and Blue-Gray Awards)</li>
  	<li>Home-schooled applicants</li>
  	<li>Candidates applying from schools that provide written evaluations rather than grades</li>
