@@ -52,3 +52,5 @@ If your first language is English, your native country names English an official
 <strong>5. Financial Support</strong>
 
 Non-U.S. citizens will need to provide a Financial Statement of Support, with information about available resources for paying for their U.S. education.
+
+Please take a look at the <a href="http://www.umw.edu/admissions/youarein/next-steps/incoming-international-students/">Next Steps</a> for Admitted International Students.
