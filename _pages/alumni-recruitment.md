@@ -37,13 +37,12 @@ The Admissions team is committed to attending college fairs throughout Virginia 
 <strong>Step 5:</strong> Send UMW the cards and complete a quick online fair evaluation based on your experience.
 
 Admissions will:
-<ol>
- 	<li>      Register you for the event including paying a fee to attend if required.</li>
- 	<li>      Confirm registration with you.</li>
- 	<li>      Send you a training document and be available for follow up questions or concerns.</li>
- 	<li>      Send you materials to execute the fair.</li>
- 	<li>      Follow up with students for whom you collect information at the fair.</li>
-</ol>
+1.      Register you for the event including paying a fee to attend if required.
+2.     Confirm registration with you.
+3.     Send you a training document and be available for follow up questions or concerns.
+4.     Send you materials to execute the fair.
+5.     Follow up with students for whom you collect information at the fair.
+
 College fairs occur mostly in September and October and again in March and April for juniors.  Let us know if you would like to be a Hometown Hero and share Mary Washington in your backyard!
 
 <strong>Legacy Onsite and Virtual Admission Event
