@@ -6,7 +6,7 @@ post_date: 2015-05-26 01:26:51
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/
+  http://www.umw.edu/admissions/undergraduate/
 published: true
 ---
 <h2>Welcome to the world according to you!</h2>
