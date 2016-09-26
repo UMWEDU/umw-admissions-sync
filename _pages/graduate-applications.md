@@ -6,40 +6,40 @@ post_date: 2015-08-07 17:24:41
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/apply/graduate-applications/
+  http://www.umw.edu/admissions/apply/graduate-applications/
 published: true
 ---
 <h2>Master of Business Administration (MBA)</h2>
 <ul>
-	<li><a href="/admissions/graduate/degrees/mba/">Program Information</a></li>
-	<li><a href="/admissions/graduate/degrees/mba/mba-checklist/">Application Checklist</a></li>
-	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/MBA-Application.pdf">Printable PDF Application</a> ($50 application fee)</li>
-	<li><a href="https://www.applyweb.com/umw/">Online Application</a> (Fee waived - Free!)</li>
+ 	<li><a href="/admissions/graduate/degrees/mba/">Program Information</a></li>
+ 	<li><a href="/admissions/graduate/degrees/mba/mba-checklist/">Application Checklist</a></li>
+ 	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/MBA-Application.pdf">Printable PDF Application</a> ($50 application fee)</li>
+ 	<li><a href="https://www.applyweb.com/umw/">Online Application</a> (Fee waived - Free!)</li>
 </ul>
 <h2>Master of Education (M.Ed.)</h2>
 <ul>
-	<li><a href="/admissions/graduate/degrees/med-teacher-licensure/">Initial Teacher Licensure Program Information</a>
+ 	<li><a href="/admissions/graduate/degrees/med-teacher-licensure/">Initial Teacher Licensure Program Information</a>
 <ul>
-	<li><a href="/admissions/graduate/degrees/med-teacher-licensure/med-licensure-checklist/">Application Checklist</a></li>
+ 	<li><a href="/admissions/graduate/degrees/med-teacher-licensure/med-licensure-checklist/">Application Checklist</a></li>
 </ul>
 </li>
-	<li><a href="/admissions/graduate/degrees/med-profdev/">Professional Development or Added Endorsement Program Information</a>
+ 	<li><a href="/admissions/graduate/degrees/med-profdev/">Professional Development or Added Endorsement Program Information</a>
 <ul>
-	<li><a href="/admissions/graduate/degrees/med-profdev/med-profdev-checklist/">Application Checklist</a></li>
+ 	<li><a href="/admissions/graduate/degrees/med-profdev/med-profdev-checklist/">Application Checklist</a></li>
 </ul>
 </li>
-	<li><a href="/admissions/graduate/degrees/endorsements/">Graduate Endorsement and Certificate Programs Information</a>
+ 	<li><a href="/admissions/graduate/degrees/endorsements/">Graduate Endorsement and Certificate Programs Information</a>
 <ul>
-	<li><a href="/admissions/graduate/degrees/endorsements/endorsement-checklist/">Application Checklist</a></li>
+ 	<li><a href="/admissions/graduate/degrees/endorsements/endorsement-checklist/">Application Checklist</a></li>
 </ul>
 </li>
-	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/COE-grad-app.pdf">M.Ed. Printable PDF Application</a> ($50 application fee)</li>
-	<li><a href="https://www.applyweb.com/umw/">Online Application</a> (Fee waived - Free!)</li>
+ 	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/COE-grad-app.pdf">M.Ed. Printable PDF Application</a> ($50 application fee)</li>
+ 	<li><a href="https://www.applyweb.com/umw/">Online Application</a> (Fee waived - Free!)</li>
 </ul>
 <h2>Master of Science in Geospatial Analysis (MSGA)</h2>
 <ul>
-	<li><a href="/admissions/graduate/degrees/msga/">Program Information</a></li>
-	<li><a href="/admissions/graduate/degrees/msga/msga-checklist/">Application Checklist</a></li>
-	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/MSGA-Application.pdf">Printable PDF Application</a> ($50 application fee)</li>
-	<li><a href="https://www.applyweb.com/umw/">Online Application</a> (Fee waived - Free!)</li>
+ 	<li><a href="/admissions/graduate/degrees/msga/">Program Information</a></li>
+ 	<li><a href="/admissions/graduate/degrees/msga/msga-checklist/">Application Checklist</a></li>
+ 	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/MSGA-Application.pdf">Printable PDF Application</a> ($50 application fee)</li>
+ 	<li><a href="https://www.applyweb.com/umw/">Online Application</a> (Fee waived - Free!)</li>
 </ul>
