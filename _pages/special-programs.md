@@ -1,6 +1,6 @@
 ---
 ID: 48203
-post_title: Special Programs
+post_title: Admission to Special Programs
 author: keury
 post_date: 2016-09-27 10:10:07
 post_excerpt: ""
@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/admissions/undergraduate/checklist/special-programs/
 published: true
 ---
-<strong>Admission to Special programs<img class="size-medium wp-image-48204 alignright" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/IMG_2643b-300x200.jpg" alt="img_2643b" width="300" height="200" /></strong>
+<strong><img class="size-medium wp-image-48204 alignright" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/IMG_2643b-300x200.jpg" alt="img_2643b" width="300" height="200" /></strong>
 
 Students interested in the following programs Honors, <a href="#Pre-Nursing">Pre-Nursing</a>, or <a href="#STP">STP</a> should respond affirmatively to questions within the application for admission.
 
