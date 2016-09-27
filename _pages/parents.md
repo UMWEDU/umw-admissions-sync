@@ -9,23 +9,21 @@ permalink: >
   http://www.umw.edu/admissions/undergraduate/parents/
 published: true
 ---
-Your baby’s all grown up and ready to go on to great things. How did this happen?
-
 No doubt about it, the transition from high school to college is emotionally charged, for everyone involved, including parents. The University of Mary Washington is here to help.
 
 Lost in a sea of paperwork? Confused by campus visits, tours, and open houses? Confounded by financial aid forms?
 
-The answers to the following FAQs might help ease your anxiety, but don’t hesitate to contact the UMW Office of Admissions at 800-468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a> with any questions or concerns.
+The answers to the following FAQs might help ease your anxiety, but don’t hesitate to contact the UMW Office of Admissions at (800) 468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a> with any questions or concerns.
 <h2>Where is UMW?</h2>
 <a href="https://www.google.com/maps/place/University+of+Mary+Washington/">UMW</a> is located in historic Fredericksburg, Virginia, directly between two important cities. We’re an hour south of Washington, D.C., and an hour north of Richmond, the capital of the Commonwealth of Virginia. This incredible location lends itself to a rich array of internship, research, and volunteer opportunities for intellectual and professional growth. Who knows, your student might even land a job before graduation.
 
 Surrounded by Fredericksburg’s Civil War battlefields, museums, and quaint shops and eateries, and with Central Park, the East Coast’s largest shopping center, teeming with hundreds of the hottest retailers and restaurants just a few miles away, UMW offers a variety of activities.
 <h2>How do we get started?</h2>
-<a href="/admissions/visit/">Seeing is believing</a>, and we hope one of the first steps in your family’s quest to find the perfect college, will be a visit to our beautiful wooded campus in historic Fredericksburg. We’re betting you and your student will fall in love with everything from our stately Georgian architecture and quaint brick-lined walkways to our enticing array of dining and entertainment options on and around campus.
+<a href="/admissions/visit/">Seeing is believing</a>, and we hope one of the first steps in your family’s quest to find the perfect college, will be a visit to our beautiful campus in historic Fredericksburg. We’re betting you and your student will fall in love with everything from our stately Georgian architecture and quaint brick-lined walkways to our enticing array of dining and entertainment options on and around campus.
 <h2>How will we afford this?</h2>
-The University of Mary Washington is consistently ranked as one of the country’s top “<a href="http://adminfinance.umw.edu/studentaccounts/tuition-and-fees/">best value</a>” schools by such publications as <em>Fiske Guide to Colleges</em>, <em>The Princeton Review</em>, and <em>Kiplinger’s Personal Finance</em>.
+UMW is consistently ranked as one of the country’s top “<a href="http://adminfinance.umw.edu/studentaccounts/tuition-and-fees/">best value</a>” schools by such publications as <em>Fiske Guide to Colleges</em>, <em>The Princeton Review</em>, and <em>Kiplinger’s Personal Finance</em>.
 
-Each year UMW administers more than $32 million in financial assistance, including <a href="https://fafsa.ed.gov/">educational loans</a> totaling $19 million. The <a href="http://www.umw.edu/financialaid/">Office of Financial Aid</a> is here to help students afford the education they deserve through an array of grants, scholarships, loans, and student employment opportunities.
+Each year UMW administers more than $35 million in financial assistance, including <a href="https://fafsa.ed.gov/">educational loans</a> totaling $19 million. The <a href="http://www.umw.edu/financialaid/">Office of Financial Aid</a> is here to help students afford the education they deserve through an array of grants, scholarships, loans, and student employment opportunities.
 <h2>Will my student be safe and well at UMW?</h2>
 From their very first day on campus, all UMW students pledge to follow the <a href="http://students.umw.edu/honor-system/">Honor Code</a>, agreeing to conduct themselves with integrity and commit to high ethical standards.
 
@@ -41,4 +39,4 @@ A tantalizing menu of <a href="http://students.umw.edu/residencelife/mealplan/">
 
 And from Move-In Day and Honor Convocation all the way to Commencement, your student’s four-year UMW experience will be packed with <a href="/students/">activities</a>. We offer more than 120 <a href="http://students.umw.edu/studentactivities/list/">clubs and organizations</a>, competitive <a href="http://umweagles.com/landing/index">NCAA sports</a> teams, and a calendar full of annual events, from Relay for Life to the Multicultural Fair.
 <h2>What if I have other questions?</h2>
-Want more fab facts about UMW? Don’t hesitate to contact the Office of Admissions at (800) 468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
+Want more facts about UMW? Don’t hesitate to contact the Office of Admissions at (800) 468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
