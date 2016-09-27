@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: You’re Invited!
+post_title: Visit UMW
 author: Shelley Keith
 post_date: 2015-05-26 01:36:38
 post_excerpt: ""
