@@ -47,4 +47,4 @@ In the information below, the “Middle 50%” indicates the range into which fe
 <h2>Geographic Distribution:</h2>
 The 2016 freshmen came from 22 states with the majority coming from Virginia, Maryland, New York, New Jersey, and Pennsylvania. International degree seeking students have enrolled from China, El Salvador, Great Britain, Scotland, and Mexico.
 
-The Admissions staff is always available to answer questions about the admissions process. Call us at (540) 654-2000 or 800-468-5614.
+The Admissions staff is always available to answer questions about the admissions process. Call us at (540) 654-2000 or (800) 468-5614.
