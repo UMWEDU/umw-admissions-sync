@@ -45,7 +45,7 @@ Nearly 60 students participate in the <a href="http://diversity.umw.edu/stp/">St
 <ul>
  	<li>Admission to STP is determined through the first year application.</li>
  	<li>Students wishing to be considered for STP should indicate so within the application.</li>
- 	<li>Primary consideration for admission to STP is given to underrepresented populations in higher education or at the University of Mary Washington.</li>
+ 	<li>Primary consideration for admission to STP is given to underrepresented populations.</li>
  	<li>Students may be considered for both the Honors Program and STP or the Pre-Nursing plan and STP.</li>
  	<li>All first year applicants may be considered for STP regardless of residency.</li>
 </ul>
