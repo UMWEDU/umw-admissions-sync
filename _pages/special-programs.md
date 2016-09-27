@@ -1,0 +1,51 @@
+---
+ID: 48203
+post_title: Special Programs
+author: keury
+post_date: 2016-09-27 10:10:07
+post_excerpt: ""
+layout: page
+permalink: >
+  http://www.umw.edu/admissions/undergraduate/special-programs/
+published: true
+---
+<strong>Admission to Special programs<img class="size-medium wp-image-48204 alignright" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/IMG_2643b-300x200.jpg" alt="img_2643b" width="300" height="200" /></strong>
+
+Students interested in the following programs Honors, <a href="#Pre-Nursing">Pre-Nursing</a>, or <a href="#STP">STP</a> should respond affirmatively to questions within the application for admission.
+
+<strong>Admission to the Honors Program</strong>
+
+UMW enrolls from 60-80 students annually in our interdisciplinary Honors Program.
+<ul>
+ 	<li>Admission is determined through the first year application.</li>
+ 	<li>Students wishing to be considered for the Honors program should indicate so within the application.</li>
+ 	<li>Consideration for the Honors program <strong>generally</strong> begins for students in the most rigorous programs available to them, who have earned a 3.9 GPA on a 4.0 scale or higher, who have received combined Evidence Based Critical Reading plus Math new SAT scores of 1370 or higher or ACT Composite scores of 29 or higher.</li>
+ 	<li>Applicants are required to submit SAT or ACT scores. Students who apply test optional to UMW will not be considered for the Honors program.</li>
+ 	<li>Students may be considered for both the Honors Program and the Student Transition Program.</li>
+ 	<li>Students not admitted to the Honors Program as a new first year student may apply directly to the program after their first semester at UMW.</li>
+ 	<li>For additional Honors Program details, please visit the <a href="http://academics.umw.edu/honorsprogram/">Honors Program page</a>.</li>
+</ul>
+<a name="Pre-Nursing"></a><strong>Admission as a First Year Pre-Nursing Student</strong>
+
+UMW partners with Germanna Community College to provide a unique dual degree program for graduates to become nurses.
+<ul>
+ 	<li>Admission is determined with the first year application for admission.</li>
+ 	<li>First year applicants must indicate pre-nursing as their primary academic interest within the application to be considered.</li>
+ 	<li>Students proceed as a cohort and are not admitted to the program as new transfer students or continuing sophomores or juniors. (Please visit the <a href="http://www.umw.edu/admissions/adult/bsn/">BSN Program</a> for details regarding admission as a transfer student go here)</li>
+ 	<li>Applicants are strongly encouraged to apply under Early Decision (binding admission) or Early Action (non-binding admission) application processes for maximum consideration.</li>
+ 	<li>Competitive applicants should have earned at least a “B” in high school math and science coursework including Algebra, Biology, and Chemistry.</li>
+ 	<li>Students may <strong>not</strong> apply test optional for pre-nursing consideration. Minimum scores of 560 on Evidence Based Critical Reading and 550 on the Math sections of the new SAT are required to continue on track within the cohort. Similar ACT scores of 22 will be considered.</li>
+ 	<li>Students offered admission may be considered for the Student Transition Program but are not able to participate in the Honors Program.</li>
+ 	<li>Students who are offered admission and wish to enroll are encouraged to deposit early to reserve space. Space is limited to 25 enrolling students each fall.</li>
+ 	<li>For additional 1+2+1 Partnership Plan details visit the <a href="http://www.umw.edu/admissions/adult/bsn/app/">BSN Academic Partnership Plan</a>.</li>
+</ul>
+<a name="STP"></a><strong>Admission to the Student Transition Program</strong>
+
+Nearly 60 students participate in the <a href="http://diversity.umw.edu/stp/">Student Transition Program</a> (STP) which begins with a five week summer session between high school graduation and the first semester at UMW and continues through the first year of enrollment.
+<ul>
+ 	<li>Admission to STP is determined through the first year application.</li>
+ 	<li>Students wishing to be considered for STP should indicate so within the application.</li>
+ 	<li>Primary consideration for admission to STP is given to underrepresented populations in higher education or at the University of Mary Washington.</li>
+ 	<li>Students may be considered for both the Honors Program and STP or the Pre-Nursing plan and STP.</li>
+ 	<li>All first year applicants may be considered for STP regardless of residency.</li>
+</ul>
