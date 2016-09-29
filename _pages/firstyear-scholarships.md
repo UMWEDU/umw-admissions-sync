@@ -17,6 +17,6 @@ Prospective high school seniors now have the option to share more information wi
 
 The chart below is based on the fall 2017 entering class.
 
-<img class="alignnone wp-image-48202 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Scholarship-Graphic-1024x316.png" alt="scholarship-graphic" width="1024" height="316" />
+<img class="alignnone size-large wp-image-48206" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Scholarship-GraphicTestScoresSept2016-1024x318.png" alt="scholarship-graphictestscoressept2016" width="1024" height="318" /><img class="wpa-image-missing-alt size-large none" src="//www.umw.edu/admissions/wp-content/plugins/wp-accessibility/imgs/alt-same.png" alt="The alt text for this image is the same as the title. In most cases, that means that the alt attribute has been automatically provided from the image file name." />
 
 &nbsp;
