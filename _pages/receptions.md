@@ -18,9 +18,9 @@ We will hope you and your parents can join us for a reception. You will be able
 <h2 style="text-align: left">Upcoming Events:</h2>
 <strong>Rockville, MD: Thursday, November 10</strong>
 
-Cambria Hotel &amp; Suites
+Cambria Hotels &amp; Suites
 1 Helen Heneghan Way
-Rockville, MD, 20850
+Rockville, MD 20850
 
 Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357764de2f049d0b4038a708d1ff17712991">register</a> by Nov. 6.
 
