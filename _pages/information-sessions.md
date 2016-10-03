@@ -22,7 +22,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773178eecac9c9480bba936f91f8178977">Monday, October 24</a> - Literacy Specialist/Initial Licensure</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d4d9389e2b7a4370bf1025332254489e">Monday, November 14</a> - Literacy Specialist/Initial Licensure</li>
 </ul>
-<strong>Master of Science in Geospatial Analyis </strong>
+<strong>Master of Science in Geospatial Analysis </strong>
 <ul>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773d46f99a74a94227b0428f69003217c5">Monday, October 3</a> - Students will have the opportunity to hear from our faculty about the program requirements and application process.</li>
 </ul>
