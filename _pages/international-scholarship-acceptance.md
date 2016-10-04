@@ -6,7 +6,7 @@ post_date: 2016-10-04 10:28:40
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/international-scholarship-acceptance/
+  http://www.umw.edu/admissions/youarein/next-steps/international-scholarship-acceptance/
 published: true
 ---
 <strong>Acceptance Certificate must be returned to the Office of Admissions by May 1.</strong>
