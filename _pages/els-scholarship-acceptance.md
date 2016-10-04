@@ -6,7 +6,7 @@ post_date: 2016-10-04 11:25:48
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/next-steps/els-scholarship-acceptance/
+  http://www.umw.edu/admissions/youarein/els-scholarship-acceptance/
 published: true
 ---
 <strong>Acceptance Certificate must be returned to the Office of Admissions by May 1.</strong>
