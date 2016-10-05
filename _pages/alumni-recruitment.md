@@ -15,14 +15,15 @@ As an alum, you know from personal experience that UMW is a special place to spe
 
 We want you to know of a few options where we could use your assistance in bringing in our next class.
 
-<strong>Refer an Eagle Campaign</strong>
+<p><font color="red"><strong>Refer an Eagle Campaign</strong></font></p>
+
 
 Do you know a high school senior or transfer student that would thrive at Mary Washington?  Share an application fee waiver code to waive the $50 application fee on the Common Application for admission to encourage the student to apply.
 <ol>
  	<li>Give the student the code <strong>UMW51</strong>. He or she will select this code from a drop down menu on the application within the UMW questions when prompted.</li>
  	<li>Let Admissions know with whom you have shared the code. Send us an email at <a href="mailto:admit@umw.edu">admit@umw.edu</a> indicating the student’s full name, email address if you have it, and your name.</li>
 </ol>
-<strong>Hometown Hero Program</strong>
+<p><font color="red"><strong>Hometown Hero Program</strong></font></p>
 
 The Admissions team is committed to attending college fairs throughout Virginia as well as the East Coast. But we simply cannot be everywhere. And we don’t know of every fair. We are looking to grow our out of state presence and reach more students than we have been able to before. We need you.  Be a Hometown Hero for UMW!
 
@@ -45,8 +46,9 @@ Admissions will:
 
 College fairs occur mostly in September and October and again in March and April for juniors.  Let us know if you would like to be a Hometown Hero and share Mary Washington in your backyard!
 
-<strong>Legacy Onsite and Virtual Admission Event
-</strong>Saturday, November 19 10 a.m. until 2 p.m.
+<p><font color="red"><strong>Legacy Onsite and Virtual Admission Event
+</strong></font></p>
+Saturday, November 19 10 a.m. until 2 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2e4f6f75b1647b885942b3045284601">RSVP</a> and Apply by November 10
 
 We love keeping the legacy going and keeping Mary Washington in your family and your family in ours!
