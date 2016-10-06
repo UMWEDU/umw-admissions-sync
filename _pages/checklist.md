@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/admissions/undergraduate/checklist/
 published: true
 ---
-Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ details. Take a look at this handy checklist and start getting everything submitted. We’re excited to read your application!
+Take a look at this checklist and start getting everything submitted. We’re excited to read your application!
 
 Suggested filing dates are Nov. 1 for Early Decision, Nov. 15 for Early Action, and Feb. 1 for Priority. Students applying under Early Action will be notified of their acceptance status by the end of January. Regular admissions decisions are sent by letter on or about April 1. All who receive offers of admission have a National Candidate Reply Date of May 1.
 
