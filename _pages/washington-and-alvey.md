@@ -1,6 +1,6 @@
 ---
 ID: 223
-post_title: 'Washington &amp; Alvey Programs'
+post_title: Full Ride Scholarships
 author: Shelley Keith
 post_date: 2015-08-07 16:23:35
 post_excerpt: ""
