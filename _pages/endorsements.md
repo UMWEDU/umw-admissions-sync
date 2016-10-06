@@ -1,8 +1,8 @@
 ---
 ID: 173
 post_title: >
-  Education Graduate Endorsement and
-  Certificate Programs
+  Education Endorsement and Certificate
+  Programs
 author: Shelley Keith
 post_date: 2015-08-07 08:41:45
 post_excerpt: ""
