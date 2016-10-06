@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: Graduate Admissions
+post_title: ""
 author: Shelley Keith
 post_date: 2015-05-26 01:27:13
 post_excerpt: ""
@@ -12,11 +12,11 @@ published: true
 <h2><strong>A Tradition of Academic Excellence</strong></h2>
 UMW has over 105 years of history and is one of Virginia’s outstanding public liberal arts and sciences universities, providing a superior education that inspires and enables our students to make positive changes in the world.  At UMW, graduate students will:
 <ul>
-	<li>Develop a deeper knowledge of subject matter</li>
-	<li>Examine the latest technology and theories</li>
-	<li>Gain new professional connections</li>
-	<li>Achieve personal and professional goals</li>
-	<li>Establish distinct credibility in their profession</li>
+ 	<li>Develop a deeper knowledge of subject matter</li>
+ 	<li>Examine the latest technology and theories</li>
+ 	<li>Gain new professional connections</li>
+ 	<li>Achieve personal and professional goals</li>
+ 	<li>Establish distinct credibility in their profession</li>
 </ul>
 <h5><strong>Convenience</strong></h5>
 Classes are offered in the evenings to accommodate your busy schedule. Some courses are also taught in weekend, online and blended formats.
