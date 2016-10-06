@@ -19,7 +19,7 @@ We want your fresh face on our campus, your bright ideas in our classrooms, your
 
 Picture yourself living on America’s East Coast, in a city rich in U.S. history. Just an hour from Washington, D.C., UMW is a small school with growing diversity and passionate professors. Our liberal arts and sciences curriculum – with more than <a href="/study/">60 majors, minors, and courses of study</a> – will challenge your mind and let you explore.
 
-Study <a href="http://business.umw.edu/">business</a> or pursue <a href="/study/areas/political-science/">political science</a> and intern in Richmond or Washington, D.C. Major in <a href="/study/areas/art-history/">art history</a> and volunteer at the Met.
+Study <a href="http://business.umw.edu/">business</a>, computer science, or pursue <a href="/study/areas/political-science/">political science</a> and intern in Richmond or Washington, D.C. Major in <a href="/study/areas/art-history/">art history</a> and volunteer at the Met.
 
 And, as you plunge into life in America, we won’t leave you hanging. Tap into our <a href="http://international.umw.edu/">Center for International Education</a> and <a href="http://students.umw.edu/multicultural/">James Farmer Multicultural Center</a>. Sign up for <a href="http://international.umw.edu/international-services/admitted/visas-immigration/">immigration advising</a>, <a href="http://international.umw.edu/international-services/admitted/orientation-and-arrival/international-student-orientation/">international-student orientation</a>, and information sessions. Take advantage of cultural events – from Latino Identities Month to the Asian Cultural Celebration – and more opportunities than you can imagine for getting involved, both on and off campus.
 
