@@ -11,9 +11,9 @@ published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15872709353;s:3:"url";s:44:"http://www.umw.edu/admissions/international/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15872709353";}s:4:"time";i:1456842938;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15872709353;s:3:"url";s:44:"http://www.umw.edu/admissions/international/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15872709353";}s:4:"time";i:1456842888;}}'
 ---
-If you’re thinking of pursuing a <a href="/admissions/international/first-year-process/">bachelor’s</a> – or master’s – degree in the U.S., where higher education is among the finest in the world, the University of Mary Washington, with its “best value” and “green college” ratings, might be for you.
+If you’re thinking of pursuing a <a href="/admissions/international/first-year-process/">bachelor’s</a> – or <a href="http://www.umw.edu/admissions/graduate/degrees/">master’s</a> – degree in the U.S., where higher education is among the finest in the world, the University of Mary Washington, with its “best value” and “green college” ratings, might be for you.
 
-[gallery link="none" type="rectangular" ids="110,111,114,115" orderby="rand"]
+[gallery link="none" type="rectangular" ids="110,111,114" orderby="rand"]
 
 We want your fresh face on our campus, your bright ideas in our classrooms, your unique perspectives in our labs.
 
