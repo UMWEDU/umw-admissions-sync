@@ -1,8 +1,6 @@
 ---
 ID: 103
-post_title: >
-  Master of Education with Initial Teacher
-  Licensure
+post_title: M.Ed. with Initial Teacher Licensure
 author: mkarrs
 post_date: 2015-07-22 10:17:31
 post_excerpt: ""
