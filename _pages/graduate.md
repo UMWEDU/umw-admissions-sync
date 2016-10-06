@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: ""
+post_title: Graduate Admissions
 author: Shelley Keith
 post_date: 2015-05-26 01:27:13
 post_excerpt: ""
