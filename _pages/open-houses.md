@@ -18,7 +18,7 @@ Throughout the day you’ll hear from current students about everything from wee
 Please note pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:45 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus!
 <ul>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577c8b875a82925438e8ac63cb13d239b21">Saturday, October 29</a></li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357729c174b2fa8f4dc4bd15dac896b3cd49">Saturday, November 12</a> (diversity focus)</li>
+ 	<li>Access UMW on <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357729c174b2fa8f4dc4bd15dac896b3cd49">Saturday, November 12</a> (This event has a diversity focus. Please view the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Access-UMW-Tentative-Agenda-Fall-2016.pdf">tentative agenda</a> for more details.)</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357797c131ef1aaa4141973c51ba778f9ff6">Monday, February 20</a></li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a367f1cf9c7244209a9d050677a98002">Friday, April 14</a></li>
 </ul>
