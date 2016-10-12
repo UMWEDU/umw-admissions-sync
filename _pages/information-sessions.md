@@ -13,12 +13,10 @@ The best way to learn about graduate programs at the University of Mary Washingt
 
 <strong>Master of Business Administration</strong>
 <ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a08a81cf4a354da0abec5449fd56718a">October 5</a> - Geared toward current undergrad students on the Fredericksburg campus</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357722f1777b9c6b42258e1b4f3cef5e15c7">October 11</a> - Prospective MBA students on the Stafford campus</li>
 </ul>
 <strong>Master of Education with Teacher Licensure  </strong>
 <ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eb670b5e0fcb4fb799bfed0ec817ce79">Monday, September 26</a> - Literacy Specialist/Initial Licensure</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773178eecac9c9480bba936f91f8178977">Monday, October 24</a> - Literacy Specialist/Initial Licensure</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d4d9389e2b7a4370bf1025332254489e">Monday, November 14</a> - Literacy Specialist/Initial Licensure</li>
 </ul>
@@ -28,7 +26,10 @@ The best way to learn about graduate programs at the University of Mary Washingt
 </ul>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
-<h3></h3>
+<h3> Office Hours at Marine Corps Base Quantico</h3>
+Meet with Kyle Allwine, Assistant Director of Admissions, between 11 a.m. to 2 p.m. at the Quantico Education Center.  Register by selecting a date below.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d3a1df18b72c4aacae401ab36c443950">October 19</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778b5c07760a1f48bf9493abf9102f8172">November 16</a>
 <h3>Master of Business Administration</h3>
 The <a href="http://www.umw.edu/admissions/graduate/degrees/mba/">Master of Business Administration</a> within UMW’s College of Business is a great choice for new and experienced professionals who want to assume management and leadership positions in a variety of organizational settings. Students will have the opportunity to hear from our faculty about the program requirements and application process.
 <h3>Master of Education with Teacher Licensure</h3>
