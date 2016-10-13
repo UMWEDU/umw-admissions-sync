@@ -9,4 +9,4 @@ permalink: >
   http://www.umw.edu/admissions/graduate/va-teacher-scholarship/
 published: true
 ---
-[gravityform id="13" title="true" description="true"]
+[gravityform id="13" title="false" description="true"]
