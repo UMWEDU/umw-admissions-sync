@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/admissions/graduate/pathway-programs/
 published: true
 ---
-<strong> 4+1 Graduate Pathway Programs</strong>
+<strong> 4+1 Pathway Programs</strong>
 
 <strong>Eagle MBA 4+1
 </strong>Earn two degrees in 5 years
