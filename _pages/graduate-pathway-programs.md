@@ -6,7 +6,7 @@ post_date: 2016-10-21 14:31:52
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/degrees/graduate-pathway-programs/
+  http://www.umw.edu/admissions/graduate/graduate-pathway-programs/
 published: true
 ---
 <strong> 4+1 Graduate Pathway Programs</strong>
