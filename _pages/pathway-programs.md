@@ -8,14 +8,14 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/pathway-programs/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-<h2> 4+1 Pathway Programs</h2>
+<h2>4+1 Pathway Programs</h2>
 <h3>Eagle MBA 4+1</h3>
 Earn two degrees in 5 years.
 
-<img id="longdesc-return-48232" class="alignright wp-image-48232 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/10/Graduate-School-Portrait-04-300x241.jpg" alt="UMW grad school portraits. Taken thursday Oct. 29, 2015. (Photo by Norm Shafer)." width="300" height="241" longdesc="http://www.umw.edu/admissions?longdesc=48232&amp;referrer=48231" />
-
-Now you can earn two degrees in approximately five years right here at UMW! Polish your leadership skills and enhance your business acumen. Gain the edge you need to establish your influence and consider executive and management opportunities. The 4+1 program is designed to accommodate any undergraduate major/minor. No matter your starting point, we will design a custom pathway to your MBA.  Business majors, business minors and non-business majors are welcome to apply for entry into the EAGLE-MBA.
+<img id="longdesc-return-48232" class="alignright wp-image-48232 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/10/Graduate-School-Portrait-04-300x241.jpg" alt="UMW grad school portraits. Taken thursday Oct. 29, 2015. (Photo by Norm Shafer)." width="300" height="241" longdesc="http://www.umw.edu/admissions?longdesc=48232&amp;referrer=48231" /> Now you can earn two degrees in approximately five years right here at UMW! Polish your leadership skills and enhance your business acumen. Gain the edge you need to establish your influence and consider executive and management opportunities. The 4+1 program is designed to accommodate any undergraduate major/minor. No matter your starting point, we will design a custom pathway to your MBA.  Business majors, business minors and non-business majors are welcome to apply for entry into the EAGLE-MBA.
 <h4>Eagle MBA Application Deadlines</h4>
 <ul>
  	<li>Spring Term: December 1</li>
