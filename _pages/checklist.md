@@ -8,6 +8,17 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/undergraduate/checklist/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "1"
+wpcf-homepage-copy:
+  - |
+    <ul>
+     	<li><a href="/admissions/undergraduate/checklist/">First-Year Admission Checklist</a></li>
+     	<li><a href="/admissions/undergraduate/checklist/special-programs/">Admission to Special Programs</a></li>
+     	<li><a href="/admissions/undergraduate/checklist/firstyear-scholarships/">First-Year Scholarships</a></li>
+     	<li><a href="/admissions/undergraduate/parents/">Resources</a></li>
+     	<li><a href="/admissions/graduate/pathway-programs/">Five-Year Pathways</a></li>
+    </ul>
 ---
 Take a look at this checklist and start getting everything submitted. We’re excited to read your application!
 
