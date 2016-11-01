@@ -20,25 +20,27 @@ wpcf-homepage-copy:
      	<li><a href="/admissions/graduate/pathway-programs/">Five-Year Pathways</a></li>
     </ul>
 ---
-Take a look at this checklist and start getting everything submitted. We’re excited to read your application!
+<img class="alignnone wp-image-48248 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/FER-Fall-Scene.jpg" alt="Fall scenics photographed at University of Mary Washington Wednesday November 17, 2010. (Photo by Norm Shafer)" width="700" height="300" />
 
-Suggested filing dates are:
+Take a look at the checklist below and start getting everything submitted. We’re excited to read your application!
+
+<strong>Suggested filing dates:</strong>
 <ul>
  	<li>Nov. 1 for Early Decision (notification by December 10 and reply date of January 10)</li>
  	<li>Nov. 15 for Early Action (notification by January 31 and reply date of May 1)</li>
  	<li>Feb. 1 for Priority (notification by April 1 and reply date of May 1)</li>
 </ul>
-Prospective high school seniors now have the option to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> with our Admissions staff as part of the admissions process. Students may choose to interview in person or provide a <a href="https://www.zeemee.com/">Zeemee</a> profile to be considered for a "top-up" scholarship that ranges from $1,000 to $7,000.
+Prospective high school seniors have the option to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> with our Admissions staff as part of the admissions process. Students may choose to interview in person or provide a <a href="https://www.zeemee.com/">Zeemee</a> profile to be considered for a "top-up" scholarship that ranges from $1,000 to $7,000.
 <h2>First Year Admission Checklist</h2>
 Use the checklist below to be sure you’ve got everything covered.
 <ul>
  	<li>Submit <a href="https://apply.commonapp.org/Login">The Common Application</a>, with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
- 	<li>If you are requesting review for the Honors Program, Student Transition Program, or Pre-Nursing 1+2+1 Plan, please indicate this at the appropriate time in the Common Application and review the <a href="http://www.umw.edu/admissions/undergraduate/checklist/special-programs/">Admission to Special Program details</a>.</li>
- 	<li>If you're requesting review under the binding Early Decision process, you must invite your counselor to sign the Early Decision Agreement before submitting your application.  If you're not able to gather signatures electronically, you may print the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Early_Decision_Agreement.pdf">Early Decision Agreement</a> and send to UMW. This form MUST be signed by the student, parent or legal guardian, and your high school counselor and is required to complete your Early Decision application.</li>
+ 	<li>If you are requesting review for the Honors Program, Student Transition Program, or Pre-Nursing 1+2+1 Plan, please indicate this in the Common Application and review the <a href="http://www.umw.edu/admissions/undergraduate/checklist/special-programs/">Admission to Special Program details</a>.</li>
+ 	<li>If you're requesting review under the binding Early Decision process, you must invite your counselor to sign the Early Decision Agreement before submitting your application.  If you're not able to gather signatures electronically, you may print the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Early_Decision_Agreement.pdf">Early Decision Agreement</a> and send to UMW. This form <strong>MUST</strong> be signed by the student, parent or legal guardian, and your high school counselor and is required to complete your application.</li>
  	<li>Ask your guidance counselor to complete and sign the Secondary School Report, included on the Common Application, and provide a copy of your official high school transcript. (Home-schooled applicants should provide documentation of their educational experiences, as well.)</li>
  	<li>If you completed college work during high school, request that an official college transcript be sent to UMW once the coursework is graded.</li>
  	<li>Submit at least one letter of recommendation. You may invite your guidance counselor, teacher, or school official.</li>
- 	<li>Request your standardized test results be sent directly to UMW (SAT CEEB 5398, ACT 4414). Notify Admissions if you’ve taken the SAT or ACT using something other than your full legal name. UMW superscores your EBRW (Evidence-Based Reading and writing) and math scores regardless of test date and will take ACT scores attached to your strongest composite score.
+ 	<li>Request your standardized test results be sent directly to UMW (SAT CEEB 5398, ACT 4414). Notify Admissions if you’ve taken the SAT or ACT using something other than your full legal name. UMW superscores your EBRW (evidence-based reading and writing) and math scores regardless of test date and we will take ACT scores attached to your strongest composite score.
 <ul>
  	<li>Read about our <a href="/admissions/undergraduate/checklist/test-optional/">test optional policy</a>.</li>
 </ul>
