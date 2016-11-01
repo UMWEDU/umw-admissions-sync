@@ -12,9 +12,7 @@ published: true
 <strong><img class="size-medium wp-image-48204 alignright" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/IMG_2643b-300x200.jpg" alt="img_2643b" width="300" height="200" /></strong>
 
 Students interested in the following programs Honors, <a href="#Pre-Nursing">Pre-Nursing</a>, or <a href="#STP">STP</a> should respond affirmatively to questions within the application for admission.
-
-<strong>Admission to the Honors Program</strong>
-
+<h3><strong>Admission to the Honors Program</strong></h3>
 UMW enrolls from 60-80 students annually in our interdisciplinary Honors Program.
 <ul>
  	<li>Admission is determined through the first year application.</li>
@@ -23,10 +21,9 @@ UMW enrolls from 60-80 students annually in our interdisciplinary Honors Program
  	<li>Applicants are required to submit SAT or ACT scores. Students who apply test optional to UMW will not be considered for the Honors program.</li>
  	<li>Students may be considered for both the Honors Program and the Student Transition Program.</li>
  	<li>Students not admitted to the Honors Program as a new first year student may apply directly to the program after their first semester at UMW.</li>
- 	<li>For additional Honors Program details, please visit the <a href="http://academics.umw.edu/honorsprogram/">Honors Program page</a>.</li>
+ 	<li>For additional details, please visit the <a href="http://academics.umw.edu/honorsprogram/">Honors Program page</a>.</li>
 </ul>
-<a name="Pre-Nursing"></a><strong>Admission as a First Year Pre-Nursing Student</strong>
-
+<h3><a name="Pre-Nursing"></a><strong>Admission as a First Year Pre-Nursing Student</strong></h3>
 UMW partners with Germanna Community College to provide a unique dual degree program for graduates to become nurses.
 <ul>
  	<li>Admission is determined with the first year application for admission.</li>
@@ -36,11 +33,10 @@ UMW partners with Germanna Community College to provide a unique dual degree pro
  	<li>Competitive applicants should have earned at least a “B” in high school math and science coursework including Algebra, Biology, and Chemistry.</li>
  	<li>Students may <strong>not</strong> apply test optional for pre-nursing consideration. Minimum scores of 560 on Evidence Based Critical Reading and 550 on the Math sections of the new SAT are required to continue on track within the cohort. Similar ACT scores of 22 will be considered.</li>
  	<li>Students offered admission may be considered for the Student Transition Program but are not able to participate in the Honors Program.</li>
- 	<li>Students who are offered admission and wish to enroll are encouraged to deposit early to reserve space. Space is limited to 25 enrolling students each fall.</li>
+ 	<li>Students who are offered admission and wish to enroll are encouraged to deposit early to reserve space. Space is limited to 18 enrolling students each fall.</li>
  	<li>For additional 1+2+1 Partnership Plan details visit the <a href="http://www.umw.edu/admissions/adult/bsn/app/">BSN Academic Partnership Plan</a>.</li>
 </ul>
-<a name="STP"></a><strong>Admission to the Student Transition Program</strong>
-
+<h3><a name="STP"></a><strong>Admission to the Student Transition Program</strong></h3>
 Nearly 60 students participate in the <a href="http://diversity.umw.edu/stp/">Student Transition Program</a> (STP) which begins with a five week summer session between high school graduation and the first semester at UMW and continues through the first year of enrollment.
 <ul>
  	<li>Admission to STP is determined through the first year application.</li>
