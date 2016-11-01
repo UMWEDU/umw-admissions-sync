@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/degrees/msga/msga-checklist/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Once you’re ready to apply for acceptance to UMW’s Master of Science in Geospatial Analysis program, this checklist will help you make sure you have everything you need:
 <ul>
