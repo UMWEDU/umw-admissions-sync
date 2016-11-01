@@ -11,9 +11,9 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/degrees/endorsements/endorsement-checklist/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-&nbsp;
-
 Once you’re ready to apply for acceptance to the UMW College of Education’s Graduate Endorsement and Certificate Programs, this checklist will help you make sure you have everything you need:
 <ul>
  	<li>Complete the <a href="https://www.applyweb.com/umw/menu.html"><strong>graduate education online application</strong></a> for admission</li>
