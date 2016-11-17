@@ -8,6 +8,8 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required. Check back soon for spring 2017 dates.
 
@@ -19,13 +21,11 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3> Office Hours at Marine Corps Base Quantico</h3>
-Meet with Kyle Allwine, Assistant Director of Admissions, between 11 a.m. to 2 p.m. at the Quantico Education Center.  Register by selecting a date below.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d3a1df18b72c4aacae401ab36c443950">October 19</a>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778b5c07760a1f48bf9493abf9102f8172">November 16</a>
+Meet with Kyle Allwine, Assistant Director of Admissions, between 11 a.m. to 2 p.m. at the Quantico Education Center.  Register by selecting a date below. Check back soon for spring 2017 dates.
 <h3>Master of Business Administration</h3>
 The <a href="http://www.umw.edu/admissions/graduate/degrees/mba/">Master of Business Administration</a> within UMW’s College of Business is a great choice for new and experienced professionals who want to assume management and leadership positions in a variety of organizational settings. Students will have the opportunity to hear from our faculty about the program requirements and application process.
 <h3>Master of Education with Teacher Licensure</h3>
-For students interested in our <a href="http://www.umw.edu/admissions/graduate/degrees/med-teacher-licensure/"><strong>Master of Education with Teacher Licensure</strong></a> program, we also offer a program-specific presentation led by our faculty within the <a href="http://education.umw.edu">College of Education</a>. These sessions help explain the Virginia Department of Education’s requirements for licensure and the course content of our program in more detail. The sessions typically begin at 6 p.m. in the North building’s University Hall on the Stafford Campus: 123 University Blvd., Fredericksburg, VA 22406.
+For students interested in our <a href="http://www.umw.edu/admissions/graduate/degrees/med-teacher-licensure/"><strong>Master of Education with Teacher Licensure</strong></a> program, we also offer a program-specific presentation led by our faculty within the <a href="http://education.umw.edu">College of Education</a>. These sessions help explain the Virginia Department of Education’s requirements for licensure and the course content of our program in more detail. The sessions typically begin at 6 p.m. in the Gates Hudson Building's University Hall on the Stafford Campus: 125 University Blvd., Fredericksburg, VA 22406.
 <h3>Master of Science in Geospatial Analysis</h3>
 For students interested in the MSGA program, we offer a program-specific presentation led by our faculty within the <a href="http://cas.umw.edu/geography/">Geography Department</a>. The sessions typically start at 6:30 p.m. in Monroe Hall on the Fredericksburg campus: 1301 College Ave., Fredericksburg, VA 22401.
 <h3>Additional Visit Opportunities</h3>
