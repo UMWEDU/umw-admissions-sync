@@ -9,21 +9,13 @@ permalink: >
   http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 ---
-The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
+The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required. Check back soon for spring 2017 dates.
 
 <strong>Master of Business Administration</strong>
-<ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357722f1777b9c6b42258e1b4f3cef5e15c7">October 11</a> - Prospective MBA students on the Stafford campus</li>
-</ul>
+
 <strong>Master of Education with Teacher Licensure  </strong>
-<ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773178eecac9c9480bba936f91f8178977">Monday, October 24</a> - Literacy Specialist/Initial Licensure</li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d4d9389e2b7a4370bf1025332254489e">Monday, November 14</a> - Literacy Specialist/Initial Licensure</li>
-</ul>
+
 <strong>Master of Science in Geospatial Analysis </strong>
-<ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773d46f99a74a94227b0428f69003217c5">Monday, October 3</a> - Students will have the opportunity to hear from our faculty about the program requirements and application process.</li>
-</ul>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3> Office Hours at Marine Corps Base Quantico</h3>
