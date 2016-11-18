@@ -26,7 +26,7 @@ Take a look at the checklist below and start getting everything submitted. We’
 
 <strong>Suggested filing dates:</strong>
 <ul>
- 	<li>Nov. 1 for Early Decision (notification by December 10 and reply date of January 10)</li>
+ 	<li>Nov. 1 for Early Decision has been <span style="color: #ff0000">extended to Dec. 1 </span>(notification by December 10 and reply date of January 10)</li>
  	<li>Nov. 15 for Early Action (notification by January 31 and reply date of May 1)</li>
  	<li>Feb. 1 for Regular Decision (notification by April 1 and reply date of May 1)</li>
 </ul>
