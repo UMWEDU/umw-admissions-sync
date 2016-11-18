@@ -19,7 +19,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
  	<li>Freshman Applicants
 <ul>
  	<li>Early Decision - November 1</li>
- 	<li>Early Action – November 15</li>
+ 	<li>Early Action – November 15 has been <span style="color: #ff0000">extended to Dec. 1</span></li>
  	<li>Regular Decision - February 1</li>
 </ul>
 </li>
