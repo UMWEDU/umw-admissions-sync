@@ -1,51 +1,56 @@
 ---
-ID: 20
-post_title: First-Year Admission
-author: Katherine Stosch
-post_date: 2015-05-26 18:51:28
+ID: 102
+post_title: International Admissions Checklist
+author: mkarrs
+post_date: 2015-07-22 10:11:57
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/checklist/
+  http://www.umw.edu/admissions/international/checklist/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    <ul>
-     	<li><a href="/admissions/undergraduate/checklist/">First-Year Admission Checklist</a></li>
-     	<li><a href="/admissions/undergraduate/checklist/special-programs/">Admission to Special Programs</a></li>
-     	<li><a href="/admissions/undergraduate/checklist/firstyear-scholarships/">First-Year Scholarships</a></li>
-     	<li><a href="/admissions/undergraduate/parents/">Resources</a></li>
-     	<li><a href="/admissions/graduate/pathway-programs/">Five-Year Pathways</a></li>
-    </ul>
 ---
-<img class="alignnone wp-image-48248 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/FER-Fall-Scene.jpg" alt="Fall scenics photographed at University of Mary Washington Wednesday November 17, 2010. (Photo by Norm Shafer)" width="700" height="300" />
+UMW may be the perfect school for you to complete your four year American college degree. Our location an hour to the south of Washington, DC provides easy access to both cultural opportunities and travel. Our student body of over 4,000 gives you the opportunity to gain new experiences all four years but within a community that is both supportive and engaged with one another. Take the next steps toward applying for admission.
 
-Take a look at the checklist below and start getting everything submitted. We’re excited to read your application!
+<strong>International Admission Checklist</strong>
 
-<strong>Suggested filing dates:</strong>
+These are the items required of international applicants for admission consideration.
+
+<strong>1. The Application</strong>
+
+You’ll need a completed <a href="https://www.commonapp.org/">Common Application Form</a> and your essay/personal statement, plus your $50 application fee or approved waiver.
+
+Remember to apply by the suggested filing date:
+First Year applicants - Jan. 1 for priority admission or Feb. 1 for regular admission
+Transfer applicants - Oct. 15 for spring and April 1 for fall
+
+UMW accepts applications after these deadlines on a space-available basis and considering visa processing timelines.
+
+<strong>2. Transcripts and/or Exam Scores</strong>
+
+We know you’re smart, but we need the proof. Send transcripts and/or exam results – matriculation certificates, mark sheets, diplomas – with a certified copy of the English translation, for high school work you’ve completed. If you are applying as a transfer student, a transcript from each college or university you attended is also required.  Original documents are preferred; copies must be certified and attested by the U.S. embassy or notary public. Agencies offering translations include:
 <ul>
- 	<li>Nov. 1 for Early Decision (notification by December 10 and reply date of January 10)</li>
- 	<li>Nov. 15 for Early Action has been <span style="color: #ff0000">extended to Dec. 1</span> (notification by January 31 and reply date of May 1)</li>
- 	<li>Feb. 1 for Regular Decision (notification by April 1 and reply date of May 1)</li>
+ 	<li><a href="http://www.wes.org">World Education Services Inc.</a></li>
+ 	<li><a href="https://www.ece.org/">Educational Credential Evaluators</a></li>
+ 	<li><a href="http://www.aacrao.org/">American Association of Collegiate Registrars and Admissions Officers</a></li>
 </ul>
-Prospective high school seniors have the option to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> with our Admissions staff as part of the admissions process. Students may choose to interview in person or provide a <a href="https://www.zeemee.com/">Zeemee</a> profile to be considered for a "top-up" scholarship that ranges from $1,000 to $7,000.
-<h2>First Year Admission Checklist</h2>
-Use the checklist below to be sure you’ve got everything covered.
+<strong>3. Testimonials</strong>
+
+We want to hear about all the great parts of your personality, too. You’ll need at least one letter of recommendation from a counselor or teacher, using the <a href="https://recsupport.commonapp.org/link/portal/33011/33014/ArticleFolder/42/School-Report">Common Application Secondary School Report</a>.
+
+<strong>4. English Language Proficiency</strong>
+
+Proof of English language proficiency should be sent directly to UMW from the evaluating organization. These exam scores will get you in the running:
 <ul>
- 	<li>Submit <a href="https://apply.commonapp.org/Login">The Common Application</a>, with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
- 	<li>If you are requesting review for the Honors Program, Student Transition Program, or Pre-Nursing 1+2+1 Plan, please indicate this in the Common Application and review the <a href="http://www.umw.edu/admissions/undergraduate/checklist/special-programs/">Admission to Special Program details</a>.</li>
- 	<li>If you're requesting review under the binding Early Decision process, you must invite your counselor to sign the Early Decision Agreement before submitting your application.  If you're not able to gather signatures electronically, you may print the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Early_Decision_Agreement.pdf">Early Decision Agreement</a> and send to UMW. This form <strong>MUST</strong> be signed by the student, parent or legal guardian, and your high school counselor and is required to complete your application.</li>
- 	<li>Ask your guidance counselor to complete and sign the Secondary School Report, included on the Common Application, and provide a copy of your official high school transcript. (Home-schooled applicants should provide documentation of their educational experiences, as well.)</li>
- 	<li>If you completed college work during high school, request that an official college transcript be sent to UMW once the coursework is graded.</li>
- 	<li>Submit at least one letter of recommendation. You may invite your guidance counselor, teacher, or school official.</li>
- 	<li>Request your standardized test results be sent directly to UMW (SAT CEEB 5398, ACT 4414). Notify Admissions if you’ve taken the SAT or ACT using something other than your full legal name. UMW superscores your EBRW (evidence-based reading and writing) and math scores regardless of test date and we will take ACT scores attached to your strongest composite score.
-<ul>
- 	<li>Read about our <a href="/admissions/undergraduate/checklist/test-optional/">test optional policy</a>.</li>
+ 	<li><a href="https://www.ets.org/toefl">Test of English as a Foreign Language</a> (TOEFL 80 IBT)</li>
+ 	<li><a href="http://www.els.edu/en">ELS Language Center</a>’s Intensive English Program (Level 112 completion)</li>
+ 	<li><a href="http://www.ielts.org/">International English Language Testing System</a> (6.5 on the academic exam)</li>
+ 	<li><a href="https://sat.collegeboard.org/home">College Board’s SAT</a> (Evidence Based Critical Reading, 550; Math 550; use UMW SAT testing code 5398)</li>
+ 	<li><a href="http://www.actstudent.org/">ACT</a> (composite score of 22 or higher; use UMW ACT testing code 4414)</li>
 </ul>
-</li>
- 	<li>Ask your high school to send your mid-year grades to UMW so that the Admissions Committee will have your most current information.</li>
- 	<li>If you’re filing a Free Application for Federal Student Aid (<a href="https://fafsa.ed.gov/">FAFSA</a>), please submit it by February 1, using the UMW code 003746.</li>
-</ul>
-We can’t wait to get your application! We’ll send you an email when we receive it and let you know if anything’s missing. Please know that it’s your responsibility to make sure your file is complete and to keep copies of all application materials.
+If your first language is English, your native country names English an official language, you’re graduating from a secondary school in a native English-speaking country or from an International Baccalaureate secondary school, or you scored well on the SAT verbal portion, you may request an English language requirement waiver.
+
+<strong>5. Financial Support</strong>
+
+Non-U.S. citizens will need to provide a Financial Statement of Support, with information about available resources for paying for their U.S. education.
+
+Please take a look at the <a href="http://www.umw.edu/admissions/youarein/next-steps/incoming-international-students/">Next Steps</a> for Admitted International Students.
