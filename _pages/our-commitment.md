@@ -6,24 +6,27 @@ post_date: 2015-08-06 15:01:16
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/transfer/our-commitment/
+  http://www.umw.edu/admissions/transfer/our-commitment/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Never Stop Learning!</h2>
 Wherever it starts, whatever twists and turns it takes along the way, your continuing education is one of the most important journeys of your life. The University of Mary Washington is here to support that journey. We welcome applicants from Virginia’s two-year colleges and, through various agreements with other institutions of higher learning, help you streamline the admissions process and realize your professional goals.
 <h3>Guaranteed Admissions Agreement (GAA)</h3>
 Graduates of the Virginia Community College System (VCCS) and Richard Bland College who earn a minimum cumulative GPA of 3.25 may obtain <a href="/admissions/transfer/our-commitment/guaranteed-admission-agreement/">guaranteed admission to UMW</a>. Some UMW degree programs are more competitive than others and may require further acceptance by the specific program or department. Students who transfer to UMW under the GAA are considered to have met most general education requirements, with these exceptions:
 <ul>
-	<li>competency in a second language</li>
-	<li>speaking- and writing-intensive courses</li>
-	<li>experiential learning</li>
+ 	<li>competency in a second language</li>
+ 	<li>speaking- and writing-intensive courses</li>
+ 	<li>experiential learning</li>
 </ul>
 <h3>Germanna Co-Enrollment Agreement</h3>
 <a href="http://ufc.umw.edu/files/2011/09/Co-enrollment-Agreement-details-12-14-11-1.pdf">Co-enrolled students</a> (pdf) may take up to five courses at UMW that will transfer back to their Germanna associate degree program. UMW will admit students who have earned an associate degree and met GPA requirements and accept up to 63 hours of their transfer credit. Students will need to submit a <a title="http://admissions.umw.edu/undergraduate/files/2011/09/Germanna-CoEnrollment-Form.pdf" href="/admissions/wp-content/uploads/sites/6/2015/08/Germanna-CoEnrollment-Form.pdf">Letter of Intent</a>.
-<h3>Germanna Direct Transfer Agreement</h3>
+<h3>Germanna Direct Transfer Agreements</h3>
+<h4></h4>
 Eligible Germanna students can <a href="http://www.germanna.edu/counseling-center/docs/2013-agreements/UMW_Articulation_Agreement_BLS_GCC.2012.pdf">transfer to UMW’s bachelor of liberal studies (BLS) degree program</a> (pdf), designed for adults who want to major in a traditional arts and sciences discipline and who graduated from high school six or more years ago, are veterans or active-duty U.S. armed services members, are married, have legal dependents other than a spouse, or are financially self-supporting.
 
-*Also check out UMW/Germanna direct transfer agreements designed <a href="https://www.umw.edu/news/2015/06/02/umw-and-germanna-partner-for-business-transfer-agreement/">specifically for business students</a> and for <a href="http://www.umw.edu/news/2014/08/11/umw-germanna-mary-washington-healthcare-partner-to-improve-nursing-education/">nursing students</a>.
+*Also check out UMW/Germanna direct transfer agreements designed specifically for <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Germanna-Direct-Transfer-Agreement-Business-Nov-2016-.pdf">business students</a> and for <a href="http://www.umw.edu/news/2014/08/11/umw-germanna-mary-washington-healthcare-partner-to-improve-nursing-education/">nursing students</a>.
 <h3>GWU School of Medicine and Health Sciences Early Consideration Agreement</h3>
 UMW Honors Program students receive early consideration into George Washington University’s School of Medicine and Health Sciences. Academic advisors help ensure students meet curricular and extracurricular qualifications for consideration and acceptance. Because they will not have to prepare for and take the MCATs, accepted students will have the freedom to study a wider range of subjects, pursue research, study abroad, and complete course work that matches their ambitions.
 
