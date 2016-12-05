@@ -6,40 +6,32 @@ post_date: 2015-08-06 16:02:15
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/degrees/med-profdev/med-profdev-checklist/
+  http://www.umw.edu/admissions/graduate/degrees/med-profdev/med-profdev-checklist/
 published: true
 ---
-You’ve come this far! Once you’re ready to apply for acceptance to UMW’s Master of Education for Professional Development or Added Endorsement program, this checklist will help you make sure you have everything you need:
+Once you’re ready to apply for acceptance to UMW’s Master of Education for Professional Development or Added Endorsement program, this checklist will help you make sure you have everything you need:
 <ul>
-	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/COE-grad-app.pdf">College of Education Graduate Program Application</a> and $50 application fee or fee waiver. <strong><a href="https://www.applyweb.com/umw/">Apply online</a>, and we’ll waive the fee.</strong></li>
-	<li>An official transcript from every college or university you’ve attended even if the courses were transferred to another institution.</li>
-	<li>An undergraduate degree from an accredited college or university with a GPA of 2.5 or higher (a GPA of 2.75 or higher is required for acceptance into the educational leadership program) on undergraduate course work and/or 3.0 or higher on graduate course work.</li>
-	<li>A résumé outlining your education, as well as your paid or volunteer work and leadership experience, such as coaching, religious teaching, working with Scouts, etc.</li>
-	<li>An interview initiated by the Admissions Committee <em>may</em> be required.</li>
-	<li>Verification of a current Virginia Collegiate Professional or Graduate Professional license</li>
-	<li>Two essays (two to three typed, double-spaced pages each) addressing each of the following:
+ 	<li>Complete the <a href="https://www.applyweb.com/umw/menu.html"><strong>graduate education online application</strong></a> for admission</li>
+ 	<li>An official transcript (in its original sealed envelope or via secure e-transcript sent directly from the institution) from every college or university you’ve attended even if the courses were transferred to another institution.
 <ul>
-	<li>What do you hope to gain from the M.Ed. program?</li>
-	<li>What contributions do you feel you can make to the program as a participant?</li>
-	<li>Discuss a current issue in education.
-<ul>
-	<li>Why do you think its important?</li>
-	<li>What’s your stance on it?</li>
+ 	<li>Competitive applicants are encouraged to have a cumulative GPA of 2.5 or higher on undergraduate course work and/or a 3.0 cumulative GPA on graduate course work.</li>
 </ul>
 </li>
-</ul>
-</li>
-	<li><strong>International students</strong> should also submit their <a href="http://www.umw.edu/documents/document/request-for-form-i-20/">Request for Form I-20</a> (for F-1 visa candidates), International Transcript Evaluation, and demonstration of English Language Proficiency.</li>
+ 	<li>A résumé outlining experiences and education, including any paid <em>and </em>volunteer experience related to education, such as coaching, religious teaching, work with Scouts, etc.</li>
+ 	<li>Verification of your current Virginia Collegiate Professional or Graduate Professional License.</li>
+ 	<li>Passing <a href="http://www.ets.org/praxis/about/core/"><strong>PRAXIS core</strong></a> – reading, writing, and math – test scores (or passing scores from <a href="http://education.umw.edu/student-resources/testing-requirements-2/"><strong>other qualifying tests</strong></a>, such as SAT and ACT). <strong>Use UMW Praxis code 5394.</strong></li>
+ 	<li>Education Application Essay(s)</li>
+ 	<li><strong>International students</strong> should also submit their <a href="http://www.umw.edu/documents/document/request-for-form-i-20/"><strong>Request for Form I-20</strong></a> (for F-1 visa candidates), International Transcript Evaluation, and demonstration of English Language Proficiency.</li>
 </ul>
 To apply for admission to UMW’s Master of Education for Professional Development or Added Endorsement’s <strong>Educational Leadership Program</strong>, you will need all of the above, plus these four extras:
-<ol>
-	<li>Three years of experience as a licensed teacher.</li>
-	<li><a href="http://www.umw.edu/documents/document/graduate-degreescertificates-applicant-recommendation/">Three recommendations</a>, using the forms found on the Application for Admission, one from your immediate supervisor and one each from two others qualified to address your teaching performance and leadership potential. (References may be contacted.)</li>
-	<li>An interview with a writing exercise that may involve responding to a case study or producing a sample administrative letter.</li>
-	<li>Two essays (two to three typed, double-spaced pages each) addressing the essay topics below rather than the topics listed above.
 <ul>
-	<li>Discuss a current issue in educational leadership that you might face as an educational leader.</li>
-	<li>A statement of purpose in which you discuss your current and future leadership goals. What contributions do you feel you can make to the program as a participant?</li>
+ 	<li>Three years of experience as a professional educator.</li>
+ 	<li><a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/COE-grad-app.pdf"><strong>Three recommendations</strong>,</a> using the forms found on the Application for Admission, one from your immediate supervisor and one each from two others qualified to address your teaching performance and leadership potential. (References may be contacted.)</li>
+ 	<li>An interview with a writing exercise that may involve responding to a case study or producing a sample administrative letter.</li>
+ 	<li>Two essays (two to three typed, double-spaced pages each) addressing the essay topics below rather than the topics listed above.
+<ul>
+ 	<li>Discuss a current issue in educational leadership that you might face as an educational leader.</li>
+ 	<li>A statement of purpose in which you discuss your current and future leadership goals. What contributions do you feel you can make to the program as a participant?</li>
 </ul>
 </li>
-</ol>
+</ul>
