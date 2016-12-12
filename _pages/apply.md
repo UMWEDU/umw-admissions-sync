@@ -7,6 +7,8 @@ post_excerpt: ""
 layout: page
 permalink: http://www.umw.edu/admissions/apply/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 The BA/BS, BLS, and graduate programs each have a separate application process. Please select a program for further information:
 <div class="one-third first">
