@@ -14,10 +14,10 @@ wpcf-home-page-grid-inclusion:
 wpcf-homepage-copy:
   - |
     <ul>
-     	<li><a href="https://www.umw.edu/admissions/transfer/">BA/BS Traditional Transfer</a></li>
-     	<li><a href="https://www.umw.edu/admissions/adult/">BLS Adult Degree Completion</a></li>
-     	<li><a href="https://www.umw.edu/admissions/adult/bsn/">BSN Bachelor of Science in Nursing</a></li>
-     	<li>Veterans</li>
+    <li><a href="https://www.umw.edu/admissions/transfer/">BA/BS Traditional Transfer</a></li>
+    <li><a href="https://www.umw.edu/admissions/adult/">BLS Adult Degree Completion</a></li>
+    <li><a href="https://www.umw.edu/admissions/adult/bsn/">BSN Bachelor of Science in Nursing</a></li>
+    <li><a href="http://students.umw.edu/veterans/">Veterans</a></li>
     </ul>
 ---
 <h2>Transferring to UMW is easy!</h2>
