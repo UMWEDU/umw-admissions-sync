@@ -8,8 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/undergraduate/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-<h2><span class="alignright">[wpv-view name="undergraduate-admissions-live-chat-widget"]</span>Welcome to the world according to you!</h2>
+<h2>Welcome to the world according to you!</h2>
 At the University of Mary Washington, passionate master teachers, rigorous academics, and a liberal arts and sciences curriculum let you explore.
 
 https://youtu.be/rb9oyXNikos
