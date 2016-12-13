@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 <img class="size-full wp-image-93" src="/admissions/wp-content/uploads/sites/6/2015/05/visit.jpg" alt="Dancer shows his skills at the annual Multicultural Fair, Saturday, April 13, 2013. (Photo by Norm Shafer)." width="800" height="327" />
 
 One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg. There are so many ways to get to know us!
-<h2>On campus</h2>
+<h2>On campus:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m.</li>
  	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Seeing is believing! Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
@@ -21,7 +21,7 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a freshman? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a "top-up" scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and its amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
-<h2>Virtual</h2>
+<h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
  	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="/admissions/#virtualtour">guided interactive tour</a>.</li>
