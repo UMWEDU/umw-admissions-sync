@@ -23,12 +23,11 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 </ul>
 <h2>Virtual:</h2>
 <ul>
- 	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
+ 	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
  	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="/admissions/#virtualtour">guided interactive tour</a>.</li>
 </ul>
 <h2>How to get here:</h2>
-The University of Mary Washington’s main campus is located at <a href="https://www.google.com/maps/place/University+of+Mary+Washington/@38.3005178,-77.4749152,15z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e987a255:0x1ef2db66d097c3c1">1301 College Avenue, Fredericksburg, VA 22401</a>. The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
-<h2>When to come:</h2>
-Our school calendar has tons of information so you can get a feel for what’s happening on campus and which dates are best fits for what you want from your visit.
+The main campus is located at <a href="https://www.google.com/maps/place/University+of+Mary+Washington/@38.3005178,-77.4749152,15z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e987a255:0x1ef2db66d097c3c1">1301 College Avenue, Fredericksburg, VA 22401</a>. The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
+<h2></h2>
 <h2>Where to stay:</h2>
 Located in <a href="/directory/building/eagle-village/">Eagle Village</a>, across the highway from UMW’s main campus, <a href="http://fredericksburg.place.hyatt.com/en/hotel/home.html">Hyatt Place</a> is the University’s preferred hotel partner and offers special rates for UMW visitors. For information on other nearby accommodations and attractions, visit the <a href="http://www.visitfred.com/things-to-do/museums-historical/fredericksburg-visitor-center">Fredericksburg Visitor Center</a>.
