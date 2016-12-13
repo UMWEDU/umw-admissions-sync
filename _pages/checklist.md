@@ -23,8 +23,7 @@ wpcf-homepage-copy:
 <img class="alignnone wp-image-48248 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/FER-Fall-Scene.jpg" alt="Fall scenics photographed at University of Mary Washington Wednesday November 17, 2010. (Photo by Norm Shafer)" width="700" height="300" />
 
 Take a look at the checklist below and start getting everything submitted. We’re excited to read your application!
-
-<strong>Suggested filing dates:</strong>
+<h2><strong>Suggested filing dates:</strong></h2>
 <ul>
  	<li>Nov. 1 for Early Decision (notification by December 10 and reply date of January 10)</li>
  	<li>Nov. 15 for Early Action (notification by January 31 and reply date of May 1)</li>
