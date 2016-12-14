@@ -28,6 +28,8 @@ In addition to the application for admission, UMW requires the following items:
 </ul>
 <h3>Scholarships</h3>
 <img class="alignnone size-large wp-image-48036" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/09/TransferScholarship-Graphic-1024x232.png" alt="Transfer scholarship criteria" width="100%" />
+
+All applicants that apply by the preferred application filing dates listed above will be given automatic consideration for Transfer Merit Scholarships.
 <h2>For those from the Virginia Community College System or Richard Bland College.</h2>
 The University of Mary Washington welcomes applicants from the VCCS and RBC. In fall 2011, 65 percent of our enrolled transfer students joined us from these institutions. Many were able to streamline the admissions process through the Guaranteed Admissions Agreement (GAA).
 <h3>Who qualifies for the Guaranteed Admissions Agreement?</h3>
