@@ -9,7 +9,7 @@ permalink: >
   http://www.umw.edu/admissions/visit/counselor-workshop/
 published: true
 ---
-<strong><span style="color: #ff0000">Wednesday, November 16</span></strong>
+<strong><span style="color: #ff0000;">Wednesday, November 16</span></strong>
 
 The University of Mary Washington is hosting a drive-in workshop for regional school and college counselors. We hope you join us on Wednesday, November 16 from approximately 8:30 a.m. to 2:30 p.m.
 
