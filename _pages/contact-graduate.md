@@ -24,9 +24,8 @@ Director of Graduate Admissions
 
 &nbsp;
 
-<strong><img class="alignleft wp-image-48271 size-thumbnail" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Cris-Hairston-150x150.jpg" alt="Cris Hairston" width="150" height="150" />Cris Hairston</strong>
-
-Senior Assistant Director of Graduate Admissions
+<strong><img class="alignleft wp-image-48271 size-thumbnail" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Cris-Hairston-150x150.jpg" alt="Cris Hairston" width="150" height="150" />Cris Hairston
+</strong>Senior Assistant Director of Graduate Admissions
 <a href="mailto:chairsto@umw.edu">chairsto@umw.edu
 </a>540-286-8086
 Master of Education Programs
