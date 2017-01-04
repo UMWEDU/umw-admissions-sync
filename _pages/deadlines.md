@@ -6,7 +6,7 @@ post_date: 2015-08-06 13:43:04
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/deadlines/
+  https://www.umw.edu/admissions/graduate/deadlines/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
