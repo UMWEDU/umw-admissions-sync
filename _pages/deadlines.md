@@ -6,8 +6,10 @@ post_date: 2015-08-06 13:43:04
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/deadlines/
+  https://www.umw.edu/admissions/graduate/deadlines/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 The UMW recommended filing dates are designed to give newly admitted students the best opportunity to register for their top-choice courses. Once the recommended filing dates have passed, UMW continues to accept applications on a rolling, space-available basis.
 
