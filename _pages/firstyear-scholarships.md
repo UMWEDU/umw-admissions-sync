@@ -6,8 +6,10 @@ post_date: 2015-08-07 16:19:06
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/checklist/firstyear-scholarships/
+  https://www.umw.edu/admissions/undergraduate/checklist/firstyear-scholarships/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 UMW recognizes academic excellence!
 
