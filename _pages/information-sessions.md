@@ -6,16 +6,19 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required. Check back soon for spring 2017 dates.
+The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 
 <strong>Master of Business Administration</strong>
 
-<strong>Master of Education with Teacher Licensure  </strong>
+<strong>Master of Education with Teacher Licensure</strong>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577574f9a64118d4c31aa47c69d6c8bb2d6">Wednesday, January 25</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ac53587917954e6a9d6526d986b55d5c">Monday, March 13</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746ca0982723b42cda6ebd9b6e6a5d707">Monday, April 10</a>
 
 <strong>Master of Science in Geospatial Analysis </strong>
 <h1>Individual Attention</h1>
