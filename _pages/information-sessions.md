@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -24,7 +24,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3> Office Hours at Marine Corps Base Quantico</h3>
-Meet with Kyle Allwine, Assistant Director of Admissions, between 11 a.m. to 2 p.m. at the Quantico Education Center.  Register by selecting a date below. Check back soon for spring 2017 dates.
+Meet with Kyle Allwine, Assistant Director of Admissions, between 11 a.m. to 2 p.m. at the Quantico Education Center. Check back soon for spring 2017 dates.
 <h3>Master of Business Administration</h3>
 The <a href="http://www.umw.edu/admissions/graduate/degrees/mba/">Master of Business Administration</a> within UMW’s College of Business is a great choice for new and experienced professionals who want to assume management and leadership positions in a variety of organizational settings. Students will have the opportunity to hear from our faculty about the program requirements and application process.
 <h3>Master of Education with Teacher Licensure</h3>
