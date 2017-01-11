@@ -6,7 +6,7 @@ post_date: 2015-07-22 10:11:57
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/international/checklist/
+  https://www.umw.edu/admissions/international/checklist/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
