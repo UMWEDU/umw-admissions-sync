@@ -6,7 +6,7 @@ post_date: 2015-07-22 10:11:57
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/international/checklist/
+  http://www.umw.edu/admissions/international/checklist/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -19,7 +19,7 @@ These are the items required of international applicants for admission considera
 
 <strong>1. The Application</strong>
 
-You’ll need a completed <a href="https://www.commonapp.org/">Common Application Form</a> and your essay/personal statement, plus your $50 application fee or approved waiver.
+Submit a completed <a href="https://www.commonapp.org/">Common Application Form</a> and your essay/personal statement, plus your $50 application fee or approved waiver.
 
 Remember to apply by the suggested filing date:
 First Year applicants - Jan. 1 for priority admission or Feb. 1 for regular admission
@@ -29,15 +29,15 @@ UMW accepts applications after these deadlines on a space-available basis and co
 
 <strong>2. Transcripts and/or Exam Scores</strong>
 
-We know you’re smart, but we need the proof. Send transcripts and/or exam results – matriculation certificates, mark sheets, diplomas – with a certified copy of the English translation, for high school work you’ve completed. If you are applying as a transfer student, a transcript from each college or university you attended is also required.  Original documents are preferred; copies must be certified and attested by the U.S. embassy or notary public. Agencies offering translations include:
+Send transcripts and/or exam results – matriculation/secondary school certificates, mark sheets, diplomas – with a certified copy of the English translation, for high school work you have completed. If you are applying as a transfer student, a transcript from each college or university you attended is also required.  Original documents are preferred; copies must be certified and attested by the U.S. embassy or notary public. Agencies offering translations include:
 <ul>
  	<li><a href="http://www.wes.org">World Education Services Inc.</a></li>
  	<li><a href="https://www.ece.org/">Educational Credential Evaluators</a></li>
  	<li><a href="http://www.aacrao.org/">American Association of Collegiate Registrars and Admissions Officers</a></li>
 </ul>
-<strong>3. Testimonials</strong>
+<strong>3. References</strong>
 
-We want to hear about all the great parts of your personality, too. You’ll need at least one letter of recommendation from a counselor or teacher, using the <a href="https://recsupport.commonapp.org/link/portal/33011/33014/ArticleFolder/42/School-Report">Common Application Secondary School Report</a>.
+Submit at least one letter of recommendation from a counselor or teacher, using the <a href="https://recsupport.commonapp.org/link/portal/33011/33014/ArticleFolder/42/School-Report">Common Application Secondary School Report</a>.
 
 <strong>4. English Language Proficiency</strong>
 
