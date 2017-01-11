@@ -6,7 +6,7 @@ post_date: 2015-07-22 10:11:57
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/international/checklist/
+  http://www.umw.edu/admissions/international/checklist/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -58,6 +58,12 @@ Students are required to demonstrate financial ability to pay for at least one y
  	<li>Bank letter specifying the account holder, date, monetary currency, and amount of funds available.  The letter cannot simply state the client has “sufficient funds.”  Letters must be on official bank stationary, stamped and signed by a bank official.</li>
  	<li>Bank statements must show name of account holder, total available balance, and be on official bank stationary.  An on-line screen-shot or print out is acceptable, as long as these elements are included.</li>
  	<li>Funds must be liquid (readily converted into cash)</li>
- 	<li>If a U.S. citizen or U.S. permanent resident is providing all or partial support, an I-134 Affidavit of Support is required.  The I-134 can be found at <a href="https://www.uscis.gov/i-134">https://www.uscis.gov/i-134</a> .  Submit the completed I-134 to the CIE office.</li>
+ 	<li>If a U.S. citizen or U.S. permanent resident is providing all or partial support, an I-134 Affidavit of Support is required.  The I-134 can be found at <a href="https://www.uscis.gov/i-134">https://www.uscis.gov/i-134</a>. Submit the completed I-134 to the CIE office.</li>
 </ul>
+Documents should be sent to:
+University of Mary Washington
+Center for Internation Education
+1301 College Avenue
+Fredericksburg, VA 22401
+
 Please take a look at the <a href="http://www.umw.edu/admissions/youarein/next-steps/incoming-international-students/">Next Steps</a> for Admitted International Students.
