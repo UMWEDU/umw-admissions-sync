@@ -6,7 +6,7 @@ post_date: 2015-08-06 15:36:12
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/degrees/med-teacher-licensure/med-licensure-checklist/
+  https://www.umw.edu/admissions/graduate/degrees/med-teacher-licensure/med-licensure-checklist/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
