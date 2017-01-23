@@ -29,6 +29,10 @@ For BLS &amp; BSN programs for adult students.
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
 <div class="one-third">
 
 <em>The University of Mary Washington does not discriminate on the basis of race, color, religion, national origin, disability, sex, sexual orientation, marital status, age or political affiliation in its programs and activities. <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Combined-Notice-of-Nondiscrimination.docx">Additional information and contact information</a> for the nondiscrimination policy. </em>
