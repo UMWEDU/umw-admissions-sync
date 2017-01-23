@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2015-05-26 01:36:38
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/visit/
+permalink: http://www.umw.edu/admissions/visit/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -23,6 +23,8 @@ Reserved for high school seniors.</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a "top-up" scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and are being held until March 1.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
+<h2>Off Campus</h2>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357731573ad49cfe425bb1d83ab81caa7aac">Charles County, MD</a>: Attend on Feb. 16 and hear an admissions presentation, a student panel, a student success presentation, and interested seniors can participate in on-site admissions for those who apply by Feb. 1.
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
