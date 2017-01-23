@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2015-05-26 01:36:27
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/apply/
+permalink: http://www.umw.edu/admissions/apply/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -28,13 +28,4 @@ For BLS &amp; BSN programs for adult students.
 </div>
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-<div class="one-third">
-
-<em>The University of Mary Washington does not discriminate on the basis of race, color, religion, national origin, disability, sex, sexual orientation, marital status, age or political affiliation in its programs and activities. <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Combined-Notice-of-Nondiscrimination.docx">Additional information and contact information</a> for the nondiscrimination policy. </em>
-
-</div>
+<em>The University of Mary Washington does not discriminate on the basis of race, color, religion, national origin, disability, sex, sexual orientation, marital status, age or political affiliation in its programs and activities. Nondiscrimination policy: <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Combined-Notice-of-Nondiscrimination.docx">Contacts and additional information</a> </em>
