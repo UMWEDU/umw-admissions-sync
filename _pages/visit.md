@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2015-05-26 01:36:38
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/visit/
+permalink: http://www.umw.edu/admissions/visit/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
