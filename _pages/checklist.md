@@ -6,7 +6,7 @@ post_date: 2015-07-22 10:11:57
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/international/checklist/
+  http://www.umw.edu/admissions/international/checklist/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -33,7 +33,6 @@ Send transcripts and/or exam results – matriculation/secondary school certific
 <ul>
  	<li><a href="http://www.wes.org">World Education Services Inc.</a></li>
  	<li><a href="https://www.ece.org/">Educational Credential Evaluators</a></li>
- 	<li><a href="http://www.aacrao.org/">American Association of Collegiate Registrars and Admissions Officers</a></li>
 </ul>
 <strong>3. References</strong>
 
