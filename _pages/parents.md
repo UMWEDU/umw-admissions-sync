@@ -6,8 +6,10 @@ post_date: 2015-06-03 09:06:51
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/parents/
+  https://www.umw.edu/admissions/youarein/parents/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <img class="alignnone size-full wp-image-48038" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/06/UMWMom-e1441229944460.jpg" alt="Mom and daughter in a residence hall." width="100%" />
 <h2>Parent’s Summer Chat Series</h2>
