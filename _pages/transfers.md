@@ -1,7 +1,7 @@
 ---
 ID: 47811
 post_title: New Students for Spring
-author: Admin
+author: UMW
 post_date: 2014-11-11 10:45:40
 post_excerpt: ""
 layout: page
@@ -10,7 +10,7 @@ permalink: >
 published: true
 ---
 We're excited to have you join us at UMW! Please take a look at the checklist below for your next steps.
-<p style="color: #25150c"><a style="color: #002b5a" href="http://admissions.umw.edu/youarein/files/2011/12/Orientation-65.jpg"><img class="size-medium wp-image-45851 alignright" src="http://admissions.umw.edu/youarein/files/2011/12/Orientation-65-300x203.jpg" alt="" width="300" height="203" /></a></p>
+<p style="color: #25150c"><a style="color: #002b5a" href="http://admissions.umw.edu/youarein/files/2011/12/Orientation-65.jpg"><img class="alignright wp-image-45851 size-medium" src="http://admissions.umw.edu/youarein/files/2011/12/Orientation-65-300x203.jpg" alt="new student orientation activities" width="300" height="203" /></a></p>
 
 <ul>
  	<li><a href="/admissions/youarein/enrollment-deposit/">Pay your deposit</a> by the date indicated on your letter.</li>
