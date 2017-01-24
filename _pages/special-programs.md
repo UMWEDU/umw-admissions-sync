@@ -8,8 +8,10 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/undergraduate/checklist/special-programs/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
-<strong><img class="size-medium wp-image-48204 alignright" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/IMG_2643b-300x200.jpg" alt="img_2643b" width="300" height="200" /></strong>
+<strong><img class="alignright wp-image-48204 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/IMG_2643b-300x200.jpg" alt="Students in Trinkle Hall" width="300" height="200" /></strong>
 
 Students interested in the following programs Honors, <a href="#Pre-Nursing">Pre-Nursing</a>, or <a href="#STP">STP</a> should respond affirmatively to questions within the application for admission.
 <h3><strong>Admission to the Honors Program</strong></h3>
