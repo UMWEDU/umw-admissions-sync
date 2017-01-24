@@ -7,8 +7,19 @@ post_excerpt: ""
 layout: page
 permalink: http://www.umw.edu/admissions/graduate/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "1"
+wpcf-homepage-copy:
+  - |
+    <ul>
+    <li><a href="https://www.umw.edu/admissions/graduate/degrees/">Master of Education</a></li>
+    <li><a href="https://www.umw.edu/admissions/graduate/degrees/mba/">Master of Business</a></li>
+    <li><a href="https://www.umw.edu/admissions/graduate/degrees/msga/">Master of Science in Geospatial Analysis</a></li>
+    <li><a href="https://www.umw.edu/admissions/graduate/pathway-programs/">Five-Year Pathways (4+1)</a></li>
+    <li><a href="http://www.umw.edu/financialaid/process/graduate-students/">Graduate Program Scholarships &amp; Resources</a></li>
+    </ul>
 ---
-<img class="" src="https://umwedu.smugmug.com/Stafford-Campus/i-tDp87Qb/0/X2/Library%203-X2.jpg" alt="" width="1280" height="823" />
+<img class="alignnone" src="https://umwedu.smugmug.com/Stafford-Campus/i-tDp87Qb/0/X2/Library%203-X2.jpg" alt="Students in Stafford Campus library" width="1280" height="823" />
 <h2><strong>A Tradition of Academic Excellence</strong></h2>
 UMW has over 105 years of history and is one of Virginia’s outstanding public liberal arts and sciences universities, providing a superior education that inspires and enables our students to make positive changes in the world.  At UMW, graduate students will:
 <ul>
