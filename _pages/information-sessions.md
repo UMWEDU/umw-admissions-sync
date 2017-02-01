@@ -44,10 +44,9 @@ MSGA 4+1 Program for Current Undergraduate Students
 
 <strong>MSGA Virtual Information Session
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b0d6af28fb834c77b6fc39f7516dc123">Tuesday, February 28</a> at 2 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f576ef24e4034bf28d5e63eb1126d179">Wednesday, March 22</a> at 12 p.m.<strong>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f576ef24e4034bf28d5e63eb1126d179">Wednesday, March 22</a> at 12 p.m.
 
-
-</strong>
+&nbsp;
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3> Office Hours at Marine Corps Base Quantico</h3>
