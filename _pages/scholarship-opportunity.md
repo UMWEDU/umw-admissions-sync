@@ -6,7 +6,7 @@ post_date: 2014-03-14 12:13:39
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/paying-for-your-education/scholarship-opportunity/
+  https://www.umw.edu/admissions/youarein/paying-for-your-education/scholarship-opportunity/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
