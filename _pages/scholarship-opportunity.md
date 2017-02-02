@@ -6,8 +6,10 @@ post_date: 2014-03-14 12:13:39
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/paying-for-your-education/scholarship-opportunity/
+  https://www.umw.edu/admissions/youarein/paying-for-your-education/scholarship-opportunity/
 published: true
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>Renewable Scholarship Opportunity for Incoming Freshmen</h2>
 Students selected as Dorsey Scholars commit their time and talents over their four years to furthering the mission of diversity, service, and leadership on the UMW campus and in the greater Fredericksburg community.
