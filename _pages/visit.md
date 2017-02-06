@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2015-05-26 01:36:38
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/visit/
+permalink: http://www.umw.edu/admissions/visit/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -15,7 +15,7 @@ wpcf-home-page-grid-inclusion:
 One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg. There are so many ways to get to know us!
 <h2>On campus:</h2>
 <ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. Registration for sessions is in Lee Hall, room 301.</li>
  	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577db2b56b5bf984f02b6c934f135280728">Step onto UMW</a>: Step onto campus for an information session and tour, hear from a student panel, attend a financial aid workshop, have dinner and cap the program off with the 26th Annual Step Show Competition (dinner ticket provided for the student only). If you're interested in participating in on-site admissions, please apply by February 1. Event is reserved for high school seniors.</li>
  	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal! Pick your visit based on your academic interests and follow a current student through a typical day on campus.
