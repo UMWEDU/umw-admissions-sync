@@ -6,7 +6,7 @@ post_date: 2015-05-26 01:26:51
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/
+  https://www.umw.edu/admissions/undergraduate/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
