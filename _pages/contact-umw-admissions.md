@@ -6,7 +6,7 @@ post_date: 2017-01-19 15:46:50
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/contact-umw-admissions/
+  http://www.umw.edu/admissions/contact-umw-admissions/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
