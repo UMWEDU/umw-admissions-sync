@@ -5,7 +5,7 @@ author: Shelley Keith
 post_date: 2015-05-26 01:27:13
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/admissions/graduate/
+permalink: https://www.umw.edu/admissions/graduate/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
