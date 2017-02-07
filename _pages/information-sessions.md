@@ -39,10 +39,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736e6fc8cc3264636ba4e19d6b2a0742a">Tuesday, April 11</a> at 4 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ec4150634184291b04befcdd87b6e27">Tuesday, April 11</a> at 7 p.m.
 <strong>
-MSGA 4+1 Program for Current Undergraduate Students
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357704c6f6bf62994b97bd0782ff68c824cc">Tuesday, February 7</a> at 4 p.m. in Monroe 319
-
-<strong>MSGA Virtual Information Session
+</strong><strong>MSGA Virtual Information Session
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b0d6af28fb834c77b6fc39f7516dc123">Tuesday, February 28</a> at 2 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f576ef24e4034bf28d5e63eb1126d179">Wednesday, March 22</a> at 12 p.m.
 
