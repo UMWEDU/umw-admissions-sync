@@ -6,7 +6,7 @@ post_date: 2017-02-07 12:21:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/chili-cook-off/
+  https://www.umw.edu/admissions/chili-cook-off/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
