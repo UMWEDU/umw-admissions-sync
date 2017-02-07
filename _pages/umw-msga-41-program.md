@@ -6,7 +6,7 @@ post_date: 2017-02-07 11:09:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/degrees/msga/umw-msga-41-program/
+  http://www.umw.edu/admissions/graduate/umw-msga-41-program/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
