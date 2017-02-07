@@ -6,7 +6,7 @@ post_date: 2016-01-13 13:05:45
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/youarein/next-steps/admitted/
+  http://www.umw.edu/admissions/youarein/next-steps/admitted/
 published: true
 wpsi_page_checks:
   - 'a:7:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458137028;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458137004;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458136789;}i:3;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979096;}i:4;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979041;}i:5;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457550087;}i:6;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
@@ -22,4 +22,15 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a6a4273b817c4c42afabde34a85c91d6">March 18</a></li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774505b8175abb4cbfb591fe28118a1c8e">April 8</a></li>
 </ul>
-<h2></h2>
+<h2> MOVE (Multicultural Overnight Visit Experience)</h2>
+You’ll have an opportunity to:
+<ul>
+ 	<li>Attend class</li>
+ 	<li>Eat in the dining hall</li>
+ 	<li>Participate in extracurricular activities</li>
+ 	<li>Dine with faculty, staff, and alumni</li>
+ 	<li>Spend the night in a residence hall</li>
+</ul>
+Stay for the 27th Annual Multicultural Fair on Saturday. If you've paid the enrollment fee and completed the first-year questionnaire, you can find out your First-Year Seminar and residence hall assignment.
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577491b64b41a6045088f853ed6ce0e14e6">Register</a> by March 24.
