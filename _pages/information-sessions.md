@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -33,6 +33,9 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <strong>Master of Education with Teacher Licensure</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ac53587917954e6a9d6526d986b55d5c">Monday, March 13</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746ca0982723b42cda6ebd9b6e6a5d707">Monday, April 10</a>
+
+<strong>Master of Science in Geospatial Analysis (MSGA) for Current Undergraduate Students</strong>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357704c6f6bf62994b97bd0782ff68c824cc">Tuesday, February 14</a> at 4 p.m. in Monroe Hall, Room 319
 
 <strong>Master of Science in Geospatial Analysis (MSGA)
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577530d30ecfa16425a8a4522841f4c6219">Wednesday, March 15</a> at 4 p.m.
