@@ -6,13 +6,13 @@ post_date: 2017-02-07 11:09:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/degrees/msga/5-year/
+  http://www.umw.edu/admissions/graduate/degrees/msga/5-year/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2><strong>Earn Two Degrees in Five Years!</strong></h2>
-Now you can earn two degrees in approximately five years right here at UMW! Polish your GIS skills and enhance your analysis abilities. Gain the edge you need to establish your position in a fast-growing and in-demand industry. The 4+1 program is designed to prepare our students for success through a small class environment with experienced faculty, practical coursework, and a remarkable capstone experience.
+<img class="alignleft wp-image-48303 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/02/NS-GIS-6-300x196.jpg" alt="GIS Class" width="300" height="196" />Now you can earn two degrees in approximately five years right here at UMW! Polish your GIS skills and enhance your analysis abilities. Gain the edge you need to establish your position in a fast-growing and in-demand industry. The 4+1 program is designed to prepare our students for success through a small class environment with experienced faculty, practical coursework, and a remarkable capstone experience.
 
 Undergraduate students may apply for provisional admission to the MSGA in the second semester of their junior year. This program is designed for students of any major, but they must have <em>completed</em> at least two GIS courses.
 
