@@ -6,7 +6,7 @@ post_date: 2017-02-07 11:09:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/degrees/msga/5-year/
+  http://www.umw.edu/admissions/graduate/degrees/msga/5-year/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -28,7 +28,9 @@ College of Arts and Sciences Admission Requirements
 </ul>
 Application Deadlines
 <ul>
- 	<li>The second semester of the students’ junior year on the Monday of the 6<span style="font-size: 13.3333px">th</span> week of that semester</li>
+ 	<li>For students starting their senior year in fall of 2017, the deadline is February 20, 2017.</li>
+ 	<li>For students starting their senior year in spring of 2018, the deadline is October 2, 2017.</li>
+ 	<li>For students starting their senior year in fall of 2018, the deadline is February 19, 2018.</li>
 </ul>
 <h2><strong>Housing Opportunity</strong></h2>
 Students for both summer and fall terms of their graduate program may qualify to receive a housing incentive (50% off cost) if they choose to stay on campus while completing their graduate degree. This is a first come first serve offer with a limited number of spaces available.
