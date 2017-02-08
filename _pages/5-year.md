@@ -6,7 +6,7 @@ post_date: 2017-02-07 11:09:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/degrees/msga/5-year/
+  http://www.umw.edu/admissions/graduate/degrees/msga/5-year/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -17,16 +17,13 @@ wpcf-home-page-grid-inclusion:
 Undergraduate students may apply for provisional admission to the MSGA in the second semester of their junior year. This program is designed for students of any major, but they must have <em>completed</em> at least two GIS courses.
 
 Once admitted, the student would take MSGA 510, Spatial Thinking in the fall semester of their senior year and MSGA 520, GeoDesign and GeoVisualization, in the spring semester of their senior year. These courses are not sequenced and may be taken in either order.
-
-College of Arts and Sciences Admission Requirements
+<h2>College of Arts and Sciences Admission Requirements</h2>
 <ul>
- 	<li><strong><u>Undergraduate Application for Admission</u></strong></li>
+ 	<li>70 completed credits of Undergraduate study</li>
  	<li>Minimum GPA of a 2.7 and at least two GIS courses with a grade of B or higher in each</li>
- 	<li>Resume</li>
  	<li>One letter of recommendation from a UMW professor attesting to GIS experience</li>
- 	<li>Goal Statement</li>
 </ul>
-Application Deadlines
+<h2><strong>Application Deadlines</strong></h2>
 <ul>
  	<li>For students starting their senior year in fall of 2017, the deadline is February 20, 2017.</li>
  	<li>For students starting their senior year in spring of 2018, the deadline is October 2, 2017.</li>
