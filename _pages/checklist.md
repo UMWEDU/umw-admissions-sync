@@ -6,7 +6,7 @@ post_date: 2015-05-26 18:51:28
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/checklist/
+  http://www.umw.edu/admissions/undergraduate/checklist/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
@@ -27,7 +27,7 @@ Take a look at the checklist below and start getting everything submitted. We’
 <ul>
  	<li>Nov. 1 for Early Decision (notification by December 10 and reply date of January 10)</li>
  	<li>Nov. 15 for Early Action (notification by January 31 and reply date of May 1)</li>
- 	<li>UMW is still accepting applications for regular decision.</li>
+ 	<li>UMW is currently accepting applications for Regular Decision consideration. Students who apply and complete their application for admission by March 15 will be notified by the April 1 Regular Decision notification date.</li>
 </ul>
 Prospective high school seniors have the option to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> with our Admissions staff as part of the admissions process. Students may choose to interview in person or provide a <a href="https://www.zeemee.com/">Zeemee</a> profile to be considered for a "top-up" scholarship that ranges from $1,000 to $7,000.
 <h2>First Year Admission Checklist</h2>
