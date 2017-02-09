@@ -6,7 +6,7 @@ post_date: 2015-05-26 18:51:28
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/checklist/
+  http://www.umw.edu/admissions/undergraduate/checklist/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
