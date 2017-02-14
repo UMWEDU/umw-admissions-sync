@@ -6,8 +6,10 @@ post_date: 2015-08-12 08:04:59
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/readmission/
+  https://www.umw.edu/admissions/undergraduate/readmission/
 published: true
+wpsi_page_checks:
+  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16044446114;s:3:"url";s:56:"http://www.umw.edu/admissions/undergraduate/readmission/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044446114";}s:4:"time";i:1457979390;}}'
 ---
 <h2>Come back to UMW!</h2>
 Where did you go? We’ve missed you! If you’re an undergraduate student who’s been MIA for three consecutive semesters (not including summers) and wish to come back to campus and get back on track, here’s what you’ll need to know:
