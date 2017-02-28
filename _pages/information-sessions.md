@@ -6,8 +6,10 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/information-sessions/
+  https://www.umw.edu/admissions/graduate/information-sessions/
 published: true
+yst_prominent_words_version:
+  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
