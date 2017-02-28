@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -14,8 +14,7 @@ wpcf-home-page-grid-inclusion:
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 
 <strong>Master of Business Administration (MBA)
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577055a46cff8a9450b87d155d0f793fe53">Tuesday, February 21</a> at 6 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d62b47ea945b4597910a452c0ad62003">Thursday, March 9</a> at 8:30 a.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d62b47ea945b4597910a452c0ad62003">Thursday, March 9</a> at 8:30 a.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772e580d3a6c884c6584877594510a0e1b">Tuesday, April 4</a> at 6 p.m
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
 
@@ -23,7 +22,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357744b4d3834bd0413985c695827e358db0">Wednesday, April 26</a> at 4 p.m in the Hurley Convergence Center, Room 210
 
 <strong>MBA Virtual Information Session</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577241e1d0d50604662af957319949611d5">Monday, February 27</a> at 2 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357794be60416e59454ab65e41f5fdafdec9">Tuesday, March 7</a> at 12 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b88d81e82d354489a901c2da3743d69d">Wednesday, April 12</a> at 9 a.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357738a5cf007eaa4bcf85f409dd8baa22c3">Tuesday, May 2</a> at 11 a.m.
@@ -31,9 +29,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <strong>Master of Education with Teacher Licensure</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ac53587917954e6a9d6526d986b55d5c">Monday, March 13</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746ca0982723b42cda6ebd9b6e6a5d707">Monday, April 10</a>
-
-<strong>Master of Science in Geospatial Analysis (MSGA) for Current Undergraduate Students</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357704c6f6bf62994b97bd0782ff68c824cc">Tuesday, February 14</a> at 4 p.m. in Monroe Hall, Room 319
 
 <strong>Master of Science in Geospatial Analysis (MSGA)
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577530d30ecfa16425a8a4522841f4c6219">Wednesday, March 15</a> at 4 p.m.
