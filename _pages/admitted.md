@@ -10,10 +10,10 @@ permalink: >
 published: true
 wpsi_page_checks:
   - 'a:7:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458137028;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458137004;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458136789;}i:3;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979096;}i:4;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979041;}i:5;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457550087;}i:6;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <img class="alignleft wp-image-48254" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/01/Homecoming-20-1024x669.jpg" alt="UMW Homecoming, Saturday Oct. 22, 2016. (Photo by Norm Shafer)." width="600" height="392" />
 <h2>Destination UMW</h2>
