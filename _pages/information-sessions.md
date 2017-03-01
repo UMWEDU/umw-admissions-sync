@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -38,8 +38,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ec4150634184291b04befcdd87b6e27">Tuesday, April 11</a> at 7 p.m.
 <strong>
 </strong><strong>MSGA Virtual Information Session
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b0d6af28fb834c77b6fc39f7516dc123">Tuesday, February 28</a> at 2 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f576ef24e4034bf28d5e63eb1126d179">Wednesday, March 22</a> at 12 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f576ef24e4034bf28d5e63eb1126d179">Wednesday, March 22</a> at 12 p.m.
 
 &nbsp;
 <h1>Individual Attention</h1>
