@@ -6,14 +6,14 @@ post_date: 2015-08-07 12:51:14
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/visit/open-houses/
+  https://www.umw.edu/admissions/visit/open-houses/
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16055941977;s:3:"url";s:48:"http://www.umw.edu/admissions/visit/open-houses/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16055941977";}s:4:"time";i:1458141891;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16055941977;s:3:"url";s:48:"http://www.umw.edu/admissions/visit/open-houses/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16055941977";}s:4:"time";i:1458141875;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <em>Especially for high school juniors and seniors and transfer students.</em>
 <h2>Come explore UMW during an Open House!</h2>
