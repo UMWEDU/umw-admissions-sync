@@ -1,12 +1,12 @@
 ---
 ID: 39511
 post_title: Next Steps
-author: Admin
+author: UMW
 post_date: 2011-12-14 15:12:45
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/next-steps/
+  https://www.umw.edu/admissions/youarein/next-steps/
 published: true
 eps-slideshow-enable:
   - "0"
