@@ -5,12 +5,12 @@ author: Shelley Keith
 post_date: 2015-05-26 01:36:38
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/admissions/visit/
+permalink: https://www.umw.edu/admissions/visit/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <img class="size-full wp-image-93" src="/admissions/wp-content/uploads/sites/6/2015/05/visit.jpg" alt="Dancer shows his skills at the annual Multicultural Fair, Saturday, April 13, 2013. (Photo by Norm Shafer)." width="800" height="327" />
 
