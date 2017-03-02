@@ -6,7 +6,7 @@ post_date: 2011-12-14 15:12:45
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/next-steps/
+  https://www.umw.edu/admissions/youarein/next-steps/
 published: true
 eps-slideshow-enable:
   - "0"
@@ -100,6 +100,8 @@ eps-slideshow-link-thickbox-45851:
   - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <img class="alignnone size-full wp-image-47965" src="/admissions/wp-content/uploads/sites/6/2011/12/NS-Move-In-2011-1A.jpg" alt="Move in day for freshman at UMW. 8/24/2011. (Photo by Norm Shafer)." width="100%" />
 <h2>Checklist of steps to take:</h2>
