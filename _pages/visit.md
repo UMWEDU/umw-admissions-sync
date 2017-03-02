@@ -5,10 +5,12 @@ author: Shelley Keith
 post_date: 2015-05-26 01:36:38
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/admissions/visit/
+permalink: http://www.umw.edu/admissions/visit/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
 <img class="size-full wp-image-93" src="/admissions/wp-content/uploads/sites/6/2015/05/visit.jpg" alt="Dancer shows his skills at the annual Multicultural Fair, Saturday, April 13, 2013. (Photo by Norm Shafer)." width="800" height="327" />
 
@@ -20,7 +22,7 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577db2b56b5bf984f02b6c934f135280728">Step onto UMW</a>: Step onto campus for an information session and tour, hear from a student panel, attend a financial aid workshop, have dinner and cap the program off with the 26th Annual Step Show Competition (dinner ticket provided for the student only). If you're interested in participating in on-site admissions, please apply by February 1. Event is reserved for high school seniors.</li>
  	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal! Pick your visit based on your academic interests and follow a current student through a typical day on campus.
 Reserved for high school seniors.</li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a "top-up" scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and are being held until March 1.</li>
+ 	<li>Interview: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “top-up” scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and will resume later this summer through March 1, 2018 for fall 2018 admission candidates.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
 <h2>Off Campus</h2>
