@@ -6,7 +6,7 @@ post_date: 2011-12-14 15:12:45
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/youarein/next-steps/
+  http://www.umw.edu/admissions/youarein/next-steps/
 published: true
 eps-slideshow-enable:
   - "0"
@@ -117,7 +117,7 @@ wpcf-home-page-grid-inclusion:
  	<li>Capture your <a href="http://technology.umw.edu/logins/">NET ID</a> after paying your deposit. (NET IDs are generated within 24 hours of deposit).</li>
  	<li>Complete your <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a>. Contact the <a href="/directory/department/provost/engagement/disability-resources/">Office of Disability Resources</a> at (540) 654-1266 with any questions about special <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">housing accommodation requests</a>.</li>
  	<li>UMW Scholarship Application for consideration of additional foundation scholarships is May 1.</li>
- 	<li>Register for and attend <a href="http://orientation.umw.edu/">Orientation</a> for first year students in June, a two-day program required for all incoming students and parents. Register through the <a href="https://orgsync.com/82489/chapter">Eagle Gateway</a> on <a href="https://orgsync.com/home/551">MyUMW</a>.</li>
+ 	<li>Register for and attend <a href="http://orientation.umw.edu/">Orientation</a> for first year students in June, a two-day program required for all incoming students and parents.</li>
  	<li>Ask your Guidance Counselor to submit a Final Grade Report or a final high school transcript as soon as your final grades are available, but no later than July 1.</li>
  	<li>Have all Advanced Placement or International Baccalaureate exam scores and/or official transcripts of all college coursework sent directly to the <a href="/directory/department/admissions/">Admissions Office</a> at UMW.</li>
  	<li>If interested, sign up for <a href="http://adminfinance.umw.edu/studentaccounts/eaglepay/">Authorized Payers</a> who will be emailed students’ bills and will be able to login to EaglePAY to make payments or setup a payment plan.</li>
