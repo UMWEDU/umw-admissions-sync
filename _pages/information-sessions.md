@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -30,7 +30,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 
 <h4><span style="color: #0000ff">Education</span></h4>
 <span style="color: #000000"><strong>Master of Education with Teacher Licensure</strong></span>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746ca0982723b42cda6ebd9b6e6a5d707">Monday, April 10</a> at 6 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746ca0982723b42cda6ebd9b6e6a5d707">Monday, April 10</a> at 6 p.m. (UMW Stafford Campus)
 
 <strong>Fredericksburg City Teachers</strong>
 Educational Leadership and Literacy Specialist
