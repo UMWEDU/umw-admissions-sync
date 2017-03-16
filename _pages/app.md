@@ -18,7 +18,7 @@ UMW and Germanna Community College (GCC), recognizing the need for registered n
  	<li>Students will apply for a second admission to the GCC Nursing Program by April 1st for the following fall term.  Students must meet all published procedures and deadlines for application to the GCC Nursing Program.</li>
  	<li>Pre-licensure nursing programs are competitive. UMW students entering the BSN-APP (1 + 2 + 1 BSN Plan) during their first year are not guaranteed acceptance to the GCC Nursing Program.</li>
  	<li>Students who live on campus will use their UMW address to qualify for GCC residency requirements.</li>
- 	<li>UMW students who live off campus must claim residency in one of the following areas: Culpeper, Madison, Orange, Spotsylvania, Stafford, Fredericksburg, Caroline, or King George.</li>
+ 	<li>Students are required to live on-campus.</li>
  	<li>Students must provide their own transportation to GCC.</li>
 </ul>
 <h3>Years 2 &amp; 3:</h3>
