@@ -6,8 +6,12 @@ post_date: 2015-08-12 09:06:52
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/adult/bsn/app/
+  https://www.umw.edu/admissions/adult/bsn/app/
 published: true
+yst_prominent_words_version:
+  - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <h2>There’s more than one way to earn a BSN from UMW!</h2>
 UMW and Germanna Community College (GCC), recognizing the need for registered nurses to achieve baccalaureate degrees in nursing, created a Bachelor of Science in Nursing Academic Partnership Plan (BSN-APP). Also known as a 1 + 2 + 1 BSN Plan, the program provides an improved education system that promotes seamless academic progression. The agreement is designed for UMW pre-BSN students interested in earning a pre-licensure associate of applied science (A.A.S.) degree in nursing from GCC and a post-licensure bachelor of science in nursing from UMW.
