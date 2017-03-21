@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -49,8 +49,7 @@ Educational Leadership and Literacy Specialist
 
 <h4><span style="color: #0000ff">Geospatial Analysis</span></h4>
 <strong><span style="color: #000000">Master of Science in Geospatial Analysis (MSGA)</span>
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577530d30ecfa16425a8a4522841f4c6219">Wednesday, March 15</a> at 4 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736e6fc8cc3264636ba4e19d6b2a0742a">Tuesday, April 11</a> at 4 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736e6fc8cc3264636ba4e19d6b2a0742a">Tuesday, April 11</a> at 4 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ec4150634184291b04befcdd87b6e27">Tuesday, April 11</a> at 7 p.m.
 <strong>
 </strong><strong>MSGA Virtual Information Session
