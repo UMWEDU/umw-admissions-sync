@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -19,7 +19,9 @@ The best way to learn about graduate programs at the University of Mary Washingt
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772e580d3a6c884c6584877594510a0e1b">Tuesday, April 4</a> at 6 p.m
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
 
-<strong>MBA 4+1 Program for Current Undergraduate Students</strong>
+<strong>MBA 4+1 Program for Current Undergraduate Students
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357763fbc8a467464a5ab2448e7252ec4d02">Wednesday, April 12</a> at 4 p.m. in the Hurley Convergence Center, Room 210
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776c66fe6ad98f45a6a2e3d1c10b8cd1c9">Wednesday, April 19</a> at 3:30 p.m. in the Hurley Convergence Center, Room 210
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357744b4d3834bd0413985c695827e358db0">Wednesday, April 26</a> at 4 p.m in the Hurley Convergence Center, Room 210
 
 <strong>MBA Virtual Information Session</strong>
@@ -50,12 +52,8 @@ Educational Leadership and Literacy Specialist
 <h4><span style="color: #0000ff">Geospatial Analysis</span></h4>
 <strong><span style="color: #000000">Master of Science in Geospatial Analysis (MSGA)</span>
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736e6fc8cc3264636ba4e19d6b2a0742a">Tuesday, April 11</a> at 4 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ec4150634184291b04befcdd87b6e27">Tuesday, April 11</a> at 7 p.m.
-<strong>
-</strong><strong>MSGA Virtual Information Session
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f576ef24e4034bf28d5e63eb1126d179">Wednesday, March 22</a> at 12 p.m.
-
-&nbsp;
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ec4150634184291b04befcdd87b6e27">Tuesday, April 11</a> at 7 p.m.<strong>
+</strong>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3> Office Hours at Marine Corps Base Quantico</h3>
