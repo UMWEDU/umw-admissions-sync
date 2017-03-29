@@ -8,10 +8,12 @@ post_date: 2017-03-29 08:57:19
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/checklist/accelerated-early-admission-partnership-programs/
+  https://www.umw.edu/admissions/undergraduate/checklist/accelerated-early-admission-partnership-programs/
 published: true
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <strong>3+3 Accelerated Program to George Mason University’s Antonin</strong> <strong>Scalia Law School</strong>
 
