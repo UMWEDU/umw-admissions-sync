@@ -6,8 +6,12 @@ post_date: 2015-06-11 17:56:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/transfer/transfer-applicant-process/
+  https://www.umw.edu/admissions/transfer/transfer-applicant-process/
 published: true
+yst_prominent_words_version:
+  - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 No matter how, where, or why you began your college career, the University of Mary Washington is a great place to finish. Here’s a step-by-step guide to help get you started.
 <ol>
