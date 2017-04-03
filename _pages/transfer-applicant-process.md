@@ -16,7 +16,7 @@ No matter how, where, or why you began your college career, the University of 
 <ul>
  	<li>Spring semester: Oct. 15</li>
  	<li>Summer semester: March 1</li>
- 	<li>Fall semester: April 1</li>
+ 	<li>Fall semester: April 1 (still accepting applications)</li>
 </ul>
 </li>
  	<li>Decide if you can take advantage of the Guaranteed Admissions Agreement UMW has with the Virginia Community College System and Richard Bland College. If you’ve earned an associate’s degree, with a 3.25 minimum cumulative GPA, you may qualify. If you choose this option, please include the GAA Student Letter of Intent form with your application.</li>
