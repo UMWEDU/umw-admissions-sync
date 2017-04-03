@@ -6,7 +6,7 @@ post_date: 2016-01-13 13:05:45
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/youarein/next-steps/admitted/
+  http://www.umw.edu/admissions/youarein/next-steps/admitted/
 published: true
 wpsi_page_checks:
   - 'a:7:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458137028;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458137004;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1458136789;}i:3;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979096;}i:4;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457979041;}i:5;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457550087;}i:6;O:8:"stdClass":5:{s:8:"check_id";i:15945822442;s:3:"url";s:59:"http://www.umw.edu/admissions/youarein/next-steps/admitted/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945822442";}s:4:"time";i:1457374573;}}'
@@ -23,29 +23,3 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <ul>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774505b8175abb4cbfb591fe28118a1c8e">April 8</a></li>
 </ul>
-<h2> MOVE (Multicultural Overnight Visit Experience)</h2>
-On Friday, March 31 and Saturday, April 1, you’ll have an opportunity to:
-<ul>
- 	<li>Attend class</li>
- 	<li>Eat in the dining hall</li>
- 	<li>Participate in extracurricular activities</li>
- 	<li>Dine with faculty, staff, and alumni</li>
- 	<li>Spend the night in a residence hall</li>
-</ul>
-Stay for the 27th Annual Multicultural Fair on Saturday. If you've paid the enrollment fee and completed the first-year questionnaire, you can find out your First-Year Seminar and residence hall assignment. <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577491b64b41a6045088f853ed6ce0e14e6">Register</a> by March 24.
-<h2>Receptions</h2>
-Attend a reception where you’ll meet admissions staff, UMW alumni, current parents and students. They'll tell you all about Mary Washington and answer any questions you have. Light refreshments will be provided. Please register by selecting a date below.
-
-Maryland
-Saturday, <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357772e69e1e4fb543d28cd19282d4f01997">March 25</a>: 5:30-6:30 p.m.
-The reception is hosted by Kirsten Angle Rowan ’98 and Peter Rowan.
-
-Northern Virginia
-Wednesday, <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b921e48b7fdc40abbc91219a9bb68fe1">March 29</a>: 6-8 p.m.
-The reception is hosted by Richard Snoots ‘11.
-
-Richmond
-Sunday, <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775589ecda97e443b2b96949d24974738c">April 2</a>: 2-4 p.m.
-The reception is hosted by Chip and Dee Dee Tarkenton, parents of a current UMW student.
-
-&nbsp;
