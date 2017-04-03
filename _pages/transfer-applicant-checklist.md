@@ -10,10 +10,12 @@ permalink: >
 published: true
 wpsi_page_checks:
   - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16057183158;s:3:"url";s:95:"http://www.umw.edu/admissions/transfer/transfer-applicant-process/transfer-applicant-checklist/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16057183158";}s:4:"time";i:1458153394;}}'
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ details. Take a look at this handy checklist and start getting everything submitted. We’re excited to read your application!
 
-Suggested filing dates are April 1 for the fall semester, Oct. 15 for spring, and March 1 for summer. Admissions decisions are sent by letter as they are made.
+Suggested filing dates are April 1 for the fall semester, Oct. 15 for spring, and March 1 for summer. Admissions decisions are sent by letter as they are made. Still accepting applications for the fall semester.
 
 Use the checklist below to be sure you’ve got everything covered.
 <ul>
