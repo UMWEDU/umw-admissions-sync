@@ -6,8 +6,10 @@ post_date: 2015-09-02 15:06:49
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/transfer/fast-facts/
+  https://www.umw.edu/admissions/transfer/fast-facts/
 published: true
+yst_prominent_words_version:
+  - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
