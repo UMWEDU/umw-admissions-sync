@@ -6,15 +6,14 @@ post_date: 2015-08-07 12:04:15
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/advising/readmission/
+  http://www.umw.edu/admissions/graduate/advising/readmission/
 published: true
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-<strong> </strong>
-<h2>Welcome Back!</h2>
+<h2><strong> </strong>Welcome Back!</h2>
 Returning to UMW to complete your graduate degree can be completed in just a few easy steps!
 <ul>
  	<li>You must apply for readmission by submitting the online <a href="https://www.applyweb.com/umw/menu.html"><strong>Readmission Application</strong></a>,
