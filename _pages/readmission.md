@@ -6,10 +6,12 @@ post_date: 2015-08-07 12:04:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/advising/readmission/
+  https://www.umw.edu/admissions/graduate/advising/readmission/
 published: true
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 <strong> </strong>
 <h2>Welcome Back!</h2>
