@@ -1,27 +1,25 @@
 ---
-ID: 47997
-post_title: Readmission
+ID: 198
+post_title: Graduate Readmission
 author: Shelley Keith
-post_date: 2015-08-12 08:04:59
+post_date: 2015-08-07 12:04:15
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/undergraduate/readmission/
+  https://www.umw.edu/admissions/graduate/advising/readmission/
 published: true
-wpsi_page_checks:
-  - 'a:1:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16044446114;s:3:"url";s:56:"http://www.umw.edu/admissions/undergraduate/readmission/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044446114";}s:4:"time";i:1457979390;}}'
-wpcf-home-page-grid-inclusion:
-  - "0"
 ---
-<h2>Come back to UMW!</h2>
-Where did you go? We’ve missed you! If you’re an undergraduate student who’s been MIA for three consecutive semesters (not including summers) and wish to come back to campus and get back on track, here’s what you’ll need to know:
-
-<em>If you were on a UMW-approved leave of absence for each non-attending semester, you do <strong>not </strong>need to apply for readmission. </em>
+<strong> </strong>
+<h2>Welcome Back!</h2>
+Returning to UMW to complete your graduate degree can be completed in just a few easy steps!
 <ul>
- 	<li>To be eligible for readmission, you must either have a GPA of at least 2.0 or seek approval from the Committee on Academic Standing. If you are unsure of your academic status, please contact the <a href="http://academics.umw.edu/registrar/">Office of the Registrar</a>.</li>
- 	<li>You must apply for readmission by submitting an <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Readmission-App-Feb-2017.pdf">Readmission Application </a> form, along with the $50 application fee. Fax to 540/654-1857 or mail to: Office of Admissions, 1301 College Ave., Fredericksburg, VA 22401</li>
- 	<li>Readmitted students are subject to current degree requirements.</li>
- 	<li>If you’ve attended any other educational institution during your absence from UMW, you must submit an official transcript from that school.</li>
- 	<li>Candidates wishing to be considered for in-state tuition must complete a new <a href="http://www.umw.edu/documents/document/application-for-virginia-in-state-tuition-rates-2/">Application for Virginia in-State Tuition Rates</a> form.</li>
+	<li>You must apply for readmission by submitting the online <a href="https://banner.umw.edu/prod/bwskalog.P_DispLoginNon"><strong>Readmission Application</strong></a>,
+<ul>
+	<li>Please Note: Readmitted students are subject to current degree requirements.</li>
 </ul>
-For additional general information on readmission and reinstatement, check out our <a href="http://publications.umw.edu/academicproceduresdirectory/readmission-procedures/">Readmission Procedures</a> or call (540) 654-2000.
+</li>
+	<li>If you’ve attended any other educational institution during your absence from UMW, you must submit an official transcript from each school attended.</li>
+	<li>Candidates wishing to be considered for in-state tuition must complete a new <a href="https://www.google.com/url?q=http://www.umw.edu/documents/document/application-for-virginia-in-state-tuition-rates-3/&amp;sa=U&amp;ved=0CAQQFjAAahUKEwiYhvaVrZfHAhXDOz4KHWogCqU&amp;client=internal-uds-cse&amp;usg=AFQjCNGqvooqQFphtbtE7EecY7piNpdN2g"><strong>Application for Virginia In-State Tuition Rates</strong></a></li>
+	<li>All non-United States citizens must complete the <a href="http://www.umw.edu/documents/document/international-student-application-supplement/"><strong>International Student Application Supplement</strong></a>.</li>
+</ul>
+For additional general information on readmission and reinstatement, check out the <a href="http://publications.umw.edu/dictionary"><strong>Dictionary of Academic Regulations</strong></a> or call (540) 286-8000.
