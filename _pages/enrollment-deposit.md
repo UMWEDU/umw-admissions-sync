@@ -1,12 +1,12 @@
 ---
 ID: 47671
 post_title: Enrollment Deposit
-author: Admin
+author: UMW
 post_date: 2014-11-05 11:10:41
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/next-steps/enrollment-deposit/
+  https://www.umw.edu/admissions/youarein/next-steps/enrollment-deposit/
 published: true
 ---
 <strong>Congratulations once again on being admitted to UMW!</strong> To confirm your intent to attend Mary Washington, you can either send a check or pay online.
