@@ -6,7 +6,7 @@ post_date: 2014-11-05 11:10:41
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/next-steps/enrollment-deposit/
+  https://www.umw.edu/admissions/youarein/next-steps/enrollment-deposit/
 published: true
 yst_prominent_words_version:
   - "1"
