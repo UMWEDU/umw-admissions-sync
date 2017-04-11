@@ -6,7 +6,7 @@ post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/information-sessions/
+  http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
 yst_prominent_words_version:
   - "1"
@@ -16,8 +16,7 @@ wpcf-home-page-grid-inclusion:
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
 <strong><span style="color: #000000">Master of Business Administration (MBA)</span>
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772e580d3a6c884c6584877594510a0e1b">Tuesday, April 4</a> at 6 p.m
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
 
 <strong>MBA 4+1 Program for Current Undergraduate Students
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357763fbc8a467464a5ab2448e7252ec4d02">Wednesday, April 12</a> at 4 p.m. in the Hurley Convergence Center, Room 210
@@ -31,21 +30,9 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <hr />
 
 <h4><span style="color: #0000ff">Education</span></h4>
-<span style="color: #000000"><strong>Master of Education with Teacher Licensure</strong></span>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746ca0982723b42cda6ebd9b6e6a5d707">Monday, April 10</a> at 6 p.m. (UMW Stafford Campus)
-
-<strong>Fredericksburg City Teachers</strong>
-Educational Leadership and Literacy Specialist
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736ee0b7e06e346a2a775fd2987a86ec7">Wednesday, April 5</a> from 4-5:30 p.m. in the James Monroe High School Lecture Hall
-
 <strong>Spotsylvania County Teachers</strong>
 Educational Leadership and Literacy Specialist
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357721bd26262119421384bb1ea34d7fcc9a">Wednesday, April 4</a> from 4-5:30 p.m. in the Riverbend High School Lecture Hall
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d6d5fede98f24b97bf32368e6321b816">Wednesday, April 12</a> from 4-5:30 p.m. in the Massaponax High School Library
-
-<strong>Stafford County Teachers</strong>
-Educational Leadership and Literacy Specialist
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777f14af572e2d424c9c128497f8310670">Wednesday, March 29</a> from 4-5:30 p.m. at the Professional Development Center (31 Stafford Ave)
 
 <hr />
 
