@@ -33,14 +33,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <strong>Spotsylvania County Teachers</strong>
 Educational Leadership and Literacy Specialist
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d6d5fede98f24b97bf32368e6321b816">Wednesday, April 12</a> from 4-5:30 p.m. in the Massaponax High School Library
-
-<hr />
-
-<h4><span style="color: #0000ff">Geospatial Analysis</span></h4>
-<strong><span style="color: #000000">Master of Science in Geospatial Analysis (MSGA)</span>
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736e6fc8cc3264636ba4e19d6b2a0742a">Tuesday, April 11</a> at 4 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ec4150634184291b04befcdd87b6e27">Tuesday, April 11</a> at 7 p.m.<strong>
-</strong>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3> Office Hours at Marine Corps Base Quantico</h3>
