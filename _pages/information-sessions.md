@@ -10,6 +10,8 @@ permalink: >
 published: true
 yst_prominent_words_version:
   - "1"
+yst_is_cornerstone:
+  - ""
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
