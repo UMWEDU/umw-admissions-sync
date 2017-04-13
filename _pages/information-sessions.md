@@ -21,23 +21,14 @@ The best way to learn about graduate programs at the University of Mary Washingt
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
 
 <strong>MBA 4+1 Program for Current Undergraduate Students
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357763fbc8a467464a5ab2448e7252ec4d02">Wednesday, April 12</a> at 4 p.m. in the Hurley Convergence Center, Room 210
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776c66fe6ad98f45a6a2e3d1c10b8cd1c9">Wednesday, April 19</a> at 3:30 p.m. in the Hurley Convergence Center, Room 210
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776c66fe6ad98f45a6a2e3d1c10b8cd1c9">Wednesday, April 19</a> at 3:30 p.m. in the Hurley Convergence Center, Room 210
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357744b4d3834bd0413985c695827e358db0">Wednesday, April 26</a> at 4 p.m in the Hurley Convergence Center, Room 210
 
 <strong>MBA Virtual Information Session</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b88d81e82d354489a901c2da3743d69d">Wednesday, April 12</a> at 9 a.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357738a5cf007eaa4bcf85f409dd8baa22c3">Tuesday, May 2</a> at 11 a.m.
-
-<hr />
-
-<h4><span style="color: #0000ff">Education</span></h4>
-<strong>Spotsylvania County Teachers</strong>
-Educational Leadership and Literacy Specialist
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d6d5fede98f24b97bf32368e6321b816">Wednesday, April 12</a> from 4-5:30 p.m. in the Massaponax High School Library
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
-<h3> Office Hours at Marine Corps Base Quantico</h3>
+<h3>Office Hours at Marine Corps Base Quantico</h3>
 Meet with Kyle Allwine, Assistant Director of Admissions, between 11 a.m. to 2 p.m. at the Quantico Education Center. Check back soon for spring 2017 dates.
 <h3>Master of Business Administration</h3>
 The <a href="http://www.umw.edu/admissions/graduate/degrees/mba/">Master of Business Administration</a> within UMW’s College of Business is a great choice for new and experienced professionals who want to assume management and leadership positions in a variety of organizational settings. Students will have the opportunity to hear from our faculty about the program requirements and application process.
