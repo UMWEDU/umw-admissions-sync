@@ -10,6 +10,8 @@ permalink: >
 published: true
 wpsi_page_checks:
   - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15946238917;s:3:"url";s:62:"http://www.umw.edu/admissions/apply/undergraduate-application/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15946238917";}s:4:"time";i:1457379060;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15946238917;s:3:"url";s:62:"http://www.umw.edu/admissions/apply/undergraduate-application/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15946238917";}s:4:"time";i:1457375777;}}'
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 The University of Mary Washington welcomes your application for admission. UMW uses The Common Application exclusively.
 <h2>Apply Online Using the Common Application</h2>
@@ -19,7 +21,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
  	<li>Freshman Applicants
 <ul>
  	<li>Early Decision - November 1</li>
- 	<li>Early Action – November 15 has been <span style="color: #ff0000">extended to Dec. 1</span></li>
+ 	<li>Early Action – November 15</li>
  	<li>Regular Decision - February 1</li>
 </ul>
 </li>
