@@ -21,8 +21,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
 
 <strong>MBA 4+1 Program for Current Undergraduate Students
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776c66fe6ad98f45a6a2e3d1c10b8cd1c9">Wednesday, April 19</a> at 3:30 p.m. in the Hurley Convergence Center, Room 210
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357744b4d3834bd0413985c695827e358db0">Wednesday, April 26</a> at 4 p.m in the Hurley Convergence Center, Room 210
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357744b4d3834bd0413985c695827e358db0">Wednesday, April 26</a> at 4 p.m in the Hurley Convergence Center, Room 210
 
 <strong>MBA Virtual Information Session</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357738a5cf007eaa4bcf85f409dd8baa22c3">Tuesday, May 2</a> at 11 a.m.
