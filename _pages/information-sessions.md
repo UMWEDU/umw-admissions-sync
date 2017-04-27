@@ -19,12 +19,15 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h4><span style="color: #0000ff">Business</span></h4>
 <strong><span style="color: #000000">Master of Business Administration (MBA)</span>
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
-
-<strong>MBA 4+1 Program for Current Undergraduate Students
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357744b4d3834bd0413985c695827e358db0">Wednesday, April 26</a> at 4 p.m in the Hurley Convergence Center, Room 210
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777f518a6b739c4f6fa5a2ce58344e1536">Friday, May 26</a>, at 6 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e7a0539fb00c4fa0a253fc8fa0c38832">Tuesday, June 13</a> at 6 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577cebf04891cee48e1b61d15896ea0912a">Tuesday, July 11</a> at 6 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e8934e0307ba47d789d0b6fd2c60cd93">Wednesday, August 9</a> at 6 p.m.
 
 <strong>MBA Virtual Information Session</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357738a5cf007eaa4bcf85f409dd8baa22c3">Tuesday, May 2</a> at 11 a.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ab59ce05ad754a44b49478a2730b1367">Thursday, June 8</a> at 4 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746fd949b05ba4ca7b9627d418214f60c">Tuesday, June 27</a> at 12:30 p.m.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Office Hours at Marine Corps Base Quantico</h3>
