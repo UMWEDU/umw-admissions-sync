@@ -6,7 +6,7 @@ post_date: 2017-04-27 10:27:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/next-steps/admitted/language-placement-exams/
+  http://www.umw.edu/admissions/youarein/language-placement-exams/
 published: true
 yst_is_cornerstone:
   - ""
@@ -29,7 +29,7 @@ By taking this test you are bound by the <strong>University of Mary Washington H
 
 The equipment you will need for the exam include a PC, Mac, or Chromebook computer; a headset with microphone; and Internet Explorer, Chrome, or Safari internet browsers. For more information about the test and the technical requirements and to take a practice exam, <strong>please see this page before taking the Avant PLACE test: </strong><a href="http://technology.umw.edu/helpdesk/language-placement-exam-support/">http://technology.umw.edu/helpdesk/language-placement-exam-support/</a>
 
-You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation.
+You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation. Students will receive an email with the test code and password to take the exam.
 
 <strong>Contact Information for Academic and Placement Questions</strong>:
 
