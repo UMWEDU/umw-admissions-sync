@@ -19,7 +19,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h4><span style="color: #0000ff">Business</span></h4>
 <strong><span style="color: #000000">Master of Business Administration (MBA)</span>
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357750ebef7a74414513b9c1a7f2c418bdfb">Thursday, April 27</a> at 6 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777f518a6b739c4f6fa5a2ce58344e1536">Friday, May 26</a>, at 6 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777f518a6b739c4f6fa5a2ce58344e1536">Tuesday, May 2</a>3, at 6 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e7a0539fb00c4fa0a253fc8fa0c38832">Tuesday, June 13</a> at 6 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577cebf04891cee48e1b61d15896ea0912a">Tuesday, July 11</a> at 6 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e8934e0307ba47d789d0b6fd2c60cd93">Wednesday, August 9</a> at 6 p.m.
