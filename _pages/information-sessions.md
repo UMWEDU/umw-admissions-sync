@@ -28,6 +28,11 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357738a5cf007eaa4bcf85f409dd8baa22c3">Tuesday, May 2</a> at 11 a.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ab59ce05ad754a44b49478a2730b1367">Thursday, June 8</a> at 4 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746fd949b05ba4ca7b9627d418214f60c">Tuesday, June 27</a> at 12:30 p.m.
+<h4><span style="color: #0000ff">Geospatial Analysis</span></h4>
+<strong>Master of Science in Geospatial Analysis Virtual Information Session
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f5035a89db4d4701a77333cfd70ab256">Tuesday, May 30</a> at 4 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ae770601a324addb9f142ed9ed3a6df">Friday, June 16</a> at 12:30 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778c172abeaae44c85aab14e8ba0eb93df">Wednesday, July 26</a> at 2 p.m.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Office Hours at Marine Corps Base Quantico</h3>
