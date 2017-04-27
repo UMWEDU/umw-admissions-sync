@@ -6,10 +6,10 @@ post_date: 2016-09-23 11:49:37
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/alumni-recruitment/
+  http://umwwebmaster.staging.wpengine.com/admissions/alumni-recruitment/
 published: true
 ---
-<img class="alignnone wp-image-48201 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/Alumni-Rock.jpg" alt="alumni-rock" width="851" height="350" />
+<img class="alignnone wp-image-48201 size-full" src="http://umwwebmaster.staging.wpengine.com/admissions/wp-content/uploads/sites/6/2016/09/Alumni-Rock.jpg" alt="alumni-rock" width="851" height="350" />
 
 As an alum, you know from personal experience that UMW is a special place to spend four years living and learning.  Alumni are many of our best ambassadors in recruitment. We hope that you will see opportunity in every conversation to recruit new students to UMW.
 
@@ -59,7 +59,7 @@ Already joined us on campus for a visit? Apply by November 10 and receive a virt
 
 To take part, your student may <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2e4f6f75b1647b885942b3045284601"><u>register</u></a> by November 10. Applicants should indicate whether they wish to receive a decision virtually on November 18 or in person on November 19. Candidates must also apply no later than November 10 in order to participate. Students should request official copies of transcripts and scores unless applying test optional, to be considered for virtual or onsite admission during this legacy event.
 
-For the full list of visit opportunities and open houses, please <a href="http://www.umw.edu/admissions/visit/">review</a> the option that works best for your schedule.
+For the full list of visit opportunities and open houses, please <a href="http://umwwebmaster.staging.wpengine.com/admissions/visit/">review</a> the option that works best for your schedule.
 
 <strong>Do you have other ideas for how alumni can recruit new students?</strong>
 
