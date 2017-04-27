@@ -6,12 +6,14 @@ post_date: 2017-04-27 10:27:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/youarein/next-steps/language-placement-exams/
+  http://www.umw.edu/admissions/youarein/next-steps/admitted/language-placement-exams/
 published: true
 yst_is_cornerstone:
   - ""
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 Our general education requirements reflect Mary Washington’s distinctive liberal arts and sciences values, an important part of which is <strong>Intermediate Competency </strong>in a language other than English.  For many students this means completing through the 202 or 205 level in Arabic, Chinese, French, German, Italian, or Spanish.
 
