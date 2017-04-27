@@ -100,6 +100,8 @@ eps-slideshow-link-thickbox-45851:
   - "0"
 yst_prominent_words_version:
   - "1"
+yst_is_cornerstone:
+  - ""
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
@@ -123,7 +125,7 @@ wpcf-home-page-grid-inclusion:
  	<li>If interested, sign up for <a href="http://adminfinance.umw.edu/studentaccounts/eaglepay/">Authorized Payers</a> who will be emailed students’ bills and will be able to login to EaglePAY to make payments or setup a payment plan.</li>
  	<li>Submit your <a href="http://students.umw.edu/healthcenter/" target="_blank" rel="nofollow">health forms</a> by August 1.</li>
  	<li>Review opportunities for special <a href="http://students.umw.edu/chls/n-e-s-t/">Early Arrival Programs</a>, which take place four days before Welcome Week in August. These optional experiences are a fun way for a limited number of new students to explore UMW and surrounding attractions and meet and bond with classmates before classes begin.</li>
- 	<li>Placement tests - Students interested in chemistry or majoring in a science have the opportunity to take a placement test during orientation and all students will have an opportunity to take an online <a href="https://www.umw.edu/admissions/youarein/language-placement-exams/">foreign language placement test</a> later in the summer.</li>
+ 	<li>Placement tests - Students interested in chemistry or majoring in a science have the opportunity to take a placement test during orientation and all students will have an opportunity to take an online foreign language placement test later in the summer.</li>
  	<li>Move-in Day is Wednesday, August 23.</li>
 </ul>
 Provide changes in your address and/or telephone number to Admissions at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
