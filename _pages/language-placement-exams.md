@@ -1,6 +1,6 @@
 ---
 ID: 48328
-post_title: LANGUAGE PLACEMENT EXAMS
+post_title: Modern Languages Placement Exams
 author: keury
 post_date: 2017-04-27 10:27:15
 post_excerpt: ""
@@ -23,7 +23,7 @@ Our placement exam is administered through Avant Placement. New students <strong
 
 <strong>You should only take a placement exam for a language that you have previously studied in high school.</strong> If you plan to start with a new language that you have never studied, do not take a placement exam. You should register for the 101 course in that language.
 
-<strong>It is important to do well on this exam. </strong>Students who start at the lowest level will be taking 12 credits total to complete language requirement. Testing into a higher level of language means more room for major or minor courses, or proceeding more quickly to advanced language studies. Students can prepare for the exam by reviewing previous language study, and by taking the Avant <a href="http://technology.umw.edu/helpdesk/language-placement-exam-support/">practice exam</a>.
+<strong>It is important to do well on this exam. </strong>Students who start at the lowest level will be taking 12 credits total to complete language requirement. Testing into a higher level of language means more room for major or minor courses, or proceeding more quickly to advanced language studies. Students can prepare for the exam by reviewing previous language study, and by taking the Avant practice exam.
 
 By taking this test you are bound by the <strong>University of Mary Washington Honor Code.</strong> This means, that you are on your honor to take the placement test by yourself using no assistance during the test. You will not use any reference materials, nor will you have another person help you. Likewise, you are not to download, print out, or in any way save this test.
 
@@ -31,7 +31,7 @@ The equipment you will need for the exam include a PC, Mac, or Chromebook comput
 
 You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation.
 
-<strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided below) as well as your <strong>full legal name</strong>.
+<strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided to you via email) as well as your <strong>full legal name</strong>. The original email from the Department of Modern Languages and Literatures was sent to you on April 30.
 
 <strong>After logging in</strong> you will fill out some important personal information. To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your Student Profile. Your Student Profile can be found <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">here</a>.
 <ul>
@@ -40,6 +40,9 @@ You need to allow about 45 minutes to complete the test. You will find out your 
  	<li><strong>Test Taker Email:</strong> Your UMW provided email, seen in the first row of bio information.</li>
  	<li><strong>Date of Birth:</strong> Seen in the fourth row of bio information.</li>
 </ul>
+<h2><span style="color: #ff0000">Log in to the Placement Exam <a style="color: #ff0000" href="https://placement.avantassessment.com/avant/do/login">here.</a></span></h2>
+&nbsp;
+
 <strong>Contact Information for Academic and Placement Questions</strong>:
 
 Dr. Elizabeth Franklin Lewis, Chair, Department of Modern Languages and Literatures.
