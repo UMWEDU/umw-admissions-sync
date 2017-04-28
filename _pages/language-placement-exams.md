@@ -29,8 +29,17 @@ By taking this test you are bound by the <strong>University of Mary Washington H
 
 The equipment you will need for the exam include a PC, Mac, or Chromebook computer; a headset with microphone; and Internet Explorer, Chrome, or Safari internet browsers. For more information about the test and the technical requirements and to take a practice exam, <strong>please see this page before taking the Avant PLACE test: </strong><a href="http://technology.umw.edu/helpdesk/language-placement-exam-support/">http://technology.umw.edu/helpdesk/language-placement-exam-support/</a>
 
-You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation. Students will receive an email with the test code and password to take the exam.
+You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation.
 
+<strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided below) as well as your <strong>full legal name</strong>.
+
+<strong>After logging in</strong> you will fill out some important personal information. To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your Student Profile. Your Student Profile can be found <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">here</a>.
+<ul>
+ 	<li><strong>First and Last Name:</strong> Your name as listed in the Student Profile.
+<strong>Test Taker ID:</strong> Your unique Student ID, seen in the Student Profile in the parenthesis next to your first and last name. <em>Please include all leading zeros in your ID</em>.</li>
+ 	<li><strong>Test Taker Email:</strong> Your UMW provided email, seen in the first row of bio information.</li>
+ 	<li><strong>Date of Birth:</strong> Seen in the fourth row of bio information.</li>
+</ul>
 <strong>Contact Information for Academic and Placement Questions</strong>:
 
 Dr. Elizabeth Franklin Lewis, Chair, Department of Modern Languages and Literatures.
