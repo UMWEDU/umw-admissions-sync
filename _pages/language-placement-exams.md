@@ -33,7 +33,13 @@ You need to allow about 45 minutes to complete the test. You will find out your 
 
 <strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided to you via email) as well as your <strong>full legal name</strong>. The original email from the Department of Modern Languages and Literatures was sent to you on April 30.
 
-<strong>After logging in</strong> you will fill out some important personal information. To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your Student Profile. Your Student Profile can be found <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">here</a>.
+<strong>After logging in</strong> you will fill out some important personal information.
+
+<span style="color: #00ff00"><strong>Graphic 1</strong></span>
+
+To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your Student Profile. Your Student Profile can be found <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">here</a>.
+
+<strong><span style="color: #00ff00">Graphic 2</span></strong>
 <ul>
  	<li><strong>First and Last Name:</strong> Your name as listed in the Student Profile.
 <strong>Test Taker ID:</strong> Your unique Student ID, seen in the Student Profile in the parenthesis next to your first and last name. <em>Please include all leading zeros in your ID</em>.</li>
