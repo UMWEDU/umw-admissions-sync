@@ -19,7 +19,7 @@ Our general education requirements reflect Mary Washington’s distinctive liber
 
 In order to move through the sequence of language courses at UMW<strong>, first-time students</strong> should begin their language study at the appropriate level. The Department of Modern Languages offers a placement exam in <strong>Arabic, Mandarin Chinese, French, German, Italian and Spanish</strong>.
 
-Our placement exam is administered through Avant Placement. New students <strong><span style="color: #ff0000">will need to take the exam at home between May 1 and June 1, 2017</span>. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: Latin courses and placement exam is administered through the Department of Classics, Philosophy and Religion</em>.
+Our placement exam is administered through Avant Placement. New students <strong><span style="color: #ff0000;">will need to take the exam at home between May 1 and June 1, 2017</span>. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: Latin courses and placement exam is administered through the Department of Classics, Philosophy and Religion</em>.
 
 <strong>You should only take a placement exam for a language that you have previously studied in high school.</strong> If you plan to start with a new language that you have never studied, do not take a placement exam. You should register for the 101 course in that language.
 
@@ -35,18 +35,18 @@ You need to allow about 45 minutes to complete the test. You will find out your 
 
 <strong>After logging in</strong> you will fill out some important personal information.
 
-<span style="color: #00ff00"><strong>Graphic 1</strong></span>
+<img class="alignright wp-image-48333 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_1.png" alt="Figure 1: Avant Test Score Form" width="563" height="189" />
 
 To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your Student Profile. Your Student Profile can be found <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">here</a>.
 
-<strong><span style="color: #00ff00">Graphic 2</span></strong>
+<img class="alignright wp-image-48332 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
 <ul>
  	<li><strong>First and Last Name:</strong> Your name as listed in the Student Profile.
 <strong>Test Taker ID:</strong> Your unique Student ID, seen in the Student Profile in the parenthesis next to your first and last name. <em>Please include all leading zeros in your ID</em>.</li>
  	<li><strong>Test Taker Email:</strong> Your UMW provided email, seen in the first row of bio information.</li>
  	<li><strong>Date of Birth:</strong> Seen in the fourth row of bio information.</li>
 </ul>
-<h2><span style="color: #ff0000">Log in to the Placement Exam <a style="color: #ff0000" href="https://placement.avantassessment.com/avant/do/login">here.</a></span></h2>
+<h2><span style="color: #ff0000;">Log in to the Placement Exam <a style="color: #ff0000;" href="https://placement.avantassessment.com/avant/do/login">here.</a></span></h2>
 &nbsp;
 
 <strong>Contact Information for Academic and Placement Questions</strong>:
