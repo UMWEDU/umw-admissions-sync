@@ -17,6 +17,8 @@ The Washington Scholars program recognizes Virginia high school seniors with exc
 If you are an out of state resident, you may be considered for the Alvey Scholars program. Priority is given to those who apply for admission to the University of Mary Washington by November 15. The Alvey Scholar will receive an award equal to full tuition, fees, room, and board. The scholarship is renewable through four years of undergraduate study.
 
 The Alvey Scholars program recognizes out of state high school seniors with exceptional academic credentials. One Alvey Scholarship will be awarded to an incoming first-year student for the fall semester of their incoming year.
+
+Special consideration shall be made for students in the running for a Rodgers Alvey scholarship,  who have achieved distinction in STEM related coursework in high school and who intends to major in a STEM related discipline in college. Preference shall be given to female students to encourage them to pursue STEM  fields of study where they have been historically underrepresented.
 <h2 class="bold">Scholarship Criteria</h2>
 Qualified candidates must be students who are:
 <ul>
