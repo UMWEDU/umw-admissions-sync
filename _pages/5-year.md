@@ -6,7 +6,7 @@ post_date: 2017-02-07 11:09:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/degrees/msga/5-year/
+  http://www.umw.edu/admissions/graduate/degrees/msga/5-year/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -29,7 +29,6 @@ Once admitted, the student would take MSGA 510, Spatial Thinking in the fall sem
  	<li>For students starting their senior year in spring of 2018, the deadline is October 2, 2017.</li>
  	<li>For students starting their senior year in fall of 2018, the deadline is February 19, 2018.</li>
 </ul>
-<h2><strong>Housing Opportunity</strong></h2>
-Students for both summer and fall terms of their graduate program may qualify to receive a housing incentive (50% off cost) if they choose to stay on campus while completing their graduate degree. This is a first come first serve offer with a limited number of spaces available.
+<h2></h2>
 <h2><strong>Interested?</strong></h2>
 Contact the Office of Graduate Admissions to take the next step in the admissions process at 540/286-8000 or <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a>.
