@@ -21,7 +21,7 @@ wpcf-home-page-grid-inclusion:
 
 To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. </em>
 <h2>Admissions Deposit Online Payment</h2>
-The online deposit site will be down from 6 p.m. on Thursday, May 18 to 6 a.m. Friday, May 19.
+The online deposit site will be down from 6 p.m. on Thursday, May 18 to 6 a.m. Friday, May 19. It will also be down from 3 p.m. Friday, June 30 to noon, Saturday, July 1.
 
 [wpv-view name="Admissions Deposit iFrame"]
 <h3>Benefits to paying early include:</h3>
