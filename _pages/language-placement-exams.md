@@ -8,8 +8,6 @@ layout: page
 permalink: >
   http://www.umw.edu/admissions/youarein/language-placement-exams/
 published: true
-yst_is_cornerstone:
-  - ""
 yst_prominent_words_version:
   - "1"
 wpcf-home-page-grid-inclusion:
@@ -19,7 +17,7 @@ Our general education requirements reflect Mary Washington’s distinctive liber
 
 In order to move through the sequence of language courses at UMW<strong>, first-time students</strong> should begin their language study at the appropriate level. The Department of Modern Languages offers a placement exam in <strong>Arabic, Mandarin Chinese, French, German, Italian and Spanish</strong>.
 
-Our placement exam is administered through Avant Placement. New students <strong><span style="color: #ff0000;">will need to take the exam at home between May 1 and June 1, 2017</span>. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: Latin courses and placement exam is administered through the Department of Classics, Philosophy and Religion</em>.
+Our placement exam is administered through Avant Placement. New students <strong><span style="color: #ff0000">will need to take the exam at home between May 1 and June 1, 2017</span>. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: The <a href="http://academics.umw.edu/academicservices/placement-testing/">Latin placement exam</a> must be taken by July 15</em>.
 
 <strong>You should only take a placement exam for a language that you have previously studied in high school.</strong> If you plan to start with a new language that you have never studied, do not take a placement exam. You should register for the 101 course in that language.
 
@@ -46,7 +44,7 @@ To ensure that test score results are successfully matched to your academic reco
  	<li><strong>Test Taker Email:</strong> Your UMW provided email, seen in the first row of bio information.</li>
  	<li><strong>Date of Birth:</strong> Seen in the fourth row of bio information.</li>
 </ul>
-<h2><span style="color: #ff0000;">Log in to the Placement Exam <a style="color: #ff0000;" href="https://placement.avantassessment.com/avant/do/login">here.</a></span></h2>
+<h2><span style="color: #ff0000">Log in to the Placement Exam <a style="color: #ff0000" href="https://placement.avantassessment.com/avant/do/login">here.</a></span></h2>
 &nbsp;
 
 <strong>Contact Information for Academic and Placement Questions</strong>:
