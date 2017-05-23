@@ -38,5 +38,6 @@ Our staff are happy to take your questions, accept your comments, and address co
  	<li>Information parents may access</li>
  	<li>Ways you can direct your student when they experience an obstacle</li>
  	<li>Other ways you may want to connect with the UMW community as a parent</li>
+ 	<li>Check out <a href="https://youtu.be/O502jqjU2Ic">The New Guy Looks Ahead</a> video by President Paino.</li>
 </ul>
 You are their comfort and sounding board amidst significant change.  We’d like to help you help them!
