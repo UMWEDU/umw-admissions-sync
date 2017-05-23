@@ -6,7 +6,7 @@ post_date: 2015-06-03 09:06:51
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/youarein/parents/
+  http://www.umw.edu/admissions/youarein/parents/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -14,6 +14,10 @@ wpcf-home-page-grid-inclusion:
 <img class="alignnone size-full wp-image-48038" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/06/UMWMom-e1441229944460.jpg" alt="Mom and daughter in a residence hall." width="100%" />
 <h2>Parent’s Summer Chat Series</h2>
 We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Summer Chat Series for parents. Check back in May for finalized dates.
+
+<strong>Orientation</strong> - June 1 and June 8
+
+<strong>Shopping for College</strong> - July
 
 <strong>What to Expect on Move In day</strong> - August
 
