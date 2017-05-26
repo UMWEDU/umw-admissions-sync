@@ -17,7 +17,7 @@ Our general education requirements reflect Mary Washington’s distinctive liber
 
 In order to move through the sequence of language courses at UMW<strong>, first-time students</strong> should begin their language study at the appropriate level. The Department of Modern Languages offers a placement exam in <strong>Arabic, Mandarin Chinese, French, German, Italian and Spanish</strong>.
 
-Our placement exam is administered through Avant Placement. New students <strong><span style="color: #ff0000">will need to take the exam at home between May 1 and June 1, 2017</span>. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: The <a href="http://academics.umw.edu/academicservices/placement-testing/">Latin placement exam</a> must be taken by July 15</em>.
+Our placement exam is administered through Avant Placement. New students <strong>will need to take the exam at home between May 1 and June 1, 2017. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: The <a href="http://academics.umw.edu/academicservices/placement-testing/">Latin placement exam</a> must be taken by July 15</em>.
 
 <strong>You should only take a placement exam for a language that you have previously studied in high school.</strong> If you plan to start with a new language that you have never studied, do not take a placement exam. You should register for the 101 course in that language.
 
@@ -25,7 +25,7 @@ Our placement exam is administered through Avant Placement. New students <strong
 
 By taking this test you are bound by the <strong>University of Mary Washington Honor Code.</strong> This means, that you are on your honor to take the placement test by yourself using no assistance during the test. You will not use any reference materials, nor will you have another person help you. Likewise, you are not to download, print out, or in any way save this test.
 
-The equipment you will need for the exam include a PC, Mac, or Chromebook computer; a headset with microphone; and Internet Explorer, Chrome, or Safari internet browsers. For more information about the test and the technical requirements and to take a practice exam, <strong>please see this page before taking the Avant PLACE test: </strong><a href="http://technology.umw.edu/helpdesk/language-placement-exam-support/">http://technology.umw.edu/helpdesk/language-placement-exam-support/</a>
+The equipment you will need for the exam include a PC, Mac, or Chromebook computer; a headset with microphone; and Internet Explorer, Chrome, or Safari internet browsers. For more information about the test and the technical requirements and to take a practice exam, <strong>please visit our <a href="http://technology.umw.edu/helpdesk/language-placement-exam-support/">exam technical support page</a> before taking the Avant PLACE test.</strong>
 
 You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation.
 
@@ -35,25 +35,22 @@ You need to allow about 45 minutes to complete the test. You will find out your 
 
 <img class="alignright wp-image-48333 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_1.png" alt="Figure 1: Avant Test Score Form" width="563" height="189" />
 
-To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your Student Profile. Your Student Profile can be found <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">here</a>.
+To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">Student Profile</a>.
 
 <img class="alignright wp-image-48332 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
 <ul>
- 	<li><strong>First and Last Name:</strong> Your name as listed in the Student Profile.
-<strong>Test Taker ID:</strong> Your unique Student ID, seen in the Student Profile in the parenthesis next to your first and last name. <em>Please include all leading zeros in your ID</em>.</li>
+ 	<li><strong>First and Last Name:</strong> Your name as listed in the Student Profile.</li>
+ 	<li><strong>Test Taker ID:</strong> Your unique Student ID, seen in the Student Profile in the parenthesis next to your first and last name. <em>Please include all leading zeros in your ID</em>.</li>
  	<li><strong>Test Taker Email:</strong> Your UMW provided email, seen in the first row of bio information.</li>
  	<li><strong>Date of Birth:</strong> Seen in the fourth row of bio information.</li>
 </ul>
-<h2><span style="color: #ff0000">Log in to the Placement Exam <a style="color: #ff0000" href="https://placement.avantassessment.com/avant/do/login">here.</a></span></h2>
-&nbsp;
-
+<div class="well">Log in to the <a href="https://placement.avantassessment.com/avant/do/login">Placement Exam</a>.</div>
+<div class="well"></div>
 <strong>Contact Information for Academic and Placement Questions</strong>:
 
 Dr. Elizabeth Franklin Lewis, Chair, Department of Modern Languages and Literatures.
 <a href="mailto:elewis@umw.edu">elewis@umw.edu</a>
 
-<strong>For technical questions</strong> or problems with the functioning of the test itself, please visit <a href="http://technology.umw.edu/helpdesk/language-placement-exam-support/">http://technology.umw.edu/helpdesk/language-placement-exam-support/</a> or contact the <strong>UMW Help Desk</strong>:
-
-Hours:  <a href="http://technology.umw.edu/helpdesk/">http://technology.umw.edu/helpdesk/</a>
+<strong>For technical questions</strong> or problems with the functioning of the test itself, please visit our <strong><a href="http://technology.umw.edu/helpdesk/language-placement-exam-support/">exam technical support page</a></strong> or contact the <strong><a href="http://technology.umw.edu/helpdesk/">UMW Help Desk</a>.</strong>
 Phone:  540/654-2255
 Email:  <a href="mailto:helpdesk@umw.edu">helpdesk@umw.edu</a>
