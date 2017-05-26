@@ -35,7 +35,7 @@ You need to allow about 45 minutes to complete the test. You will find out your 
 
 <img class="alignright wp-image-48333 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_1.png" alt="Figure 1: Avant Test Score Form" width="563" height="189" />
 
-To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="https://banner.umw.edu/StudentSSB/ssb/studentProfile">Student Profile</a>.
+To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="https://banner.umw.edu/StudentSelfService/ssb/studentProfile">Student Profile</a>.
 
 <img class="alignright wp-image-48332 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
 <ul>
@@ -44,9 +44,9 @@ To ensure that test score results are successfully matched to your academic reco
  	<li><strong>Test Taker Email:</strong> Your UMW provided email, seen in the first row of bio information.</li>
  	<li><strong>Date of Birth:</strong> Seen in the fourth row of bio information.</li>
 </ul>
-<h3 class="well"><strong>Log in to the <a href="https://placement.avantassessment.com/avant/do/login">Placement Exam</a>.</strong></h3>
-<div class="well"></div>
-<div class="well"></div>
+<h3><strong>Log in to the <a href="https://placement.avantassessment.com/avant/do/login">Placement Exam</a>.</strong></h3>
+&nbsp;
+
 <strong>Contact Information for Academic and Placement Questions</strong>:
 
 Dr. Elizabeth Franklin Lewis, Chair, Department of Modern Languages and Literatures.
