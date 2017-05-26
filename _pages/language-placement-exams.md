@@ -44,7 +44,8 @@ To ensure that test score results are successfully matched to your academic reco
  	<li><strong>Test Taker Email:</strong> Your UMW provided email, seen in the first row of bio information.</li>
  	<li><strong>Date of Birth:</strong> Seen in the fourth row of bio information.</li>
 </ul>
-<div class="well">Log in to the <a href="https://placement.avantassessment.com/avant/do/login">Placement Exam</a>.</div>
+<h3 class="well"><strong>Log in to the <a href="https://placement.avantassessment.com/avant/do/login">Placement Exam</a>.</strong></h3>
+<div class="well"></div>
 <div class="well"></div>
 <strong>Contact Information for Academic and Placement Questions</strong>:
 
