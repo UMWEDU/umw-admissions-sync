@@ -13,7 +13,7 @@ yst_prominent_words_version:
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
-Our general education requirements reflect Mary Washington’s distinctive liberal arts and sciences values, an important part of which is <strong>Intermediate Competency </strong>in a language other than English.  For many students this means completing through the 202 or 205 level in Arabic, Chinese, French, German, Italian, or Spanish.
+profilers general education requirements reflect Mary Washington’s distinctive liberal arts and sciences values, an important part of which is <strong>Intermediate Competency </strong>in a language other than English.  For many students this means completing through the 202 or 205 level in Arabic, Chinese, French, German, Italian, or Spanish.
 
 In order to move through the sequence of language courses at UMW<strong>, first-time students</strong> should begin their language study at the appropriate level. The Department of Modern Languages offers a placement exam in <strong>Arabic, Mandarin Chinese, French, German, Italian and Spanish</strong>.
 
@@ -37,9 +37,9 @@ ges and Literatures was sent to you on April 30.
 
 <img class="alignright wp-image-48333 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_1.png" alt="Figure 1: Avant Test Score Form" width="563" height="189" />
 
-To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="http://Banner.umw.edu/studentssb/ssb/studentprofile">student profile</a>.
+To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your student profile.
 
-<img class="wp-image-48332 size-full aligncenter" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
+<img class="wp-image-48332 size-full alignnone" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
 <ul>
  	<li><strong>First and Last Name:</strong> Your name as listed in the Student Profile.</li>
  	<li><strong>Test Taker ID:</strong> Your unique Student ID, seen in the Student Profile in the parenthesis next to your first and last name. <em>Please include all leading zeros in your ID</em>.</li>
