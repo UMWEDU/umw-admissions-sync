@@ -29,13 +29,15 @@ The equipment you will need for the exam include a PC, Mac, or Chromebook comput
 
 You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation.
 
-<strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided to you via email) as well as your <strong>full legal name</strong>. The original email from the Department of Modern Languages and Literatures was sent to you on April 30.
+<strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided to you via email) as well as your <strong>full legal name</strong>. The original email from the Department of Modern Langua
+
+ges and Literatures was sent to you on April 30.
 
 <strong>After logging in</strong> you will fill out some important personal information.
 
 <img class="alignright wp-image-48333 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_1.png" alt="Figure 1: Avant Test Score Form" width="563" height="189" />
 
-To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="http://Https://banner.umw.edu/studentssb/ssb/studentprofile">student profile</a>.
+To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="http://Banner.umw.edu/studentssb/ssb/studentprofile">student profile</a>.
 
 <img class="wp-image-48332 size-full aligncenter" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
 <ul>
