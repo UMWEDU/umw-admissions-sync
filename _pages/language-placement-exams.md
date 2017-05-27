@@ -35,9 +35,9 @@ You need to allow about 45 minutes to complete the test. You will find out your 
 
 <img class="alignright wp-image-48333 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_1.png" alt="Figure 1: Avant Test Score Form" width="563" height="189" />
 
-To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="https://banner.umw.edu/StudentSelfService/ssb/studentProfile">Student Profile</a>.
+To ensure that test score results are successfully matched to your academic records in a timely manner, please fill out the Test Score form with the following data from your <a href="http://Https://banner.umw.edu/studentssb/ssb/studentprofile">student profile</a>.
 
-<img class="alignright wp-image-48332 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
+<img class="wp-image-48332 size-full aligncenter" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/04/Avant_Figure_2.png" alt="Figure 2: Example layout of Student Profile" width="533" height="273" />
 <ul>
  	<li><strong>First and Last Name:</strong> Your name as listed in the Student Profile.</li>
  	<li><strong>Test Taker ID:</strong> Your unique Student ID, seen in the Student Profile in the parenthesis next to your first and last name. <em>Please include all leading zeros in your ID</em>.</li>
