@@ -16,8 +16,7 @@ wpcf-home-page-grid-inclusion:
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
 <strong><span style="color: #000000">Master of Business Administration (MBA) Information Session</span>
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777f518a6b739c4f6fa5a2ce58344e1536">Tuesday, May 23</a>, at 6 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e7a0539fb00c4fa0a253fc8fa0c38832">Tuesday, June 13</a> at 6 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e7a0539fb00c4fa0a253fc8fa0c38832">Tuesday, June 13</a> at 6 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577cebf04891cee48e1b61d15896ea0912a">Tuesday, July 11</a> at 6 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e8934e0307ba47d789d0b6fd2c60cd93">Wednesday, August 9</a> at 6 p.m.
 
@@ -34,8 +33,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357710025750122047c187757597af89d867">Wednesday, May 24</a> at 5 p.m.
 <h4><span style="color: #0000ff">Geospatial Analysis</span></h4>
 <strong>Master of Science in Geospatial Analysis Virtual Information Session
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f5035a89db4d4701a77333cfd70ab256">Tuesday, May 30</a> at 4 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ae770601a324addb9f142ed9ed3a6df">Friday, June 16</a> at 12:30 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ae770601a324addb9f142ed9ed3a6df">Friday, June 16</a> at 12:30 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778c172abeaae44c85aab14e8ba0eb93df">Wednesday, July 26</a> at 2 p.m.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
