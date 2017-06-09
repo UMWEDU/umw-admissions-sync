@@ -19,9 +19,9 @@ We’re excited to have your student on campus!  To help you navigate the trans
 
 <strong>Shopping for College</strong> - Tuesday, July 18 from 6-7:45 p.m. Code to enter is 1181.
 
-<strong>What to Expect on Move In day</strong> - August
+<strong>What to Expect on Move In day</strong> - Thursday, August 10 from 6-7:30 p.m. Code to enter is 1202.
 
-<strong>How to Support Your UMW Student from Home</strong> - September
+<strong>How to Support Your UMW Student from Home</strong> - September (check back soon for finalized date)
 
 <a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Sign on to join a scheduled chat</a>. You’ll be able to join the chat 10 minutes prior to the start time. Please use your student’s name to sign onto the chat and enter the private code that can be found in your email.
 
