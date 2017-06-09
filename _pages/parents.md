@@ -15,8 +15,8 @@ wpcf-home-page-grid-inclusion:
 <h2>Parent’s Summer Chat Series</h2>
 We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Summer Chat Series for parents.
 <ul>
- 	<li><strong>Orientation</strong> - Thursday, June 8 from 6-7:30 p.m. Code to enter is 1142.</li>
  	<li><strong>Shopping for College</strong> - Tuesday, July 18 from 6-7:45 p.m. Code to enter is 1181.</li>
+ 	<li><strong>Student Accounts and Financial Aid</strong> - Wednesday, July 12 from 6:30-8 p.m. Code to enter is 1201.</li>
  	<li><strong>What to Expect on Move In day</strong> - Thursday, August 10 from 6-7:30 p.m. Code to enter is 1202.</li>
  	<li><strong>How to Support Your UMW Student from Home</strong> - September (check back soon for finalized date)</li>
 </ul>
