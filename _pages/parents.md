@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 ---
 <img class="alignnone size-full wp-image-48038" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/06/UMWMom-e1441229944460.jpg" alt="Mom and daughter in a residence hall." width="100%" />
 <h2>Parent’s Summer Chat Series</h2>
-We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Summer Chat Series for parents. .
+We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Summer Chat Series for parents.
 <ul>
  	<li><strong>Orientation</strong> - Thursday, June 8 from 6-7:30 p.m. Code to enter is 1142.</li>
  	<li><strong>Shopping for College</strong> - Tuesday, July 18 from 6-7:45 p.m. Code to enter is 1181.</li>
