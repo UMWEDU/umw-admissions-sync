@@ -16,12 +16,10 @@ wpcf-home-page-grid-inclusion:
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
 <strong><span style="color: #000000">Master of Business Administration (MBA) Information Session</span>
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e7a0539fb00c4fa0a253fc8fa0c38832">Tuesday, June 13</a> at 6 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577cebf04891cee48e1b61d15896ea0912a">Tuesday, July 11</a> at 6 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577cebf04891cee48e1b61d15896ea0912a">Tuesday, July 11</a> at 6 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e8934e0307ba47d789d0b6fd2c60cd93">Wednesday, August 9</a> at 6 p.m.
 
 <strong>MBA Virtual Information Session</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ab59ce05ad754a44b49478a2730b1367">Thursday, June 8</a> at 4 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746fd949b05ba4ca7b9627d418214f60c">Tuesday, June 27</a> at 12:30 p.m.
 <h4><span style="color: #0000ff">Education</span></h4>
 <strong>Master of Education and Initial Licensure Information Session
