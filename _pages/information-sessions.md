@@ -29,8 +29,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <strong><span style="color: #0000ff">Geospatial Analysis</span></strong>
 
 <strong>Master of Science in Geospatial Analysis Virtual Information Session
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777ae770601a324addb9f142ed9ed3a6df">Friday, June 16</a> at 12:30 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778c172abeaae44c85aab14e8ba0eb93df">Wednesday, July 26</a> at 2 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778c172abeaae44c85aab14e8ba0eb93df">Wednesday, July 26</a> at 2 p.m.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Office Hours at Marine Corps Base Quantico</h3>
