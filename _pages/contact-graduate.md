@@ -17,7 +17,7 @@ wpcf-home-page-grid-inclusion:
 <strong>
 <img class="alignleft wp-image-48224 size-thumbnail" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Christy-Pack-150x150.jpg" alt="Christy Pack, Director of Graduate Admissions" width="150" height="150" />Christy Pack</strong>
 Director of Graduate Admissions
-<a href="mailto:cpack@umw.edu">cpack@umw.edu
+<a href="mailto:cpack@umw.edu">dpack@umw.edu
 </a>540-286-8030
 
 &nbsp;
