@@ -6,7 +6,7 @@ post_date: 2017-06-22 10:52:52
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/english-second-language/
+  http://www.umw.edu/admissions/international/english-second-language/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
