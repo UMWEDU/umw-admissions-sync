@@ -15,7 +15,7 @@ wpcf-home-page-grid-inclusion:
 
 Prospective students who require English as a Second Language (ESL) instruction prior to enrollment can participate in UMW's partnership with the <a href="https://www.ila.edu/">International Language Academy</a> of Washington, D.C. (ILA).
 
-ILA will provide an instructional program in ESL on both the UMW campus and ILA’s campus in McLean.  In addition, pending approval from SEVIS, ILA will also provide an ESL Bridge Program on UMW’s campus.
+ILA will provide an instructional program in ESL on both the UMW campus and ILA’s campus in McLean.  An ESL Bridge Program will be offered in the near future on UMW’s campus.
 
 The bridge track will provide highly motivated ILA students, nearing the end of their language program, the opportunity to get a jump start toward earning their UMW degree by enrolling at UMW concurrently. Bridge students will live on campus and will have the opportunity to take advantage of co-curricular offerings, academic support services, and more.
 
