@@ -17,6 +17,7 @@ We’re excited to have your student on campus!  To help you navigate the trans
 <ul>
  	<li><strong>Student Accounts and Financial Aid</strong> - Wednesday, July 12 from 6:30-8 p.m. Code to enter is 1201.</li>
  	<li><strong>Shopping for College</strong> - Tuesday, July 18 from 6-7:45 p.m. Code to enter is 1181.</li>
+ 	<li>Commuting and Transfer Students - Tuesday, August 1 from 6-7:30 p.m. Code to enter is 1221.</li>
  	<li><strong>What to Expect on Move In day</strong> - Thursday, August 10 from 6-7:30 p.m. Code to enter is 1202.</li>
  	<li><strong>How to Support Your UMW Student from Home</strong> - September (check back soon for finalized date)</li>
 </ul>
