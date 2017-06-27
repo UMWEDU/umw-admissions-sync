@@ -19,7 +19,7 @@ We can’t wait to see your fresh face at UMW, hear your bright ideas in our cla
 <ul>
  	<li><strong>English proficiency</strong>: Students whose first language is English, whose native country names English an official language, who are graduating from a secondary school in a native English-speaking country or from an International Baccalaureate secondary school, or who scored well on the SAT verbal portion may request a waiver of the English language requirement. Otherwise, sufficient results are required from one of the following:
 <ul>
- 	<li><a href="https://www.ets.org/toefl">Test of English as a Foreign Language</a> (TOEFL). Applicants must earn a composite score of 88 TOEFL IBT.</li>
+ 	<li><a href="https://www.ets.org/toefl">Test of English as a Foreign Language</a> (TOEFL). Applicants must earn a composite score of 80 TOEFL IBT.</li>
  	<li><a href="http://www.ielts.org/">International English Language Testing System</a> (IELTS). Applicants must earn a score of 6.5 on the academic exam.</li>
  	<li><a href="https://sat.collegeboard.org/home">College Board’s SAT</a>. Applicants must earn a critical reading score of 550 to 640 and a math score of 550 to 620. (Use UMW SAT testing code 5398.)</li>
  	<li>Applicants must earn a composite score of 23 or higher. (Use UMW ACT testing code 4414.)</li>
