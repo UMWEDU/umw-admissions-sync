@@ -2,14 +2,12 @@
 ID: 148
 post_title: Contact Graduate Admissions
 author: Shelley Keith
-post_date: 2015-08-06 13:02:31
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/contact-graduate/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-08-06 13:02:31
 ---
 <strong>Phone:</strong> (540) 286-8000
 <strong>Email:</strong> <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu
@@ -19,6 +17,8 @@ wpcf-home-page-grid-inclusion:
 Director of Graduate Admissions
 <a href="mailto:dpack@umw.edu">dpack@umw.edu
 </a>540-286-8030
+Master of Business Administration
+Master of Science in Geospatial Analysis
 
 &nbsp;
 
@@ -29,15 +29,6 @@ Director of Graduate Admissions
 <a href="mailto:chairsto@umw.edu">chairsto@umw.edu
 </a>540-286-8086
 Master of Education Programs
-
-&nbsp;
-
-<strong><img class="alignleft size-thumbnail wp-image-48272" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Kyle-Allwine-website-150x150.jpg" alt="Kyle Allwine" width="150" height="150" />Kyle Allwine</strong>
-Assistant Director of Graduate Admissions
-<a href="mailto:kallwine@umw.edu">kallwine@umw.edu
-</a>540-286-8088
-Master of Business Administration
-Master of Science in Geospatial Analysis
 
 &nbsp;
 
