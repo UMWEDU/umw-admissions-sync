@@ -2,16 +2,12 @@
 ID: 192
 post_title: Information Sessions
 author: Shelley Keith
-post_date: 2015-08-07 11:42:13
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/information-sessions/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
@@ -31,8 +27,8 @@ The best way to learn about graduate programs at the University of Mary Washingt
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778c172abeaae44c85aab14e8ba0eb93df">Wednesday, July 26</a> at 2 p.m.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
-<h3>Office Hours at Marine Corps Base Quantico</h3>
-Meet with Kyle Allwine, Assistant Director of Admissions, between 11 a.m. to 2 p.m. at the Quantico Education Center. Contact kallwine@umw.edu for specific dates.
+
+&nbsp;
 <h3>Master of Business Administration</h3>
 The <a href="http://www.umw.edu/admissions/graduate/degrees/mba/">Master of Business Administration</a> within UMW’s College of Business is a great choice for new and experienced professionals who want to assume management and leadership positions in a variety of organizational settings. Students will have the opportunity to hear from our faculty about the program requirements and application process.
 <h3>Master of Education with Teacher Licensure</h3>
