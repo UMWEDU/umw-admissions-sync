@@ -2,12 +2,12 @@
 ID: 143
 post_title: Master of Business Administration (MBA)
 author: Shelley Keith
-post_date: 2015-08-05 11:22:19
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/degrees/mba/
 published: true
+post_date: 2015-08-05 11:22:19
 ---
 <strong>One of the most reputable programs in the region</strong>, the UMW MBA does more than impart knowledge – it transforms minds and equips students with skills essential in today’s business world.
 
@@ -35,8 +35,8 @@ Get a head start on your courses by signing up for the second eight-week session
 Take a look at our <a href="http://www.umw.edu/admissions/graduate/degrees/mba/mba-checklist/"><strong>MBA Application Checklist</strong></a> for the materials you’ll need to get started.
 <h3><strong>How can I learn more about UMW’s MBA program?</strong></h3>
 Contact Information:
-Mr. Kyle Allwine, MBA
-Assistant Director
+Christy Pack
+Director of Graduate Admissions
 <strong>UMW Graduate Admissions
-</strong>540-286-8088 or 540-286-8000
-<a href="mailto:kallwine@umw.edu">kallwine@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
+</strong>540-286-8030 or 540-286-8000
+<a href="mailto:dpack@umw.edu">dpack@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
