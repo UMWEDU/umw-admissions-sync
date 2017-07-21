@@ -12,14 +12,9 @@ post_date: 2015-08-07 11:42:13
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
 <strong><span style="color: #000000">Master of Business Administration (MBA) Information Session</span>
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577cebf04891cee48e1b61d15896ea0912a">Tuesday, July 11</a> at 6 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e8934e0307ba47d789d0b6fd2c60cd93">Wednesday, August 9</a> at 6 p.m.
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e8934e0307ba47d789d0b6fd2c60cd93">Wednesday, August 9</a> at 6 p.m.
 
-<strong>MBA Virtual Information Session</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357746fd949b05ba4ca7b9627d418214f60c">Tuesday, June 27</a> at 12:30 p.m.
-<h4><span style="color: #0000ff">Education</span></h4>
-<strong>Master of Education and Initial Licensure Information Session
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577c58df999c4284d648d425cf3024db389">Monday, July 17</a> at 6 p.m.
+&nbsp;
 
 <strong><span style="color: #0000ff">Geospatial Analysis</span></strong>
 
