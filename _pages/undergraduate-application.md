@@ -2,18 +2,12 @@
 ID: 211
 post_title: Undergraduate Application
 author: Shelley Keith
-post_date: 2015-08-07 14:29:16
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/apply/undergraduate-application/
 published: true
-wpsi_page_checks:
-  - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15946238917;s:3:"url";s:62:"http://www.umw.edu/admissions/apply/undergraduate-application/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15946238917";}s:4:"time";i:1457379060;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15946238917;s:3:"url";s:62:"http://www.umw.edu/admissions/apply/undergraduate-application/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15946238917";}s:4:"time";i:1457375777;}}'
-yst_is_cornerstone:
-  - ""
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-08-07 14:29:16
 ---
 The University of Mary Washington welcomes your application for admission. UMW uses The Common Application exclusively.
 <h2>Apply Online Using the Common Application</h2>
@@ -44,7 +38,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 </ul>
 To ensure arrival of required documentation necessary to review your application file, please review the appropriate admission checklist below.
 <ul>
- 	<li><a href="/admissions/undergraduate/checklist/">Freshman Admission Checklist</a></li>
+ 	<li><a href="/admissions/undergraduate/checklist/">First Year Admission Checklist</a></li>
  	<li><a href="/admissions/transfer/transfer-applicant-process/transfer-applicant-checklist/">Transfer Admission Checklist</a></li>
  	<li><a href="/admissions/international/international-checklist/">International Admission Checklist</a></li>
 </ul>
