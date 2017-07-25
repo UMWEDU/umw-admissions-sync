@@ -2,28 +2,16 @@
 ID: 5
 post_title: Transfer to UMW
 author: Shelley Keith
-post_date: 2015-05-26 01:27:03
 post_excerpt: ""
 layout: page
 permalink: http://www.umw.edu/admissions/transfer/
 published: true
-wpsi_page_checks:
-  - 'a:4:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:16044448727;s:3:"url";s:39:"http://www.umw.edu/admissions/transfer/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044448727";}s:4:"time";i:1457979648;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:16044448727;s:3:"url";s:39:"http://www.umw.edu/admissions/transfer/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044448727";}s:4:"time";i:1457979636;}i:2;O:8:"stdClass":5:{s:8:"check_id";i:16044448727;s:3:"url";s:39:"http://www.umw.edu/admissions/transfer/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044448727";}s:4:"time";i:1457979615;}i:3;O:8:"stdClass":5:{s:8:"check_id";i:16044448727;s:3:"url";s:39:"http://www.umw.edu/admissions/transfer/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/16044448727";}s:4:"time";i:1457979589;}}'
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    <ul>
-    <li><a href="https://www.umw.edu/admissions/transfer/">BA/BS Traditional Transfer</a></li>
-    <li><a href="https://www.umw.edu/admissions/adult/">BLS Adult Degree Completion</a></li>
-    <li><a href="https://www.umw.edu/admissions/adult/bsn/">BSN Bachelor of Science in Nursing</a></li>
-    <li><a href="http://students.umw.edu/veterans/">Veterans</a></li>
-    </ul>
+post_date: 2015-05-26 01:27:03
 ---
 <h2>Transferring to UMW is easy!</h2>
 Great ratings in some of higher education’s most prestigious publications, an impressive location between state and national capitals, a renowned reputation for service-oriented learning ...
 
-The only thing missing from the University of Mary Washington is you! <a href="http://www.umw.edu/admissions/apply">Apply today!</a>
+The only thing missing from the University of Mary Washington is you! <a href="https://banner.umw.edu/prod/bwskalog.P_DispLoginNon">Apply today!</a>
 
 If you’ve earned a high-school diploma, GED, or equivalent, you can apply to transfer to UMW from any two- or four-year school, no matter where you are in your college career.
 
