@@ -21,4 +21,4 @@ Workshop Activities:
 </ul>
 We hope you can time out of your busy schedule to hear why the University is ranked in every major selective guide and is considered one of the best buys in higher education today.
 
-Reserve your space and register online. We hope to see you in the fall!
+Reserve your space and register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eaa24de49586417cb39521a667b2db3e">online</a>. We hope to see you in the fall!
