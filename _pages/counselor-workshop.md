@@ -2,16 +2,16 @@
 ID: 48027
 post_title: Counselor Day Workshop
 author: Shelley Keith
-post_date: 2015-08-21 13:14:32
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/visit/counselor-workshop/
 published: true
+post_date: 2015-08-21 13:14:32
 ---
-<strong><span style="color: #ff0000;">Wednesday, November 16</span></strong>
+<strong><span style="color: #ff0000">Wednesday, November 8</span></strong>
 
-The University of Mary Washington is hosting a drive-in workshop for regional school and college counselors. We hope you join us on Wednesday, November 16 from approximately 8:30 a.m. to 2:30 p.m.
+The University of Mary Washington is hosting a drive-in workshop for regional school and college counselors. We hope you join us on Wednesday, November 8 from approximately 8:30 a.m. to 2:30 p.m.
 
 Workshop Activities:
 <ul>
@@ -21,4 +21,4 @@ Workshop Activities:
 </ul>
 We hope you can time out of your busy schedule to hear why the University is ranked in every major selective guide and is considered one of the best buys in higher education today.
 
-Reserve your space and register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774c663dbba74343749d29431bc8ce9803">online</a>. We hope to see you in the fall!
+Reserve your space and register online. We hope to see you in the fall!
