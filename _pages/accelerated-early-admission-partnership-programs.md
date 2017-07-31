@@ -14,7 +14,7 @@ post_date: 2017-03-29 08:57:19
 <h3>3+4 Accelerated Program to Shenandoah University’s Bernard J. Dunn School of Pharmacy</h3>
 Undergraduates at the University of Mary Washington now have an accelerated path to a pharmacy career, thanks to a new articulation agreement with Shenandoah University in Winchester, Virginia. This program provides qualified UMW students the opportunity to earn a bachelor’s degree through Mary Washington and a Doctor of Pharmacy degree from Shenandoah University’s Bernard J. Dunn School of Pharmacy in seven rather than the usual eight years.
 
-Among the prerequisites to apply for admission to the program, students must complete at least 63 academic credits, maintain no less than a 3.0 grade point average in prerequisite courses and score in the 50th percentile on the <em>Pharmacy College Admission Test (PCAT)</em><em>.</em> Students may apply through the Pharmacy College Application Service during their third year.
+Among the prerequisites to apply for admission to the program, students must complete at least 63 academic credits, maintain no less than a cumulative 3.0 grade point average and score in the 50th percentile on the Pharmacy College Admission Test (PCAT)<em>.</em> Students may apply through the Pharmacy College Application Service during their third year.
 
 For students selecting this path, the first year of pharmacy school will transfer to meet final graduation requirements for the UMW bachelor’s degree. This agreement is effective fall 2017.
 
