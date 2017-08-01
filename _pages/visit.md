@@ -2,15 +2,11 @@
 ID: 9
 post_title: Visit UMW
 author: Shelley Keith
-post_date: 2015-05-26 01:36:38
 post_excerpt: ""
 layout: page
 permalink: http://www.umw.edu/admissions/visit/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-05-26 01:36:38
 ---
 <img class="size-full wp-image-93" src="/admissions/wp-content/uploads/sites/6/2015/05/visit.jpg" alt="Dancer shows his skills at the annual Multicultural Fair, Saturday, April 13, 2013. (Photo by Norm Shafer)." width="800" height="327" />
 
@@ -18,7 +14,7 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 <h2>On campus:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. Registration for sessions is in Lee Hall, room 301.</li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a student-led tour.  For summer 2017, sessions will be held on Wednesday afternoons beginning at 3:30 p.m. with the campus tour immediately following.  Registration for sessions is in Lee Hall, room 301.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a student-led tour. Sessions will be held on Wednesday afternoons beginning at 3:30 p.m. with the campus tour immediately following. Registration for sessions is in Lee Hall, room 301.</li>
  	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
  	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal! Pick your visit (fall or spring) based on your academic interests and follow a current student through a typical day on campus. Reserved for high school seniors.</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “top-up” scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and will resume later this summer through February 1, 2018 for fall 2018 admission candidates.</li>
