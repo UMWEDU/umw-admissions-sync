@@ -11,7 +11,7 @@ post_date: 2015-05-26 01:27:03
 <h2>Transferring to UMW is easy!</h2>
 Great ratings in some of higher education’s most prestigious publications, an impressive location between state and national capitals, a renowned reputation for service-oriented learning ...
 
-The only thing missing from the University of Mary Washington is you! <a href="https://banner.umw.edu/prod/bwskalog.P_DispLoginNon">Apply today!</a>
+The only thing missing from the University of Mary Washington is you! Apply online through <a href="https://banner.umw.edu/prod/bwskalog.P_DispLoginNon">The Common Application</a> or the <a href="http://Mycoalition.com">Coalition Application</a>.
 
 If you’ve earned a high-school diploma, GED, or equivalent, you can apply to transfer to UMW from any two- or four-year school, no matter where you are in your college career.
 
