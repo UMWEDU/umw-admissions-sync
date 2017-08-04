@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2015-08-07 14:29:16
 ---
-The University of Mary Washington welcomes your application for admission. UMW uses The Common Application exclusively.
-<h2>Apply Online Using the Common Application</h2>
-Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Application</a>, essay, and application fee or approved waiver online.
+The University of Mary Washington welcomes your application for admission!
+<h2>Apply Online</h2>
+Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Application</a> or the <a href="http://Mycoalition.com">Coalition Application</a>, essay, and application fee or approved waiver online.
 <h2>Suggested Filing Dates</h2>
 <ul>
  	<li>Freshman Applicants
@@ -29,7 +29,6 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 </ul>
 </li>
 </ul>
-<h3>Merit and curriculum based scholarships are still available for freshmen applicants.</h3>
 <h2>UMW Codes</h2>
 <ul>
  	<li>SAT Code Number: 5398</li>
