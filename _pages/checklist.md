@@ -17,7 +17,7 @@ These are the items required of international applicants for admission considera
 
 <strong>1. The Application</strong>
 
-Apply on line through the <a href="https://www.commonapp.org/">The Common Application </a> or the <a href="http://Mycoalition.com">Coalition Application</a> and your essay/personal statement, plus your $50 application fee or approved waiver.
+Apply online through the <a href="https://www.commonapp.org/">The Common Application </a> or the <a href="http://Mycoalition.com">Coalition Application</a> and your essay/personal statement, plus your $50 application fee or approved waiver.
 
 Remember to apply by the suggested filing date:
 First Year applicants - Jan. 1 for priority admission or Feb. 1 for regular admission
