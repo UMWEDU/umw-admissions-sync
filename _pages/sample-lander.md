@@ -1,11 +1,10 @@
 ---
-ID: 48302
+ID: 48376
 post_title: Sample Lander
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/admissions/sample-lander/
+permalink: http://admissions.umw/sample-lander/
 published: true
-post_date: 2017-08-14 09:42:54
+post_date: 2017-08-14 16:33:26
 ---
