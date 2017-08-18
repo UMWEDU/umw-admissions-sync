@@ -5,7 +5,7 @@ author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/transfer-scholarships/
+  http://www.umw.edu/admissions/transfer/transfer-scholarships/
 published: true
 post_date: 2017-08-18 12:00:19
 ---
