@@ -2,25 +2,22 @@
 ID: 73
 post_title: Applicant Process
 author: Katherine Stosch
-post_date: 2015-06-11 17:56:11
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/transfer/transfer-applicant-process/
+  http://www.umw.edu/admissions/transfer/transfer-applicant-process/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-06-11 17:56:11
 ---
 No matter how, where, or why you began your college career, the University of Mary Washington is a great place to finish. Here’s a step-by-step guide to help get you started.
 <ol>
+ 	<li style="list-style-type: none">
 <ol>
  	<li>Take note of deadlines. Preferred application filing dates are:
 <ul>
  	<li>Spring semester: Oct. 15</li>
  	<li>Summer semester: March 1</li>
- 	<li>Fall semester: April 1 (still accepting applications)</li>
+ 	<li>Fall semester: April 1</li>
 </ul>
 </li>
  	<li>Decide if you can take advantage of the Guaranteed Admissions Agreement UMW has with the Virginia Community College System and Richard Bland College. If you’ve earned an associate’s degree, with a 3.25 minimum cumulative GPA, you may qualify. If you choose this option, please include the GAA Student Letter of Intent form with your application.</li>
@@ -47,6 +44,7 @@ or spouse, you’ll also need to include supporting documents of the primary vi
 </li>
  	<li>Mail or forward all materials to UMW:</li>
 </ol>
+</li>
 </ol>
 <p style="text-align: center">Office of Admissions
 University of Mary Washington
