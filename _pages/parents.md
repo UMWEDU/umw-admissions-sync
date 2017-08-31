@@ -13,7 +13,7 @@ post_date: 2015-06-03 09:06:51
 <h2>Parent’s Summer Chat Series</h2>
 We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Summer Chat Series for parents.
 <ul>
- 	<li><strong>How to Support Your UMW Student from Home</strong> - September (check back soon for finalized date)</li>
+ 	<li><strong>How to Support Your UMW Student from Home</strong> - September 7 from 6-7:30 p.m.</li>
 </ul>
 <a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Sign on to join a scheduled chat</a>. You’ll be able to join the chat 10 minutes prior to the start time. Please use your student’s name to sign onto the chat and enter the private code that can be found in your email.
 
