@@ -39,6 +39,6 @@ Recommended filing dates are designed to give newly admitted students an optimal
  	<li>An official transcript from every college or university you’ve attended, even if the courses were transferred to another institution</li>
  	<li>A current résumé; two years of professional or technical work experience preferred</li>
  	<li><a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/MBA-NEW-Foundation-Sheet-Fall-20151.doc"><strong>MBA Prerequisite Waiver Form</strong></a></li>
- 	<li>For <strong>International Students</strong>: Please submit the <a href="http://www.umw.edu/documents/document/request-for-form-i-20/"><strong>Request for Form I-20 </strong></a>(for F-1 visa candidates), International Transcript Evaluation, and demonstration of English Language Proficiency.</li>
+ 	<li>For <strong>International Students</strong>: Please submit the <a href="http://international.umw.edu/international-services/prospective/request-for-form-i-20/"><strong>Request for Form I-20 </strong></a>(for F-1 visa candidates), International Transcript Evaluation, and demonstration of English Language Proficiency.</li>
 </ul>
 <h3></h3>
