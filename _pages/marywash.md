@@ -1,6 +1,6 @@
 ---
 ID: 48383
-post_title: MaryWash
+post_title: @MaryWash
 author: Curtiss Grymala
 post_excerpt: ""
 layout: page
