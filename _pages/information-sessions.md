@@ -19,7 +19,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577448c8132f5954ef9b73c953640e939f8">Wednesday, November 29</a> from 6-7 p.m.
 
-Thursday, December 14 from 6-7 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2f3f001772d45db9050f5a82a24adb1">Thursday, December 14</a> from 6-7 p.m.
 <h4><span style="color: #0000ff"><strong>Education</strong></span></h4>
 <span style="color: #000000"><strong>Master of Education (M.Ed) Information Session
 </strong></span><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577da5147d21bdd41de8c308186c236c505">Tuesday, September 19</a> from 6-7 p.m.
