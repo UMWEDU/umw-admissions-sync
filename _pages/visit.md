@@ -17,14 +17,14 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a student-led tour. Sessions will be held on Wednesday afternoons beginning at 3:30 p.m. with the campus tour immediately following. Registration for sessions is in Lee Hall, room 301.</li>
  	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
  	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal! Pick your visit (fall or spring) based on your academic interests and follow a current student through a typical day on campus. Reserved for high school seniors.</li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “top-up” scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and will resume later this summer through February 1, 2018 for fall 2018 admission candidates.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “top-up” scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and will occur through February 1, 2018 for fall 2018 admission candidates.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
 <h2></h2>
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
- 	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="/admissions/#virtualtour">guided interactive tour</a>.</li>
+ 	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="http://www.youvisit.com/tour/umw?pl=v">guided interactive tour</a>.</li>
 </ul>
 <h2>How to get here:</h2>
 The main campus is located at <a href="https://www.google.com/maps/place/University+of+Mary+Washington/@38.3005178,-77.4749152,15z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e987a255:0x1ef2db66d097c3c1">1301 College Avenue, Fredericksburg, VA 22401</a>. The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
