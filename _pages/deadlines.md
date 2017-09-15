@@ -2,14 +2,12 @@
 ID: 150
 post_title: 'Dates &amp; Deadlines'
 author: Shelley Keith
-post_date: 2015-08-06 13:43:04
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/graduate/deadlines/
+  http://www.umw.edu/admissions/graduate/deadlines/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2015-08-06 13:43:04
 ---
 The UMW recommended filing dates are designed to give newly admitted students the best opportunity to register for their top-choice courses. Once the recommended filing dates have passed, UMW continues to accept applications on a rolling, space-available basis.
 
@@ -31,7 +29,11 @@ The UMW recommended filing dates are designed to give newly admitted students th
 </ul>
 <strong>Master of Science in Geospatial Analysis</strong>
 <ul>
- 	<li>Fall Admission: June 1</li>
+ 	<li>Fall Admission: March 1
+<ul>
+ 	<li>Secondary Fall Date: June 1</li>
+</ul>
+</li>
  	<li>Spring Admission: Oct. 1</li>
 </ul>
 (UMW’s MBA program also accepts non-degree students and admits degree-seeking students for the <strong>second</strong> eight-week session of each semester, which begins in October in the fall and in March in the spring. It’s a great way to get a head start on courses.)
