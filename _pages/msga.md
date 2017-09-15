@@ -28,7 +28,7 @@ Named a high-growth area by the U.S. Department of Labor, geospatial analysis is
 <h3><strong>How long will it take to complete the program?</strong></h3>
 Full-time students can complete UMW’s MSGA program in just one year. Part-time students who take at least one class per semester can finish in approximately three years. Evening classes make the program accessible to working adults.
 <h3><strong>When and how do I apply?</strong></h3>
-The recommended filing date for the fall semester is June 1. (Students applying for graduate assistant positions must apply by March 1.) For spring, the suggested filing date is Oct. 1. UMW accepts post-filing date applications on a rolling, space-available basis.
+The recommended filing date for the fall semester is March 1. (Students applying for graduate assistant positions must apply by March 1.) For spring, the suggested filing date is Oct. 1. UMW accepts post-filing date applications on a rolling, space-available basis.
 
 Take a look at our <a href="http://www.umw.edu/admissions/graduate/degrees/msga/msga-checklist/"><strong>MSGA Application Checklist</strong></a> for the materials you’ll need to get started.
 <h3><strong>How can I learn more about UMW’s MSGA program?</strong></h3>
