@@ -31,7 +31,7 @@ Please select a time below to register for an interview for the Open House on Se
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577be456b09de544e938f208f3d7ce33cbd">12:40 p.m.</a>
 
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357719d9f041e505467182348e5ffa8ae052">1 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357719d9f041e505467182348e5ffa8ae052">1 p.m. </a>
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778d5c56a4b73e4d38a65cbd8f82f7d752">1:20 p.m.</a>
 
