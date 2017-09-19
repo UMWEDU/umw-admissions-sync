@@ -14,8 +14,7 @@ Once you’re ready to apply for acceptance to UMW’s Master of Science in Geos
  	<li>Complete the online <a href="https://www.applyweb.com/umw/menu.html">graduate application for admission</a>.</li>
  	<li>Earned bachelor’s degree from a regionally accredited college or university.
 <ul>
- 	<li>Additional official transcripts may also be required to verify transfer coursework
-<div class="site-container"></div></li>
+ 	<li>Additional official transcripts may also be required to verify transfer coursework</li>
 </ul>
 </li>
  	<li>A current résumé, noting all applicable GIS or geospatial-related experience.</li>
