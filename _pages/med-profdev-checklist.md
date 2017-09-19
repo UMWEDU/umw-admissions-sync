@@ -12,7 +12,10 @@ post_date: 2015-08-06 16:02:15
 Once you’re ready to apply for acceptance to UMW’s Master of Education for Professional Development or Added Endorsement program, this checklist will help you make sure you have everything you need:
 <ul>
  	<li>Complete the <a href="https://www.applyweb.com/umw/menu.html"><strong>graduate education online application</strong></a> for admission</li>
- 	<li>An official transcript (in its original sealed envelope or via secure e-transcript sent directly from the institution) from every college or university you’ve attended even if the courses were transferred to another institution.
+ 	<li>Earned bachelor’s degree from a regionally accredited college or university.
+<ul>
+ 	<li>Additional official transcripts may also be required to verify transfer coursework.</li>
+</ul>
 <ul>
  	<li>Competitive applicants are encouraged to have a cumulative GPA of 2.5 or higher on undergraduate course work and/or a 3.0 cumulative GPA on graduate course work.</li>
 </ul>
