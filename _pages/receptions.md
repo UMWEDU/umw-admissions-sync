@@ -16,13 +16,7 @@ We will hope you and your parents can join us for a reception. You will be able
 800/ 468-5614 with any questions.</p>
 
 <h2 style="text-align: left">Upcoming Events:</h2>
-<strong>Rockville, MD: Thursday, November 9</strong>
-
-Cambria Hotels &amp; Suites
-1 Helen Heneghan Way (1 Renaissance Street)
-Rockville, MD 20850
-
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774dd71dbf200344348288a65ef05c33a0">register</a> by Nov. 5
+&nbsp;
 
 <strong>Richmond, VA: Wednesday, November 8</strong>
 
@@ -30,4 +24,12 @@ Cultural Arts Center at Glen Allen
 2880 Mountain Road
 Glen Allen, VA 23060
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e41f552717f24ace9088883da13ca001">register</a> by Nov. 5.
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e41f552717f24ace9088883da13ca001">register</a> by Nov. 5
+
+<strong>Rockville, MD: Thursday, November 9</strong>
+
+Cambria Hotels &amp; Suites
+1 Helen Heneghan Way (1 Renaissance Street)
+Rockville, MD 20850
+
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774dd71dbf200344348288a65ef05c33a0">register</a> by Nov. 5
