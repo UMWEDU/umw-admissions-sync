@@ -11,8 +11,6 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
-<span style="color: #000000"><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773d206ce9fbea415a9feee12b2fad6899">Wednesday, September 20</a> from 6-7 p.m.</span>
-
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577943f64cb594740f789ed58efd0ce6c53">Tuesday, October 17</a> from 6-7 p.m.
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b0787f2a82444a28b9f91eae0d4b9a6b">Thursday, November 2</a> from 6-7 p.m.
@@ -21,8 +19,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2f3f001772d45db9050f5a82a24adb1">Thursday, December 14</a> from 6-7 p.m.
 <h4><span style="color: #0000ff"><strong>Education</strong></span></h4>
-<span style="color: #000000"><strong>Master of Education (M.Ed) Information Session
-</strong></span><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577da5147d21bdd41de8c308186c236c505">Tuesday, September 19</a> from 6-7 p.m.
+<span style="color: #000000"><strong>Master of Education (M.Ed) Information Session</strong></span>
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774ec294a7beb648a2a4c0a26acfc06592">Thursday, October 12</a> from 6-7 p.m.
 
