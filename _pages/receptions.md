@@ -16,8 +16,6 @@ We will hope you and your parents can join us for a reception. You will be able
 800/ 468-5614 with any questions.</p>
 
 <h2 style="text-align: left">Upcoming Events:</h2>
-&nbsp;
-
 <strong>Richmond, VA: Wednesday, November 8</strong>
 
 Cultural Arts Center at Glen Allen
