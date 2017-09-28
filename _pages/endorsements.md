@@ -4,12 +4,12 @@ post_title: >
   Education Endorsement and Certificate
   Programs
 author: Shelley Keith
-post_date: 2015-08-07 08:41:45
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/degrees/endorsements/
 published: true
+post_date: 2015-08-07 08:41:45
 ---
 The added credentials available at UMW give educators increased knowledge in a particular field of study and lead to more lucrative and fulfilling employment options.
 <h2><strong>Are UMW’s College of Education Graduate Endorsement and Certificate Programs right for me?</strong></h2>
@@ -31,5 +31,5 @@ Contact:
 <strong>Mr. Cris Hairston</strong>
 Sr. Assistant Director
 UMW Graduate Admissions
-540-286-8086 or 540-286-8000
+540-286-8086
 <a href="mailto:chairsto@umw.edu">chairsto@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
