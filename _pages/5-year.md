@@ -1,33 +1,37 @@
 ---
-ID: 48300
-post_title: UMW MSGA 4+1 Program
-author: keury
-post_date: 2017-02-07 11:09:46
+ID: 48130
+post_title: UMW Eagle MBA 4+1 Program
+author: Shelley Keith
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/degrees/msga/5-year/
+  http://www.umw.edu/admissions/graduate/degrees/mba/5-year/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-04-04 10:12:04
 ---
-<h2><strong>Earn Two Degrees in Five Years!</strong></h2>
-<img class="alignleft wp-image-48303 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/02/NS-GIS-6-300x196.jpg" alt="GIS Class" width="300" height="196" />Now you can earn two degrees in approximately five years right here at UMW! Polish your GIS skills and enhance your analysis abilities. Gain the edge you need to establish your position in a fast-growing and in-demand industry. The 4+1 program is designed to prepare our students for success through a small class environment with experienced faculty, practical coursework, and a remarkable capstone experience.
+<h2>Earn Two Degrees in Five Years!</h2>
+Now you can earn two degrees in approximately five years right here at UMW! Polish your leadership skills and enhance your business acumen. Gain the edge you need to establish your influence and consider executive and management opportunities. The 4+1 program is designed to accommodate any undergraduate major/minor. No matter your starting point, we will design a custom pathway to your <a href="http://business.umw.edu/">MBA</a>.
 
-Undergraduate students may apply for provisional admission to the MSGA in the second semester of their junior year. This program is designed for students of any major, but they must have <em>completed</em> at least two GIS courses.
+Business majors, business minors and non-business majors are welcome to apply for entry into the EAGLE-MBA.
+<h2>Housing Opportunity</h2>
+<h3>Exclusively for EAGLE-MBA students!</h3>
+Students for both summer and fall terms may qualify to receive a housing incentive (50% off cost) if they choose to stay on campus while completing their graduate degree. This is a first come first serve offer with a limited number of spaces available.
+<h3>College of Business Admission Requirements<strong>
+</strong></h3>
+<ul>
+ 	<li><a href="http://www.umw.edu/admissions/apply/graduate-applications/">Graduate application for admission</a>
+• Transcripts
+• Résumé</li>
+ 	<li>GMAT/GRE scores</li>
+</ul>
+<h3>Application Deadlines</h3>
+<ul>
+ 	<li>Summer term: April 30</li>
+ 	<li>Fall term: July 31</li>
+</ul>
+<h2>Interested?</h2>
+Contact the Office of Graduate Admissions to take the next step in the admissions process at (540) 286-8030 or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>.
+<h2><img class="alignleft size-medium wp-image-48131" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/04/taylor-johnson-300x244.jpg" alt="Photo of Taylor Johnson holding a basketball." width="300" height="244" />Taylor Johnson, MBA ‘16</h2>
+A graduate assistant in UMW’s athletic department, Taylor Johnson, MBA ’16, works in sports information and facility management. He felt a master’s degree would give him an edge in reaching his career goals in athletic administration. Having studied business at UMW as an undergrad, Johnson, who was also a star Eagles basketball player, has enjoyed learning from some of the same professors who already had served as his mentors. “Earning a master’s degree will help me jump-start my career,” Johnson said. “The MBA program has helped me sharpen my skills to become a well-rounded business student. I really enjoy the structure of the classes, which revolve around discussion.”
 
-Once admitted, the student would take MSGA 510, Spatial Thinking in the fall semester of their senior year and MSGA 520, GeoDesign and GeoVisualization, in the spring semester of their senior year. These courses are not sequenced and may be taken in either order.
-<h2>College of Arts and Sciences Admission Requirements</h2>
-<ul>
- 	<li>70 completed credits of Undergraduate study</li>
- 	<li>Minimum GPA of a 2.7 and at least two GIS courses with a grade of B or higher in each</li>
- 	<li>One letter of recommendation from a UMW professor attesting to GIS experience</li>
-</ul>
-<h2><strong>Application Deadlines</strong></h2>
-<ul>
- 	<li>For students starting their senior year in fall of 2017, the deadline is February 20, 2017.</li>
- 	<li>For students starting their senior year in spring of 2018, the deadline is October 2, 2017.</li>
- 	<li>For students starting their senior year in fall of 2018, the deadline is February 19, 2018.</li>
-</ul>
-<h2><strong>Interested?</strong></h2>
-Contact the Office of Graduate Admissions to take the next step in the admissions process at 540/286-8000 or <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a>.
+&nbsp;
