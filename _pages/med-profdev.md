@@ -4,12 +4,12 @@ post_title: >
   M.Ed. for Professional Development or
   Added Endorsement
 author: Shelley Keith
-post_date: 2015-08-06 15:50:04
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/degrees/med-profdev/
 published: true
+post_date: 2015-08-06 15:50:04
 ---
 The College of Education offers six Master of Education (M.Ed.) degrees for Professional Development or Added Endorsement is offered for practicing teachers who already possess initial licensure and is designed to provide opportunities for continuing professional development, master’s level licensure for teachers and other school personnel, or endorsements in teaching or administration. Students in these programs must possess a collegiate professional or postgraduate professional Virginia license.
 <strong>
@@ -45,5 +45,5 @@ Contact:
 <strong>Mr. Cris Hairston</strong>
 Sr. Assistant Director
 UMW Graduate Admissions
-540-286-8086 or 540-286-8086
+540-286-8086
 <a href="mailto:chairsto@umw.edu">chairsto@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
