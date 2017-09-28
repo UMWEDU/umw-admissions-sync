@@ -36,7 +36,7 @@ Contact Information:
 Christy Pack
 Director of Graduate Admissions
 <strong>UMW Graduate Admissions</strong>
-540-286-8030 or 540-286-8000
+540-286-8030
 <a href="mailto:dpack@umw.edu">dpack@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
 
 &nbsp;
