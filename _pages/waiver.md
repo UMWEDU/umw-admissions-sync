@@ -19,7 +19,7 @@ To request a review, contact:
 Christy Pack
 Director of Graduate Admissions
 <strong>UMW Graduate Admissions</strong>
-540-286-8030 or 540-286-8000
+540-286-8030
 <a href="mailto:dpack@umw.edu">dpack@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
 <h2><strong>Admissions Requirements for Students with Approved Waiver of </strong><strong>GMAT or GRE scores</strong></h2>
 <strong>Recommended Application Filing Dates</strong>
