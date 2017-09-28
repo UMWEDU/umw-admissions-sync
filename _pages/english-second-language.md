@@ -2,23 +2,21 @@
 ID: 48353
 post_title: English as a Second Language
 author: keury
-post_date: 2017-06-22 10:52:52
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/international/english-second-language/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-06-22 10:52:52
 ---
 <img class="aligncenter wp-image-48355 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/06/NS-Fall-12-Website.jpg" alt="Fall feature on campus walk" width="2705" height="1940" />
 
-Prospective students who require English as a Second Language (ESL) instruction prior to enrollment can participate in UMW's partnership with the <a href="https://www.ila.edu/">International Language Academy</a> of Washington, D.C. (ILA).
+The University of Mary Washington is proud to partner with <a href="https://www.ila.edu/">International Language Academy</a> of Washington, D.C. (ILA) to provide English as a second language education for prospective UMW students. If you do not meet the UMW English language requirement (80 on TOEFL or  6.5 on IELTS), you may consider enrolling at ILA. Eligible students who complete their English studies at ILA are guaranteed acceptance into the University of Mary Washington upon successful completion of levels 11 and 12 of the Intensive English Program. Sessions begin every four weeks on ILA’s campus in McLean, VA.
 
-ILA will provide an instructional program in ESL on both the UMW campus and ILA’s campus in McLean.  An ESL Bridge Program will be offered in the near future on UMW’s campus.
+With the <strong><em>ILA to Mary Washington Bridge Program</em></strong>, students may not only gain English language skills, but also begin UMW college courses, helping in the cultural transition to a completing a degree at the university. ILA will provide instruction on Mary Washington’s campus beginning in January 2018.
 
-The bridge track will provide highly motivated ILA students, nearing the end of their language program, the opportunity to get a jump start toward earning their UMW degree by enrolling at UMW concurrently. Bridge students will live on campus and will have the opportunity to take advantage of co-curricular offerings, academic support services, and more.
+Once a student completes level 10 at ILA, he or she has the opportunity to take college classes on UMW’s campus while completing levels 11 &amp; 12 of the Intensive English Program. The bridge program facilitates the enrollment process by preparing international students to speak, read, and write English at a high academic level, and acts as a transitional program beyond the scope of English language learning. By enrolling concurrently in UMW courses, ILA students will have time to adjust to cultural differences by living on the Fredericksburg campus and participating in co-curricular activities, academic support services, and more.
 
-Under the program, prospective students will apply and will indicate which option they are interested in non-bridge or bridge enrollment.
+Prospective students may apply to ILA and indicate which option they are interested in pursuing: non-bridge or bridge enrollment.
 
-For questions regarding the program, please contact the Admissions Office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
+For questions regarding English as a second language education or the <em>ILA to Mary Washington Bridge Program</em>, please contact ILA at 703-712-8002 or <a href="mailto:info@ila.edu">info@ila.edu</a>.
