@@ -28,7 +28,7 @@ UMW offers courses in its MBA program in a variety of formats and locations, inc
 <h3><strong>When and how do I apply for acceptance to the program?</strong></h3>
 To enroll during the fall semester, the suggested filing date is Aug. 1. (All students applying for graduate assistant positions must apply for fall admission by March 1.) For spring, the suggested filing date is by Nov. 15. For summer term, it is April 1. UMW accepts post-filing date applications on a rolling, space-available basis.
 
-<strong>We encourage applicants to please call the Office of Graduate Admissions at 540-286-8000 or email </strong><a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a><strong>  to discuss application deadlines for each specific program. </strong>
+<strong>We encourage applicants to please call the Office of Graduate Admissions at 540-286-8030 or email </strong><a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a><strong>  to discuss application deadlines for each specific program. </strong>
 
 Get a head start on your courses by signing up for the second eight-week session of the fall semester, which begins in October, or of the spring semester, which begins in March. Or join the MBA program as a non-degree seeking student.
 
