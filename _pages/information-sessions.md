@@ -26,12 +26,8 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774799804853454c97ae62ca34e4a51357">Wednesday, November 15</a> from 6-7 p.m.
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778b08cf53728c42a798c0e60077e64211">Monday, December 11</a> from 6-7 p.m.
-<h4><span style="color: #0000ff">Geospatial Analysis</span></h4>
-<strong>Master of Geospatial Analysis 4+1 Program Information Session</strong>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357759a393614c1846d6aae591ac07748052">Thursday, September 21</a> from 4:30-5:30 p.m.
 <h1>Individual Attention</h1>
-The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8000 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
+The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
 The <a href="http://www.umw.edu/admissions/graduate/degrees/mba/">Master of Business Administration</a> within UMW’s College of Business is a great choice for new and experienced professionals who want to assume management and leadership positions in a variety of organizational settings. Students will have the opportunity to hear from our faculty about the program requirements and application process.
 <h3>Master of Education with Teacher Licensure</h3>
@@ -41,8 +37,8 @@ For students interested in the MSGA program, we offer a program-specific presen
 <h3>Additional Visit Opportunities</h3>
 <strong>Observe a Graduate Class</strong>
 
-If you want to attend a class to get firsthand experience about what it is like to be a UMW graduate student, contact <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> or (540) 286-8000 to make arrangements. Stay for 30-minutes or the entire class–we know you’ll appreciate the opportunity to speak with our faculty and current students. <a href="http://www.umw.edu/visitors/stafford-campus/">Directions to the Stafford campus and campus map</a>.
+If you want to attend a class to get firsthand experience about what it is like to be a UMW graduate student, contact <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> or (540) 286-8030 to make arrangements. Stay for 30-minutes or the entire class–we know you’ll appreciate the opportunity to speak with our faculty and current students. <a href="http://www.umw.edu/visitors/stafford-campus/">Directions to the Stafford campus and campus map</a>.
 
 <strong>On-Site Information Visits</strong>
 
-We are happy to provide an on-site information session about our graduate programs at your place of employment. Contact us at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> or (540) 286-8000 to schedule the visit!
+We are happy to provide an on-site information session about our graduate programs at your place of employment. Contact us at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> or (540) 286-8030 to schedule the visit!
