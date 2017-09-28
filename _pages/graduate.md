@@ -29,6 +29,6 @@ The University of Mary Washington provides an exceptional education at an <a hre
 
 Check out <a href="http://www.umw.edu/admissions/graduate/degrees/"><strong>UMW’s graduate degrees</strong></a> and call, text, or tweet us to learn more.
 
-For detailed information and with specific questions, <a href="http://www.umw.edu/admissions/graduate/contact-graduate/"><strong>contact Graduate Admissions</strong></a> at (540) 286-8000 or <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a>.
+For detailed information and with specific questions, <a href="http://www.umw.edu/admissions/graduate/contact-graduate/"><strong>contact Graduate Admissions</strong></a> at (540) 286-8030 or <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a>.
 
 &nbsp;
