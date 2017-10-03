@@ -31,3 +31,11 @@ Cambria Hotels &amp; Suites
 Rockville, MD 20850
 
 Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774dd71dbf200344348288a65ef05c33a0">register</a> by Nov. 5
+
+<strong>Tidewater, VA: Thursday, November 30</strong>
+
+Slover Library
+235 E Plume Street
+Norfolk, VA 23510
+
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eb95ada4935f431391b2a3c4ad3ac222">register</a> by Nov. 26
