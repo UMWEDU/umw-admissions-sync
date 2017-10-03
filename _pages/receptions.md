@@ -13,7 +13,7 @@ post_date: 2015-10-08 16:39:56
 
 We will hope you and your parents can join us for a reception. You will be able to discover more about the University of Mary Washington and meet admissions staff, students, and alumni.
 <p style="text-align: left">Please call the admissions office at 540/654-2000 or
-800/ 468-5614 with any questions.</p>
+800/468-5614 with any questions.</p>
 
 <h2 style="text-align: left">Upcoming Events:</h2>
 <span style="color: #0000ff"><strong>Richmond, VA: Wednesday, November 8</strong></span>
