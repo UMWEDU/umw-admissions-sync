@@ -29,8 +29,8 @@ In the information below, the “Middle 50%” indicates the range into which fe
 </tr>
 <tr>
 <th>High-School GPA</th>
-<td>3.69</td>
-<td>3.6</td>
+<td>3.62</td>
+<td>3.58</td>
 </tr>
 <tr>
 <th>SAT</th>
