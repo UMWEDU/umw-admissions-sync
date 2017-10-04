@@ -13,7 +13,7 @@ This profile is intended to provide a general picture of the students who were a
 <h2>The Freshman Class</h2>
 The Admissions Committee reviews each candidate’s file individually, giving careful consideration to all aspects of the record. The committee places strong emphasis on the quality of the student’s secondary school curriculum. Successful candidates present records of sound preparation for study in the liberal arts and sciences. Advanced, honors-level, and Advanced Placement or International Baccalaureate course work is highly encouraged.
 
-The committee reviewed 5,885 freshman applications for the fall of 2017. Admission was offered to 4,394 candidates and 949 students enrolled as first-time students.
+The committee reviewed 5,985 freshman applications for the fall of 2017. Admission was offered to 4,394 candidates and 949 students enrolled as first-time students.
 <h2>Multicultural Diversity</h2>
 The University of Mary Washington strives to enroll a student body that is culturally and ethnically diverse. In 2017, more than 27 percent of the entering students identified themselves as racially or ethnically diverse.
 <h2>Secondary School Performance</h2>
