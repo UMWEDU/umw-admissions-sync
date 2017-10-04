@@ -22,4 +22,9 @@ Jepson Scholars will participate in a variety of activities to promote skills an
  	<li>Scholars will participate in field trips, workshops, and symposia sponsored by the Center for Career and Professional Development to prepare them for careers in the sciences or post-graduate studies.</li>
  	<li>Scholars will participate in the UMW Summer Science Institute, a ten week intensive research experience, as rising juniors or seniors ($2,800 stipend, room and board, research supply funding).</li>
 </ol>
-Check back soon for more information on applying to become a Jepson Scholar!
+<h4>Application and Timeline</h4>
+The application will be available mid-November with a deadline of February 16, 2018. Your application should include a letter of recommendation, a personal statement of 500 words or less, and your career goals and science related activities. Candidates will interview in February and March.
+<h4>Questions?</h4>
+Contact <a href="ncrowder@umw.edu">Dr. Nicole Crowder</a>, Associate Professor of Chemistry or <a href="dbaker2@umw.edu">Dr. Dianne Baker</a>, Associate Professor of Biology.
+
+&nbsp;
