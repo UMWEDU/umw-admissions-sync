@@ -49,7 +49,7 @@ College fairs occur mostly in September and October and again in March and April
 </strong></span>
 
 Saturday, November 18 10 a.m. until 2 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2e4f6f75b1647b885942b3045284601">RSVP</a> and Apply by November 13
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577137898501a094262a499697b7384a7d2">RSVP</a> and Apply by November 13
 
 We love keeping the legacy going and keeping Mary Washington in your family and your family in ours!
 
