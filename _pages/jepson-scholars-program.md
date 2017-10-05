@@ -20,7 +20,7 @@ Jepson Scholars will participate in a variety of activities to promote skills an
  	<li>Scholars will participate in the <strong>Jepson Scholar Early Active STEM Experience (EASE)</strong> – a 5 week residential program the summer before their first year at UMW where they will integrate with a faculty and student team to conduct cutting-edge research in the sciences ($1000 stipend and room and board).</li>
  	<li>Scholars will enroll as a cohort in science-themed First-Year Seminars, ensuring that their academic advisors will be from one of the science departments. Students will also enroll as a cohort in their introductory science courses and will <strong>participate in Peer Assisted Study Sessions</strong> (PASS) for key first-year science courses like General Chemistry and Physics.</li>
  	<li>Scholars will participate in field trips, workshops, and symposia sponsored by the Center for Career and Professional Development to prepare them for careers in the sciences or post-graduate studies.</li>
- 	<li>Scholars will participate in the <strong>UMW Summer Science Institute</strong>, a ten week intensive research experience, as rising juniors or seniors (<strong>$2,800 stipend</strong>, room and board, research supply funding).</li>
+ 	<li>Scholars will participate in the <strong>UMW Summer Science Institute</strong>, a ten week intensive research experience, as rising juniors or seniors (<strong>$2,800 stipend, room and board, research supply funding</strong>).</li>
 </ol>
 <h4>Application and Timeline</h4>
 Applicants will:
