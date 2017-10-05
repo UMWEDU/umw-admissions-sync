@@ -2,16 +2,16 @@
 ID: 48200
 post_title: Alumni Recruitment
 author: keury
-post_date: 2016-09-23 11:49:37
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/admissions/alumni-recruitment/
+  http://www.umw.edu/admissions/alumni-recruitment/
 published: true
+post_date: 2016-09-23 11:49:37
 ---
-<img class="alignnone wp-image-48201 size-full" src="http://umwwebmaster.staging.wpengine.com/admissions/wp-content/uploads/sites/6/2016/09/Alumni-Rock.jpg" alt="alumni-rock" width="851" height="350" />
+<img class="alignnone wp-image-48201 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/Alumni-Rock.jpg" alt="alumni-rock" width="851" height="350" />
 
-As an alum, you know from personal experience that UMW is a special place to spend four years living and learning.  Alumni are many of our best ambassadors in recruitment. We hope that you will see opportunity in every conversation to recruit new students to UMW.
+As an alum, you know from personal experience that UMW is a special place to spend four years living and learning.  Alumni are many of our best ambassadors in recruitment. We hope that you will see opportunity in every conversation to recruit new students to Mary Washington.
 
 We want you to know of a few options where we could use your assistance in bringing in our next class.
 
@@ -22,7 +22,7 @@ Do you know a high school senior or transfer student that would thrive at Mary W
  	<li>Give the student the code <strong>UMW51</strong>. He or she will select this code from a drop down menu on the application within the UMW questions when prompted.</li>
  	<li>Let Admissions know with whom you have shared the code. Send us an email at <a href="mailto:admit@umw.edu">admit@umw.edu</a> indicating the student’s full name, email address if you have it, and your name.</li>
 </ol>
-<span style="color: red"><strong>Hometown Hero Program</strong></span>
+<span style="color: red"><strong>Hometown Hero Program (College Fairs Across the Nation and Around the World)</strong></span>
 
 The Admissions team is committed to attending college fairs throughout Virginia as well as the East Coast. But we simply cannot be everywhere. And we don’t know of every fair. We are looking to grow our out of state presence and reach more students than we have been able to before. We need you.  Be a Hometown Hero for UMW!
 
@@ -48,19 +48,19 @@ College fairs occur mostly in September and October and again in March and April
 <span style="color: red"><strong>Legacy Onsite and Virtual Admission Event
 </strong></span>
 
-Saturday, November 19 10 a.m. until 2 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2e4f6f75b1647b885942b3045284601">RSVP</a> and Apply by November 10
+Saturday, November 18 10 a.m. until 2 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2e4f6f75b1647b885942b3045284601">RSVP</a> and Apply by November 13
 
 We love keeping the legacy going and keeping Mary Washington in your family and your family in ours!
 
-For those who have not yet had the opportunity to visit campus, we welcome alumni with their applicant to join us on campus for an enhanced visit on Saturday, November 19.  The day will include an information session and tour, complimentary lunch in the new University Center dining facility, and a student life panel.  Apply by November 10 and at the end of your visit, your son or daughter or relative may walk away with a decision in hand.
+For those who have not yet had the opportunity to visit campus, we welcome alumni with their applicant to join us on campus for an enhanced visit on Saturday, November 18.  The day will include an information session and tour, complimentary lunch in the new University Center dining facility, and a student life panel.  Apply by November 13 and at the end of your visit, your student may walk away with a decision in hand.
 
-Already joined us on campus for a visit? Apply by November 10 and receive a virtual decision by email on Friday, November 18.
+Already joined us on campus for a visit? Apply by November 13 and receive a virtual decision by email on Friday, November 18.
 
-To take part, your student may <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b2e4f6f75b1647b885942b3045284601"><u>register</u></a> by November 10. Applicants should indicate whether they wish to receive a decision virtually on November 18 or in person on November 19. Candidates must also apply no later than November 10 in order to participate. Students should request official copies of transcripts and scores unless applying test optional, to be considered for virtual or onsite admission during this legacy event.
+To take part, your student may <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577137898501a094262a499697b7384a7d2"><u>register</u></a> by November 13. Applicants should indicate whether they wish to receive a decision virtually on November 17 or in person on November 19. Candidates must also apply no later than November 13 in order to participate. Students should request official copies of transcripts and scores unless applying test optional, to be considered for virtual or onsite admission during this legacy event.
 
-For the full list of visit opportunities and open houses, please <a href="http://umwwebmaster.staging.wpengine.com/admissions/visit/">review</a> the option that works best for your schedule.
+For the full list of visit opportunities and open houses, please <a href="http://www.umw.edu/admissions/visit/">review</a> the option that works best for your schedule.
 
 <strong>Do you have other ideas for how alumni can recruit new students?</strong>
 
-Other suggestions to reach prospective students through alumni recruitment connections, let us know.  Email your ideas to <a href="mailto:admit@umw.edu">admit@umw.edu</a> and Admissions will follow up.
+Let us know!  Email your ideas to <a href="mailto:admit@umw.edu">admit@umw.edu</a> and Admissions will follow up.
