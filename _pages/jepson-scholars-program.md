@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-19 10:27:27
 ---
-<img class="alignleft wp-image-48397 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/09/Nicole-Crowder-1-1024x606.jpg" alt="Nicole Crowder, assistant professor of chemistry works with students on a research project," width="1024" height="606" />Program developed by UMW faculty and funded by the National Science Foundation (NSF) to address financial burdens and enhance the undergraduate experience for academically talented students interested in pursuing a major in Biological Sciences, Chemistry, Earth and Environmental Sciences, or Physics. This program includes two paid, hands-on research experiences that will help students develop skills for careers and post-graduate studies in the natural sciences. Ten scholars will be selected for matriculation in 2018-19, and another 10 for matriculation in 2019-20.
+<img class="alignleft wp-image-48397 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2017/09/Nicole-Crowder-1-1024x606.jpg" alt="Nicole Crowder, assistant professor of chemistry works with students on a research project," width="1024" height="606" />Program developed by UMW faculty and funded by the National Science Foundation (NSF) to address financial burdens and enhance the undergraduate experience for academically talented students interested in pursuing a major in Biological Sciences, Chemistry, Earth and Environmental Sciences, or Physics. This program includes <strong>two paid, hands-on research experiences</strong> that will help students develop skills for careers and post-graduate studies in the natural sciences. Ten scholars will be selected for matriculation in 2018-19, and another 10 for matriculation in 2019-20. Preference is given to students who apply Early Action by November 15 and who have demonstrated need as determined by the FAFSA.
 <h4>Eligibility</h4>
 3.75 GPA, 1150 SAT or 25 ACT; selection will be holistic, and students not meeting these criteria may be considered.
 <h4>Scholarships</h4>
@@ -23,7 +23,21 @@ Jepson Scholars will participate in a variety of activities to promote skills an
  	<li>Scholars will participate in the UMW Summer Science Institute, a ten week intensive research experience, as rising juniors or seniors ($2,800 stipend, room and board, research supply funding).</li>
 </ol>
 <h4>Application and Timeline</h4>
-The application will be available mid-November with a deadline of February 16, 2018. Your application should include a letter of recommendation, a personal statement of 500 words or less, and your career goals and science related activities. Candidates will interview in February and March.
+Applicants will:
+<ul>
+ 	<li>Apply to UMW and be admitted</li>
+ 	<li>Complete the FAFSA by February 1</li>
+ 	<li>Plan to major in Biological Sciences, Chemistry, Earth and Environmental Sciences, or Physics</li>
+ 	<li>Apply to be a Jepson Scholar. Applications will be available December 1 (deadline to apply is February 16, 2018) and must include:
+<ul>
+ 	<li>A letter of recommendation</li>
+ 	<li>A personal statement of 500 words or less</li>
+ 	<li>Career goals</li>
+ 	<li>Science related activities</li>
+</ul>
+</li>
+ 	<li>Selected candidates will interview with the committee in February and March and the scholars will be awarded in April.</li>
+</ul>
 <h4>Questions?</h4>
 Contact <a href="ncrowder@umw.edu">Dr. Nicole Crowder</a>, Associate Professor of Chemistry or <a href="dbaker2@umw.edu">Dr. Dianne Baker</a>, Associate Professor of Biology.
 
