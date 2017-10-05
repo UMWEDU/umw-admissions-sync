@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-21 13:14:32
 ---
-<strong><span style="color: #ff0000">Wednesday, November 8</span></strong>
+<strong><span style="color: #ff0000">Wednesday, November 15</span></strong>
 
 The University of Mary Washington is hosting a drive-in workshop for regional school and college counselors. We hope you join us on Wednesday, November 8 from approximately 8:30 a.m. to 2:30 p.m.
 
