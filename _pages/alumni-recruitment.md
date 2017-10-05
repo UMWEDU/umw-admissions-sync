@@ -57,7 +57,7 @@ For those who have not yet had the opportunity to visit campus, we welcome alumn
 
 Already joined us on campus for a visit? Apply by November 13 and receive a virtual decision by email on Friday, November 18.
 
-To take part, your student may <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577137898501a094262a499697b7384a7d2"><u>register</u></a> by November 13. Applicants should indicate whether they wish to receive a decision virtually on November 17 or in person on November 19. Candidates must also apply no later than November 13 in order to participate. Students should request official copies of transcripts and scores unless applying test optional, to be considered for virtual or onsite admission during this legacy event.
+To take part, your student may <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577137898501a094262a499697b7384a7d2"><u>register</u></a> by November 13. Applicants should indicate whether they wish to receive a decision virtually on November 17 or in person on November 18. Candidates must also apply no later than November 13 in order to participate. Students should request official copies of transcripts and scores unless applying test optional, to be considered for virtual or onsite admission during this legacy event.
 
 For the full list of visit opportunities and open houses, please <a href="http://www.umw.edu/admissions/visit/">review</a> the option that works best for your schedule.
 
