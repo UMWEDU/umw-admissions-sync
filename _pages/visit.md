@@ -20,7 +20,8 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “top-up” scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and will occur through February 1, 2018 for fall 2018 admission candidates.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
-<h2></h2>
+<h2> Off Campus</h2>
+In November, UMW is hosting <a href="https://www.umw.edu/admissions/visit/receptions/">receptions</a> in Richmond, Norfolk, and Maryland. We hope you're able to attend!
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
