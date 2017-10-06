@@ -24,7 +24,23 @@ Please note pre-registration will close the weekday before the event, but on-si
 </ul>
 <strong>October 28 Interview Time Still Available (High School Seniors Only)</strong>
 
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357709a6d0294d32479f8cb6079904b843f6">1 p.m
+</a>
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f1c6785653834385ad46aade71b90b7c">1:20 p.m.</a>
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e6fcaa317e27439fae9b7c8fe2797791">1:40 p.m.</a>
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f2961bff396a482c9b90f03dcc0f9df5">2 p.m.</a>
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577126cf698c9504de6b8758c95a76ed97b">2:20 p.m.</a>
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779b788cd239cd4bd3ac3d4099e128e87b">2:40 p.m.</a>
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775ab657de87f64009ba2e134509865b72">3 p.m.</a>
+
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776ba8c556f6364650953f495f8d6602ea">3:20 p.m.</a>
+
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773f345801646e4a28bca035371d267b3d">3:40 p.m.</a>
 
 Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
