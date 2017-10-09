@@ -20,22 +20,13 @@ Please note pre-registration will close the weekday before the event, but on-si
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f4ebd1c2171b46a893f370d7b3e1a36f">Saturday, October 28</a></li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779f2e45dad1c64c088709dabfe6032853">Saturday, November 11</a> (diversity focus)
 <ul>
- 	<li>Limited <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577430bae7ece1f43f99065ae1457332396">overnight opportunity</a> for high school seniors on Friday, November 10</li>
+ 	<li>Limited <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577430bae7ece1f43f99065ae1457332396">overnight opportunity</a> for high school seniors only on Friday, November 10. <em>Please note you will need to register for both the Open House and the overnight visit. </em></li>
 </ul>
 </li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b4112b2f2ccc43fe97b6e46aa09f1c0c">Monday, February 19</a></li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b8dabacca0dd4868845d86c55b760deb">Friday, March 30</a></li>
 </ul>
 <strong>October 28 Interview Time Still Available (High School Seniors Only)</strong>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357709a6d0294d32479f8cb6079904b843f6">1 p.m
-</a>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f1c6785653834385ad46aade71b90b7c">1:20 p.m.</a>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e6fcaa317e27439fae9b7c8fe2797791">1:40 p.m.</a>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f2961bff396a482c9b90f03dcc0f9df5">2 p.m.</a>
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577126cf698c9504de6b8758c95a76ed97b">2:20 p.m.</a>
 
