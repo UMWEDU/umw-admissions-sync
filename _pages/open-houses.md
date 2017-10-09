@@ -18,7 +18,11 @@ Throughout the day you’ll hear from current students about everything from wee
 Please note pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus! Register by selecting a date listed below.
 <ul>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f4ebd1c2171b46a893f370d7b3e1a36f">Saturday, October 28</a></li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779f2e45dad1c64c088709dabfe6032853">Saturday, November 11</a> (diversity focus)</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779f2e45dad1c64c088709dabfe6032853">Saturday, November 11</a> (diversity focus)
+<ul>
+ 	<li>Limited <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577430bae7ece1f43f99065ae1457332396">overnight opportunity</a> for high school seniors on Friday, November 10</li>
+</ul>
+</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b4112b2f2ccc43fe97b6e46aa09f1c0c">Monday, February 19</a></li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b8dabacca0dd4868845d86c55b760deb">Friday, March 30</a></li>
 </ul>
