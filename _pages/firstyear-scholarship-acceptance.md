@@ -27,10 +27,15 @@ Earned Credit Hours            Yearly GPA Requirement
 30-59                                       2.75
 60+                                          3.0
 
-The grade point average is to be determined by the course load requirement used in the determination of Dean’s List students and is based on the end of the spring term regardless if the student attends fall courses.  “<strong>Earned Credit Hours</strong>” are credit hours earned only at UMW.
+The grade point average is to be determined by the course load requirement used in the
+determination of Dean’s List students and is based on the end of the spring term regardless if the
+student attends fall courses.  “<strong>Earned Credit Hours</strong>” are credit hours earned only at UMW.
 
-5. Should the recipient be placed on social or administrative probation, or be found guilty of an Honor Code violation, the scholarship will be withdrawn, and charges to the student shall be adjusted according to the University’s refund policy.
+5. Should the recipient be placed on social or administrative probation, or be found guilty of an
+Honor Code violation, the scholarship will be withdrawn, and charges to the student shall be
+adjusted according to the University’s refund policy.
 
-6. An adjustment to the amount of the scholarship will be made according to the University’s refund policy should the recipient withdraw during the academic year.
+6. An adjustment to the amount of the scholarship will be made according to the University’s refund
+policy should the recipient withdraw during the academic year.
 
 [gravityform id="4" name="Scholarship Acceptance Certificate" description="false"]
