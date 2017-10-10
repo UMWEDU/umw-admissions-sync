@@ -17,7 +17,7 @@ Four year academic scholarship for students majoring in one of the programs hous
 <h4>Programmatic Aspects</h4>
 Jepson Scholars will participate in a variety of activities to promote skills and abilities to prepare Scholars for success in their majors and subsequent careers.
 <ol>
- 	<li>Scholars will participate in the <strong>Jepson Scholar Early Active STEM Experience (EASE)</strong> – a 5 week residential program the summer before their first year at UMW where they will integrate with a faculty and student team to conduct cutting-edge research in the sciences ($1000 stipend and room and board).</li>
+ 	<li>Scholars will participate in the <strong>Jepson Scholar Early Active STEM Experience (EASE)</strong> – a 5 week residential program the summer before their first year at UMW where they will integrate with a faculty and student team to conduct cutting-edge research in the sciences ($1,000 stipend and room and board).</li>
  	<li>Scholars will enroll as a cohort in science-themed First-Year Seminars, ensuring that their academic advisors will be from one of the science departments. Students will also enroll as a cohort in their introductory science courses and will <strong>participate in Peer Assisted Study Sessions</strong> (PASS) for key first-year science courses like General Chemistry and Physics.</li>
  	<li>Scholars will participate in field trips, workshops, and symposia sponsored by the Center for Career and Professional Development to prepare them for careers in the sciences or post-graduate studies.</li>
  	<li>Scholars will participate in the <strong>UMW Summer Science Institute</strong>, a ten week intensive research experience, as rising juniors or seniors (<strong>$2,800 stipend, room and board, research supply funding</strong>).</li>
@@ -31,7 +31,7 @@ Applicants will:
  	<li>Apply to be a Jepson Scholar. Applications will be available December 1 (deadline to apply is February 16, 2018) and must include:
 <ul>
  	<li>A letter of recommendation</li>
- 	<li>A personal statement of 500 words or less</li>
+ 	<li>A personal statement of up to 500 words or less</li>
  	<li>Career goals</li>
  	<li>Science related activities</li>
 </ul>
