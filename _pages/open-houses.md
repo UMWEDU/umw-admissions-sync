@@ -26,8 +26,6 @@ Please note pre-registration will close the weekday before the event, but on-si
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b4112b2f2ccc43fe97b6e46aa09f1c0c">Monday, February 19</a></li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b8dabacca0dd4868845d86c55b760deb">Friday, March 30</a></li>
 </ul>
-<strong>October 28 Interview Time Still Available (High School Seniors Only)</strong>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773f345801646e4a28bca035371d267b3d">3:40 p.m.</a>
+<strong>Interviews for October 28 are now full. </strong>
 
 Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
