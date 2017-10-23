@@ -41,9 +41,9 @@ Submit at least one letter of recommendation from a counselor or teacher, using 
 Proof of English language proficiency should be sent directly to UMW from the evaluating organization. These exam scores will get you in the running:
 <ul>
  	<li><a href="https://www.ets.org/toefl">Test of English as a Foreign Language</a> (TOEFL 80 IBT)</li>
- 	<li><a href="http://www.els.edu/en">ELS Language Center</a>’s Intensive English Program (Level 112 completion)</li>
+ 	<li><a href="https://www.ila.edu/">International Language Academy</a> (ILA) Intensive English Program (Level 12 completion)</li>
  	<li><a href="http://www.ielts.org/">International English Language Testing System</a> (6.5 on the academic exam)</li>
- 	<li><a href="https://sat.collegeboard.org/home">College Board’s SAT</a> (Evidence Based Critical Reading, 550; Math 550; use UMW SAT testing code 5398)</li>
+ 	<li><a href="https://sat.collegeboard.org/home">College Board’s SAT</a> (Evidence Based Critical Reading, 500; Math 500 or higher; use UMW SAT testing code 5398)</li>
  	<li><a href="http://www.actstudent.org/">ACT</a> (composite score of 22 or higher; use UMW ACT testing code 4414)</li>
 </ul>
 If your first language is English, your native country names English an official language, you’re graduating from a secondary school in a native English-speaking country or from an International Baccalaureate secondary school, or you scored well on the SAT verbal portion, you may request an English language requirement waiver.
