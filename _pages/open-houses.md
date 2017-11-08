@@ -15,7 +15,7 @@ Throughout the day you’ll hear from current students about everything from wee
 
 <span style="color: #ff0000">New!</span> High school seniors will have the opportunity to interview with Admissions staff.  Interviews will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$7,000. They will be held every 20 minutes between 12-3:40 p.m. in Lee Hall, Suite 301. Please register by selecting a time below for November 11.
 
-Please note pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus! Register by selecting a date listed below.
+Please note pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. in the Anderson Center so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus! Register by selecting a date listed below.
 <ul>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779f2e45dad1c64c088709dabfe6032853">Saturday, November 11</a> (diversity focus)
 <ul>
