@@ -2,22 +2,18 @@
 ID: 48328
 post_title: Modern Languages Placement Exams
 author: keury
-post_date: 2017-04-27 10:27:15
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/youarein/language-placement-exams/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2017-04-27 10:27:15
 ---
 profilers general education requirements reflect Mary Washington’s distinctive liberal arts and sciences values, an important part of which is <strong>Intermediate Competency </strong>in a language other than English.  For many students this means completing through the 202 or 205 level in Arabic, Chinese, French, German, Italian, or Spanish.
 
 In order to move through the sequence of language courses at UMW<strong>, first-time students</strong> should begin their language study at the appropriate level. The Department of Modern Languages offers a placement exam in <strong>Arabic, Mandarin Chinese, French, German, Italian and Spanish</strong>.
 
-Our placement exam is administered through Avant Placement. New students <strong>will need to take the exam at home between May 1 and June 1, 2017. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: The <a href="http://academics.umw.edu/academicservices/placement-testing/">Latin placement exam</a> must be taken by July 15</em>.
+Our placement exam is administered through Avant Placement. New students <strong>will need to take the exam at home between May 1 and June 1, 2018. </strong>Students will be notified of their scores and recommended placement at Orientation. Students who score high in the summer will be invited to take another proctored exam at the beginning of the fall semester if they wish to seek exemption from the UMW language requirement. Otherwise, they can take the recommended course. <em>NOTE: The <a href="http://academics.umw.edu/academicservices/placement-testing/">Latin placement exam</a> must be taken by July 15</em>.
 
 <strong>You should only take a placement exam for a language that you have previously studied in high school.</strong> If you plan to start with a new language that you have never studied, do not take a placement exam. You should register for the 101 course in that language.
 
@@ -29,9 +25,7 @@ The equipment you will need for the exam include a PC, Mac, or Chromebook comput
 
 You need to allow about 45 minutes to complete the test. You will find out your scores and your recommended placement at orientation.
 
-<strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided to you via email) as well as your <strong>full legal name</strong>. The original email from the Department of Modern Langua
-
-ges and Literatures was sent to you on April 30.
+<strong>Once you are ready to take the exam,</strong> you can find the special UMW log-in link and instructions for the test you want to take below. You will enter a <strong>Test Code</strong> and <strong>Password </strong>(provided to you via email) as well as your <strong>full legal name</strong>. The email from the Department of Modern Languages and Literatures will be sent around April 30.
 
 <strong>After logging in</strong> you will fill out some important personal information.
 
