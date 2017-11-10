@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-04-27 10:27:15
 ---
-profilers general education requirements reflect Mary Washington’s distinctive liberal arts and sciences values, an important part of which is <strong>Intermediate Competency </strong>in a language other than English.  For many students this means completing through the 202 or 205 level in Arabic, Chinese, French, German, Italian, or Spanish.
+Our general education requirements reflect Mary Washington’s distinctive liberal arts and sciences values, an important part of which is <strong>Intermediate Competency </strong>in a language other than English.  For many students this means completing through the 202 or 205 level in Arabic, Chinese, French, German, Italian, or Spanish.
 
 In order to move through the sequence of language courses at UMW<strong>, first-time students</strong> should begin their language study at the appropriate level. The Department of Modern Languages offers a placement exam in <strong>Arabic, Mandarin Chinese, French, German, Italian and Spanish</strong>.
 
