@@ -16,6 +16,12 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <span style="color: #000000"><strong>Master of Education (M.Ed) Information Session</strong></span>
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778b08cf53728c42a798c0e60077e64211">Monday, December 11</a> from 6-7 p.m.
+
+<strong><span style="color: #0000ff">Geospatial Analysis</span></strong>
+
+Master of Science in Geospatial Analysis (MSGA) Information Session
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577741620fe9abd489187f1f8b6fd388046">Tuesday, December 12</a> from 5:30-6:30 p.m.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
