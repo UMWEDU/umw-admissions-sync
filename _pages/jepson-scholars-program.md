@@ -25,10 +25,10 @@ Jepson Scholars will participate in a variety of activities to promote skills an
 <h4>Application and Timeline</h4>
 Applicants will:
 <ul>
- 	<li>Apply to UMW and be admitted</li>
+ 	<li>Apply to UMW including high school transcript and test scores</li>
  	<li>Complete the FAFSA by February 1</li>
  	<li>Plan to major in Biological Sciences, Chemistry, Earth and Environmental Sciences, or Physics</li>
- 	<li><a href="https://www.umw.edu/admissions/jepson-scholars-application/">Apply to be a Jepson Scholar</a>. Deadline to apply is February 16, 2018.
+ 	<li><a href="https://www.umw.edu/admissions/jepson-scholars-application/">Apply to be a Jepson Scholar</a>. Deadline to apply is February 16, 2018. As part of the application, applicants will submit:
 <ul>
  	<li><a href="https://www.umw.edu/admissions/jepson-scholars-recommendation/">A letter of recommendation</a></li>
  	<li>A personal statement of up to 500 words or less</li>
@@ -36,7 +36,7 @@ Applicants will:
  	<li>Science related activities</li>
 </ul>
 </li>
- 	<li>Selected candidates will interview with the committee in February and March and the scholars will be awarded in April.</li>
+ 	<li>Selected candidates will interview with the committee in February or March and the scholars will be awarded and notified April 1.</li>
 </ul>
 <h4>Questions?</h4>
 Contact <a href="ncrowder@umw.edu">Dr. Nicole Crowder</a>, Associate Professor of Chemistry or <a href="dbaker2@umw.edu">Dr. Dianne Baker</a>, Associate Professor of Biology.
