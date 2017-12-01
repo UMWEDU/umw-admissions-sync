@@ -13,4 +13,4 @@ post_date: 2017-11-17 11:27:28
 
 &nbsp;
 
-[gravityform id="19" title="true" description="true"]
+&nbsp;
