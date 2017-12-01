@@ -28,9 +28,9 @@ Applicants will:
  	<li>Apply to UMW and be admitted</li>
  	<li>Complete the FAFSA by February 1</li>
  	<li>Plan to major in Biological Sciences, Chemistry, Earth and Environmental Sciences, or Physics</li>
- 	<li>Apply to be a Jepson Scholar. Applications will be available December 1 (deadline to apply is February 16, 2018) and must include:
+ 	<li><a href="https://www.umw.edu/admissions/jepson-scholars-application/">Apply to be a Jepson Scholar</a>. Deadline to apply is February 16, 2018.
 <ul>
- 	<li>A letter of recommendation</li>
+ 	<li><a href="https://www.umw.edu/admissions/jepson-scholars-recommendation/">A letter of recommendation</a></li>
  	<li>A personal statement of up to 500 words or less</li>
  	<li>Career goals</li>
  	<li>Science related activities</li>
