@@ -17,8 +17,12 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357747d1792aca9448f699bdde6780555be5">Friday, February 23</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776dc96cfe50724312afaaad5a9849a0f6">Monday, March 5</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357703ea63d49724466891d7539b6c236c15">Thursday, March 22</a> from 6-7 p.m.
-<h4><span style="color: #0000ff"><strong>Check back soon for Education and Geospatial Analysis Information Sessions in the spring. </strong></span></h4>
-&nbsp;
+<h4><span style="color: #0000ff"><strong>Education</strong></span></h4>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f73dddebb8864939bac0564b9d99e821">Monday, January 22</a> from 6-7 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b184c2771cb145cc8581735e92db1ef2">Wednesday, February 21</a> from 6-7 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770a99c81545384cb5917432edc2a9a23f">Wednesday, March 21</a> from 6-7 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f4abc3ed5106454bb5199148b9524af9">Monday, April 16</a> from 6-7 p.m.
+<h4><span style="color: #0000ff"><strong>Check back soon for Geospatial Analysis Information Sessions in the spring. </strong></span></h4>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
