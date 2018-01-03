@@ -11,7 +11,7 @@ post_date: 2015-09-02 15:06:49
 ---
 <h2>For all transfer students.</h2>
 <h3>Preferred application filing dates:</h3>
-<strong>Spring semester:</strong> Still accepting applications
+<strong>Spring semester:</strong> October 15
 <strong>Summer semester</strong>: March 1
 <strong>Fall semester:</strong> April 1
 
