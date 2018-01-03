@@ -15,7 +15,7 @@ No matter how, where, or why you began your college career, the University of 
 <ol>
  	<li>Take note of deadlines. Preferred application filing dates are:
 <ul>
- 	<li>Spring semester: Still accepting applications</li>
+ 	<li>Spring semester: October 15</li>
  	<li>Summer semester: March 1</li>
  	<li>Fall semester: April 1</li>
 </ul>
