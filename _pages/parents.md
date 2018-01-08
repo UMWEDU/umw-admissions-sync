@@ -11,18 +11,16 @@ post_date: 2015-06-03 09:06:51
 ---
 <img class="alignnone size-full wp-image-48038" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/06/UMWMom-e1441229944460.jpg" alt="Mom and daughter in a residence hall." width="100%" />
 <h2>Parent’s Summer Chat Series</h2>
-We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Summer Chat Series for parents.
-<ul>
- 	<li><strong>How to Support Your UMW Student from Home</strong> - September 7 from 6-7:30 p.m.</li>
-</ul>
+We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Chat Series for parents that will occur this summer.
+
 <a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Sign on to join a scheduled chat</a>. You’ll be able to join the chat 10 minutes prior to the start time. Please use your student’s name to sign onto the chat and enter the private code that can be found in your email.
 
 We hope you join us to learn how you can support your student from home.  Whether home is Stafford County, VA or San Diego, CA, they are transitioning to their new routine just as you are transitioning to yours. You may have heard from them, or maybe not, about new experiences with professors, classes, extra-curriculars, the city of Fredericksburg, or even laundry in the residence halls. And this may lead you to think about their interaction in our community.
 
 Our staff are happy to take your questions, accept your comments, and address concerns to help you learn more about:
 <ul>
- 	<li>Join the <a href="https://www.facebook.com/groups/UMW2021parents/">Parents of 2021</a> Facebook group to stay informed.</li>
- 	<li><a href="/familyweekend/">Family Weekend</a> activities (Sept. 15-17)</li>
+ 	<li>Join the <a href="https://www.facebook.com/groups/UMWClassof2022Parents/">Parents of 2022</a> Facebook group to stay informed.</li>
+ 	<li><a href="/familyweekend/">Family Weekend</a> activities (Sept. 14-16)</li>
  	<li>Academic support systems (tutoring, the <a href="http://academics.umw.edu/writing-fredericksburg/">Writing Center</a>, the <a href="http://academics.umw.edu/speaking/speaking-center/">Speaking Center</a>, professors’ office hours)</li>
  	<li>Meal plans and other dining options</li>
  	<li><a href="http://students.umw.edu/healthcenter/">Student Health Center</a> and other wellness options - confirm your student submitted their student health forms or bring them on Family Weekend!</li>
