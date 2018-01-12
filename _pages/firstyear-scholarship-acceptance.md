@@ -13,7 +13,7 @@ post_date: 2014-11-05 14:03:08
 ---
 <strong>Applicants must return this Acceptance Certificate to the Office of Admissions at the time of deposit.</strong>
 
-The university awards merit scholarships based on information submitted on the application to include cumulative GPA, test scores and academic program.  Other factors considered for scholarship amounts include housing status and state residency.  <strong>The University of Mary Washington may change or rescind merit scholarships in the event housing or residency status changes after awarding</strong><strong>.</strong>
+The university awards merit scholarships based on information submitted on the application to include cumulative GPA, test scores and academic program.  Other factors considered for scholarship amounts include housing status and state residency.  <strong>The University of Mary Washington will change or rescind merit scholarships in the event housing or residency status changes after awarding</strong><strong>.</strong>
 
 The university will credit one-half of the scholarship each semester to the student’s account (Fall/Spring).  The recipient qualifies to receive a scholarship for each of four academic years of continuous undergraduate study at the University of Mary Washington if all of the following conditions are satisfied:
 <ol>
