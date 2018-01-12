@@ -30,7 +30,7 @@ post_date: 2011-12-14 15:12:45
  	<li>Submit your <a href="http://students.umw.edu/healthcenter/" target="_blank" rel="nofollow noopener noreferrer">health forms</a> by August 1.</li>
  	<li>Review opportunities for special <a href="http://students.umw.edu/chls/n-e-s-t/">Early Arrival Programs</a>, which take place four days before Welcome Week in August. These optional experiences are a fun way for a limited number of new students to explore UMW and surrounding attractions and meet and bond with classmates before classes begin.</li>
  	<li>Placement tests - Students interested in chemistry or majoring in a science have the opportunity to take a placement test during orientation and all students will have an opportunity to take an online <a href="https://www.umw.edu/admissions/youarein/language-placement-exams/">foreign language placement test</a> between May 1 - June 1. Students interested in taking a <a href="http://academics.umw.edu/academicservices/placement-testing/">Latin placement tes</a>t have until July 15.</li>
- 	<li>Move-in Day is Wednesday, August 23.</li>
+ 	<li>Move-in Day is Wednesday, August 22.</li>
 </ul>
 Provide changes in your address and/or telephone number to Admissions at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
 
