@@ -21,7 +21,11 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
 <h2> Off Campus</h2>
-Mary Washington will be visiting Charles Co, Md on January 30. We hope to see you there. Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577fb8fb1cb32e84849b9345dbf1503488d">register</a> to attend.
+Mary Washington will be visiting Charles Co, Md on January 30. We hope to see you there. Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577fb8fb1cb32e84849b9345dbf1503488d">register</a> to attend. The program begins at 6 p.m. and will be held at:
+
+Henry E. Lackey High School
+3000 Chicamuxen Rd
+Indian Head, MD 20640
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
