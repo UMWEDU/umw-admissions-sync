@@ -11,14 +11,16 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d6a98c5fdbc449a7954defb2650769b8">Tuesday, January 9</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774077370acaf04609960055259fe9b7c3">Thursday, January 25</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e471df17d6d540468be696435b5a71f6">Wednesday, February 7</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357747d1792aca9448f699bdde6780555be5">Friday, February 23</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776dc96cfe50724312afaaad5a9849a0f6">Monday, March 5</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357703ea63d49724466891d7539b6c236c15">Thursday, March 22</a> from 6-7 p.m.
+<h4><span style="color: #0000ff">MBA 4+1 for Current Students (Sessions will be held in Lee Hall 412)</span></h4>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ca75aa43ab5047ad97f0e73d8d08cfbf">Monday, February 5</a> from 11 a.m. - 12 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b5a1fbcca2fa4453add784074df45e8f">Tuesday, February 13</a> from 2-3 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775f02d4f1a7074895ab5d9779cedc0db3">Wednesday, February 21</a> from 4-5 p.m.
 <h4><span style="color: #0000ff"><strong>Education</strong></span></h4>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f73dddebb8864939bac0564b9d99e821">Monday, January 22</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b184c2771cb145cc8581735e92db1ef2">Wednesday, February 21</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770a99c81545384cb5917432edc2a9a23f">Wednesday, March 21</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f4abc3ed5106454bb5199148b9524af9">Monday, April 16</a> from 6-7 p.m.
