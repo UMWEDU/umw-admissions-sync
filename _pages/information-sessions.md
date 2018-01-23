@@ -27,7 +27,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h4><span style="color: #0000ff"><strong>Geospatial Analysis (Sessions will be held in Monroe 319)</strong></span></h4>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577694ed002965141649c4eba35b067a3e8">Wednesday, February 7</a> from 6-7 p.m.
 
-<span style="color: #0000ff"><strong><span style="color: #000000"> </span></strong></span>
+<span style="color: #0000ff"><strong><span style="color: #000000"><span style="color: #0000ff">MSGA 4+1 for Current Students</span></span></strong></span>
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778a5a179b96d34f02b782aa1d2e792e60">Thursday, February 1</a> from 4-5 p.m.
 <h1>Individual Attention</h1>
