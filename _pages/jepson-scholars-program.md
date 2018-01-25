@@ -39,6 +39,6 @@ Applicants will:
  	<li>Selected candidates will interview with the committee in February or March and the scholars will be awarded and notified April 1.</li>
 </ul>
 <h4>Questions?</h4>
-Contact <a href="dbaker2@umw.edu">Dr. Dianne Baker</a>, Associate Professor of Biology or <a href="ncrowder@umw.edu">Dr. Nicole Crowder</a>, Associate Professor of Chemistry.
+Contact <a href="mailto:dbaker2@umw.edu">Dr. Dianne Baker</a>, Associate Professor of Biology or <a href="mailto:ncrowder@umw.edu">Dr. Nicole Crowder</a>, Associate Professor of Chemistry.
 
 &nbsp;
