@@ -11,7 +11,6 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff">Business</span></h4>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774077370acaf04609960055259fe9b7c3">Thursday, January 25</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e471df17d6d540468be696435b5a71f6">Wednesday, February 7</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357747d1792aca9448f699bdde6780555be5">Friday, February 23</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776dc96cfe50724312afaaad5a9849a0f6">Monday, March 5</a> from 6-7 p.m.
@@ -27,9 +26,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h4><span style="color: #0000ff"><strong>Geospatial Analysis (Sessions will be held in Monroe 319)</strong></span></h4>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577694ed002965141649c4eba35b067a3e8">Wednesday, February 7</a> from 6-7 p.m.
 
-<span style="color: #0000ff"><strong><span style="color: #000000"><span style="color: #0000ff">MSGA 4+1 for Current Students</span></span></strong></span>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778a5a179b96d34f02b782aa1d2e792e60">Thursday, February 1</a> from 4-5 p.m.
+&nbsp;
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
