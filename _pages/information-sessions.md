@@ -16,7 +16,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776dc96cfe50724312afaaad5a9849a0f6">Monday, March 5</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357703ea63d49724466891d7539b6c236c15">Thursday, March 22</a> from 6-7 p.m.
 <h4><span style="color: #0000ff">MBA 4+1 for Current Students (Sessions will be held in Lee Hall 412)</span></h4>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ca75aa43ab5047ad97f0e73d8d08cfbf">Monday, February 5</a> from 11 a.m. - 12 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577b5a1fbcca2fa4453add784074df45e8f">Tuesday, February 13</a> from 2-3 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775f02d4f1a7074895ab5d9779cedc0db3">Wednesday, February 21</a> from 4-5 p.m.
 <h4><span style="color: #0000ff"><strong>Education</strong></span></h4>
