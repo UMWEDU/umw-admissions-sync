@@ -16,5 +16,8 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357770369405724e4cf4a3a2bba98076f502">March 17</a>
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770af76c5456254acdbdac9461e8aae1c4">April 7</a>
+<h2>Admitted Student Receptions</h2>
+Please register online by selecting the date below.
 
-&nbsp;
+Virginia Beach Area
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770a57421625e54bdbaae32187eb452e77">Sunday, April 8</a> from 2-4 p.m.
