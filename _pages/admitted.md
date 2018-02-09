@@ -19,7 +19,7 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <h2>Multicultural Overnight Visit Experience</h2>
 Join us on April 13-14 for the opportunity to stay overnight and sample UMW's academic and social atmosphere. You'll attend class, see campus, attend activities and have the chance to experience our <a href="http://students.umw.edu/multicultural/programs/multicultural-fair/">Multicultural Fair</a> on Saturday, April 14. Please register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a4f88acba3704e38869f14e908324a9d">online</a>.
 <h2>Admitted Student Receptions</h2>
-Please register online by selecting the date below.
+Please register by selecting the date below.
 
 Virginia Beach Area
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770a57421625e54bdbaae32187eb452e77">Sunday, April 8</a> from 2-4 p.m.
