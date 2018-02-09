@@ -16,6 +16,8 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357770369405724e4cf4a3a2bba98076f502">March 17</a>
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770af76c5456254acdbdac9461e8aae1c4">April 7</a>
+<h2>Multicultural Overnight Visit Experience</h2>
+Join us on April 13-14 for the opportunity to stay overnight and sample UMW's academic and social atmosphere. You'll attend class, see campus, attend activities and have the chance to experience our <a href="http://students.umw.edu/multicultural/programs/multicultural-fair/">Multicultural Fair</a> on Saturday, April 14. Please register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a4f88acba3704e38869f14e908324a9d">online</a>.
 <h2>Admitted Student Receptions</h2>
 Please register online by selecting the date below.
 
