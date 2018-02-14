@@ -2,21 +2,19 @@
 ID: 205
 post_title: Shadow a Student
 author: Shelley Keith
-post_date: 2015-08-07 13:00:22
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/visit/shadow-a-student/
 published: true
-wpsi_page_checks:
-  - 'a:2:{i:0;O:8:"stdClass":5:{s:8:"check_id";i:15945869764;s:3:"url";s:53:"http://www.umw.edu/admissions/visit/shadow-a-student/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945869764";}s:4:"time";i:1457374704;}i:1;O:8:"stdClass":5:{s:8:"check_id";i:15945869764;s:3:"url";s:53:"http://www.umw.edu/admissions/visit/shadow-a-student/";s:6:"status";s:8:"checking";s:6:"_links";O:8:"stdClass":1:{s:9:"pagecheck";s:65:"https://api.siteimprove.com/v1/sites/448702/pagecheck/15945869764";}s:4:"time";i:1457374678;}}'
+post_date: 2015-08-07 13:00:22
 ---
 <h2><img class="alignnone size-full wp-image-206" src="/admissions/wp-content/uploads/sites/6/2015/08/convergenceview.jpg" alt="Student walking by the ITCC" width="100%" />Come experience life at UMW — up close and personal!</h2>
 These visits <em>(for seniors and transfer students only</em>) are scheduled Monday through Friday, generally between the hours of 9 a.m. and 4 p.m. This enables you to be on campus for all or part of a day when classes are in session in order to sample both the academic and community life of the University.  Our hosts are student volunteers who are active on campus. Guests are also permitted to attend classes or activities with the host’s friends when mutually agreeable.
 
 Visits are scheduled mid-September through mid-November and mid-January through mid-April but not during fall and spring breaks or during exam times. Be sure to check our <a href="http://www.umw.edu/events"><strong>calendar</strong></a> so that you don’t plan your visit when classes are not in session.
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/Search"><strong>register online</strong></a> or call Admissions at (540) 654-2000. Because classes occur at different times, please call the office the day before you are scheduled to verify your arrival time.
+Please <a href="https://umw.askadmissions.net/Portal/EI/Search"><strong>register online</strong></a> or call Admissions at (540) 654-2000. Because classes occur at different times, please call the office the day before you are scheduled to verify your arrival time. <em>Please note: attending classes, lunch, and other activities/clubs are for students only. </em>
 <h3>What to bring:</h3>
 Guests are also encouraged to bring a book, magazine, or schoolwork in case there is brief downtime should hosts need to prepare or work. The Office of Admissions issues one complimentary meal ticket for a day visit.
 <h3>University Policies:</h3>
