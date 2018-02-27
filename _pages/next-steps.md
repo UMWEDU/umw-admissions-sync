@@ -21,7 +21,9 @@ post_date: 2011-12-14 15:12:45
 <ul>
  	<li>Complete your First Year Seminar Survey. Your questionnaire will be emailed from Dr. Tim O’Donnell with the subject “Welcome to your First Year at UMW.” (It will be available in February)</li>
  	<li>Capture your <a href="http://technology.umw.edu/logins/">NET ID</a> after paying your deposit. (NET IDs will be available in February)</li>
- 	<li>Complete your <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a>. (The agreement will be available in February) Contact the <a href="/directory/department/provost/engagement/disability-resources/">Office of Disability Resources</a> at (540) 654-1266 with any questions about special <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">housing accommodation requests</a>.</li>
+ 	<li>Complete your <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a>.</li>
+ 	<li>Contact the <a href="/directory/department/provost/engagement/disability-resources/">Office of Disability Resources</a> at (540) 654-1266 with any questions about special <a href="http://academics.umw.edu/disability/accommodations/housing-accommodations/">housing accommodation requests</a>.</li>
+ 	<li>Download a mobile app called Guide to help you stay on track through college. It lets you know how and when to get things done like financial aid, classes, choosing a major, etc. Download <strong>Guide – College Simplified</strong> from the App Store or Google Play.</li>
  	<li>UMW Scholarship Application for consideration of additional foundation scholarships is May 1.</li>
  	<li>Register for and attend <a href="http://orientation.umw.edu/">Orientation</a> for first year students in June, a two-day program required for all incoming students and parents.</li>
  	<li>Ask your Guidance Counselor to submit a Final Grade Report or a final high school transcript as soon as your final grades are available, but no later than July 1.</li>
