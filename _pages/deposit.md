@@ -1,22 +1,18 @@
 ---
-ID: 48126
-post_title: Graduate Program Enrollment Deposit
-author: Curtiss Grymala
+ID: 48460
+post_title: Remaining Deposit
+author: keury
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/admissions/graduate/contact-graduate/deposit/
+permalink: http://www.umw.edu/admissions/deposit/
 published: true
-post_date: 2016-03-28 11:33:23
+post_date: 2018-02-28 15:18:17
 ---
-Congratulations once again on being admitted to UMW! To confirm your intent to attend Mary Washington, you can either send a check or pay online.
-<ul>
- 	<li><strong>Spring Deadline: December 10</strong></li>
- 	<li><strong>Summer Deadline: April 20</strong></li>
- 	<li><strong>Fall Deadline: August 1</strong></li>
-</ul>
-To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after the deadline date. Internet Explorer is recommended to pay your deposit online.
-<h2>Admissions Deposit Online Payment</h2>
-[wpv-view name="Admissions Deposit iFrame"]
+Congratulations once again on your admission to UMW! To pay your remaining housing deposit due you will need your Student ID, which is located on your enrollment form in your offer packet.
+<div id="gform_wrapper_1" class="gf_browser_ie gf_browser_ie9 gform_wrapper"><form id="gform_1" action="/studentaccounts/eaglepay/guest-payer/" enctype="multipart/form-data" method="post">
+<div class="gform_heading">
+<h3 class="gform_title">Housing Only</h3>
 
-For more information on payment plans, call EaglePAY at (800) 609-8056 or <a href="http://www.umw.edu/directory/department/administration/finance/student-accounts/">Student Accounts</a> at (540) 654-1250.
+
+</div>
+</form></div>
