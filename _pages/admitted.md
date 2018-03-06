@@ -11,7 +11,7 @@ post_date: 2016-01-13 13:05:45
 ---
 <img class="alignleft wp-image-48254" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/01/Homecoming-20-1024x669.jpg" alt="UMW Homecoming, Saturday Oct. 22, 2016. (Photo by Norm Shafer)." width="600" height="392" />
 <h2>Destination UMW</h2>
-We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted students and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel. Please check out the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/01/Tentative-Agenda.pdf">tentative agenda</a> for the day. Register by selecting a date below:
+We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted students and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel. Please check out the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/03/Tentative-Agenda-2018.pdf">Tentative Agenda</a> for the day. Register by selecting a date below:
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357770369405724e4cf4a3a2bba98076f502">March 17</a>
 
