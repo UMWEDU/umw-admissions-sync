@@ -16,7 +16,7 @@ Undergraduates at the University of Mary Washington now have an accelerated path
 
 Among the prerequisites to apply for admission to the program, students must complete at least 63 academic credits, maintain no less than a cumulative 3.0 grade point average and score in the 50th percentile on the Pharmacy College Admission Test (PCAT)<em>.</em> Students may apply through the Pharmacy College Application Service during their third year.
 
-For students selecting this path, the first year of pharmacy school will transfer to meet final graduation requirements for the UMW bachelor’s degree. This agreement is effective fall 2017.
+For students selecting this path, the first year of pharmacy school will transfer to meet final graduation requirements for the UMW bachelor’s degree. This agreement is expected to be in place during the 2018-2019 academic year and is pending final approval by the Southern Association of Colleges and School Commission on Colleges.
 
 For additional questions, contact Dr. Deborah A. O’Dell, Professor in the Department of Biological Sciences at 540/654-1417 or <a href="mailto:dodell@umw.edu">dodell@umw.edu</a>, or visit the <a href="https://www.su.edu/pharmacy/">PharmD program page</a> at Shenandoah.
 <h3><strong>3+3 Accelerated Program to George Mason University’s Antonin</strong> <strong>Scalia Law School</strong></h3>
