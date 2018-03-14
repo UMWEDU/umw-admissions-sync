@@ -23,3 +23,9 @@ Please register by selecting the date below.
 
 Virginia Beach Area
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770a57421625e54bdbaae32187eb452e77">Sunday, April 8</a> from 2-4 p.m.
+
+Northern Virginia Area
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e2e6854e95a14f70aa0de99e1b2cb2a2">Sunday, April 15</a> from 2-4 p.m.
+
+Richmond Area
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357755253b832f32433f80c14d05427fcc14">Sunday, April 22</a> from 2-4 p.m.
