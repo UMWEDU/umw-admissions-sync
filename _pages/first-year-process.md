@@ -2,16 +2,16 @@
 ID: 100
 post_title: First-Year Applicant Process
 author: mkarrs
-post_date: 2015-07-22 10:04:36
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/international/first-year-process/
 published: true
+post_date: 2015-07-22 10:04:36
 ---
 We can’t wait to see your fresh face at UMW, hear your bright ideas in our classrooms, and get your unique perspectives in our labs. We might even be more excited than you are, but embarking on an international education takes planning. Before jumping in, get familiar with the main components of the international first-year applicant process.
 <ul>
- 	<li><strong>Materials</strong>: You’re going to need a lot of “stuff.” A completed <a href="https://www.commonapp.org/">Common Application</a>, an essay, and your $50 USD application fee or approved waiver are just for starters. See the <a href="/admissions/international/international-checklist/">International Admissions Checklist</a> for a complete list of required documents. Keep in mind the suggested application filing dates of <strong>Jan.</strong><strong> 1</strong> for priority applications and <strong>Feb. 1</strong> for regular decision.</li>
+ 	<li><strong>Materials</strong>: You’re going to need a lot of “stuff.” A completed <a href="https://www.commonapp.org/">Common Application</a>, an essay, and your $50 USD application fee or approved waiver are just for starters. See the <a href="http://www.umw.edu/admissions/international/checklist/">International Admissions Checklist</a> for a complete list of required documents. Keep in mind the suggested application filing dates of <strong>Jan.</strong><strong> 1</strong> for priority applications and <strong>Feb. 1</strong> for regular decision.</li>
 </ul>
 <ul>
  	<li><strong>English translation</strong>: All official academic records and transcripts (from every secondary school, college, university, and technical/vocational/professional institute you’ve attended) must be sent to UMW in English or accompanied by a complete, literal English translation certified by the issuing institution. Documents must also include the issuing institution’s original stamp or seal, and an official signature, and cannot be returned or transferred. Translations are available at <a href="http://www.wes.org/">World Education Services Inc.</a>, <a href="https://www.ece.org/">Educational Credential Evaluators</a>, and the <a href="http://www.aacrao.org/">American Association of Collegiate Registrars and Admissions Officers</a>.</li>
