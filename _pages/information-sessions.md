@@ -16,6 +16,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577c64c573019d544ba8f31c4fc8898abb2">Thursday, June 21</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a362ef6074404138bb8a34da877ca8d4">Thursday, July 19</a> from 6-7 p.m.
 <h4><strong><span style="color: #0000ff">Business</span></strong></h4>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772be3e3a8a85b4636b1f9c6622a2fb7d7">Wednesday, April 18</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577aaa1ba97ce624b038c8b9c651baaf279">Tuesday, May 1</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771391ec9cb2f74b3ebb148c452ac0a794">Wednesday, May</a> 16 from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577dd78674fefa94135af7e7ca599d68f81">Thursday, May 31</a> from 6-7 p.m.
