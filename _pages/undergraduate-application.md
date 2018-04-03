@@ -24,7 +24,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
  	<li>Transfer Applicants
 <ul>
  	<li>Summer admission - March 1</li>
- 	<li>Fall admission - April 1</li>
+ 	<li>Fall admission - We are still accepting applications for fall</li>
  	<li>Spring admission - October 15</li>
 </ul>
 </li>
