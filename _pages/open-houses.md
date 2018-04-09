@@ -15,12 +15,12 @@ Throughout the day you’ll hear from current students about everything from wee
 
 Please note pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. in the Anderson Center so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus!
 
-<strong>2018-2019 Dates</strong>
+<span style="color: #3366ff"><strong>2018-2019 Dates</strong></span>
 
-Saturday, September 22
-Saturday, October 27 or Sunday, October 28 (Date TBD)
-Saturday, November 10
-Monday, February 18
-Friday, April 19
+Saturday, September 22, 2018
+Saturday, October 27, 2018 or Sunday, October 28, 2018 (Date TBD)
+Saturday, November 10, 2018
+Monday, February 18, 2019
+Friday, April 19, 2019
 
 Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
