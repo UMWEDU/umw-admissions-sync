@@ -13,14 +13,14 @@ post_date: 2015-08-07 12:51:14
 <h2>Come explore UMW during an Open House!</h2>
 Throughout the day you’ll hear from current students about everything from weekend activities to amazing class experiences. Walk the campus with a student tour guide and you’ll see classrooms, the fitness center, and lots more. The day is filled with sessions about academics, special interest sessions, student services, and student life!  Stay till the end and visit a residence hall. Please check out the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/02/Tentative-Agenda-Spring-2018.pdf">Tentative Agenda</a> for the day.
 
-Please note pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. in the Anderson Center so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus!
+Pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus! Register for an Open House by selecting a date below.
 
 <span style="color: #3366ff"><strong>2018-2019 Dates</strong></span>
 
-Saturday, September 22, 2018
-Saturday, October 27, 2018 or Sunday, October 28, 2018 (Date TBD)
-Saturday, November 10, 2018
-Monday, February 18, 2019
-Friday, April 19, 2019
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777f920c9e23dd4310b51f4c0c5ca94e3a">Saturday, September 22, 2018</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577152901052ba34ba497afcc2f51ea0921">Saturday, October 27, 2018</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357789f24849ed364f0e89cfa2d0f947b958">Saturday, November 10, 2018</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357733482f0d10c644c28ed3b7526d0d2eb8">Monday, February 18, 2019</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775aad02a1db1840519bb608f847dd1cef">Friday, April 19, 2019</a>
 
 Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
