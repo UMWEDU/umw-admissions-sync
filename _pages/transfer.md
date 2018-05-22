@@ -8,6 +8,7 @@ permalink: http://www.umw.edu/admissions/transfer/
 published: true
 post_date: 2015-05-26 01:27:03
 ---
+<h2><img class="aligncenter wp-image-48486 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/05/Bell-Tower-Jan-2018-1024x576.jpg" alt="Bell Tower" width="1024" height="576" /></h2>
 <h2>Transferring to UMW is easy!</h2>
 <ul>
  	<li><a href="http://www.umw.edu/admissions/transfer/transfer-applicant-process/transfer-applicant-checklist/">Traditional Transfer</a> (Bachelor of Arts/Bachelor of Science)</li>
