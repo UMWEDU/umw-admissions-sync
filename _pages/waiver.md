@@ -16,11 +16,11 @@ Students who have five or more years of professional work experience or possess 
 
 To request a review, contact:
 
-Christy Pack
-Director of Graduate Admissions
+David Harger
+Assistant Director of Graduate Admissions
 <strong>UMW Graduate Admissions</strong>
-540-286-8030
-<a href="mailto:dpack@umw.edu">dpack@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
+540-286-8088
+<a href="mailto:dharger@umw.edu">dharger@umw.edu</a>
 <h2><strong>Admissions Requirements for Students with Approved Waiver of </strong><strong>GMAT or GRE scores</strong></h2>
 <strong>Recommended Application Filing Dates</strong>
 
