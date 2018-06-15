@@ -15,6 +15,16 @@ We’re excited to have your student on campus!  To help you navigate the trans
 
 <a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Sign on to join a scheduled chat</a>. You’ll be able to join the chat 10 minutes prior to the start time. Please use your student’s name to sign onto the chat and enter the private code that can be found in your email.
 
+Tuesday, June 26 - Commuter Students. Enter code 1504.
+
+Thursday, July 12 - Student Accounts and Financial Aid. Enter code 1501.
+
+Tuesday, July 17 - Shopping for College. Enter code 1502.
+
+Wednesday, August 1 - Transfer Students. Enter code 1505
+
+Tuesday, August 7 - What to Expect on Move-In Day. Enter code 1503.
+
 We hope you join us to learn how you can support your student from home.  Whether home is Stafford County, VA or San Diego, CA, they are transitioning to their new routine just as you are transitioning to yours. You may have heard from them, or maybe not, about new experiences with professors, classes, extra-curriculars, the city of Fredericksburg, or even laundry in the residence halls. And this may lead you to think about their interaction in our community.
 
 Our staff are happy to take your questions, accept your comments, and address concerns to help you learn more about:
