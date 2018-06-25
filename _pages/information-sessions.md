@@ -11,14 +11,12 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please click on a date below to register. Registration is encouraged, but is not required.
 <h4><span style="color: #0000ff"><strong>Education</strong></span></h4>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577c64c573019d544ba8f31c4fc8898abb2">Thursday, June 21</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a362ef6074404138bb8a34da877ca8d4">Thursday, July 19</a> from 6-7 p.m.
 <h4><strong><span style="color: #0000ff">Business</span></strong></h4>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779aca4e04ea86466d9466aede17fbad8a">Thursday, June 28</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770c516802e8fe4ec1923131af02fc4dfd">Wednesday, July 11</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779cecec46c44a4be78056dd854daf3c19">Thursday, July 26</a> from 6-7 p.m.
 <h4><span style="color: #0000ff">Virtual Business Information Session</span></h4>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357776ba2d7aef2e44249cf4e5725caec21e">Thursday, June 21</a> from 6-7 p.m.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779f3683aed66743f5904add4c765794d2">Wednesday, June 27</a> at 12:30 p.m.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
