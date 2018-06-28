@@ -23,8 +23,6 @@ Whether you are developing managerial skills, seeking career advancement, or cul
 <h2><strong>Information Sessions</strong></h2>
 Register for one of these virtual or in-person information sessions to learn more about the program:
 <ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779f3683aed66743f5904add4c765794d2">Wednesday, June 27</a> at 12:30 p.m. - VIRTUAL</li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779aca4e04ea86466d9466aede17fbad8a">Thursday, June 28</a> from 6-7 p.m.</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770c516802e8fe4ec1923131af02fc4dfd">Wednesday, July 11</a> from 6-7 p.m.</li>
  	<li><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779cecec46c44a4be78056dd854daf3c19">Thursday, July 26</a> from 6-7 p.m.</li>
 </ul>
