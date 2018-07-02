@@ -45,12 +45,6 @@ Admissions will:
 
 College fairs occur mostly in September and October and again in March and April for juniors.  Let us know if you would like to be a Hometown Hero and share Mary Washington in your backyard!
 
-&nbsp;
-
-To take part, your student may <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577137898501a094262a499697b7384a7d2"><u>register</u></a> by November 13. Applicants should indicate whether they wish to receive a decision virtually on November 17 or in person on November 18. Candidates must also apply no later than November 13 in order to participate. Students should request official copies of transcripts and scores unless applying test optional, to be considered for virtual or onsite admission during this legacy event.
-
-For the full list of visit opportunities and open houses, please <a href="http://www.umw.edu/admissions/visit/">review</a> the option that works best for your schedule.
-
 <strong>Do you have other ideas for how alumni can recruit new students?</strong>
 
 Let us know!  Email your ideas to <a href="mailto:admit@umw.edu">admit@umw.edu</a> and Admissions will follow up.
