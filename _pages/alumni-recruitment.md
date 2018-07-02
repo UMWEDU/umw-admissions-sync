@@ -45,17 +45,7 @@ Admissions will:
 
 College fairs occur mostly in September and October and again in March and April for juniors.  Let us know if you would like to be a Hometown Hero and share Mary Washington in your backyard!
 
-<span style="color: red"><strong>Legacy Onsite and Virtual Admission Event
-</strong></span>
-
-Saturday, November 18 10 a.m. until 2 p.m.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577137898501a094262a499697b7384a7d2">RSVP</a> and Apply by November 13
-
-We love keeping the legacy going and keeping Mary Washington in your family and your family in ours!
-
-For those who have not yet had the opportunity to visit campus, we welcome alumni with their applicant to join us on campus for an enhanced visit on Saturday, November 18.  The day will include an information session and tour, complimentary lunch in the new University Center dining facility, and a student life panel.  Apply by November 13 and at the end of your visit, your student may walk away with a decision in hand.
-
-Already joined us on campus for a visit? Apply by November 13 and receive a virtual decision by email on Friday, November 18.
+&nbsp;
 
 To take part, your student may <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577137898501a094262a499697b7384a7d2"><u>register</u></a> by November 13. Applicants should indicate whether they wish to receive a decision virtually on November 17 or in person on November 18. Candidates must also apply no later than November 13 in order to participate. Students should request official copies of transcripts and scores unless applying test optional, to be considered for virtual or onsite admission during this legacy event.
 
