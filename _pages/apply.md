@@ -20,8 +20,8 @@ For graduate degree and certificate programs.
 
 </div>
 <div class="one-third">
-<div class=" CTAbutton CTAorange" style="font-size: 1em;"><a href="https://www.applyweb.com/umw/">Adult Degree Completion</a></div>
-For BLS &amp; BSN programs for adult students.
+<div class=" CTAbutton CTAorange" style="font-size: 1em;"><a href="https://www.applyweb.com/umw/">BLS &amp; BSN</a></div>
+Adult degree completion for Bachelor of Liberal Sciences and Bachelor of Science in Nursing.
 
 </div>
 &nbsp;
