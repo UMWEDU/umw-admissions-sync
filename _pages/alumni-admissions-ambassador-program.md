@@ -48,10 +48,10 @@ Fall – college fairs and interviews
 Winter – personal outreach, targeted calls to admitted and deposited students
 Spring – regional yield events where and when possible
 Time commitment: no more than twenty hours per quarter.
-<h4><span style="color: #0000ff">Interested?</span></h4>
-Sign up to <a href="https://goo.gl/forms/Mx9IT6bqgY9Fob552">become an Ambassador</a> today!
 <h4><span style="color: #0000ff">College Fairs</span></h4>
 Upcoming college fairs will be posted by the end of July.
+<h4><span style="color: #0000ff">Interested?</span></h4>
+Sign up to <a href="https://goo.gl/forms/Mx9IT6bqgY9Fob552">become an Ambassador</a> today!
 <h4><span style="color: #0000ff">Refer an Eagle</span></h4>
 Do you know a high school senior or transfer student that would thrive at Mary Washington?  Share an application fee waiver code to waive the $50 application fee on the Common Application for admission to encourage the student to apply.
 <h4><span style="color: #0000ff">Questions?</span></h4>
