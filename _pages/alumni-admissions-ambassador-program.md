@@ -42,17 +42,19 @@ You can help us recruit new students through the Alumni Ambassador Program. This
  	<li>Attend regional business networking events where/when appropriate, including but not limited to regional Chamber of Commerce sponsored activities.</li>
  	<li>Participate in focus groups to inform strategy (for example, in advisory capacity for MBA Admissions tactics).</li>
 </ul>
-<h4>Participation Cycle</h4>
+<h4><span style="color: #0000ff">Participation Cycle</span></h4>
 Summer – Alumni Ambassador training
 Fall – college fairs and interviews
 Winter – personal outreach, targeted calls to admitted and deposited students
 Spring – regional yield events where and when possible
 Time commitment: no more than twenty hours per quarter.
-<h4>College Fairs</h4>
-Upcoming college fairs will be posted by the end of July.
-<h4>Interested?</h4>
+<h4><span style="color: #0000ff">Interested?</span></h4>
 Sign up to <a href="https://goo.gl/forms/Mx9IT6bqgY9Fob552">become an Ambassador</a> today!
-<h4>Questions?</h4>
+<h4><span style="color: #0000ff">College Fairs</span></h4>
+Upcoming college fairs will be posted by the end of July.
+<h4><span style="color: #0000ff">Refer an Eagle</span></h4>
+Do you know a high school senior or transfer student that would thrive at Mary Washington?  Share an application fee waiver code to waive the $50 application fee on the Common Application for admission to encourage the student to apply.
+<h4><span style="color: #0000ff">Questions?</span></h4>
 Alumni on the West Coast can contact David Harger, Assistant Director of Admissions, at
 <a href="mailto:dharger@umw.edu">dharger@umw.edu</a> and alumni on the East Coast can contact Julie Mohney, Regional Admissions Recruiter, at <a href="mailto:jmohney@umw.edu">jmohney@umw.edu</a>.
 
