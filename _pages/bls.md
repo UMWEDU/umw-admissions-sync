@@ -21,5 +21,6 @@ You’ve gathered lots of great experience through your life and your work. Let 
  	<li>Verification of high school completion. Unless the applicant holds an associate degree, UMW will need a high school transcript or a copy of your diploma or GED award letter.</li>
  	<li>Essay, no more than two pages long: Introduce yourself to the Admissions Committee. Think about including such things as why you’re returning to college, previous life and work experience, and your professional or life goals.</li>
  	<li>Demonstration of competency on the Test of English as a Foreign Language, as necessary, if the student’s native language is not English.</li>
+ 	<li>Service members should speak with their Educational Services Officer (ESO) or counselor within their Military Service prior to enrolling at UMW.</li>
 </ul>
 To receive Admissions materials, call us at (540) 654-2000 or <a href="https://umw.askadmissions.net/emtinterestpage.aspx?ip=prospectundergrad">request more information</a> online.
