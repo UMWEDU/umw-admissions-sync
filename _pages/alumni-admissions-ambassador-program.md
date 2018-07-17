@@ -16,7 +16,7 @@ post_date: 2018-06-15 16:49:32
 <div class="perc-widget">
 <div class="ouResponsiveHomepageHeading">
 
-[caption id="attachment_48494" align="alignleft" width="300"]<img class="wp-image-48494 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/06/Alumni-College-Fair-300x300.jpg" alt="Cassandra Pierandri '10 attending a college fair" width="300" height="300" /> Cassandra Pierandri '10 attending a college fair[/caption]
+[caption id="attachment_48494" align="alignright" width="300"]<img class="wp-image-48494 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/06/Alumni-College-Fair-300x300.jpg" alt="Cassandra Pierandri '10 attending a college fair" width="300" height="300" /> Cassandra Pierandri '10 attending a college fair[/caption]
 <p class="pageIntroText">Ready to give back to the university that gave you so much? Use your alumni success, personal experiences, and enthusiasm for Mary Washington to influence our next Eagles!</p>
 
 </div>
