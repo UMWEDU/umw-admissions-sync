@@ -48,8 +48,12 @@ Fall – college fairs and interviews
 Winter – personal outreach, targeted calls to admitted and deposited students
 Spring – regional yield events where and when possible
 Time commitment: no more than twenty hours per quarter.
+<h4>College Fairs</h4>
+Upcoming college fairs will be posted by the end of July.
+<h4>Interested?</h4>
+Sign up to <a href="https://goo.gl/forms/Mx9IT6bqgY9Fob552">become an Ambassador</a> today!
 
-Interested? Sign up to <a href="https://goo.gl/forms/Mx9IT6bqgY9Fob552">become an Ambassador</a> today!
+&nbsp;
 
 Questions? Alumni on the West Coast can contact David Harger, Assistant Director of Admissions, at
 <a href="mailto:dharger@umw.edu">dharger@umw.edu</a> and alumni on the East Coast can contact Julie Mohney, Regional Admissions Recruiter, at <a href="mailto:jmohney@umw.edu">jmohney@umw.edu</a>.
