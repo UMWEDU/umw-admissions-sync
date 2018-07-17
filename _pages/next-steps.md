@@ -15,7 +15,7 @@ post_date: 2011-12-14 15:12:45
  	<li><a href="/admissions/youarein/next-steps/enrollment-deposit/">Pay your deposit</a>. The deposit is refundable until May 1 with the housing portion refundable until May 15.</li>
  	<li>Join the <a href="https://www.facebook.com/groups/UMWClassof2022/">UMW Class of 2022</a> Facebook page!</li>
  	<li>Submit the <a href="https://fafsa.ed.gov/">Free Application for Federal Student Aid</a> (FAFSA) form no later than February 1 to receive maximum consideration for financial aid.</li>
- 	<li>Register and attend <a href="http://www.umw.edu/admissions/youarein/next-steps/admitted/">Destination UMW</a> event for admitted students.</li>
+ 	<li>Service members should speak with their Educational Services Officer (ESO) or counselor within their Military Service prior to enrolling at UMW.</li>
 </ul>
 <strong>After submitting your deposit:</strong>
 <ul>
