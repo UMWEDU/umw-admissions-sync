@@ -31,6 +31,7 @@ Time commitment: no more than twenty hours per quarter.
 Upcoming college fairs will be posted by the end of July.
 <h4>Interested?</h4>
 [wpv-view name="alumni-ambassador-buttons"]
+&nbsp;
 <h4>Refer an Eagle</h4>
 Do you know a high school senior or transfer student that would thrive at Mary Washington?  Share an application fee waiver code to waive the $50 application fee on the Common Application for admission to encourage the student to apply.
 <h4>Questions?</h4>
