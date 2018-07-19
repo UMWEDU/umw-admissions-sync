@@ -1,11 +1,11 @@
 ---
 ID: 48493
-post_title: Alumni Admissions Ambassador Program
+post_title: UMW Alumni Ambassador Program
 author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/alumni-admissions-ambassador-program/
+  http://www.umw.edu/admissions/alumni-ambassador-program/
 published: true
 post_date: 2018-06-15 16:49:32
 ---
@@ -31,7 +31,6 @@ Time commitment: no more than twenty hours per quarter.
 Upcoming college fairs will be posted by the end of July.
 <h4>Interested?</h4>
 [wpv-view name="alumni-ambassador-buttons"]
-&nbsp;
 <h4>Refer an Eagle</h4>
 Do you know a high school senior or transfer student that would thrive at Mary Washington?  Share an application fee waiver code to waive the $50 application fee on the Common Application for admission to encourage the student to apply.
 <h4>Questions?</h4>
