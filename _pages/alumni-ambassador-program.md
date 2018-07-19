@@ -12,6 +12,11 @@ post_date: 2018-06-15 16:49:32
 [caption id="attachment_48494" align="alignright" width="300"]<img class="wp-image-48494 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/06/Alumni-College-Fair-300x300.jpg" alt="Cassandra Pierandri '10 attending a college fair" width="300" height="300" /> Cassandra Pierandri '10 attending a college fair[/caption]
 <p class="pageIntroText">Ready to give back to the university that gave you so much? Use your alumni success, personal experiences, and enthusiasm for Mary Washington to influence our next Eagles!</p>
 You can help us recruit new students through the Alumni Ambassador Program. This joint venture, between the Alumni office and Undergraduate Admissions, will engage well-trained, knowledgeable alumni to represent the University at college fairs and other recruitment programs.
+<h4>[wpv-view name="alumni-ambassador-buttons"]</h4>
+<h4></h4>
+&nbsp;
+
+&nbsp;
 <h4>UMW is looking for alums to regionally recruit in the following capacities:</h4>
 <ul>
  	<li>College Fairs</li>
@@ -29,8 +34,6 @@ Spring – regional yield events where and when possible
 Time commitment: no more than twenty hours per quarter.
 <h4>College Fairs</h4>
 Upcoming college fairs will be posted by the end of July.
-<h4>Interested?</h4>
-[wpv-view name="alumni-ambassador-buttons"]
 <h4>Questions?</h4>
 Alumni on the West Coast can contact David Harger, Assistant Director of Admissions, at
 <a href="mailto:dharger@umw.edu">dharger@umw.edu</a> and alumni on the East Coast can contact Julie Mohney, Regional Admissions Recruiter, at <a href="mailto:jmohney@umw.edu">jmohney@umw.edu</a>.
