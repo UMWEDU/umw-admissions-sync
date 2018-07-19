@@ -1,11 +1,11 @@
 ---
 ID: 48200
-post_title: Alumni Recruitment
+post_title: Refer an Eagle
 author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/alumni-recruitment/
+  http://www.umw.edu/admissions/referaneagle/
 published: true
 post_date: 2016-09-23 11:49:37
 ---
