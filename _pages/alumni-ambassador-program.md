@@ -14,12 +14,12 @@ post_date: 2018-06-15 16:49:32
 You can help us recruit new students through the Alumni Ambassador Program. This joint venture, between the Alumni office and Undergraduate Admissions, will engage well-trained, knowledgeable alumni to represent the University at college fairs and other recruitment programs.
 <h4>UMW is looking for alums to regionally recruit in the following capacities:</h4>
 <ul>
- 	<li>Identify, attend and represent UMW at regional college fairs to meet prospective students and family members.</li>
- 	<li>Conduct regional and campus based (Fall Open House events) interviews of prospective seniors.</li>
- 	<li>Attend regional social events and receptions to meet prospective students and family members.</li>
- 	<li>Make calls to prospective students at key points in the application and enrollment process.</li>
- 	<li>Attend regional business networking events where/when appropriate, including but not limited to regional Chamber of Commerce sponsored activities.</li>
- 	<li>Participate in focus groups to inform strategy (for example, in advisory capacity for MBA Admissions tactics).</li>
+ 	<li>College Fairs</li>
+ 	<li>Refer an Eagle</li>
+ 	<li>Regional Alumni Yield Receptions</li>
+ 	<li>Open House Interviews</li>
+ 	<li>Regional Interviews</li>
+ 	<li>Calls to Admitted Students</li>
 </ul>
 <h4>Participation Cycle</h4>
 Summer – Alumni Ambassador training
