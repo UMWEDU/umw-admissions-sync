@@ -5,7 +5,7 @@ author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/referaneagle/
+  http://www.umw.edu/admissions/alumni-recruitment/
 published: true
 post_date: 2016-09-23 11:49:37
 ---
