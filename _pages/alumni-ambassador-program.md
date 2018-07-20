@@ -35,5 +35,4 @@ Time commitment: no more than twenty hours per quarter.
 <h4>College Fairs</h4>
 Upcoming college fairs will be posted by the end of July.
 <h4>Questions?</h4>
-Alumni on the West Coast can contact David Harger, Assistant Director of Admissions, at
-<a href="mailto:dharger@umw.edu">dharger@umw.edu</a> and alumni on the East Coast can contact Julie Mohney, Regional Admissions Recruiter, at <a href="mailto:jmohney@umw.edu">jmohney@umw.edu</a>.
+Please contact <a href="mailto:uaap@umw.edu">uaap@umw.edu</a> with any questions.
