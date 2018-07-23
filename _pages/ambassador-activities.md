@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-23 11:56:25
 ---
-<a href="http://www.umw.edu/admissions/?attachment_id=48536" rel="attachment wp-att-48536"><img class="aligncenter size-full wp-image-48536" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/07/Padilla-Fountain.jpg" alt="" width="700" height="324" /></a>
+<a href="http://www.umw.edu/admissions/ambassador-activities/padilla-fountain/" rel="attachment wp-att-48536"><img class="aligncenter size-full wp-image-48536" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/07/Padilla-Fountain.jpg" alt="" width="700" height="324" /></a>
 
 Ambassadors will be trained before attending a college fair or helping at an event. Don't worry about the training though because prospective students want to hear from you about your experiences!
 <h4>UMW is looking for alums to regionally recruit in the following capacities:</h4>
