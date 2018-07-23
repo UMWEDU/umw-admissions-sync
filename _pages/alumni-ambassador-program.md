@@ -13,10 +13,9 @@ post_date: 2018-06-15 16:49:32
 <p class="pageIntroText">Ready to give back to the university that gave you so much? Use your alumni success, personal experiences, and enthusiasm for Mary Washington to influence our next Eagles!</p>
 You can help us recruit new students through the Alumni Ambassador Program. This joint venture, between the Alumni office and Undergraduate Admissions, will engage well-trained, knowledgeable alumni to represent the University at college fairs and other recruitment programs.
 <h4>[wpv-view name="alumni-ambassador-buttons"]</h4>
-<h4></h4>
 &nbsp;
-<h4></h4>
-<h4></h4>
+
+&nbsp;
 <h4>UMW is looking for alums to regionally recruit in the following capacities:</h4>
 <ul>
  	<li>College Fairs</li>
