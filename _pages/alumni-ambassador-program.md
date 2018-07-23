@@ -17,22 +17,7 @@ You can help us recruit new students through the Alumni Ambassador Program. This
 &nbsp;
 
 &nbsp;
-<h4>UMW is looking for alums to regionally recruit in the following capacities:</h4>
-<ul>
- 	<li>College Fairs</li>
- 	<li>Refer an Eagle</li>
- 	<li>Regional Alumni Yield Receptions</li>
- 	<li>Open House Interviews</li>
- 	<li>Regional Interviews</li>
- 	<li>Calls to Admitted Students</li>
-</ul>
-<h4>Participation Cycle</h4>
-Summer – Alumni Ambassador training
-Fall – college fairs and interviews
-Winter – personal outreach, targeted calls to admitted and deposited students
-Spring – regional yield events where and when possible
-Time commitment: no more than twenty hours per quarter.
-<h4>College Fairs</h4>
-Upcoming college fairs will be posted by the end of July.
+
+&nbsp;
 <h4>Questions?</h4>
 Please contact <a href="mailto:uaap@umw.edu">uaap@umw.edu</a> with any questions.
