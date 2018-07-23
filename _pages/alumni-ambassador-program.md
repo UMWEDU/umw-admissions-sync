@@ -15,9 +15,15 @@ You can help us recruit new students through the Alumni Ambassador Program. This
 <h4>[wpv-view name="alumni-ambassador-buttons"]</h4>
 <h4></h4>
 &nbsp;
-
-&nbsp;
-
-&nbsp;
+<h4></h4>
+<h4>UMW is looking for alums to regionally recruit in the following capacities:</h4>
+<ul>
+ 	<li>College Fairs</li>
+ 	<li>Refer an Eagle</li>
+ 	<li>Regional Alumni Yield Receptions</li>
+ 	<li>Open House Interviews</li>
+ 	<li>Regional Interviews</li>
+ 	<li>Calls to Admitted Students</li>
+</ul>
 <h4>Questions?</h4>
 Please contact <a href="mailto:uaap@umw.edu">uaap@umw.edu</a> with any questions.
