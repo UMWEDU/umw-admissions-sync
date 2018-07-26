@@ -39,5 +39,5 @@ To ensure arrival of required documentation necessary to review your application
 <ul>
  	<li><a href="/admissions/undergraduate/checklist/">First Year Admission Checklist</a></li>
  	<li><a href="/admissions/transfer/transfer-applicant-process/transfer-applicant-checklist/">Transfer Admission Checklist</a></li>
- 	<li><a href="/admissions/international/international-checklist/">International Admission Checklist</a></li>
+ 	<li><a href="https://www.umw.edu/admissions/international/checklist/">International Admission Checklist</a></li>
 </ul>
