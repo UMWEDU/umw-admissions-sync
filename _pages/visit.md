@@ -4,8 +4,7 @@ post_title: Visit UMW
 author: Shelley Keith
 post_excerpt: ""
 layout: page
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/admissions/visit/
+permalink: http://www.umw.edu/admissions/visit/
 published: true
 post_date: 2015-05-26 01:36:38
 ---
@@ -14,15 +13,14 @@ post_date: 2015-05-26 01:36:38
 One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg. There are so many ways to get to know us!
 <h2>On campus:</h2>
 <ul>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. Registration for sessions is in Lee Hall, room 301.</li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a student-led tour. Sessions will be held on Wednesday afternoons beginning at 3:30 p.m. with the campus tour immediately following. Registration for sessions is in Lee Hall, room 301.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Separate sessions are offered for high school students, transfer students, and those interested in our graduate courses. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. When you've arrive on campus, check in is in Lee Hall, room 301.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/Search">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a tour. Sessions will be held on Wednesday afternoons at 3:30 p.m. between May 23-August 15. Registration for sessions is in Lee Hall, room 301.</li>
  	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
  	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal! Pick your visit (fall or spring) based on your academic interests and follow a current student through a typical day on campus. Reserved for high school seniors.</li>
- 	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$7,000. Interviews are reserved for high school seniors and will occur through February 1, 2018 for fall 2018 admission candidates.</li>
+ 	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2019 admission candidates. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
-<h2> Off Campus</h2>
-In November, UMW is hosting <a href="https://umwwebmaster.staging.wpengine.com/admissions/visit/receptions/">receptions</a> in Richmond, Norfolk, and Maryland. We hope you're able to attend!
+&nbsp;
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
@@ -33,6 +31,6 @@ The main campus is located at <a href="https://www.google.com/maps/place/Univers
 <h2>Where to stay:</h2>
 Located in <a href="/directory/building/eagle-village/">Eagle Village</a>, across the highway from UMW’s main campus, <a href="http://fredericksburg.place.hyatt.com/en/hotel/home.html">Hyatt Place</a> is the University’s preferred hotel partner and offers special rates for UMW visitors. For information on other nearby accommodations and attractions, visit the <a href="http://www.visitfred.com/things-to-do/museums-historical/fredericksburg-visitor-center">Fredericksburg Visitor Center</a>.
 
-&nbsp;
-https://www.umw.edu/#/vte/?data-platform=v&data-inst=63572&
-<a href="https://www.umw.edu/#/vte/?data-platform=v&data-link-type=immersive&data-inst=63572&data-image-width=100%&data-image-height=100%&"></a>
+<a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;"></a>
+
+<a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;"></a>
