@@ -35,5 +35,3 @@ Located in <a href="/directory/building/eagle-village/">Eagle Village</a>, acro
 
 &nbsp;
 <a href="https://www.umw.edu/#/vte/?data-platform=v&data-inst=63572&"></a>
-
-<a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;"></a>
