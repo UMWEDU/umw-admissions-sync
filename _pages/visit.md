@@ -34,5 +34,6 @@ The main campus is located at <a href="https://www.google.com/maps/place/Univers
 Located in <a href="/directory/building/eagle-village/">Eagle Village</a>, across the highway from UMW’s main campus, <a href="http://fredericksburg.place.hyatt.com/en/hotel/home.html">Hyatt Place</a> is the University’s preferred hotel partner and offers special rates for UMW visitors. For information on other nearby accommodations and attractions, visit the <a href="http://www.visitfred.com/things-to-do/museums-historical/fredericksburg-visitor-center">Fredericksburg Visitor Center</a>.
 
 &nbsp;
+<a href="https://www.umw.edu/#/vte/?data-platform=v&data-inst=63572&"></a>
 
 <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;"></a>
