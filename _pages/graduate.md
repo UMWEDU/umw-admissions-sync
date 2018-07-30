@@ -8,7 +8,7 @@ permalink: http://www.umw.edu/admissions/graduate/
 published: true
 post_date: 2015-05-26 01:27:13
 ---
-<img class="alignnone" src="https://umwedu.smugmug.com/Stafford-Campus/i-tDp87Qb/0/X2/Library%203-X2.jpg" alt="Students in Stafford Campus library" width="1280" height="823" />
+<img class="alignnone wp-image-48545 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/07/Graduate_home1.jpg" alt="Graduate student &quot;high-fiving&quot; at commencement" width="1140" height="399" />
 <h2><strong>A Tradition of Academic Excellence</strong></h2>
 UMW has over 105 years of history and is one of Virginia’s outstanding public liberal arts and sciences universities, providing a superior education that inspires and enables our students to make positive changes in the world.  At UMW, graduate students will:
 <ul>
