@@ -2,12 +2,12 @@
 ID: 103
 post_title: M.Ed. with Initial Teacher Licensure
 author: mkarrs
-post_date: 2015-07-22 10:17:31
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/graduate/degrees/med-teacher-licensure/
 published: true
+post_date: 2015-07-22 10:17:31
 ---
 If you have a bachelor’s degree and a passion for helping young people learn and grow, check out the UMW M.Ed. with teacher licensure program. You’ll get a personal adviser, a learning plan tailored specifically for you, and valuable field experience in one of nine neighboring school districts.
 Pathways Include:
@@ -42,9 +42,4 @@ Take a look at our <a href="http://www.umw.edu/admissions/graduate/degrees/med-t
 <strong>
 </strong>
 <h3>How can I learn more about UMW’s Master of Education with Initial Teacher Licensure program?</h3>
-Contact:
-<strong>Mr. Cris Hairston</strong>
-Sr. Assistant Director
-UMW Graduate Admissions
-540/286-8086
-<a href="mailto:chairsto@umw.edu">chairsto@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
+For detailed information and with specific questions, contact Graduate Admissions at (540) 286-8030 or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>.
