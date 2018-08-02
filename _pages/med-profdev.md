@@ -41,9 +41,4 @@ Take a look at the <a href="http://www.umw.edu/admissions/graduate/degrees/med-p
 <strong>
 </strong>
 <h3>How can I learn more about UMW’s Master of Education for Professional Development or Added Endorsement program?</h3>
-Contact:
-<strong>Mr. Cris Hairston</strong>
-Sr. Assistant Director
-UMW Graduate Admissions
-540-286-8086
-<a href="mailto:chairsto@umw.edu">chairsto@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
+For detailed information and with specific questions, contact Graduate Admissions at (540) 286-8030 or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>.
