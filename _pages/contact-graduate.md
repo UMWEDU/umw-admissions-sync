@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-06 13:02:31
 ---
-<strong>Phone:</strong> (540) 286-8000
+<strong>Phone:</strong> (540) 286-8030
 <strong>Email:</strong> <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu
 </strong></a><strong>Office Hours: </strong>Mon-Fri 8:30 a.m.-5 p.m.
 <strong>
@@ -17,18 +17,18 @@ post_date: 2015-08-06 13:02:31
 Director of Graduate Admissions
 <a href="mailto:dpack@umw.edu">dpack@umw.edu
 </a>540-286-8030
+Master of Education Programs
+
+&nbsp;
+
+&nbsp;
+
+<strong>David Harger
+</strong>Assistant Director of Graduate Admissions
+<a href="mailto:dharger@umw.edu">dharger@umw.edu</a>
+540-286-8088
 Master of Business Administration
 Master of Science in Geospatial Analysis
-
-&nbsp;
-
-&nbsp;
-
-<strong><img class="alignleft wp-image-48271 size-thumbnail" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Cris-Hairston-150x150.jpg" alt="Cris Hairston" width="150" height="150" />Cris Hairston
-</strong>Senior Assistant Director of Graduate Admissions
-<a href="mailto:chairsto@umw.edu">chairsto@umw.edu
-</a>540-286-8086
-Master of Education Programs
 
 &nbsp;
 
