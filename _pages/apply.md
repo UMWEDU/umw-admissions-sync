@@ -21,7 +21,7 @@ For graduate degree and certificate programs.
 </div>
 <div class="one-third">
 <div class=" CTAbutton CTAorange" style="font-size: 1em;"><a href="https://www.applyweb.com/umw/">BLS &amp; BSN</a></div>
-Adult degree completion for Bachelor of Liberal Sciences and Bachelor of Science in Nursing.
+Adult degree completion for Bachelor of Liberal Studies and Bachelor of Science in Nursing.
 
 </div>
 &nbsp;
