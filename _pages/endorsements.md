@@ -27,9 +27,4 @@ Recommended filing dates are April 15 for fall admission, Sept. 15 for spring ad
 
 Check out the <a href="http://www.umw.edu/admissions/graduate/degrees/endorsements/endorsement-checklist/"><strong>College of Education Graduate Endorsement and Certificate Programs Checklist</strong></a> for the materials you’ll need to get started.
 <h3><strong>How can I learn more about UMW’s College of Education Graduate Endorsement and Certificate Programs?</strong></h3>
-Contact:
-<strong>Mr. Cris Hairston</strong>
-Sr. Assistant Director
-UMW Graduate Admissions
-540-286-8086
-<a href="mailto:chairsto@umw.edu">chairsto@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
+For detailed information and with specific questions, contact Graduate Admissions at (540) 286-8030 or graduate@umw.edu.
