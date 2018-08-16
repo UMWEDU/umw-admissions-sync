@@ -21,6 +21,8 @@ Prospective high school seniors now have the option to share more information wi
 
 Students who are not in the area may set up a <a href="https://goo.gl/forms/bWjqBYew3z2CmkDE3">regional interview</a> if staff or an alum is in your area.
 
+<strong>Curriculum</strong>
+
 Students may also <strong>apply for admission without </strong>t<strong>est scores</strong>. Learn more about curriculum-based scholarship consideration for students who apply and are admitted <a href="http://www.umw.edu/admissions/undergraduate/checklist/test-optional/">test optional</a>.
 
 Please visit our <a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a> to better anticipate your total cost of attendance incorporating both merit scholarship awards and need based financial aid. Please visit our <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">financial aid site</a> for more information on other scholarships.
