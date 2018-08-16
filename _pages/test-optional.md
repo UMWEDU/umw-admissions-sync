@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-07 16:17:40
 ---
-First year applicants to the University of Mary Washington who maintain at least a 3.5 cumulative high school grade point average in a challenging course of study may request to be considered for admission to the university without standardized test scores. Applicants should request test optional review on their application for freshman admission. Students applying for merit-based scholarships, including the Washington and Alvey Scholarship, would be ineligible for this program. <strong>Students applying test optional may qualify for other endowed scholarships and the new curriculum based program (details shown below). </strong>To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date. The chart below is based on the fall 2018 entering class.
-
-<img class="alignnone wp-image-48190 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/Scholarship-Graphic-Test-Optional-Fall2016-1024x266.png" alt="Scholarship Graphic-Test Optional-Fall2016" width="1024" height="266" />
+First year applicants to the University of Mary Washington who maintain at least a 3.5 cumulative high school grade point average in a challenging course of study may request to be considered for admission to the university without standardized test scores. Applicants should request test optional review on their application for freshman admission. Students applying for merit-based scholarships, including the Washington and Alvey Scholarship, would be ineligible for this program. Students applying test optional may qualify for other endowed scholarships<strong>. </strong>To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date.
 
 &nbsp;
 
@@ -25,4 +23,4 @@ Exceptions to test optional review include:
 </ul>
 Admission to UMW remains a competitive process, and all candidates for admission will be considered on their own merits. Qualifying for application review without submitting standardized test scores does <strong>not</strong> guarantee admission to UMW. Students interested in pre-nursing can apply test optional, but may be required to provide SAT or ACT scores for admission to the Nursing Program.
 
-If you have questions regarding the test optional policy, please contact Admissions at (540) 654-2000, 800-468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
+If you have questions regarding the test optional policy, please contact Admissions at 540/654-2000, 800/468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
