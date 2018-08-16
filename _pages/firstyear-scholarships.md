@@ -21,7 +21,7 @@ Prospective high school seniors now have the option to share more information wi
 
 Students who are not in the area may set up a <a href="https://goo.gl/forms/bWjqBYew3z2CmkDE3">regional interview</a> if staff or an alum is in your area.
 
-<strong>Test Optional</strong>
+<a id="Curriculum"></a><strong><strong>Curriculum</strong></strong>
 
 Students may also <strong>apply for admission without </strong>t<strong>est scores</strong>. Learn more about curriculum-based scholarship consideration for students who apply and are admitted <a href="http://www.umw.edu/admissions/undergraduate/checklist/test-optional/">test optional</a>.
 
