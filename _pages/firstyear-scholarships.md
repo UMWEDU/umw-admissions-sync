@@ -14,7 +14,7 @@ post_date: 2015-08-07 16:19:06
 <div>
 <div id="primaryContent">
 
-All first-year, degree-seeking applicants are eligible for the scholarships listed below.  Transfer students that apply by the preferred application filing dates will be given automatic consideration for <a href="https://www.umw.edu/admissions/transfer/transfer-scholarships/">Transfer Merit Scholarships</a>.
+First-year, degree-seeking applicants may eligible for the scholarships listed below.  Transfer students that apply by the preferred application filing dates will be given automatic consideration for <a href="https://www.umw.edu/admissions/transfer/transfer-scholarships/">Transfer Merit Scholarships</a>.
 
 </div>
 </div>
@@ -26,17 +26,19 @@ All first-year, degree-seeking applicants are eligible for the scholarships list
 
 To be considered for merit based scholarships, first year students must meet the February 1 Regular Admission application filing date. Admitted students who meet the filing date will automatically be considered for merit scholarships based on cumulative GPA and standardized test scores (SAT or ACT), information that is already part of a complete application for admission. Merit scholarship awards will be included with the offer of admission to the University.
 
+<a id="Curriculum"></a><strong>Curriculum</strong>
+
+Students may also <strong>apply for admission without </strong>t<strong>est scores</strong>. Learn more about curriculum-based scholarship consideration for students who apply and are admitted <a href="http://www.umw.edu/admissions/undergraduate/checklist/test-optional/">test optional</a>.
+
+Please visit our <a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a> to better anticipate your total cost of attendance incorporating both merit scholarship awards and need based financial aid. Please visit our <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">financial aid site</a> for more information on other scholarships.
+
 <a id="Taking Flight"></a><strong>Taking Flight</strong>
 
 Prospective high school seniors now have the option to share more information with our Admissions staff as part of the admission process. Students may choose to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> in person to be considered for an additional institutional scholarship that may range from $1,000 to $2,000. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.
 
 Students who are not in the area may set up a <a href="https://goo.gl/forms/bWjqBYew3z2CmkDE3">regional interview</a> if staff or an alum is in your area.
 
-<a id="Curriculum"></a><strong>Curriculum</strong>
-
-Students may also <strong>apply for admission without </strong>t<strong>est scores</strong>. Learn more about curriculum-based scholarship consideration for students who apply and are admitted <a href="http://www.umw.edu/admissions/undergraduate/checklist/test-optional/">test optional</a>.
-
-Please visit our <a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a> to better anticipate your total cost of attendance incorporating both merit scholarship awards and need based financial aid. Please visit our <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">financial aid site</a> for more information on other scholarships.
+&nbsp;
 
 &nbsp;
 
