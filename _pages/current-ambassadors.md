@@ -17,4 +17,4 @@ We'll update this page with college fairs, the training handbook, training docum
 
 <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/07/College-Fair-List-Fall-2018.pdf">College Fairs</a> - Sorted by state
 
-Training Manual (coming soon)
+<a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/08/Training-Manual-Aug-2018.pdf">Training Manual</a>
