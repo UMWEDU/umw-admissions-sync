@@ -16,26 +16,26 @@ We will hope you and your parents can join us for a reception. You will be able
 800/468-5614 with any questions.</p>
 
 <h2 style="text-align: left">Upcoming Events:</h2>
-<span style="color: #0000ff"><strong>Richmond, VA: Wednesday, November 8</strong></span>
-
-Cultural Arts Center at Glen Allen
-2880 Mountain Road
-Glen Allen, VA 23060
-
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e41f552717f24ace9088883da13ca001">register</a> by Nov. 5
-
-<span style="color: #0000ff"><strong>Rockville, MD: Thursday, November 9</strong></span>
+<span style="color: #0000ff"><strong>Rockville, MD: Thursday, November 8</strong></span>
 
 Cambria Hotels &amp; Suites
 1 Helen Heneghan Way (1 Renaissance Street)
 Rockville, MD 20850
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774dd71dbf200344348288a65ef05c33a0">register</a> by Nov. 5
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0286731304b4277a251a04612443cb0">register</a> by Nov. 4
 
-<span style="color: #0000ff"><strong>Tidewater, VA: Monday, November 13</strong></span>
+<span style="color: #0000ff"><strong>Richmond, VA: Tuesday, November 13</strong></span>
+
+Cultural Arts Center at Glen Allen
+2880 Mountain Road
+Glen Allen, VA 23060
+
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e41f552717f24ace9088883da13ca001">register</a> by Nov. 9
+
+<span style="color: #0000ff"><strong>Tidewater, VA: Thursday, November 15</strong></span>
 
 Slover Library
 235 E Plume Street
 Norfolk, VA 23510
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eb95ada4935f431391b2a3c4ad3ac222">register</a> by Nov. 8
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a61102473ba4405d9290afa8e9c10a2e">register</a> by Nov. 11
