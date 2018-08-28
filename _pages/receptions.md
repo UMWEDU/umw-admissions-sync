@@ -18,9 +18,9 @@ We will hope you and your parents can join us for a reception. You will be able
 <h2 style="text-align: left">Upcoming Events:</h2>
 <span style="color: #0000ff"><strong>Rockville, MD: Thursday, November 8</strong></span>
 
-Cambria Hotels &amp; Suites
-1 Helen Heneghan Way (1 Renaissance Street)
-Rockville, MD 20850
+Historic Oakland
+5430 Vantage Point Road
+Columbia, MD 21044
 
 Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0286731304b4277a251a04612443cb0">register</a> by Nov. 4
 
