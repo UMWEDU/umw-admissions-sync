@@ -20,6 +20,8 @@ The best way to learn about graduate programs at the University of Mary Washingt
 MBA Virtual Information Session
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771f5783e411764ae4a5c41a4efd86dad1">Friday, November 9</a>
+<h3>Master of Science in Geospatial Analysis Information Session</h3>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577626d19ee891a4acf99403657f13819e0">Monday, September 17 </a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
