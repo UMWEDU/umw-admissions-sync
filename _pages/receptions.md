@@ -24,18 +24,18 @@ Columbia, MD 21044
 
 Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0286731304b4277a251a04612443cb0">register</a> by Nov. 4
 
-<span style="color: #0000ff"><strong>Richmond, VA: Tuesday, November 13</strong></span>
+<span style="color: #0000ff"><strong>Richmond, VA: Monday, November 12</strong></span>
 
 Cultural Arts Center at Glen Allen
 2880 Mountain Road
 Glen Allen, VA 23060
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e41f552717f24ace9088883da13ca001">register</a> by Nov. 9
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e41f552717f24ace9088883da13ca001">register</a> by Nov. 8
 
-<span style="color: #0000ff"><strong>Tidewater, VA: Thursday, November 15</strong></span>
+<span style="color: #0000ff"><strong>Tidewater, VA: Wednesday, November 14</strong></span>
 
 Slover Library
 235 E Plume Street
 Norfolk, VA 23510
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a61102473ba4405d9290afa8e9c10a2e">register</a> by Nov. 11
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a61102473ba4405d9290afa8e9c10a2e">register</a> by Nov. 10
