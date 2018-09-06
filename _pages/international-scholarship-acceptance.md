@@ -23,9 +23,14 @@ The recipient qualifies to receive a scholarship for each of four academic years
 </ol>
 <ol start="4">
  	<li>The scholarship may not be used by students participating in an internship in which the student resides off campus.</li>
-</ol>
-<ol start="5">
- 	<li>The recipient must achieve a grade point average of at least 2.5 on a 4.0 grade point system for each academic year.  The grade point average is to be determined by the course load requirement used in the determination of Dean’s List students.</li>
+ 	<li>The recipient must maintain the following yearly grade point averages to retain a merit scholarship:Earned Credit Hours            Yearly GPA Requirement
+1-29                                          2.5
+30-59                                       2.75
+60+                                          3.0
+
+The grade point average is to be determined by the course load requirement used in the
+determination of Dean’s List students and is based on the end of the spring term regardless if the
+student attends fall courses. “<strong>Earned Credit Hours</strong>” are credit hours earned only at UMW.</li>
 </ol>
 <ol start="6">
  	<li>Should the recipient be placed on social or administrative probation, or be found guilty of an Honor Code violation, the scholarship will be withdrawn, and charges to the student shall be adjusted according to the University’s refund policy.</li>
