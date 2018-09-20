@@ -11,7 +11,6 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
 <h3>Master of Business Administration Information Sessions</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ef20858923014a7d91e65a6b8f52e99a">Tuesday, September 18</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a925baa0723049eb8c7094485ac2ca6c">Wednesday, October 10</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357764fde54c31e84560aa73512171b7000f">Monday, October 22</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e3f892b24bc94243944fea5f446d7de1">Tuesday, November 20</a>
@@ -21,12 +20,11 @@ MBA Virtual Information Session
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771f5783e411764ae4a5c41a4efd86dad1">Friday, November 9</a>
 <h3>Master of Education Information Sessions</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577427d51e2f02743a9bb296f6713230b4e">Wednesday, September 19</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d3df138888a14aaa8c6bfe379d78c789">Thursday, October 18</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f639799490374e428c7108e66255f8c1">Tuesday, November 13</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d59341a30c944c70a417575f61fc5b98">Wednesday, December 5</a>
 <h3>Master of Science in Geospatial Analysis Information Session</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577626d19ee891a4acf99403657f13819e0">Monday, September 17 </a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357759ce12631ce940ed95924badde0816a9">Monday, September 24</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
