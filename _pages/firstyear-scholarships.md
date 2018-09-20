@@ -14,7 +14,7 @@ post_date: 2015-08-07 16:19:06
 <div>
 <div id="primaryContent">
 
-First-year, degree-seeking applicants may eligible for the scholarships listed below.  Transfer students that apply by the preferred application filing dates will be given automatic consideration for <a href="https://www.umw.edu/admissions/transfer/transfer-scholarships/">Transfer Merit Scholarships</a>.
+First-year, degree-seeking applicants may be eligible for the scholarships listed below.  Transfer students that apply by the preferred application filing dates will be given automatic consideration for <a href="https://www.umw.edu/admissions/transfer/transfer-scholarships/">Transfer Merit Scholarships</a>.
 
 </div>
 </div>
