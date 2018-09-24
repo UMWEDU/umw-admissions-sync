@@ -1,66 +1,40 @@
 ---
-ID: 102
-post_title: International Admissions Checklist
-author: mkarrs
+ID: 20
+post_title: First-Year Admission
+author: Katherine Stosch
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/international/checklist/
+  http://www.umw.edu/admissions/undergraduate/checklist/
 published: true
-post_date: 2015-07-22 10:11:57
+post_date: 2015-05-26 18:51:28
 ---
-UMW may be the perfect school for you to complete your four year American college degree. Our location an hour to the south of Washington, DC provides easy access to both cultural opportunities and travel. Our student body of over 4,000 gives you the opportunity to gain new experiences all four years but within a community that is both supportive and engaged with one another. Take the next steps toward applying for admission.
+<img class="alignnone wp-image-48248 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/FER-Fall-Scene.jpg" alt="Fall scenics photographed at University of Mary Washington Wednesday November 17, 2010. (Photo by Norm Shafer)" width="700" height="300" />
 
-<strong>International Admission Checklist</strong>
-
-These are the items required of international applicants for admission consideration.
-
-<strong>1. The Application</strong>
-
-Apply online through the <a href="https://www.commonapp.org/">The Common Application </a> and your essay/personal statement, plus your $50 application fee or approved waiver.
-
-Remember to apply by the suggested filing date:
-First Year applicants - Jan. 1 for priority admission or Feb. 1 for regular admission
-Transfer applicants - Oct. 15 for spring and April 1 for fall
-
-UMW accepts applications after these deadlines on a space-available basis and considering visa processing timelines.
-
-<strong>2. Transcripts and/or Exam Scores</strong>
-
-Send transcripts and/or exam results – matriculation/secondary school certificates, mark sheets, diplomas – with a certified copy of the English translation, for high school work you have completed. If you are applying as a transfer student, a transcript from each college or university you attended is also required.  Original documents are preferred; copies must be certified and attested by the U.S. embassy or notary public. Agencies offering translations include:
+Take a look at the checklist below and start getting everything submitted. We’re excited to read your application!
+<h2><strong>Suggested filing dates:</strong></h2>
 <ul>
- 	<li><a href="http://www.wes.org">World Education Services Inc.</a></li>
- 	<li><a href="https://www.ece.org/">Educational Credential Evaluators</a></li>
+ 	<li>Nov. 1 - Early Decision (notification by December 10 and reply date of January 10)</li>
+ 	<li>Nov. 15 - Early Action (notification by January 31 and reply date of May 1)</li>
+ 	<li>February 1 - Regular Decision (notification by April 1 and reply date of May 1)</li>
 </ul>
-<strong>3. References</strong>
-
-Submit at least one letter of recommendation from a counselor or teacher, using the <a href="https://recsupport.commonapp.org/link/portal/33011/33014/ArticleFolder/42/School-Report">Common Application Secondary School Report</a>.
-
-<strong>4. English Language Proficiency</strong>
-
-Proof of English language proficiency should be sent directly to UMW from the evaluating organization. These exam scores will get you in the running:
+Prospective high school seniors have the option to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> with our Admissions staff as part of the admissions process. Students who interview in person may have the opportunity to be considered for a “Taking Flight” scholarship that ranges from $1,000 to $2,000.
+<h2>First Year Admission Checklist</h2>
+Use the checklist below to be sure you’ve got everything covered.
 <ul>
- 	<li><a href="https://www.ila.edu/">International Language Academy</a> (ILA) Intensive English Program (Level 12 completion)</li>
- 	<li><a href="https://www.ets.org/toefl">Test of English as a Foreign Language</a> (TOEFL 80 IBT)</li>
- 	<li><a href="http://www.ielts.org/">International English Language Testing System</a> (6.5 on the academic exam)</li>
- 	<li><a href="https://sat.collegeboard.org/home">College Board’s SAT</a> (Evidence Based Critical Reading, 500; Math 500 or higher; use UMW SAT testing code 5398)</li>
- 	<li><a href="http://www.actstudent.org/">ACT</a> (composite score of 22 or higher; use UMW ACT testing code 4414)</li>
-</ul>
-If your first language is English, your native country names English an official language, you’re graduating from a secondary school in a native English-speaking country or from an International Baccalaureate secondary school, or you scored well on the SAT verbal portion, you may request an English language requirement waiver.
-
-<strong>5. Financial Support</strong>
-
-Students are required to demonstrate financial ability to pay for at least one year of academic and living expenses and pay your enrollment deposit before being issued an I-20 by UMW.  Financial documents must be in English showing available liquidable funds (readily converted into cash) and cannot be older than three months.  Examples of appropriate documents may include:
+ 	<li>Apply online through <a href="https://apply.commonapp.org/Login">The Common Application</a> with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
+ 	<li>Create a ZeeMee profile to bring your application to life!  Share your passion, talents, and interests through videos or photos directly with your admissions counselor. Don’t have ZeeMee? Get it for free at <a href="http://www.zeemee.com">www.zeemee.com</a>. Include your ZeeMee link within your application for admission.</li>
+ 	<li>If you are requesting review for the Honors Program, Student Transition Program, or Pre-Nursing 1+2+1 Plan, please indicate this in the Common Application and review the <a href="http://www.umw.edu/admissions/undergraduate/checklist/special-programs/">Admission to Special Program details</a>.</li>
+ 	<li>If you're requesting review under the binding Early Decision process, you must invite your counselor to sign the Early Decision Agreement before submitting your application.  If you're not able to gather signatures electronically, you may print the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Early_Decision_Agreement.pdf">Early Decision Agreement</a> and send to UMW. This form <strong>MUST</strong> be signed by the student, parent or legal guardian, and your high school counselor and is required to complete your application.</li>
+ 	<li>Ask your guidance counselor to complete and sign the Secondary School Report, included on the Common Application, and provide a copy of your official high school transcript. (Home-schooled applicants should provide documentation of their educational experiences, as well.)</li>
+ 	<li>If you completed college work during high school, request that an official college transcript be sent to UMW once the coursework is graded.</li>
+ 	<li>Submit at least one letter of recommendation. You may invite your guidance counselor, teacher, or school official.</li>
+ 	<li>Request your standardized test results be sent directly to UMW (SAT CEEB 5398, ACT 4414). Notify Admissions if you’ve taken the SAT or ACT using something other than your full legal name. UMW superscores your EBRW (evidence-based reading and writing) and math scores regardless of test date and we will take ACT scores attached to your strongest composite score.
 <ul>
- 	<li>Bank letter specifying the account holder, date, monetary currency, and amount of funds available.  The letter cannot simply state the client has “sufficient funds.”  Letters must be on official bank stationary, stamped and signed by a bank official.</li>
- 	<li>Bank statements must show name of account holder, total available balance, and be on official bank stationary.  An on-line screen-shot or print out is acceptable, as long as these elements are included.</li>
- 	<li>Funds must be liquid (readily converted into cash)</li>
- 	<li>If a U.S. citizen or U.S. permanent resident is providing all or partial support, an I-134 Affidavit of Support is required.  The I-134 can be found at <a href="https://www.uscis.gov/i-134">https://www.uscis.gov/i-134</a>. Submit the completed I-134 to the CIE office.</li>
+ 	<li>Read about our <a href="/admissions/undergraduate/checklist/test-optional/">test optional policy</a>.</li>
 </ul>
-Documents should be sent to:
-University of Mary Washington
-Center for Internation Education
-1301 College Avenue
-Fredericksburg, VA 22401
-
-Please take a look at the <a href="http://www.umw.edu/admissions/youarein/next-steps/incoming-international-students/">Next Steps</a> for Admitted International Students.
+</li>
+ 	<li>Ask your high school to send your mid-year grades to UMW so that the Admissions Committee will have your most current information.</li>
+ 	<li>If you’re filing a Free Application for Federal Student Aid (<a href="https://fafsa.ed.gov/">FAFSA</a>), please submit it by February 1, using the UMW code 003746.</li>
+</ul>
+We can’t wait to get your application! We’ll send you an email when we receive it and let you know if anything’s missing. Please know that it’s your responsibility to make sure your file is complete and to keep copies of all application materials.
