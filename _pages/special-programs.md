@@ -2,29 +2,20 @@
 ID: 48203
 post_title: Admission to Special Programs
 author: keury
-post_date: 2016-09-27 10:10:07
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/admissions/undergraduate/checklist/special-programs/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-09-27 10:10:07
 ---
 <strong><img class="alignright wp-image-48204 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/09/IMG_2643b-300x200.jpg" alt="Students in Trinkle Hall" width="300" height="200" /></strong>
 
 Students interested in the following programs Honors, <a href="#Pre-Nursing">Pre-Nursing</a>, or <a href="#STP">STP</a> should respond affirmatively to questions within the application for admission.
 <h3><strong>Admission to the Honors Program</strong></h3>
-UMW enrolls from 60-80 students annually in our interdisciplinary Honors Program.
-<ul>
- 	<li>Admission is determined through the first year application.</li>
- 	<li>Students wishing to be considered for the Honors program should indicate so within the application.</li>
- 	<li>Consideration for the Honors program <strong>generally</strong> begins for students in the most rigorous programs available to them, who have earned a 3.9 GPA on a 4.0 scale or higher, who have received combined Evidence Based Critical Reading plus Math new SAT scores of 1370 or higher or ACT Composite scores of 29 or higher.</li>
- 	<li>Applicants are required to submit SAT or ACT scores. Students who apply test optional to UMW will not be considered for the Honors program.</li>
- 	<li>Students may be considered for both the Honors Program and the Student Transition Program.</li>
- 	<li>Students not admitted to the Honors Program as a new first year student may apply directly to the program after their first semester at UMW.</li>
- 	<li>For additional details, please visit the <a href="http://academics.umw.edu/honorsprogram/">Honors Program page</a>.</li>
-</ul>
+The UMW Honors Program is an interdisciplinary and intellectually rewarding educational experience.  Students who excelled academically throughout high school and want to enhance their college experience with engaging academic and co-curricular experiences, individualized learning, involvement in the community, and leadership development should apply to the program.
+
+Application to the Honors Program involves completion of the supplemental Honors Program  application in the Common Application.  UMW reviews all applications to the Honors Program with the goal of enrolling 80-100 first-year students in the program each year. Consideration for the program involves review of the records of students who have completed the most rigorous high school curriculum available to them, earned a high school GPA of 3.9 on a 4.0 GPA scale or higher, and completed the supplemental essay on the Common Application. Standardized tests scores are not required for consideration.  Students not admitted to the Honors Program as a new first year student may apply directly to the program after their first semester at UMW. For additional details, please visit the <a href="http://academics.umw.edu/honorsprogram/">Honors Program page</a>.
 <h3><a name="Pre-Nursing"></a><strong>Admission as a First Year Pre-Nursing Student</strong></h3>
 UMW partners with Germanna Community College to provide a unique dual degree program for graduates to become nurses.
 <ul>
