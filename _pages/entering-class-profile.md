@@ -30,21 +30,21 @@ In the information below, the “Middle 50%” indicates the range into which fe
 <tr>
 <th>High-School GPA</th>
 <td>3.66</td>
-<td>3.61</td>
+<td>3.64</td>
 </tr>
 <tr>
 <th>SAT</th>
 <td>1100-1280</td>
-<td>1090-1250</td>
+<td>1090-1270</td>
 </tr>
 <tr>
 <th>ACT composite</th>
 <td>23-29</td>
-<td>22-27</td>
+<td>22-29</td>
 </tr>
 </tbody>
 </table>
 <h2>Geographic Distribution:</h2>
-The 2018 freshmen came from 24 states with the majority coming from Virginia, Maryland, Massachusetts, New York, New Jersey, and Pennsylvania. International degree seeking students have enrolled from Brazil, Ireland, Pakistan, Saudi Arabia, and the United Kingdom.
+The 2018 freshmen came from 24 states with the majority coming from Virginia, Maryland, Pennsylvania, New York, North Carolina, and New Jersey. International degree seeking students have enrolled from Brazil, Ireland, Pakistan, Saudi Arabia, and the United Kingdom.
 
 The Admissions staff is always available to answer questions about the admissions process. Call us at (540) 654-2000 or (800) 468-5614.
