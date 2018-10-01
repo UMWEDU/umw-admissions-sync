@@ -35,8 +35,8 @@ Get a head start on your courses by signing up for the second eight-week session
 Take a look at our <a href="http://www.umw.edu/admissions/graduate/degrees/mba/mba-checklist/"><strong>MBA Application Checklist</strong></a> for the materials you’ll need to get started.
 <h3><strong>How can I learn more about UMW’s MBA program?</strong></h3>
 Contact Information:
-Christy Pack
-Director of Graduate Admissions
+David Harger
+Assistant Director of Graduate Admissions
 <strong>UMW Graduate Admissions
-</strong>540-286-8030
-<a href="mailto:dpack@umw.edu">dpack@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
+</strong>540-286-8088
+<a href="mailto:dharger@umw.edu">dharger@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
