@@ -25,8 +25,6 @@ MBA Virtual Information Session
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d59341a30c944c70a417575f61fc5b98">Wednesday, December 5</a>
 <h4>M.Ed. Literacy Specialist Information Session</h4>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577596f69019165447580402aa2e8d99e9e">Wednesday, October 10</a>
-<h3>Master of Science in Geospatial Analysis Information Session</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357759ce12631ce940ed95924badde0816a9">Monday, September 24</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
