@@ -21,7 +21,7 @@ MBA Virtual Information Session
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771f5783e411764ae4a5c41a4efd86dad1">Friday, November 9</a>
 <h3>Master of Education Information Sessions</h3>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d3df138888a14aaa8c6bfe379d78c789">Thursday, October 18</a>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f639799490374e428c7108e66255f8c1">Tuesday, November 13</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f639799490374e428c7108e66255f8c1">Wednesday, November 7</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d59341a30c944c70a417575f61fc5b98">Wednesday, December 5</a>
 <h4>M.Ed. Literacy Specialist Information Session</h4>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577596f69019165447580402aa2e8d99e9e">Wednesday, October 10</a>
