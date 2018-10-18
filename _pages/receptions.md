@@ -30,7 +30,7 @@ Cultural Arts Center at Glen Allen
 2880 Mountain Road
 Glen Allen, VA 23060
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e41f552717f24ace9088883da13ca001">register</a> by Nov. 8
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777841b75e181f476daa0400291fe5b714">register</a> by Nov. 8
 
 <span style="color: #0000ff"><strong>Tidewater, VA: Wednesday, November 14</strong></span>
 
