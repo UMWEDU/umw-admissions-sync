@@ -23,6 +23,7 @@ Please fill out the separate <a href="https://umw.askadmissions.net/Portal/EI/Vi
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775aad02a1db1840519bb608f847dd1cef">Friday, April 19, 2019</a>
 
 High school seniors are also eligible to register for an interview during the Open House for an additional scholarship opportunity. Please register by selecting a date below.
+<h3></h3>
 <h3>October Interview Times</h3>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e2f62efe0cb5430980b43f6f66cec579">12:20 p.m.</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772fa71a0fddac4fef9007f36316defc77">12:40 p.m.</a>
@@ -35,5 +36,17 @@ High school seniors are also eligible to register for an interview during the Op
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779071505c25cf4295be3eea3cd2a61067">3 p.m.</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577529c57ff1c2847aa84355dbdee6703ce">3:20 p.m.</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a6810a9ca29d441189c8db3a3954b944">3:40 p.m.</a>
+<h3>November Interview Times</h3>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f5ffb925c2af40f89b1fa73bd7b00ff4">12:20 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357788233ca1e8ab4c61bdbcde2e36e5a0aa">12:40 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357798297a2e1a6f4c789fb4dd0294ec72ed">1 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577739cfbaa840147838a9ef6c585a8efc0">1:20 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ce8290250c0e48109209350457a1062c">1:40 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773dd978e6b6f3445985c02d594a02c645">2 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e550ce4c1ac246c486b359b4905bccc9">2:20 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577db5f4ae7dfe6461abcee16e6f1dbcef1">2:40 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577061723419fb944099197da08b773b86d">3 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776f3efa4415ab40aaa17a44ea99cb4ef7">3:20 p.m.</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577029d71f6c1cc43c2aa548e9d8a6279a7">3:40 p.m</a>
 
 Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
