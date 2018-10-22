@@ -11,20 +11,14 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
 <h3>Master of Business Administration Information Sessions</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a925baa0723049eb8c7094485ac2ca6c">Wednesday, October 10</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357764fde54c31e84560aa73512171b7000f">Monday, October 22</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e3f892b24bc94243944fea5f446d7de1">Tuesday, November 20</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d772fcbef2694badb7b0fb9bf68bebf9">Thursday, December 13</a>
-
-MBA Virtual Information Session
-
+<h3>MBA Virtual Information Session</h3>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771f5783e411764ae4a5c41a4efd86dad1">Friday, November 9</a>
 <h3>Master of Education Information Sessions</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d3df138888a14aaa8c6bfe379d78c789">Thursday, October 18</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f639799490374e428c7108e66255f8c1">Wednesday, November 7</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d59341a30c944c70a417575f61fc5b98">Wednesday, December 5</a>
-<h4>M.Ed. Literacy Specialist Information Session</h4>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577596f69019165447580402aa2e8d99e9e">Wednesday, October 10</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
