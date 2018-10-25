@@ -14,7 +14,7 @@ post_date: 2017-03-29 08:57:19
 <h3>3+4 Accelerated Program to Shenandoah University’s Bernard J. Dunn School of Pharmacy</h3>
 Undergraduates at the University of Mary Washington now have an accelerated path to a pharmacy career, thanks to an articulation agreement with Shenandoah University in Winchester, Virginia. This program provides qualified UMW students the opportunity to earn a bachelor’s degree through Mary Washington and a Doctor of Pharmacy degree from Shenandoah University’s Bernard J. Dunn School of Pharmacy in seven rather than the usual eight years.
 
-Among the prerequisites to apply for admission to the program, students must complete at least 63 academic credits, maintain no less than a cumulative 3.0 grade point average and score in the 50th percentile on the Pharmacy College Admission Test (PCAT)<em>.</em> Students may apply through the Pharmacy College Application Service during their third year.
+Among the prerequisites to apply for admission to the program, students must complete at least 90 academic credits, maintain no less than a cumulative 2.0 grade point average and score in the 50th percentile on the Pharmacy College Admission Test (PCAT)<em>.</em> Students may apply through the Pharmacy College Application Service during their third year.
 
 For students selecting this path, the first year of pharmacy school will transfer to meet final graduation requirements for the UMW bachelor’s degree.
 
@@ -24,7 +24,7 @@ The track, known as the 3+3 Accelerated Program, provides highly motivated UMW s
 
 Under the program, UMW students must maintain a minimum cumulative 3.25 grade point average and complete all core curriculum and required courses for their major within the first three years. They may apply for admission to Scalia Law School during their third year, after obtaining an acceptable score on the Law School Admission Test (LSAT).
 
-UMW is the first higher education institution outside of GMU to develop such an expedited relationship with the law school. Currently, the accelerated dual degree program with Scalia Law School is available only to George Mason students. The arrangement with UMW is effective beginning in fall 2017 semester.
+UMW is the first higher education institution outside of GMU to develop such an expedited relationship with the law school. Currently, the accelerated dual degree program with Scalia Law School is available only to George Mason students.
 
 Students who are interested in pursuing the accelerated law degree program must be approved by their undergraduate advisor during their freshman or sophomore year. For more information, contact Dr. Jason Matzke at <a href="mailto:jmatzke@umw.edu">jmatzke@umw.edu</a> or Dr. Kimberley Kinsley at <a href="mailto:kkinsley@umw.edu">kkinsley@umw.edu</a> or visit the GMU Antonin Scalia Law School <a href="https://www.law.gmu.edu/admissions/jd/3_3_program">3+3 Accelerated Program page</a>.
 <h3><strong>Early Selection to The George Washington University School of Medicine and Health Sciences</strong></h3>
