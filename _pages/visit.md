@@ -20,6 +20,25 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2019 admission candidates. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
+<h2>Visit with UMW in Your Community</h2>
+<h4>Maryland Regional Reception: Thursday, November 8</h4>
+Historic Oakland
+5430 Vantage Point Road
+Columbia, MD 21044
+
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d0286731304b4277a251a04612443cb0">register</a> by Nov. 4
+<h4>Richmond Regional Reception: Monday, November 12</h4>
+Cultural Arts Center at Glen Allen
+2880 Mountain Road
+Glen Allen, VA 23060
+
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777841b75e181f476daa0400291fe5b714">register</a> by Nov. 8
+<h4>Tidewater Regional Reception: Wednesday, November 14</h4>
+Slover Library
+235 E Plume Street
+Norfolk, VA 23510
+
+Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a61102473ba4405d9290afa8e9c10a2e">register</a> by Nov. 10
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
