@@ -16,14 +16,6 @@ We will hope you and your parents can join us for a reception. You will be able
 800/468-5614 with any questions.</p>
 
 <h2 style="text-align: left">Upcoming Events:</h2>
-<span style="color: #000000"><strong>Richmond Regional Reception: Monday, November 12</strong></span>
-
-Cultural Arts Center at Glen Allen
-2880 Mountain Road
-Glen Allen, VA 23060
-
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777841b75e181f476daa0400291fe5b714">register</a> by Nov. 10
-
 <span style="color: #000000"><strong>Tidewater Regional Reception: Wednesday, November 14</strong></span>
 
 Slover Library
