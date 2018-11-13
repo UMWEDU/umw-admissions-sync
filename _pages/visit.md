@@ -21,12 +21,6 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
 <h2>Visit with UMW in Your Community</h2>
-<h4>Richmond Regional Reception: Monday, November 12</h4>
-Cultural Arts Center at Glen Allen
-2880 Mountain Road
-Glen Allen, VA 23060
-
-Please <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777841b75e181f476daa0400291fe5b714">register</a> by Nov. 10
 <h4>Tidewater Regional Reception: Wednesday, November 14</h4>
 Slover Library
 235 E Plume Street
