@@ -16,7 +16,7 @@ Keep in mind the program’s suggested application filing dates of <strong>April
 To <a href="https://www.applyweb.com/umw/">apply</a>, you will need:
 <ul>
  	<li>A copy of a current, unencumbered RN license permitting you to practice nursing in the Commonwealth of Virginia.</li>
- 	<li>An official transcript from each college or university you’ve attended, including an official transcript awarding an associate or diploma degree or a diploma from an accredited school. You must have attained a minimum cumulative GPA of 2.5 on a 4.0 scale in undergraduate study. (If your undergraduate GPA is less than 2.5, you will need to include with your application two academic or professional recommendations. The BSN Completion Program admissions committee will review your application and, if they decide to consider it, may also request an in-person interview.)</li>
+ 	<li>An official transcript from each college or university you’ve attended, including an official transcript awarding an associate or diploma degree or a diploma from an accredited school. You must have attained a minimum cumulative GPA of 2.5 on a 4.0 scale in undergraduate study.</li>
 </ul>
 <strong>Mail all admissions materials to:</strong>
 
