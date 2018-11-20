@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-10-11 14:02:09
 ---
-Thank you for contacting us! We'll be in touch with you shortly.
+Thank you for your interest in the University of Mary Washington. Your information has been successfully submitted.
