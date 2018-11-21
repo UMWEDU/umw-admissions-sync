@@ -15,7 +15,7 @@ High school, transfer, and international students.
 
 </div>
 <div class="one-third">
-<div class="CTAbutton CTAburgundy" style="font-size: 1em;"><a href="https://www.applyweb.com/umw/menu.html">Graduate</a></div>
+<div class="CTAbutton CTAburgundy" style="font-size: 1em;"><a class="GraduateApp" href="https://www.applyweb.com/umw/menu.html">Graduate</a></div>
 For graduate degree and certificate programs.
 
 </div>
