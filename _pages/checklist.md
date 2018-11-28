@@ -36,6 +36,6 @@ Use the checklist below to be sure you’ve got everything covered.
 </li>
  	<li>Ask your high school to send your mid-year grades to UMW so that the Admissions Committee will have your most current information.</li>
  	<li>If you’re filing a Free Application for Federal Student Aid (<a href="https://fafsa.ed.gov/">FAFSA</a>), please submit it by February 1, using the UMW code 003746.</li>
- 	<li><a href="https://www.umw.edu/admissions/first-year-off-campus-waiver-form/">First year off campus waiver form</a></li>
+ 	<li>If you would like to commute as a first-year student, and you live more than thirty miles from campus, please complete <a href="https://www.umw.edu/admissions/first-year-off-campus-waiver-form/">first year off campus waiver form.</a></li>
 </ul>
 We can’t wait to get your application! We’ll send you an email when we receive it and let you know if anything’s missing. Please know that it’s your responsibility to make sure your file is complete and to keep copies of all application materials.
