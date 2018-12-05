@@ -15,7 +15,7 @@ post_date: 2014-11-05 11:10:41
 
 <strong>Fall</strong> Deadline: May 1
 
-To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. </em>
+To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. Please note the system will not be available shortly after midnight on New Year's Eve until 8 a.m. on January 2. </em>
 <h2>Admissions Deposit Online Payment</h2>
 [wpv-view name="Admissions Deposit iFrame"]
 <h3>Benefits to paying early include:</h3>
