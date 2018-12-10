@@ -5,7 +5,7 @@ author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/commissioned-agents/
+  http://www.umw.edu/admissions/international/commissioned-agents/
 published: true
 post_date: 2018-12-05 10:05:23
 ---
