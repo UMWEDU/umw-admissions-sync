@@ -11,7 +11,6 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
 <h3>Master of Business Administration Information Sessions</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775a184dd5888c4fd184f8332f840c6528">Thursday, January 10</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357737c408614a00455382c4275b5ccff2ee">Tuesday, January 22</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777254a3adace0407d8f72d7a722b7761c">Monday, February 4</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f00ba605eed0456e87f1e30bb5257394">Thursday, February 21</a>
@@ -30,6 +29,8 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770839fe7f96894f7ba5be8156475188c8">Friday, March 15</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577435fcbce9d494d03adf32643fc921ea1">Friday, April 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577067a02090afa40f0aa3817d3f5d4f87d">Friday, May 17</a>
+<h3>Master of Education - Initial Licensure Information Session</h3>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775bf0bf5765c440bc9532b3cb4e31bce6">Tuesday, January 29</a> (session starts at 6 p.m.)
 <h3>Master of Science in Geospatial Analysis Information Sessions</h3>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774bef55a28a94422b9644575ccaa9a588">January 17</a> (4+1 session for current UMW students)
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eaf31e4bc58045dabf9224e216d42ffd">January 24</a>
