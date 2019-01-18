@@ -11,7 +11,7 @@ post_date: 2015-08-07 14:29:16
 ---
 The University of Mary Washington welcomes your application for admission!
 
-<em>As part of the greater Washington, D.C. metro area, many of our neighbors and friends are feeling the effects of the government shutdown. If your family is impacted, we’d like to offer a free application for admission to UMW. Save $50 by using the fee waiver UMW66.</em>
+<em>Many of our neighbors and friends are feeling the effects of the government shutdown. If your family is impacted, we’d like to offer a free application for admission to UMW. Save $50 by using the fee waiver UMW66.</em>
 <h2>Apply Online</h2>
 Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Application</a>, essay, and application fee or approved waiver online.
 <h2>Suggested Filing Dates</h2>
