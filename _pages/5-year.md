@@ -23,9 +23,9 @@ Once admitted, the student would take MSGA 510, Spatial Thinking in the fall sem
 </ul>
 <h2><strong>Application Deadlines</strong></h2>
 <ul>
- 	<li>For students starting their senior year in fall of 2018, the deadline is February 19, 2018.</li>
- 	<li>For students starting their senior year in spring of 2018, the deadline is October 2, 2017.</li>
- 	<li>For students starting their senior year in fall of 2019, the deadline is February 21, 2018.</li>
+ 	<li>For students starting their senior year in fall of 2019, the deadline is February 18, 2019.</li>
+ 	<li>For students starting their senior year in spring of 2010, the deadline is September 30, 2019.</li>
+ 	<li>For students starting their senior year in fall of 2010, the deadline is February 17, 2020.</li>
 </ul>
 <h2><strong>Interested?</strong></h2>
 Contact the Office of Graduate Admissions to take the next step in the admissions process at 540/286-8030 or <a href="mailto:graduate@umw.edu"><strong>graduate@umw.edu</strong></a>.
