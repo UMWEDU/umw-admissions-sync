@@ -1,12 +1,12 @@
 ---
-ID: 48580
+ID: 48615
 post_title: Thank You
 author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/request-information/thank-you/
+  http://www.umw.edu/admissions/visit/group-tours/schedule-a-group-tour/thank-you/
 published: true
-post_date: 2018-10-11 14:02:09
+post_date: 2019-01-23 09:39:13
 ---
-Thank you for your interest in the University of Mary Washington. Your information has been successfully submitted.
+Thanks for contacting us! We will get in touch with you shortly.
