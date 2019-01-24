@@ -11,7 +11,6 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
 <h3>Master of Business Administration Information Sessions</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357737c408614a00455382c4275b5ccff2ee">Tuesday, January 22</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235777254a3adace0407d8f72d7a722b7761c">Monday, February 4</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f00ba605eed0456e87f1e30bb5257394">Thursday, February 21</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772544e75caa44402bbc729fd9ac8881d0">Tuesday, March 5</a>
@@ -24,7 +23,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 
 <strong>Virtual Information Sessions</strong> (All sessions start at noon)
 
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235779dc148eb35c140c1899aec1d5bab5a11">Friday, January 18</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775d98d5b0f726407b9370de1ee0e7d212">Friday, February 15</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770839fe7f96894f7ba5be8156475188c8">Friday, March 15</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577435fcbce9d494d03adf32643fc921ea1">Friday, April 12</a>
@@ -32,7 +30,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h3>Master of Education - Initial Licensure Information Session</h3>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775bf0bf5765c440bc9532b3cb4e31bce6">Tuesday, January 29</a> (session starts at 6 p.m.)
 <h3>Master of Science in Geospatial Analysis Information Sessions</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774bef55a28a94422b9644575ccaa9a588">January 17</a> (4+1 session for current UMW students)
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eaf31e4bc58045dabf9224e216d42ffd">January 24</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
