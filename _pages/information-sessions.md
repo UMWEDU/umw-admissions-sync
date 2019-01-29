@@ -28,7 +28,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577435fcbce9d494d03adf32643fc921ea1">Friday, April 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577067a02090afa40f0aa3817d3f5d4f87d">Friday, May 17</a>
 <h3>Master of Education - Initial Licensure Information Session</h3>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775bf0bf5765c440bc9532b3cb4e31bce6">Tuesday, January 29</a> (session starts at 6 p.m.)
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775bf0bf5765c440bc9532b3cb4e31bce6">Tuesday, February 5</a> (session starts at 6 p.m.)
 <h3>Master of Science in Geospatial Analysis Information Sessions</h3>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577eaf31e4bc58045dabf9224e216d42ffd">January 31</a>
 <h1>Individual Attention</h1>
