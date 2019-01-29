@@ -20,10 +20,6 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2019 admission candidates. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
-<h2>Off-Campus</h2>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577aa2afd5a42a243949da74efcbdecf2dd">Navigating to College</a> - Learn more about the college search and admission process. The event is on Wednesday, January 16 from 5:30-7 p.m. at the Great Falls Library in Great Falls, VA.
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a79a976412dd457894429dd23df53c42">Meet the Dean of the College of Business</a> - Join us on Monday, January 28 in Richmond to learn more about our AACSB accredited business program with majors in Business Administration, Accounting, International Business, and Marketing through a conversation with Dean Lynne Richardson, business alumni, and current students.
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
