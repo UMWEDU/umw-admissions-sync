@@ -20,13 +20,13 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 <ul>
  	<li>Early Decision - November 1</li>
  	<li>Early Action - November 15</li>
- 	<li>Regular Decision - February 1</li>
+ 	<li>Regular Decision - The priority date has been extended from February 1 to March 15</li>
 </ul>
 </li>
  	<li>Transfer Applicants
 <ul>
  	<li>Summer admission - March 1</li>
- 	<li>Fall admission - We are still accepting applications for fall</li>
+ 	<li>Fall admission - April 1</li>
  	<li>Spring admission - October 15</li>
 </ul>
 </li>
