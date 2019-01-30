@@ -20,6 +20,15 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2019 admission candidates. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
+<h2>Off campus:</h2>
+Attend a reception and hear from Admissions staff, alumni, and current students. They'll tell you all about Mary Washington and answer any questions you have. Please register by selecting the date below.
+
+<strong>Roanoke</strong>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357767f2e7964a33488897b323ae94c9a42f">Sunday, March 24</a> from 2-4 p.m.
+Anstey Hodge Advertising Group Offices
+120 Commonwealth Avenue Northeast
+Roanoke, VA 24016-1919
+Hosted by John Anstey '93
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
