@@ -8,6 +8,8 @@ permalink: http://www.umw.edu/admissions/cefam/
 published: true
 post_date: 2019-01-30 14:59:16
 ---
+[caption id="attachment_48621" align="alignright" width="300"]<a href="http://www.umw.edu/admissions/cefam/stafford-9/" rel="attachment wp-att-48621"><img class="wp-image-48621 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Stafford-9-300x200.jpg" alt="" width="300" height="200" /></a> Stafford Campus[/caption]
+
 CEFAM undergraduate students in their fourth year of study can enroll in the Master of Business Administration (MBA) program at the University of Mary Washington upon the completion of their CEFAM studies and all UMW graduate admissions requirements.
 
 Eligible CEFAM students receiving a French professional Master diploma (Mastère professionnel) “Manager des Organisations à l’international” - will not be required to take the GMAT examination for admission consideration.
@@ -20,7 +22,9 @@ MBA Course Prerequisite Requirements (0-18 credits)
 
 <em>**Any student who earns a grade below a C in one of the prerequisite courses above taken at the University must retake the course and earn a C or higher.**</em>
 
-<strong>Required Core Courses (21 credits) – all courses are 3 credits </strong>
+[caption id="attachment_48622" align="alignright" width="300"]<a href="http://www.umw.edu/admissions/cefam/academic-jan-2019/" rel="attachment wp-att-48622"><img class="size-medium wp-image-48622" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Academic-Jan-2019-300x200.jpg" alt="UMW Students" width="300" height="200" /></a> UMW Students[/caption]
+
+<strong>Required Core Courses (21 credits) – all courses are 3 credits</strong>
 <ul>
  	<li>MBUS 502 Financial Decision Making for Managers</li>
  	<li>MBUS 523 Marketing Strategy</li>
