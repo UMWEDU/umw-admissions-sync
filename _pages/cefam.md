@@ -8,9 +8,7 @@ permalink: http://www.umw.edu/admissions/cefam/
 published: true
 post_date: 2019-01-30 14:59:16
 ---
-[caption id="attachment_48621" align="alignright" width="300"]<a href="http://www.umw.edu/admissions/cefam/stafford-9/" rel="attachment wp-att-48621"><img class="wp-image-48621 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Stafford-9-300x200.jpg" alt="" width="300" height="200" /></a> Stafford Campus[/caption]
-
-CEFAM undergraduate students in their fourth year of study can enroll in the Master of Business Administration (MBA) program at the University of Mary Washington upon the completion of their CEFAM studies and all UMW graduate admissions requirements.
+<a href="http://www.umw.edu/admissions/cefam/map/" rel="attachment wp-att-48623"><img class="alignright wp-image-48623 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/map-230x300.jpg" alt="" width="230" height="300" /></a>CEFAM undergraduate students in their fourth year of study can enroll in the Master of Business Administration (MBA) program at the University of Mary Washington upon the completion of their CEFAM studies and all UMW graduate admissions requirements.
 
 Eligible CEFAM students receiving a French professional Master diploma (Mastère professionnel) “Manager des Organisations à l’international” - will not be required to take the GMAT examination for admission consideration.
 
@@ -69,5 +67,5 @@ The total cost of attendance for CEFAM students to complete the UMW MBA program 
 **This includes tuition (30 credits), mandatory fees, and room and board for the spring, summer, and fall terms. **
 <h3>Scholarships</h3>
 Funding opportunities for CEFAM students in the form of scholarships will vary between $5,000 and $9,000 based on their academic GPA. CEFAM students will be notified of their scholarship with their offer of admission.
-<h3>Housing</h3>
+<h3>Housing <a href="http://www.umw.edu/admissions/cefam/bridge-sunset-032/" rel="attachment wp-att-48624"><img class="alignright size-medium wp-image-48624" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Bridge-sunset-032-300x199.jpg" alt="Eagle Landing" width="300" height="199" /></a></h3>
 Graduate students will live in <a href="https://www.umw.edu/residencelife/residence-hall/eagle-landing/">Eagle Landing</a> (double occupancy) and have a 150-meal plan for the spring and fall terms and the 50-meal plan for both summer terms, which will allow access to eat in various dining facilities on campus. Additionally, students will be able to stay in their residence hall during the breaks between terms.
