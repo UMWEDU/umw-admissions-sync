@@ -30,9 +30,27 @@ Join us on April 12-13 for the opportunity to stay overnight and sample UMW's ac
 <h2>Reception</h2>
 Attend a reception and hear from Admissions staff, alumni, and current students. They'll tell you all about Mary Washington and answer any questions you have. Please register by selecting a date below.
 
-<strong>Roanoke</strong>
+<strong>Roanoke Area</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357767f2e7964a33488897b323ae94c9a42f">Sunday, February 24</a> from 2-4 p.m.
 Anstey Hodge Advertising Group Offices
 120 Commonwealth Avenue Northeast
 Roanoke, VA 24016-1919
 Hosted by John Anstey '93
+
+<strong>Richmond Area
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771286e2287c3d4e1fb1c7dc3cacef5e0f">Saturday, March 23</a> from 2-4 p.m.
+3407 Brewton Way
+Midlothian, VA  23113
+Hosted by Kim and Martin Miller
+
+<strong>Virginia Beach Area</strong>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577314b13942a86459e9dc06d11e1679f89">Sunday, March 24</a> from 2-4 p.m.
+2432 Runners Way
+Virginia Beach, VA  23454
+Hosted by Dr. Mark and Mrs. Judy Winters Home (Parents of UMW alum Madison Winters '17)
+
+<strong>Northern Virginia
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776814e830586a496f82a6919f51db95ec">Sunday, April 7</a> from 2-4 p.m.
+3101 Little Creek Lane
+Alexandria, VA  22309
+Hosted by Judy and Rick Joyce (Jeffrey ’22, current student)
