@@ -67,7 +67,9 @@ The total cost of attendance for CEFAM students to complete the UMW MBA program 
 **This includes tuition (30 credits), mandatory fees, and room and board for the spring, summer, and fall terms. **
 <h3>Scholarships</h3>
 Funding opportunities for CEFAM students in the form of scholarships will vary between $5,000 and $9,000 based on their academic GPA. CEFAM students will be notified of their scholarship with their offer of admission.
-<h3>Housing</h3>
-[caption id="attachment_48624" align="alignright" width="300"]<a href="http://www.umw.edu/admissions/cefam/bridge-sunset-032/" rel="attachment wp-att-48624"><img class="wp-image-48624 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Bridge-sunset-032-300x199.jpg" alt="Eagle Landing" width="300" height="199" /></a> Eagle Landing[/caption]
 
+[caption id="attachment_48624" align="alignright" width="300"]<a href="http://www.umw.edu/admissions/cefam/bridge-sunset-032/" rel="attachment wp-att-48624"><img class="wp-image-48624 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Bridge-sunset-032-300x199.jpg" alt="Eagle Landing" width="300" height="199" /></a> Eagle Landing[/caption]
+<h3>Housing</h3>
 Graduate students will live in <a href="https://www.umw.edu/residencelife/residence-hall/eagle-landing/">Eagle Landing</a> (double occupancy) and have a 150-meal plan for the spring and fall terms and the 50-meal plan for both summer terms, which will allow access to eat in various dining facilities on campus. Additionally, students will be able to stay in their residence hall during the breaks between terms.
+
+<strong>Questions?</strong> Please contact David Harger via email at <a href="mailto:dharger@umw.edu">dharger@umw.edu</a> or via Skype at graduateumw.
