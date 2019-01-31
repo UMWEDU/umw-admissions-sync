@@ -71,5 +71,9 @@ Funding opportunities for CEFAM students in the form of scholarships will vary b
 [caption id="attachment_48624" align="alignright" width="300"]<a href="http://www.umw.edu/admissions/cefam/bridge-sunset-032/" rel="attachment wp-att-48624"><img class="wp-image-48624 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Bridge-sunset-032-300x199.jpg" alt="Eagle Landing" width="300" height="199" /></a> Eagle Landing[/caption]
 <h3>Housing</h3>
 Graduate students will live in <a href="https://www.umw.edu/residencelife/residence-hall/eagle-landing/">Eagle Landing</a> (double occupancy) and have a 150-meal plan for the spring and fall terms and the 50-meal plan for both summer terms, which will allow access to eat in various dining facilities on campus. Additionally, students will be able to stay in their residence hall during the breaks between terms.
+<h3><strong>Questions</strong></h3>
+<img class="alignleft wp-image-48625 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/01/Harger_David_127c-wpcf_118x150.jpg" alt="" width="118" height="150" />
 
-<strong>Questions?</strong> Please contact David Harger via email at <a href="mailto:dharger@umw.edu">dharger@umw.edu</a> or via Skype at graduateumw.
+Please contact David Harger, Assistant Director of Graduate Admissions, via email at <a href="mailto:dharger@umw.edu">dharger@umw.edu</a> or via Skype at graduateumw.
+
+&nbsp;
