@@ -38,7 +38,6 @@ MBA Course Prerequisite Requirements (0-18 credits)
  	<li>MBUS 521 Human Resource Management and Development</li>
  	<li>MBUS 524 Learning Organizations and Knowledge Management</li>
  	<li>MBUS 526 Organizational Change and Transformation</li>
- 	<li>MBUS 516 Project Management</li>
  	<li>MBUS 537 Contracting for Managers</li>
  	<li>MBUS 546 Risk Management for Project Managers</li>
  	<li>MMIS 540 Computer Information Security</li>
