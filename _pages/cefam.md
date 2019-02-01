@@ -43,10 +43,9 @@ MBA Course Prerequisite Requirements (0-18 credits)
  	<li>MMIS 540 Computer Information Security</li>
  	<li>MMIS 541 Network Security and Cryptography</li>
  	<li>MMIS 542 Security Policy, Planning and Assurance</li>
- 	<li>MMIS 543 Computer Forensics 8</li>
+ 	<li>MMIS 543 Computer Forensics</li>
  	<li>MMIS 505 Information Systems Analysis and Design</li>
  	<li>MMIS 532 Enterprise Information Systems</li>
- 	<li>MMIS 540 Computer Information Security</li>
  	<li>MMIS 555 Knowledge Management Systems</li>
 </ul>
 <h3>Admission Requirements:</h3>
