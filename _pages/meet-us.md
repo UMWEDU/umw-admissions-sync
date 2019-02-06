@@ -13,6 +13,6 @@ Phone: 800-468-5614
 Email: <a href="mailto:admit@umw.edu">admit@umw.edu
 </a>The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
 
-[wp_rss_retriever url="http://www.umw.edu/directory/atom-feed/tagged-employees/?relationship-tags=onadmissions" items="50" excerpt="0" source="false" date="false" read_more="false" new_window="true" title="false" thumbnail="false" cache="7200"]
+[wp_rss_retriever url="http://www.umw.edu/directory/atom-feed/tagged-employees/?relationship-tags=onadmissions" items="50" source="false" date="false" read_more="false" new_window="true" title="false" thumbnail="true" cache="7200"]
 
 &nbsp;
