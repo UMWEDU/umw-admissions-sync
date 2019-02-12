@@ -49,8 +49,13 @@ Hosted by Kim and Martin Miller
 Virginia Beach, VA  23454
 Hosted by Dr. Mark and Mrs. Judy Winters Home (Parents of UMW alum Madison Winters '17)
 
-<strong>Northern Virginia
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776814e830586a496f82a6919f51db95ec">Sunday, April 7</a> from 2-4 p.m.
+<strong>Northern Virginia Area
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772e3c550ba0a848768f838c8b07786eec">Sunday, March 31</a> from 2-4 p.m.
+915 Ninovan Road SE
+Vienna, VA  22180
+Hosted by Mike Charnoff '95 and Katie Valentine '04
+
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776814e830586a496f82a6919f51db95ec">Sunday, April 7</a> from 2-4 p.m.
 3101 Little Creek Lane
 Alexandria, VA  22309
 Hosted by Judy and Rick Joyce (Jeffrey ’22, current student)
