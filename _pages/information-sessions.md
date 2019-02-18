@@ -29,7 +29,7 @@ All sessions start at noon
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577067a02090afa40f0aa3817d3f5d4f87d">Friday, May 17</a>
 <h3>Master of Education Information Session</h3>
 <strong>Educational Leadership </strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577af225a3b18a94f1ca9142f036d91bf8e">Wednesday, February 20</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577af225a3b18a94f1ca9142f036d91bf8e">Wednesday, February 27</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736ef18ff78054d25bf04ebed909d07de">Thursday, March 28</a>
 
 <strong>Initial Licensure</strong>
