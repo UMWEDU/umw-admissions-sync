@@ -30,13 +30,6 @@ Join us on April 12-13 for the opportunity to stay overnight and sample UMW's ac
 <h2>Reception</h2>
 Attend a reception and hear from Admissions staff, alumni, and current students. They'll tell you all about Mary Washington and answer any questions you have. Please register by selecting a date below.
 
-<strong>Roanoke Area</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357767f2e7964a33488897b323ae94c9a42f">Sunday, February 24</a> from 2-4 p.m.
-Anstey Hodge Advertising Group Offices
-120 Commonwealth Avenue Northeast
-Roanoke, VA 24016-1919
-Hosted by John Anstey '93
-
 <strong>Richmond Area
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771286e2287c3d4e1fb1c7dc3cacef5e0f">Saturday, March 23</a> from 2-4 p.m.
 3407 Brewton Way
