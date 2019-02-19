@@ -21,9 +21,8 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577692217409ffe472bb0eee0e64f718a46">Tuesday, May 29</a>
 
 <strong>Virtual Information Sessions</strong>
-All sessions start at noon
+All sessions start at noon.
 
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775d98d5b0f726407b9370de1ee0e7d212">Friday, February 15</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235770839fe7f96894f7ba5be8156475188c8">Friday, March 15</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577435fcbce9d494d03adf32643fc921ea1">Friday, April 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577067a02090afa40f0aa3817d3f5d4f87d">Friday, May 17</a>
