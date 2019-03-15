@@ -22,11 +22,7 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 </ul>
 <h2>Virtual:</h2>
 <ul>
- 	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.
-<ul>
- 	<li><span style="color: #ff0000">The Office of Disability Resources Chat scheduled for March 14, 2019 from 7-8 p.m. has an updated code to enter. Please use 1561.</span></li>
-</ul>
-</li>
+ 	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
  	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;">guided interactive tour</a>.</li>
 </ul>
 <h2>How to get here:</h2>
