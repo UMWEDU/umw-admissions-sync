@@ -26,7 +26,7 @@ UMW operates a bookstore in Lee Hall. All first-semester freshmen have an opport
 <h2>Can I request to live with a certain person?</h2>
 Absolutely! Please bear in mind that requests can be honored only if both people request each other on their respective housing agreements.
 <h2>How do meal plans work?</h2>
-Visit the dining website to view <a href="http://www.umwdining.com/plans/index.html">meal plan options</a>.
+Visit the dining website to view <a href="https://www.umw.edu/essentials/dining/">meal plan options</a>.
 <h2>Since cars aren’t allowed for freshmen, how do I get around?</h2>
 We understand that this can be a real concern. Not only can students ride the Fredericksburg Regional Transit Bus (FRED) free with their student IDs, they also can take the Eagle Express. The University worked with the city of Fredericksburg to develop this special weekend bus that travels on a rotating hourly schedule from campus to downtown Fredericksburg, Spotsylvania Towne Centre, and Central Park shopping center. Historic downtown Fredericksburg is within walking distance of campus.
 <h2>I live far away. How can I arrange transportation home?</h2>
