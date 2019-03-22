@@ -27,7 +27,6 @@ All sessions start at noon.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736ef18ff78054d25bf04ebed909d07de">Thursday, March 28</a>
 
 <strong>Initial Licensure</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357702a99dc26e2b48e78f669be9e543fe72">Tuesday, March 19</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f37cd1817864471ea0e0e3083c3cfa86">Wednesday, April 3</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
