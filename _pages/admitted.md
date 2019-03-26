@@ -28,18 +28,6 @@ Join us on April 12-13 for the opportunity to stay overnight and sample UMW's ac
 <h2>Reception</h2>
 Attend a reception and hear from Admissions staff, alumni, and current students. They'll tell you all about Mary Washington and answer any questions you have. Please register by selecting a date below.
 
-<strong>Richmond Area
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771286e2287c3d4e1fb1c7dc3cacef5e0f">Saturday, March 23</a> from 2-4 p.m.
-3407 Brewton Way
-Midlothian, VA  23113
-Hosted by Kim and Martin Miller
-
-<strong>Virginia Beach Area</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577314b13942a86459e9dc06d11e1679f89">Sunday, March 24</a> from 2-4 p.m.
-2432 Runners Way
-Virginia Beach, VA  23454
-Hosted by Dr. Mark and Mrs. Judy Winters Home (Parents of UMW alum Madison Winters '17)
-
 <strong>Northern Virginia Area
 </strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772e3c550ba0a848768f838c8b07786eec">Sunday, March 31</a> from 2-4 p.m.
 915 Ninovan Road SE
