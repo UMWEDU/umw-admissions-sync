@@ -23,8 +23,8 @@ All sessions start at noon.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577435fcbce9d494d03adf32643fc921ea1">Friday, April 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577067a02090afa40f0aa3817d3f5d4f87d">Friday, May 17</a>
 <h3>Master of Education Information Session</h3>
-<strong>Educational Leadership </strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357736ef18ff78054d25bf04ebed909d07de">Thursday, March 28</a>
+<b>Educational Leadership/Literacy
+</b><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772787f9119cb04ab59b301037298fb7a3">Tuesday, April 23</a>
 
 <strong>Initial Licensure</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577f37cd1817864471ea0e0e3083c3cfa86">Wednesday, April 3</a>
