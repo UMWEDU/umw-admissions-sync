@@ -19,20 +19,10 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 <h2></h2>
 <h2></h2>
-<h2>Destination UMW</h2>
-We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted students and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel. Please check out the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2018/03/Tentative-Agenda-2018.pdf">Tentative Agenda</a> for the day. Register by selecting a date below:
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778bf611ae0a704bfd83890ae0fd6a6887">April 6</a>
 <h2>Multicultural Overnight Visit Experience</h2>
 Join us on April 12-13 for the opportunity to stay overnight and sample UMW's academic and social atmosphere. You'll attend class, see campus, attend activities and have the chance to experience our <a href="http://students.umw.edu/multicultural/programs/multicultural-fair/">Multicultural Fair</a> on Saturday, April 13. Please register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e05408b7ccfa491aa54f350f9d3c19a4">online</a>.
 <h2>Reception</h2>
 Attend a reception and hear from Admissions staff, alumni, and current students. They'll tell you all about Mary Washington and answer any questions you have. Please register by selecting a date below.
-
-<strong>Northern Virginia Area
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772e3c550ba0a848768f838c8b07786eec">Sunday, March 31</a> from 2-4 p.m.
-915 Ninovan Road SE
-Vienna, VA  22180
-Hosted by Mike Charnoff '95 and Katie Valentine '04
 
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776814e830586a496f82a6919f51db95ec">Sunday, April 7</a> from 2-4 p.m.
 3101 Little Creek Lane
