@@ -12,14 +12,12 @@ post_date: 2015-08-07 11:42:13
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
 
 Master of Business Administration Information Sessions
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577ccc09a4837274c00b86a2b5beeff59e2">Tuesday, April 16</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577db55e877e853412cb2e41cb90d1f8ffa">Monday, April 29</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357701a2813f49814acdbb31847f79447ac7">Thursday, May 9</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577692217409ffe472bb0eee0e64f718a46">Tuesday, May 29</a>
 
 <strong>Virtual Information Sessions</strong>
 All sessions start at noon.
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577435fcbce9d494d03adf32643fc921ea1">Friday, April 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577067a02090afa40f0aa3817d3f5d4f87d">Friday, May 17</a>
 <h3>Master of Education Information Session</h3>
 <b>Educational Leadership/Literacy
