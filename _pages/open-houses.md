@@ -15,7 +15,11 @@ Throughout the day you’ll hear from current students about everything from wee
 
 Pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus! Register for an Open House by selecting a date below.
 
-<span style="color: #000000"><strong>2018-2019 Dates
-</strong></span><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235775aad02a1db1840519bb608f847dd1cef">Friday, April 19, 2019</a>
+<span style="color: #000000"><strong>2019-2020 Dates
+</strong></span><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357773d807ea9c324c60897b05f5b5dd050b">Saturday, September 21</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778b6e7d37dd404a0a936ab002ae04d509">Saturday, October 26</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773a0494c202894a2396a0a8326e1d17c9">Saturday, November 16</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774d002fd13177434c9853b3657183af0e">Monday, February 17</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357704b52c5b99a34a2cbe4a72ac03584785">Friday, April 10</a>
 
 Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
