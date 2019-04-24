@@ -19,9 +19,6 @@ Master of Business Administration Information Sessions
 <strong>Virtual Information Sessions</strong>
 All sessions start at noon.
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577067a02090afa40f0aa3817d3f5d4f87d">Friday, May 17</a>
-<h3>Master of Education Information Session</h3>
-<b>Educational Leadership/Literacy
-</b><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772787f9119cb04ab59b301037298fb7a3">Tuesday, April 23</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
