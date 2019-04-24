@@ -18,7 +18,7 @@ Pre-registration will close the weekday before the event, but on-site registrati
 <span style="color: #000000"><strong>2019-2020 Dates
 </strong></span><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357773d807ea9c324c60897b05f5b5dd050b">Saturday, September 21</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235778b6e7d37dd404a0a936ab002ae04d509">Saturday, October 26</a>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773a0494c202894a2396a0a8326e1d17c9">Saturday, November 16</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235773a0494c202894a2396a0a8326e1d17c9">Saturday, November 16</a> - Access UMW Open House (Diversity Focus)
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774d002fd13177434c9853b3657183af0e">Monday, February 17</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357704b52c5b99a34a2cbe4a72ac03584785">Friday, April 10</a>
 
