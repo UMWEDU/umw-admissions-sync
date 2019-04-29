@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2015-08-07 16:17:40
 ---
-<p style="text-align: left">First year applicants to the University of Mary Washington who maintain at least a 3.5 cumulative high school grade point average in a challenging course of study may request to be considered for admission to the university without standardized test scores. Applicants should request test optional review on their application for freshman admission. Students applying for merit-based scholarships, including the Washington and Alvey Scholarship, would be ineligible for this program. Students applying test optional may qualify for other endowed scholarships<strong>. </strong>To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date.</p>
-Exceptions to test optional review include:
+<p style="text-align: left">First year applicants to the University of Mary Washington may request to be considered for admission to the university without standardized test scores. Applicants should request test optional review on their application for freshman admission. Students applying for merit-based scholarships, including the Washington and Alvey Scholarship, would be ineligible for this program. Students applying test optional may qualify for other endowed scholarships<strong>. </strong>To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date.</p>
+<strong>Exceptions to test optional review include</strong>:
 <ul>
  	<li>Students applying for admission to the Pre-Nursing (1+2+1 plan) Program</li>
  	<li>Students applying for merit based scholarships (full-ride Washington and Alvey Scholarships, Presidential, Eagle, and Blue-Gray Awards)</li>
