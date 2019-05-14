@@ -17,8 +17,7 @@ Once you’re ready to apply for acceptance to the UMW College of Education’s 
  	<li>Complete the <a href="https://www.applyweb.com/umw/menu.html"><strong>graduate education online application</strong></a> for admission</li>
  	<li>Earned bachelor’s degree from a regionally accredited college or university.
 <ul>
- 	<li>Additional official transcripts may also be required to verify transfer coursework</li>
- 	<li>Competitive applicants are encouraged to have a cumulative GPA of 2.5 or higher on undergraduate course work and/or a 3.0 cumulative GPA on graduate course work.</li>
+ 	<li>Competitive applicants are encouraged to have a cumulative GPA of 3.0 or higher for the last 60 hours of undergraduate course work and/or a 3.0 cumulative GPA on graduate course work.</li>
 </ul>
 </li>
  	<li>A résumé outlining experiences and education, including any paid <em>and </em>volunteer experience related to education, such as coaching, religious teaching, work with Scouts, etc.</li>
