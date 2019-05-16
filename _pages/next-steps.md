@@ -12,7 +12,7 @@ post_date: 2011-12-14 15:12:45
 <img class="alignnone size-full wp-image-47965" src="/admissions/wp-content/uploads/sites/6/2011/12/NS-Move-In-2011-1A.jpg" alt="Move in day for freshman at UMW. 8/24/2011. (Photo by Norm Shafer)." width="100%" />
 <h2>Checklist of steps to take:</h2>
 <ul>
- 	<li><a href="/admissions/youarein/next-steps/enrollment-deposit/">Pay your deposit</a>. The deposit is refundable until May 1 with the housing portion refundable until May 15.</li>
+ 	<li><a href="/admissions/youarein/next-steps/enrollment-deposit/">Pay your deposit</a>.</li>
  	<li><a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">Online Scholarship Application</a></li>
  	<li>Join the <a href="https://www.facebook.com/groups/UMWClassof2023official/">UMW Class of 2023</a> Facebook page!</li>
  	<li>Submit the <a href="https://fafsa.ed.gov/">Free Application for Federal Student Aid</a> (FAFSA) form no later than February 1 to receive maximum consideration for financial aid.</li>
