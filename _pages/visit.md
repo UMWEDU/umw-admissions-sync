@@ -23,7 +23,7 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 <h2>Virtual:</h2>
 <ul>
  	<li><a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Chat online</a>: Learn about UMW right on your laptop. Ask questions and talk online with current students or staff, or choose a chat about our undergraduate business program, international studies, and other topics.</li>
- 	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;">guided interactive tour</a>.</li>
+ 	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://umw.university-tour.com/homepage.php">interactive video tour</a>.</li>
 </ul>
 <h2>How to get here:</h2>
 The main campus is located at <a href="https://www.google.com/maps/place/University+of+Mary+Washington/@38.3005178,-77.4749152,15z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e987a255:0x1ef2db66d097c3c1">1301 College Avenue, Fredericksburg, VA 22401</a>. The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
