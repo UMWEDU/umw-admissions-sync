@@ -2,12 +2,12 @@
 ID: 48003
 post_title: 'BLS: Frequent Questions'
 author: Shelley Keith
-post_date: 2015-08-12 08:50:55
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/admissions/adult/bls/bls-faq/
+  http://www.umw.edu/admissions/adult/bls/bls-faq/
 published: true
+post_date: 2015-08-12 08:50:55
 ---
 <h2>Apply to join UMW’s Bachelor of Liberal Studies program!</h2>
 What are you waiting for? UMW’s Bachelor of Liberal Studies (BLS) degree, for nontraditional adult students, lets you turn your professional and life experience into academic credit, earn a degree, and boost your marketability.
@@ -16,14 +16,13 @@ If you’re trying to decide if the BLS is right for you, check out this list of
 <h3>Do I qualify for UMW’s Bachelor of Liberal Studies Program?</h3>
 To apply to the program, you must:
 <ul>
-	<li>Be able to demonstrate the ability to succeed in college-level course work by accumulating at least 30 transferable credits with a minimum GPA of 2.5 on a 4-point scale.</li>
-	<li>Fit into one of the following categories:
+ 	<li>Be able to demonstrate the ability to succeed in college-level course work by accumulating at least 30 transferable credits with a minimum GPA of 2.5 on a 4-point scale.</li>
+ 	<li>Fit into one of the following categories:
 <ul>
-	<li>graduated from high school six or more years ago</li>
-	<li>veteran or active-duty member of the U.S. armed services</li>
-	<li>married</li>
-	<li>have legal dependents other than a spouse</li>
-	<li>financially self-supporting</li>
+ 	<li>graduated from high school six or more years ago</li>
+ 	<li>veteran or active-duty member of the U.S. armed services</li>
+ 	<li>have legal dependents other than a spouse</li>
+ 	<li>financially self-supporting</li>
 </ul>
 </li>
 </ul>
