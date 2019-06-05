@@ -15,8 +15,6 @@ We’re excited to have your student on campus!  To help you navigate the trans
 
 <a href="https://umw.askadmissions.net/groupchat/LandingPage.aspx">Sign on to join a scheduled chat</a>. You’ll be able to join the chat 10 minutes prior to the start time. Please use your student’s name to sign onto the chat and enter the private code that can be found in your email.
 
-May 30 - Orientation. Enter code 1681.
-
 June 6 - Orientation. Enter code 1682.
 
 June 25 - Off campus students. Enter code 1683
