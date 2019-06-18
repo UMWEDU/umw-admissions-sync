@@ -17,7 +17,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577fb8db49028c8486fa993514acd58c33c">Wednesday, August 14</a>
 
 <strong>Virtual MBA Sessions </strong>(at 12 p.m.)
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357726ead316ccaf4b758f54e86709bc67b5">Friday, June 7</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771619304d83fe42f0b0bfd60b6fd90163">Friday, July 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a5871575aa584e759a353e434a9b8df2">Friday, August 2</a>
 
@@ -29,7 +28,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 
 <strong>Master of Science in Geospatial Analysis</strong>
 
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357745e6a6e823614d3b8574f475af2de189">Thursday, June 26</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357745e6a6e823614d3b8574f475af2de189">Thursday, June 27</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
