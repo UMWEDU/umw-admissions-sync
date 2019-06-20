@@ -20,10 +20,8 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771619304d83fe42f0b0bfd60b6fd90163">Friday, July 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a5871575aa584e759a353e434a9b8df2">Friday, August 2</a>
 
-<strong>Master of Education Information Sessions</strong>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577efd091c8ce754de08ba775f85c6b2468">Tuesday, June 18</a>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772932b503882e497486f5b50c71f9d85c">Thursday, July 25</a>
+<strong>Master of Education Information Sessions
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772932b503882e497486f5b50c71f9d85c">Thursday, July 25</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357706e97e3a55ea45ae8093817249fbca78">Tuesday, August 13</a>
 
 <strong>Master of Science in Geospatial Analysis</strong>
