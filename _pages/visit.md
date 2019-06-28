@@ -8,7 +8,9 @@ permalink: http://www.umw.edu/admissions/visit/
 published: true
 post_date: 2015-05-26 01:36:38
 ---
-<img class="size-full wp-image-93" src="/admissions/wp-content/uploads/sites/6/2015/05/visit.jpg" alt="Dancer shows his skills at the annual Multicultural Fair, Saturday, April 13, 2013. (Photo by Norm Shafer)." width="800" height="327" />
+&nbsp;
+
+<a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/06/Bell-Tower-June-2019.jpg"><img class="aligncenter wp-image-48671" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/06/Bell-Tower-June-2019.jpg" alt="" width="2000" height="1333" /></a>
 
 One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg. There are so many ways to get to know us!
 <h2>On campus:</h2>
