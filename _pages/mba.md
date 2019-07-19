@@ -12,12 +12,11 @@ post_date: 2015-08-05 11:22:19
 <h2></h2>
 <p data-wp-editing="1"><a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/07/Web-mba-grad-pic.png"><img class="aligncenter size-page-feature-uncropped wp-image-48679" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/07/Web-mba-grad-pic-1140x681.png" alt="" width="1100" height="657" /></a></p>
 
-<h2><strong>Our new 36-credit MBA program is simplified to fit your life!  </strong></h2>
+<h2><strong>Our 36-credit MBA program is simplified to fit your life!  </strong></h2>
 <p data-wp-editing="1">Whether you are developing managerial skills, seeking career advancement, or cultivating an entrepreneurial advantage, a master’s degree in business administration will put you on the path to success. Combining theory with practice, the UMW graduate business degree will allow you to gain a thorough understanding of best practices in the competitive business environment and prepare you for a position of advanced responsibility and leadership.</p>
-<p data-wp-editing="1"></p>
 
 <ul>
- 	<li>Quality Instruction- AACSB accredited.<a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/07/AACSB-logo-accredited-vert-color-RGB-214x300.jpg"><img class="alignright wp-image-48677" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/07/AACSB-logo-accredited-vert-color-RGB-214x300-214x300.jpg" alt="" width="150" height="210" /></a></li>
+ 	<li>Quality Instruction- AACSB accredited.<a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/07/AACSB-logo-accredited-vert-color-RGB-214x300.jpg"><img class="alignright wp-image-48677" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/07/AACSB-logo-accredited-vert-color-RGB-214x300-214x300.jpg" alt="" width="150" height="210" data-wp-editing="1" /></a></li>
  	<li>All professional backgrounds welcome.</li>
  	<li>GRE/GMAT waiver options available.</li>
  	<li>No business prerequisite courses required.</li>
