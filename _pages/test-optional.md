@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2015-08-07 16:17:40
 ---
-<p style="text-align: left">First year applicants to the University of Mary Washington may request to be considered for admission to the university without standardized test scores. Applicants should request test optional review on their application for freshman admission. Students applying for merit-based scholarships, including the Washington and Alvey Scholarship, would be ineligible for this program. Students applying test optional may qualify for other endowed scholarships<strong>. </strong>To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date.</p>
+Within the application, first year applicants to the University of Mary Washington may request to be considered for admission to the university without standardized test scores. <strong>Students offered admission under the test optional process may qualify for curriculum-based scholarships determined by the strength of their curriculum and their performance within their classes (GPA)</strong>.  Curriculum-based scholarships are renewable and range from $1000-$4,000 for Virginia residents, and $5,000-$9,000 for non-Virginia residents. Students applying test optional may qualify for other endowed scholarships. To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date.
+
 <strong>Exceptions to test optional review include</strong>:
 <ul>
  	<li>Students applying for admission to the Pre-Nursing (1+2+1 plan) Program</li>
