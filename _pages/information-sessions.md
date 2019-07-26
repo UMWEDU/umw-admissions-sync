@@ -12,20 +12,13 @@ post_date: 2015-08-07 11:42:13
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
 
 <strong>Master of Business Administration Information Sessions</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235774b1f0cc9e8814da0b2402c3a1ee2e922">Thursday, July 18</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577fb8db49028c8486fa993514acd58c33c">Wednesday, August 14</a>
 
 <strong>Virtual MBA Sessions </strong>(at 12 p.m.)
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235771619304d83fe42f0b0bfd60b6fd90163">Friday, July 12</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a5871575aa584e759a353e434a9b8df2">Friday, August 2</a>
 
-<strong>Master of Education Information Sessions
-</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235772932b503882e497486f5b50c71f9d85c">Thursday, July 25</a>
+<strong>Master of Education Information Sessions</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357706e97e3a55ea45ae8093817249fbca78">Tuesday, August 13</a>
-
-<strong>Master of Science in Geospatial Analysis</strong>
-
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357745e6a6e823614d3b8574f475af2de189">Thursday, June 27</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
