@@ -8,7 +8,7 @@ permalink: http://www.umw.edu/admissions/visit/
 published: true
 post_date: 2015-05-26 01:36:38
 ---
-&nbsp;
+<img class="aligncenter wp-image-48684 size-full" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/07/Bell-Tower-June-2019.jpg" alt="Bell tower in summer" width="1180" height="787" />
 
 <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/06/Bell-Tower-June-2019.jpg"><img class="aligncenter wp-image-48671" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/06/Bell-Tower-June-2019.jpg" alt="" width="2000" height="1333" /></a>
 
