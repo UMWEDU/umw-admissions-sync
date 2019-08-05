@@ -11,14 +11,14 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
 
-<strong>Master of Business Administration Information Sessions</strong>
+<strong>Master of Business Administration Information Session</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577fb8db49028c8486fa993514acd58c33c">Wednesday, August 14</a>
 
-<strong>Virtual MBA Sessions </strong>(at 12 p.m.)
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577a5871575aa584e759a353e434a9b8df2">Friday, August 2</a>
-
-<strong>Master of Education Information Sessions</strong>
+<strong>Master of Education Information Session</strong>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357706e97e3a55ea45ae8093817249fbca78">Tuesday, August 13</a>
+
+<strong>Educational Leadership Information Session
+</strong><a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577d75ecbcd04ca4e97aba2b0fbb672b887">Wednesday, August 7</a>
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
