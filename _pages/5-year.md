@@ -31,6 +31,13 @@ Graduates of the UMW MBA program are well prepared for a variety of leadership p
  	<li>Northrop Grumman</li>
  	<li>Intuit</li>
 </ul>
+<h3>College of Business Admission Requirements</h3>
+<ul>
+ 	<li>Graduate application for admission</li>
+ 	<li>Transcripts</li>
+ 	<li>Résumé</li>
+ 	<li>GMAT/GRE scores</li>
+</ul>
 <h3>Application Deadlines</h3>
 <ul>
  	<li>Summer term: April 30</li>
