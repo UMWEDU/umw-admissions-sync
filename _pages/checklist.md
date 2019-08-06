@@ -16,7 +16,7 @@ Take a look at the checklist below and start getting everything submitted. We’
 <ul>
  	<li>Nov. 1 - Early Decision (notification by December 10 and reply date of January 10)</li>
  	<li>Nov. 15 - Early Action (notification by January 31 and reply date of May 1)</li>
- 	<li>(The February 1 - Regular Decision date has been extended. Notification by April 1 and reply date of May 1)</li>
+ 	<li>Feb. 1 - Regular Decision date (notification by April 1 and reply date of May 1)</li>
 </ul>
 Prospective high school seniors have the option to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> with our Admissions staff as part of the admissions process. Students who interview in person may have the opportunity to be considered for a “Taking Flight” scholarship that ranges from $1,000 to $2,000. Interview dates are between July 1 to February 1.
 <h2>First Year Admission Checklist</h2>
@@ -31,7 +31,7 @@ Use the checklist below to be sure you’ve got everything covered.
  	<li>Submit at least one letter of recommendation. You may invite your guidance counselor, teacher, or school official.</li>
  	<li>Request your standardized test results be sent directly to UMW (SAT CEEB 5398, ACT 4414). Notify Admissions if you’ve taken the SAT or ACT using something other than your full legal name. UMW superscores your EBRW (evidence-based reading and writing) and math scores regardless of test date and we will take ACT scores attached to your strongest composite score.
 <ul>
- 	<li>Read about our <a href="/admissions/undergraduate/checklist/test-optional/">test optional policy</a>.</li>
+ 	<li>Read about our <a href="/admissions/undergraduate/checklist/test-optional/">test choice policy</a>.</li>
 </ul>
 </li>
  	<li>Ask your high school to send your mid-year grades to UMW so that the Admissions Committee will have your most current information.</li>
