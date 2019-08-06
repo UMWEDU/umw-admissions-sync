@@ -20,7 +20,7 @@ Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Appl
 <ul>
  	<li>Early Decision - November 1</li>
  	<li>Early Action - November 15</li>
- 	<li>(The February 1 - Regular Decision date has been extended. Notification by April 1 and reply date of May 1)</li>
+ 	<li>Regular Decision - February 1</li>
 </ul>
 </li>
  	<li>Transfer Applicants
