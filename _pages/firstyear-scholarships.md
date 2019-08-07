@@ -28,13 +28,13 @@ To be considered for merit based scholarships, first year students must meet the
 
 <a id="Curriculum"></a><strong>Curriculum</strong>
 
-Students may also <strong>apply for admission without </strong>t<strong>est scores</strong>. Learn more about curriculum-based scholarship consideration for students who apply and are admitted <a href="http://www.umw.edu/admissions/undergraduate/checklist/test-optional/">test optional</a>.
+Students may also <strong>apply for admission without </strong>t<strong>est scores</strong>. Learn more about curriculum-based scholarship consideration for students who apply and are admitted <a href="http://www.umw.edu/admissions/undergraduate/checklist/test-optional/">test choice</a>.
 
 Please visit our <a href="http://adminfinance.umw.edu/umwstatic/financialaid/NetPriceCalculator/npcalc.htm">Net Price Calculator</a> to better anticipate your total cost of attendance incorporating both merit scholarship awards and need based financial aid. Please visit our <a href="http://www.umw.edu/financialaid/types/scholarship-opportunities/">financial aid site</a> for more information on other scholarships.
 
 <a id="Taking Flight"></a><strong>Taking Flight</strong>
 
-Prospective high school seniors now have the option to share more information with our Admissions staff as part of the admission process. Students may choose to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> in person to be considered for an additional institutional scholarship that may range from $1,000 to $2,000. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.
+Prospective high school seniors now have the option to share more information with our Admissions staff as part of the admission process. Students may choose to <a href="https://umw.askadmissions.net/Portal/EI/GroupUrl?gid=53045964a5260b561642578a0eff909e407e44">interview</a> in person to be considered for an additional institutional scholarship that may range from $1,000 to $2,000. Students must apply by for admission prior to the interview taking place.
 
 Students who are not in the area may set up a <a href="https://goo.gl/forms/bWjqBYew3z2CmkDE3">regional interview</a> if staff or an alum is in your area.
 
