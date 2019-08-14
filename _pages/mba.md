@@ -60,7 +60,7 @@ UMW offers MBA courses in a variety of formats (hybrid, online and face-to-face)
 <h5><strong>Required Core Courses (30 credits) — all courses are 3 credits</strong></h5>
 GBUS 501 Foundations of Accounting and Quantitative Analysis
 GBUS 502 Foundations of Global Marketing and Management
-GBUS 503 Foundations of Financial Economics
+GBUS 503 Foundations of Financial Markets
 GBUS 521 Leadership and Organizational Behavior
 GBUS 523 Marketing Strategy
 GBUS 525 Management Information Systems
