@@ -9,10 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-07 11:42:13
 ---
-The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Please select a date below to register. Registration is encouraged, but is not required.
-
-<strong>Master of Business Administration Information Session</strong>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577fb8db49028c8486fa993514acd58c33c">Wednesday, August 14</a>
+The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Check back soon for fall 2019 dates. Registration is encouraged, but is not required.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
