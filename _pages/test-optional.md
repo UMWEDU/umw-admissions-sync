@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-07 16:17:40
 ---
-Within the application, first year applicants to the University of Mary Washington may request to be considered for admission to the university without standardized test scores. <strong>Students offered admission under the test choice process may qualify for curriculum-based scholarships determined by the strength of their curriculum and their performance within their classes (GPA)</strong>.  Curriculum-based scholarships are renewable and range from $1,000-$4,000 for Virginia residents, and $5,000-$9,000 for non-Virginia residents. Students applying test choice may qualify for other endowed scholarships. To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date.
+Within the application, first year applicants to the University of Mary Washington may request to be considered for admission to the university without standardized test scores. <strong>Students offered admission under the test choice process may qualify for curriculum-based scholarships determined by the strength of their curriculum and their performance within their classes (GPA)</strong>.  Curriculum-based scholarships are renewable and range from $1,500-$5,000 for Virginia residents, and $5,000-$9,000 for non-Virginia residents. Students applying test choice may qualify for other endowed scholarships. To be considered for curriculum based scholarships, first year students must meet the February 1 admissions filing date.
 
 <strong>Exceptions to test choice review include</strong>:
 <ul>
