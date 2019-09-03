@@ -32,7 +32,7 @@ Glen Allen, VA 23060
 
 <strong>Tidewater, VA</strong>
 
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577305a613672554a0cb735c8da890ac14a">November 13</a> from 6:30-8 p.m.
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577305a613672554a0cb735c8da890ac14a">November 18</a> from 6:30-8 p.m.
 
 Slover Library
 235 E Plume Street
