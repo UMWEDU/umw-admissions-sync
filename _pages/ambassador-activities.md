@@ -25,7 +25,7 @@ Give the student the code UMW51. He or she will select this code from a drop dow
 Attend an afternoon reception and welcome admitted students and their parents. Receptions are held in the spring. You’ll get to share your experiences and how attending Mary Washington prepared you in your career.
 
 <strong>Open House Interviews</strong>
-During the fall, interviews are conducted for high school seniors during the Open House events on Saturdays. Each interview takes approximately 20 minutes. Interviews are not required, but will place students in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2019 admission candidates. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.
+During the fall, interviews are conducted for high school seniors during the Open House events on Saturdays. Each interview takes approximately 20 minutes. Interviews are not required, but will place students in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2020 admission candidates. Students must apply by the February 1 Regular Admission filing date and the interview must be completed by February 1 for consideration.
 
 <strong>Regional Interviews</strong>
 If students can’t make it to campus to interview, they can let an Admissions staff member know and we can can see if an alum is available to meet them regionally.
