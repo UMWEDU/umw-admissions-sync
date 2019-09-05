@@ -23,4 +23,4 @@ You’ve gathered lots of great experience through your life and your work. Let 
  	<li>Demonstration of competency on the Test of English as a Foreign Language, as necessary, if the student’s native language is not English.</li>
  	<li>Service members should speak with their Educational Services Officer (ESO) or counselor within their Military Service prior to enrolling at UMW.</li>
 </ul>
-To receive Admissions materials, call us at (540) 654-2000 or <a href="https://umw.askadmissions.net/emtinterestpage.aspx?ip=prospectundergrad">request more information</a> online.
+To receive Admissions materials, call us at (540) 654-2000 or <a href="https://admissions.umw.edu/register/moreinfo">request more information</a> online.
