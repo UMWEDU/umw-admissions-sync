@@ -14,7 +14,7 @@ These visits <em>(for seniors and transfer students only</em>) are scheduled Mon
 
 Visits are scheduled mid-September through mid-November and mid-January through mid-April but not during fall and spring breaks or during exam times. Be sure to check our <a href="http://www.umw.edu/events"><strong>calendar</strong></a> so that you don’t plan your visit when classes are not in session.
 
-Please <a href="https://umw.askadmissions.net/Portal/EI/Search"><strong>register online</strong></a> or call Admissions at (540) 654-2000. Because classes occur at different times, please email the office at <a href="mailto:admit@umw.edu">admit@umw.edu</a> the day before you are scheduled to verify your arrival time. <span style="color: #ff0000"><em>Please note: attending classes, lunch, and other activities/clubs are reserved for students ONLY.  </em></span>
+Please <a href="https://admissions.umw.edu/portal/shadow_a_student"><strong>register online</strong></a> or call Admissions at (540) 654-2000. Because classes occur at different times, please email the office at <a href="mailto:admit@umw.edu">admit@umw.edu</a> the day before you are scheduled to verify your arrival time. <span style="color: #ff0000"><em>Please note: attending classes, lunch, and other activities/clubs are reserved for students ONLY.  </em></span>
 <h3>What to bring:</h3>
 Guests are also encouraged to bring a book, magazine, or schoolwork in case there is brief downtime should hosts need to prepare or work. The Office of Admissions issues one complimentary meal ticket for a day visit.
 <h3>University Policies:</h3>
