@@ -19,4 +19,4 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 <h2></h2>
 <h2></h2>
-Check back soon for upcoming dates for our admitted students in the spring.
+Check back soon for upcoming dates for our admitted student events in the spring.
