@@ -20,6 +20,8 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
  	<li><a href="https://admissions.umw.edu/portal/admission_interviews">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2020 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing.  The interview must be completed by February 1 for consideration.</li>
  	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
+<h2>Can't Make it to Campus?</h2>
+We hope to see you on the road as we're traveling. Find out where we'll be <a href="https://admissions.umw.edu/portal/travel_calendar">next</a>!
 <h2>Virtual:</h2>
 <ul>
  	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://umw.university-tour.com/homepage.php">interactive video tour</a>.</li>
