@@ -21,7 +21,7 @@ UMW partners with Germanna Community College to provide a unique dual degree pro
 <ul>
  	<li>Admission is determined with the first year application for admission.</li>
  	<li>First year applicants must indicate pre-nursing as their primary academic interest within the application to be considered.</li>
- 	<li>Students proceed as a cohort and are not admitted to the program as new transfer students or continuing sophomores or juniors. (Please visit the <a href="http://www.umw.edu/admissions/adult/bsn/">BSN Program</a> for details regarding admission as a transfer student go here)</li>
+ 	<li>Students proceed as a cohort and are not admitted to the program as new transfer students or continuing sophomores or juniors. (Please visit the <a href="https://cas.umw.edu/nursing/dual-degrees/">BSN Program</a> for details regarding admission as a transfer student go here)</li>
  	<li>Applicants are strongly encouraged to apply under Early Decision (binding admission) or Early Action (non-binding admission) application processes for maximum consideration.</li>
  	<li>Competitive applicants should have earned at least a “B” in high school math and science coursework including Algebra, Biology, and Chemistry.</li>
  	<li>Students may <strong>not</strong> apply test choice for pre-nursing consideration. Minimum scores of 520 on Evidence Based Critical Reading and 520 on the Math sections of the new SAT are required to continue on track within the cohort. Similar ACT scores of 22 will be considered.</li>
