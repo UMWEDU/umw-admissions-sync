@@ -21,4 +21,4 @@ Workshop Activities:
 </ul>
 We hope you can time out of your busy schedule to hear why the University is ranked in every major selective guide and is considered one of the best buys in higher education today.
 
-Reserve your space and register <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=62357725660cc8f00f4ad58a660bc3a92c639f">online</a>. We hope to see you soon!
+Reserve your space and register <a href="https://admissions.umw.edu/register/counselorworkshop">online</a>. We hope to see you soon!
