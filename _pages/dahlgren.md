@@ -6,8 +6,7 @@ post_title: >
 author: keury
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/admissions/dahlgren-project-management-certificate-master-of-business-administration/
+permalink: http://www.umw.edu/admissions/dahlgren/
 published: true
 post_date: 2019-10-07 12:28:12
 ---
