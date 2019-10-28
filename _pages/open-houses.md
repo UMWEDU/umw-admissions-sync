@@ -15,8 +15,7 @@ Throughout the day you’ll hear from current students about everything from wee
 
 Pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus! Register for an Open House by selecting a date below.
 
-<span style="color: #000000"><strong>2019-2020 Dates
-</strong></span><a href="https://admissions.umw.edu/register/octoberopenhouse">Saturday, October 26</a>
+<span style="color: #000000"><strong>2019-2020 Dates</strong></span>
 <a href="https://admissions.umw.edu/register/novemberopenhouse">Saturday, November 16</a> - Access UMW Open House (Diversity Focus)
 <a href="https://admissions.umw.edu/register/februaryopenhouse">Monday, February 17</a>
 <a href="https://admissions.umw.edu/register/aprilopenhouse">Friday, April 10</a>
