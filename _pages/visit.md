@@ -22,6 +22,29 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 </ul>
 <h2>Can't Make it to Campus?</h2>
 We hope to see you on the road as we're traveling. Find out where we'll be <a href="https://admissions.umw.edu/portal/travel_calendar">next</a>!
+<h3>We're coming to you!</h3>
+Attend a reception where you’ll meet faculty members, admissions staff, and current students, and discover why the University of Mary Washington is the right size, the right setting, and the right value. For qualified seniors who apply by the date listed below, we will provide on-the-spot admission decisions. To register for one of the receptions, please click on the link below.
+
+<strong>Maryland - <a href="https://admissions.umw.edu/register/marylandreception">November 6</a> from 6:30-8 p.m.</strong>
+
+Historic Oakland
+5430 Vantage Point Road
+Columbia, MD 21044
+<em>(Qualified seniors can apply by November 4 to receive an admissions decision.)</em>
+
+<strong>Richmond, VA - <a href="https://admissions.umw.edu/register/richmondreception">November 11</a> from 6:30-8 p.m.</strong>
+
+Cultural Arts Center at Glen Allen
+2880 Mountain Road
+Glen Allen, VA 23060
+<em>(Qualified seniors can apply by November 6 to receive an admissions decision.)</em>
+
+<strong>Tidewater, VA - <a href="https://admissions.umw.edu/register/tidewaterreception">November 18</a> from 6:30-8 p.m.</strong>
+
+Slover Library
+235 E Plume Street
+Norfolk, VA 23510
+<em>(Qualified seniors can apply by November 14 to receive an admissions decision.)</em>
 <h2>Virtual:</h2>
 <ul>
  	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://umw.university-tour.com/homepage.php">interactive video tour</a>.</li>
