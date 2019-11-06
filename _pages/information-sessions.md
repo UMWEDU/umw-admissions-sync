@@ -14,7 +14,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577778cbc34746c43688dc194565e6400e0">Tuesday, November 12</a>
 <h3>Virtual Master of Business Administration Information Session</h3>
 <em>Virtual sessions are held between 12-1 p.m.</em>
-<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577422307ac1a37440e9e9b3bd3a59dce02">Friday, November 29</a>
+<a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577422307ac1a37440e9e9b3bd3a59dce02">Friday, November 22</a>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=623577e680f677a4c84904bf859e84c953905d">Tuesday, December 10</a>
 <h3>Master of Education Information Sessions</h3>
 <a href="https://umw.askadmissions.net/Portal/EI/ViewDetails?gid=6235776ed174a686f64fdfb1e822430ab8c4eb">Thursday, November 14</a>
