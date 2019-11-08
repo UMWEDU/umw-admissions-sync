@@ -19,6 +19,6 @@ Workshop Activities:
  	<li>Hear about our rigorous liberal arts education and listen to what our students say about life at UMW</li>
  	<li>Enjoy lunch with staff and students</li>
 </ul>
-We hope you can time out of your busy schedule to hear why the University is ranked in every major selective guide and is considered one of the best buys in higher education today.
+We hope you can take time out of your busy schedule to hear why the University is ranked in every major selective guide and is considered one of the best buys in higher education today.
 
 Reserve your space and register <a href="https://admissions.umw.edu/register/counselorworkshop">online</a>. We hope to see you soon!
