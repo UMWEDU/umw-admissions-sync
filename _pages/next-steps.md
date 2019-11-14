@@ -14,7 +14,7 @@ post_date: 2011-12-14 15:12:45
 <ul>
  	<li><a href="/admissions/youarein/next-steps/enrollment-deposit/">Pay your deposit</a>.</li>
  	<li><a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">Online Scholarship Application</a></li>
- 	<li>Join the <a href="https://www.facebook.com/groups/UMWClassof2023official/">UMW Class of 2023</a> Facebook page!</li>
+ 	<li>Join the <a href="https://www.facebook.com/groups/1299511040203849/">UMW Class of 2024</a> Facebook page!</li>
  	<li>Submit the <a href="https://fafsa.ed.gov/">Free Application for Federal Student Aid</a> (FAFSA) form no later than February 1 to receive maximum consideration for financial aid.</li>
  	<li>Service members should speak with their Educational Services Officer (ESO) or counselor within their Military Service prior to enrolling at UMW.</li>
 </ul>
@@ -33,7 +33,7 @@ post_date: 2011-12-14 15:12:45
  	<li>Submit your <a href="http://students.umw.edu/healthcenter/" target="_blank" rel="nofollow noopener noreferrer">health forms</a> by August 1.</li>
  	<li>Review opportunities for special <a href="http://students.umw.edu/chls/n-e-s-t/">Early Arrival Programs</a>, which take place four days before Welcome Week in August. These optional experiences are a fun way for a limited number of new students to explore UMW and surrounding attractions and meet and bond with classmates before classes begin.</li>
  	<li><a href="http://academics.umw.edu/academicservices/placement-testing/">Placement tests</a> - The university offers new students the opportunity to test into courses above the introductory level in certain key subjects.</li>
- 	<li>Move-in Day is Wednesday, August 21.</li>
+ 	<li>Move-in Day is Wednesday, August 19.</li>
 </ul>
 Provide changes in your address and/or telephone number to Admissions at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
 
