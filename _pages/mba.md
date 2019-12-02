@@ -70,7 +70,7 @@ GBUS 528 Financial Management
 GBUS 529 Strategic Management
 <h5><strong>Electives (6 credits)</strong></h5>
 Six (6) additional credits chosen from any other 500-level GBUS or MMIS course.
-<h4>Click <a href="https://publications.umw.https:/publications.umw.edu/graduatecatalog/graduate-programs/college-of-business/mba/">here</a> for full MBA program catalog information.</h4>
+<h4>Click here for full <a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-business/mba/">MBA program catalog information</a>.</h4>
 &nbsp;
 <h4><strong>How can I learn more about UMW’s MBA program?</strong></h4>
 Contact Information:
