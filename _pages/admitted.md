@@ -19,4 +19,9 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 <h2></h2>
 <h2></h2>
-Check back soon for upcoming dates for our admitted student events in the spring.
+<h3>Destination UMW</h3>
+We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted students and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel.
+
+<a href="https://admissions.umw.edu/register/destinationmarch">March 21</a>
+
+<a href="https://admissions.umw.edu/register/destinationapril">April 18</a>
