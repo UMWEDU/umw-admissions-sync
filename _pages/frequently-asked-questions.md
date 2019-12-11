@@ -16,8 +16,7 @@ You'll have the opportunity to indicate your building preferences on the Housing
 <h2>Where can I eat on campus?</h2>
 There are three places to eat on campus that serve everything from sushi to gelato to home cooking. <a href="https://umw.sodexomyway.com/">Find out</a> more about menus, locations, and hours of operation.
 <h2></h2>
-<h2>
-What are the EagleOne ID card features?</h2>
+<h2>What are the EagleOne ID card features?</h2>
 The card provides access to residential halls and operates as a debit card to allow purchases at the campus bookstore, health center, laundry, theater box office, library, print labs, and more. The card is also recognized by <a href="http://adminfinance.umw.edu/eagleone/eagleone-off-campus-2/">off-campus merchants</a>. Check out the <a href="http://adminfinance.umw.edu/eagleone/eagleone-deposits/">instructions</a> for making a deposit online.
 <h2>Does UMW offer weekend entertainment for students?</h2>
 <img class="alignright size-medium wp-image-48735" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2019/12/Homecoming-2019-300x222.jpg" alt="" width="300" height="222" />
@@ -26,7 +25,7 @@ Yes! Every weekend is different at UMW. The Office of Student Activities and Eng
 <h2>Can I purchase computers and software at academic prices?</h2>
 Yes, the bookstore sells software for PCs and Macs at substantial academic discounts. For information about recommended computers, visit the <a href="http://bookstore.umw.edu/">bookstore’s</a> site.
 <h2>Where will I purchase books?</h2>
-UMW operates a bookstore in Lee Hall. All first-semester freshmen have an opportunity to enroll in a textbook reservation program. By enrolling in this program and depositing the required amount into an EagleOne account, the bookstore will obtain your class schedule, gather and pack your books, and deliver them to your residence hall or a central location for pickup. Textbook reservation gives you an early opportunity to reserve used textbooks and save money.
+Barnes &amp; Noble operates a <a href="https://umw.bncollege.com/shop/umw/home">bookstore</a> in Lee Hall. The My College Bookstore smartphone app – highlights sales and provides notifications for orders and rentals.
 <h2>Can I request to live with a certain person?</h2>
 Absolutely! Please bear in mind that requests can be honored only if both people request each other on their respective housing agreements.
 <h2>How do meal plans work?</h2>
