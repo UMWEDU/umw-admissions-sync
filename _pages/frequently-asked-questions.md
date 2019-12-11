@@ -25,7 +25,7 @@ Yes! Every weekend is different at UMW. The Office of Student Activities and Eng
 <h2>Can I purchase computers and software at academic prices?</h2>
 Yes, the bookstore sells software for PCs and Macs at substantial academic discounts. For information about recommended computers, visit the <a href="http://bookstore.umw.edu/">bookstore’s</a> site.
 <h2>Where will I purchase books?</h2>
-Barnes &amp; Noble operates a <a href="https://umw.bncollege.com/shop/umw/home">bookstore</a> in Lee Hall. The My College Bookstore smartphone app – highlights sales and provides notifications for orders and rentals.
+Barnes &amp; Noble operates a <a href="https://umw.bncollege.com/shop/umw/home">bookstore</a> in Lee Hall. It focus on UMW’s priorities around student success, including competitively priced course materials with scalable and various delivery options. The My College Bookstore smartphone app – highlights sales and provides notifications for orders and rentals.
 <h2>Can I request to live with a certain person?</h2>
 Absolutely! Please bear in mind that requests can be honored only if both people request each other on their respective housing agreements.
 <h2>How do meal plans work?</h2>
