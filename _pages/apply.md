@@ -10,17 +10,17 @@ post_date: 2015-05-26 01:36:27
 ---
 The BA/BS, BLS, and graduate programs each have a separate application process. Please select a program for further information:
 <div class="one-third first">
-<div class="CTAbutton CTAdkgreen" style="font-size: 1em;"><a href="/admissions/apply/undergraduate-application/">Undergraduate</a></div>
+<div class="CTAbutton CTAdkgreen" style="font-size: 1em"><a href="/admissions/apply/undergraduate-application/">Undergraduate</a></div>
 High school, transfer, and international students.
 
 </div>
 <div class="one-third">
-<div class="CTAbutton CTAburgundy" style="font-size: 1em;"><a class="GraduateApp" href="https://www.applyweb.com/umw/menu.html">Graduate</a></div>
+<div class="CTAbutton CTAburgundy" style="font-size: 1em"><a class="GraduateApp" href="https://www.applyweb.com/umw/menu.html">Graduate</a></div>
 For graduate degree and certificate programs.
 
 </div>
 <div class="one-third">
-<div class=" CTAbutton CTAorange" style="font-size: 1em;"><a class=DegreeCompletionApp href="https://www.applyweb.com/umw/">BLS &amp; BSN</a></div>
+<div class=" CTAbutton CTAorange" style="font-size: 1em"><a class="DegreeCompletionApp" href="https://www.applyweb.com/umw/">BLS &amp; BSN</a></div>
 Adult degree completion for Bachelor of Liberal Studies and Bachelor of Science in Nursing.
 
 </div>
