@@ -20,7 +20,7 @@ For graduate degree and certificate programs.
 
 </div>
 <div class="one-third">
-<div class=" CTAbutton CTAorange" style="font-size: 1em"><a class="DegreeCompletionApp" href="https://www.applyweb.com/umw/">BLS &amp; BSN</a></div>
+<div class=" CTAbutton CTAorange" style="font-size: 1em"><a class="DegreeCompletionApp" href="https://apply.transfer.commonapp.org/applicant-ux/#/login">BLS &amp; BSN</a></div>
 Adult degree completion for Bachelor of Liberal Studies and Bachelor of Science in Nursing.
 
 </div>
