@@ -15,7 +15,7 @@ BLS students receive a well-rounded education, exploring an array of subjects in
 You’ve gathered lots of great experience through your life and your work. Let UMW’s Bachelor of Liberal Studies program for adult learners turn your know-how into a degree that will take you to new heights. Use the checklist below to make sure you have everything you need to apply.
 <h2>Application Checklist</h2>
 <ul>
- 	<li><a href="https://www.applyweb.com/umw/">Apply online</a>, and we’ll waive the $50 application fee!</li>
+ 	<li><a href="https://apply.transfer.commonapp.org/applicant-ux/#/login">Apply online</a>, and we’ll waive the $50 application fee!</li>
  	<li>Official transcripts from each college you’ve attended, even if the credits were transferred to another school.</li>
  	<li>Official documentation of all nontraditional credit earned (College Level Examination Program or Defense Activity for Non-Traditional Education Support tests, military training, etc.)</li>
  	<li>Verification of high school completion. Unless the applicant holds an associate degree, UMW will need a high school transcript or a copy of your diploma or GED award letter.</li>
