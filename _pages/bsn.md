@@ -28,7 +28,7 @@ Upon completion of the BSN degree, nurses will be able to practice as members 
 <h3>Where and how are the classes offered?</h3>
 The BSN Degree Completion Program is located on the Stafford campus of the University of Mary Washington, on U.S. 17 North, near Interstate 95. Classes will be offered in an online/distance-learning hybrid format in eight-week blocks.
 <h3>How and when do I apply to the program?</h3>
-Suggested filing dates to apply to UMW’s BSN program are <strong>April 1 </strong>for fall, <strong>Oct. 15</strong> for spring, and <strong>March 1</strong> for summer. See the <a href="http://www.umw.edu/admissions/adult/bsn/bsn-checklist/">BSN Admissions Checklist</a> for a list of required materials. <a href="https://www.applyweb.com/umw">Apply online</a> using the Application for Undergraduate Degree Completion Programs.
+Suggested filing dates to apply to UMW’s BSN program are <strong>April 1 </strong>for fall, <strong>Oct. 15</strong> for spring, and <strong>March 1</strong> for summer. See the <a href="http://www.umw.edu/admissions/adult/bsn/bsn-checklist/">BSN Admissions Checklist</a> for a list of required materials. <a href="https://apply.transfer.commonapp.org/applicant-ux/#/login">Apply online</a> using the Application for Undergraduate Degree Completion Programs.
 <h3>How will I learn if I’ve been accepted to the program?</h3>
 Look for a letter from the Office of Admissions. Once accepted, students are contacted by the director of the BSN Completion Program for advisement and registration.
 <h3>Can I earn a BSN from UMW, even if I am not already a registered nurse?</h3>
