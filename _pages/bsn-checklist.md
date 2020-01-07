@@ -13,7 +13,7 @@ A chance to take your healthcare career to the next level is just a heartbeat aw
 
 Keep in mind the program’s suggested application filing dates of <strong>April 1</strong> for the fall semester, <strong>Oct. 15</strong> for the spring, and <strong>March 1</strong> for summer. UMW accepts applications received after the recommended filing dates on a rolling, space-available basis.
 
-To <a href="https://www.applyweb.com/umw/">apply</a>, you will need:
+To <a href="https://apply.transfer.commonapp.org/applicant-ux/#/login">apply</a>, you will need:
 <ul>
  	<li>A copy of a current, unencumbered RN license permitting you to practice nursing in the Commonwealth of Virginia.</li>
  	<li>An official transcript from each college or university you’ve attended, including an official transcript awarding an associate or diploma degree or a diploma from an accredited school. You must have attained a minimum cumulative GPA of 2.5 on a 4.0 scale in undergraduate study.</li>
