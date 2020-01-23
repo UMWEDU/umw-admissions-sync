@@ -11,7 +11,7 @@ post_date: 2015-08-07 14:29:16
 ---
 The University of Mary Washington welcomes your application for admission!
 <h2>Apply Online</h2>
-Please submit <a href="https://apply.commonapp.org/Login?ma=159">The Common Application</a>, essay, and application fee or approved waiver online.
+UMW accepts both <a href="https://apply.commonapp.org/login">The Common Application</a> and the <a href="https://admissions.umw.edu/register/application">UMW Application</a>. Please submit the application along with an essay, application fee, or approved waiver.
 <h2>Suggested Filing Dates</h2>
 <ul>
  	<li>Freshman Applicants
