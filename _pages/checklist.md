@@ -21,8 +21,10 @@ Take a look at the checklist below and start getting everything submitted. We’
 Prospective high school seniors have the option to <a href="https://admissions.umw.edu/portal/admission_interviews">interview</a> with our Admissions staff as part of the admissions process. Students who interview in person may have the opportunity to be considered for a “Taking Flight” scholarship that ranges from $1,000 to $2,000. Interview dates are between July 1 to February 1.
 <h2>First Year Admission Checklist</h2>
 Use the checklist below to be sure you’ve got everything covered.
+
+&nbsp;
 <ul>
- 	<li>Apply online through <a href="https://apply.commonapp.org/Login">The Common Application</a> with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
+ 	<li>UMW accepts both <a href="https://apply.commonapp.org/login">The Common Application</a> and the <a href="https://admissions.umw.edu/register/application">UMW Application</a>. Please submit the application along with an essay, application fee, or approved waiver.</li>
  	<li>Create a ZeeMee profile to bring your application to life!  Share your passion, talents, and interests through videos or photos directly with your admissions counselor. Don’t have ZeeMee? Get it for free at <a href="http://www.zeemee.com">www.zeemee.com</a>. Include your ZeeMee link within your application for admission.</li>
  	<li>If you are requesting review for the Honors Program, Student Transition Program, or Pre-Nursing 1+2+1 Plan, please indicate this in the Common Application and review the <a href="http://www.umw.edu/admissions/undergraduate/checklist/special-programs/">Admission to Special Program details</a>.</li>
  	<li>If you're requesting review under the binding Early Decision process, you must invite your counselor to sign the Early Decision Agreement before submitting your application.  If you're not able to gather signatures electronically, you may print the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/05/Early_Decision_Agreement.pdf">Early Decision Agreement</a> and send to UMW. This form <strong>MUST</strong> be signed by the student, parent or legal guardian, and your high school counselor and is required to complete your application.</li>
