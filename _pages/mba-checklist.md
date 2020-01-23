@@ -11,7 +11,7 @@ post_date: 2015-08-05 11:28:48
 ---
 Once you’re ready to apply for acceptance to UMW’s Master of Business Administration program, this checklist will help you make sure you have everything you need:
 <ul>
- 	<li>Complete the <a href="https://www.applyweb.com/umw/menu.html">Online Application for Admission</a></li>
+ 	<li>Complete the <a href="https://admissions.umw.edu/apply/?sr=a8f154ae-97ae-4eca-8187-234651110b0e">Online Application for Admission</a></li>
  	<li>Earned bachelor’s degree from a regionally accredited college or university.
 <ul>
  	<li>Additional official transcripts may also be required to verify transfer coursework.</li>
