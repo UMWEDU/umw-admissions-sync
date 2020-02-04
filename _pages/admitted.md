@@ -25,3 +25,8 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <a href="https://admissions.umw.edu/register/destinationmarch">March 21</a>
 
 <a href="https://admissions.umw.edu/register/destinationapril">April 18</a>
+<h3>Admitted Student Receptions</h3>
+<div>Attend a reception where you’ll meet admissions staff, UMW alumni, current parents and students. They'll tell you all about Mary Washington and answer any questions you have. Light refreshments will be provided. Register early, space is limited. Check back soon for additional dates and locations.</div>
+<a href="https://admissions.umw.edu/register/admittedNOVA2020">March 15</a> - Northern Virginia
+
+&nbsp;
