@@ -20,32 +20,11 @@ For graduate degree and certificate programs.
 
 </div>
 <div class="one-third">
-<div class=" CTAbutton CTAorange" style="font-size: 1em;"><a class="DegreeCompletionApp" href="https://apply.transfer.commonapp.org/applicant-ux/#/login">BLS &amp; BSN</a></div>
+<div class=" CTAbutton CTAorange" style="font-size: 1em;"><a class="DegreeCompletionApp" href="https://www.applyweb.com/cgi-bin/app?s=umwb">BLS &amp; BSN</a></div>
 Adult degree completion for Bachelor of Liberal Studies and Bachelor of Science in Nursing.
 
 </div>
-<!--
-<div class="one-half first">
-<div class="CTAbutton CTAdkgreen" style="font-size: 1em;"><a href="/admissions/apply/undergraduate-application/">Undergraduate</a></div>
-High school, transfer, and international students.
 
-</div>
-<div class="one-half">
-<div class=" CTAbutton CTAorange" style="font-size: 1em;"><a class="DegreeCompletionApp" href="https://apply.transfer.commonapp.org/applicant-ux/#/login">BLS &amp; BSN</a></div>
-Adult degree completion for Bachelor of Liberal Studies and Bachelor of Science in Nursing.
-
-</div>
-<div class="one-half first">
-<div class="CTAbutton CTAburgundy" style="font-size: 1em;"><a class="GraduateApp" href="https://www.applyweb.com/umw/menu.html">Graduate (Spring 2020)</a></div>
-For graduate degree and certificate programs in the Spring 2020 semester.
-
-</div>
-<div class="one-half">
-<div class="CTAbutton CTAblue" style="font-size: 1em;"><a class="GraduateApp" href=" https://admissions.umw.edu/apply/">Graduate (Summer & Fall 2020)</a></div>
-For graduate degree and certificate programs in Summer and Fall 2020.
-
-</div>
--->
 
 &nbsp;
 
