@@ -17,7 +17,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://admissions.umw.edu/register/MBASessionMay2020">Wednesday, May 13</a>
 <a href="https://admissions.umw.edu/register/MBASessionJune2020">Tuesday, June 9</a>
 <h3><strong>MBA Virtual Information Session</strong></h3>
-<a href="https://admissions.umw.edu/register/MBAVirtualJan2020">Friday, January 31</a>
 <a href="https://admissions.umw.edu/register/MBAVirtualFeb2020">Friday, February 28</a>
 <a href="https://admissions.umw.edu/register/MBAVirtualMarch2020">Friday, March 27</a>
 <a href="https://admissions.umw.edu/register/MBAVirtualApril2020">Friday, April 24</a>
@@ -29,7 +28,6 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://admissions.umw.edu/register/?id=f4b841e7-8bf5-44b3-8f34-a0142f01d972">Tuesday, April 14</a>
 <a href="https://admissions.umw.edu/register/EducationVirtualApril2020">Monday, April 27</a> at 12 p.m. (Virtual Session)
 <h3>Master of Geospatial Analysis</h3>
-<a href="https://admissions.umw.edu/register/MSGAJan2020">Thursday, January 30</a> at 6 p.m. (4+1 program for current undergraduate students)
 <a href="https://admissions.umw.edu/register/MSGAFeb2020">Tuesday, February 18</a> at 7 p.m.
 <a href="https://admissions.umw.edu/register/MSGAVirtualFeb2020">Friday, February 21</a> at 12 p.m. (Virtual Session)
 <h1>Individual Attention</h1>
