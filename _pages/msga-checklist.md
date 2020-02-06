@@ -21,11 +21,6 @@ Once you’re ready to apply for acceptance to UMW’s Master of Science in Geos
  	<li>A personal goal statement.</li>
  	<li>Two recommendations.
 <ul>
- 	<li>Please use the forms provided in the PDF application document:
-<ul>
- 	<li><a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/08/MSGA-Application.pdf"><strong>MSGA Admissions Application</strong></a></li>
-</ul>
-</li>
  	<li><strong>International students</strong> should also submit their <a href="http://international.umw.edu/international-services/prospective/request-for-form-i-20/"><strong>Request for Form I-20</strong></a> (for F-1 visa candidates), <strong>International Transcript Evaluation</strong>, and demonstration of English Language Proficiency.</li>
 </ul>
 </li>
