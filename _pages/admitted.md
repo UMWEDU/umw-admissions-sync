@@ -28,5 +28,7 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <h3>Admitted Student Receptions</h3>
 <div>Attend a reception where you’ll meet admissions staff, UMW alumni, current parents and students. They'll tell you all about Mary Washington and answer any questions you have. Light refreshments will be provided. Register early, space is limited. Receptions are from 2-4 p.m. Check back soon for additional dates and locations.</div>
 <a href="https://admissions.umw.edu/register/admittedNOVA2020">March 15</a> - Northern Virginia
+<h3>Multicultural Overnight Visit Experience</h3>
+Join us on April 3-4 for the opportunity to stay overnight and sample UMW's academic and social atmosphere. You'll attend class, see campus, attend activities and have the chance to experience our <a href="http://students.umw.edu/multicultural/programs/multicultural-fair/">Multicultural Fair</a> on Saturday, April 4. Please register <a href="https://admissions.umw.edu/register/MOVE2020">online</a>.
 
 &nbsp;
