@@ -22,6 +22,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <a href="https://admissions.umw.edu/register/MBAVirtualMay2020">Friday, May 29</a>
 <a href="https://admissions.umw.edu/register/MBAVirtualMay2020">Friday, June 26</a>
 <h3>Master of Education</h3>
+<a href="https://admissions.umw.edu/register/EducationVirtualFeb272020">Thursday, February 27</a> at 12 p.m. (Virtual Session)
 <a href="https://admissions.umw.edu/register/?id=e0cc49a6-be18-4f3d-835e-0d763ff6dc40">Thursday, March 19</a>
 <a href="https://admissions.umw.edu/register/?id=f4b841e7-8bf5-44b3-8f34-a0142f01d972">Tuesday, April 14</a>
 <a href="https://admissions.umw.edu/register/EducationVirtualApril2020">Monday, April 27</a> at 12 p.m. (Virtual Session)
