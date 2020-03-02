@@ -27,7 +27,7 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <h3><strong>Admitted Student Receptions</strong></h3>
 Attend a reception where you’ll meet admissions staff, UMW alumni, current parents and students. They'll tell you all about Mary Washington and answer any questions you have. Light refreshments will be provided. Register early, space is limited. Receptions are from 2-4 p.m.
 
-<a href="https://admissions.umw.edu/register/admittedNOVA2020">March 15</a> - Northern Virginia
+<a href="https://admissions.umw.edu/register/admittedNOVA2020">March 15</a> - Northern Virginia. <em>(Registration has reached capacity)</em>
 <a href="https://admissions.umw.edu/register/admittedRichmond2020">April 5</a> - Richmond
 <a href="https://admissions.umw.edu/register/admittedTidewater2020">April 5</a> – Tidewater
 <h3><strong>Multicultural Overnight Visit Experience</strong></h3>
@@ -36,13 +36,16 @@ Join us on April 3-4 for the opportunity to stay overnight and sample UMW's acad
 Join admissions staff and current students at your local pizzeria!
 
 <a href="https://admissions.umw.edu/register/chesapeake2020">March 17 - Chesapeake</a>
+<a href="https://admissions.umw.edu/register/Vienna2020">March 23 - Vienna</a>
 <a href="https://admissions.umw.edu/register/Arlington2020">March 24 - Arlington</a>
 <a href="https://admissions.umw.edu/register/Loudoun2020">March 30 - Ashburn</a>
+<a href="https://admissions.umw.edu/register/WestSpringfield2020">April 6 - Springfield</a>
 <a href="https://admissions.umw.edu/register/Fauquier">April 7 - Warrenton</a>
 <a href="https://admissions.umw.edu/register/Manassas2020">April 7 - Manassas</a>
 <a href="https://admissions.umw.edu/register/newportnews2020">April 7 - Newport News</a>
 <a href="https://admissions.umw.edu/register/Woodbridge2020">April 8 - Woodbridge</a>
 <a href="https://admissions.umw.edu/register/Richmond2020">April 13 - Richmond</a>
 <a href="https://admissions.umw.edu/register/Charlottesville2020">April 14 - Charlottesville</a>
+<a href="https://admissions.umw.edu/register/Chantilly2020">April 14 - Chantilly</a>
 
 &nbsp;
