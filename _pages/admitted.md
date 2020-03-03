@@ -36,6 +36,7 @@ Join us on April 3-4 for the opportunity to stay overnight and sample UMW's acad
 Join admissions staff and current students at your local pizzeria!
 
 <a href="https://admissions.umw.edu/register/chesapeake2020">March 17 - Chesapeake</a>
+<a href="https://admissions.umw.edu/register/Montgomery2020">March 19 - Mongtomery, MD</a>
 <a href="https://admissions.umw.edu/register/Vienna2020">March 23 - Vienna</a>
 <a href="https://admissions.umw.edu/register/Arlington2020">March 24 - Arlington</a>
 <a href="https://admissions.umw.edu/register/Loudoun2020">March 30 - Ashburn</a>
@@ -43,6 +44,7 @@ Join admissions staff and current students at your local pizzeria!
 <a href="https://admissions.umw.edu/register/Fauquier">April 7 - Warrenton</a>
 <a href="https://admissions.umw.edu/register/Manassas2020">April 7 - Manassas</a>
 <a href="https://admissions.umw.edu/register/newportnews2020">April 7 - Newport News</a>
+<a href="https://admissions.umw.edu/register/Baltimore2020">April 7 - Baltimore, MD</a>
 <a href="https://admissions.umw.edu/register/Woodbridge2020">April 8 - Woodbridge</a>
 <a href="https://admissions.umw.edu/register/Richmond2020">April 13 - Richmond</a>
 <a href="https://admissions.umw.edu/register/Charlottesville2020">April 14 - Charlottesville</a>
