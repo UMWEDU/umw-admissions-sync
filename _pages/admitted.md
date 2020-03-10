@@ -30,8 +30,6 @@ Attend a reception where you’ll meet admissions staff, UMW alumni, current par
 <a href="https://admissions.umw.edu/register/admittedNOVA2020">March 15</a> - Northern Virginia. <em>(Registration has reached capacity)</em>
 <a href="https://admissions.umw.edu/register/admittedRichmond2020">April 5</a> - Richmond
 <a href="https://admissions.umw.edu/register/admittedTidewater2020">April 5</a> – Tidewater
-<h3><strong>Multicultural Overnight Visit Experience</strong></h3>
-Join us on April 3-4 for the opportunity to stay overnight and sample UMW's academic and social atmosphere. You'll attend class, see campus, attend activities and have the chance to experience our <a href="http://students.umw.edu/multicultural/programs/multicultural-fair/">Multicultural Fair</a> on Saturday, April 4. Please register <a href="https://admissions.umw.edu/register/MOVE2020">online</a>.
 <h3>UMW is Coming to You</h3>
 Join admissions staff and current students at your local pizzeria!
 
@@ -49,5 +47,7 @@ Join admissions staff and current students at your local pizzeria!
 <a href="https://admissions.umw.edu/register/Richmond2020">April 13 - Richmond</a>
 <a href="https://admissions.umw.edu/register/Charlottesville2020">April 14 - Charlottesville</a>
 <a href="https://admissions.umw.edu/register/Chantilly2020">April 14 - Chantilly</a>
+<h3><strong>Multicultural Overnight Visit Experience</strong></h3>
+Join us on April 3-4 for the opportunity to stay overnight and sample UMW's academic and social atmosphere. You'll attend class, see campus, attend activities and have the chance to experience our <a href="http://students.umw.edu/multicultural/programs/multicultural-fair/">Multicultural Fair</a> on Saturday, April 4. Please register <a href="https://admissions.umw.edu/register/MOVE2020">online</a>.
 
 &nbsp;
