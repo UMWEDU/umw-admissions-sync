@@ -12,7 +12,7 @@ post_date: 2015-05-26 01:36:38
 
 One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg. There are so many ways to get to know us!
 
-<em>UMW is monitoring the spread of the coronavirus (COVID-19) as the situation continues to evolve. We are focused on the health and safety of our Eagles and any future Eagles and their guests visiting our campus. Should the virus impact our ability to host visitors, we will notify you immediately via email. You should also check for the <a href="https://www.umw.edu/advisories/coronavirus/">latest status</a> on COVID-19 impact on visits.</em>
+<em>UMW is monitoring the spread of the coronavirus (COVID-19) as the situation continues to evolve. We are focused on the health and safety of our Eagles and any future Eagles and their guests visiting our campus. Should the virus impact our ability to host visitors, we will notify you immediately via email. You should also check for the <a href="https://www.umw.edu/advisories/category/coronavirus/">latest status</a> on COVID-19 impact on visits.</em>
 <h2>On campus:</h2>
 <ul>
  	<li><a href="https://admissions.umw.edu/portal/event_landing">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. When you've arrive on campus, check in is in Lee Hall, room 301.</li>
