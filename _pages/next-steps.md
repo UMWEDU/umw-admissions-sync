@@ -20,7 +20,7 @@ post_date: 2011-12-14 15:12:45
 </ul>
 <strong>After submitting your deposit:</strong>
 <ul>
- 	<li>Complete your First Year Seminar Survey. Your questionnaire will be emailed from Dr. Tim O’Donnell with the subject “Welcome to your First Year at UMW.” (It will be available in February)</li>
+ 	<li>Complete your First Year Seminar Survey. Your questionnaire will be emailed from Dr. April Wynn with the subject “Welcome to your First Year at UMW.” (It will be available in February)</li>
  	<li>Capture your <a href="http://technology.umw.edu/logins/">NET ID</a> after paying your deposit. (NET IDs will be available in February)</li>
  	<li>Complete your <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/services-agreement/">Housing and Dining Services Agreement</a>.</li>
  	<li>Register with the <a href="/directory/department/provost/engagement/disability-resources/">Office of Disability Resources</a> if you would like to request <a href="https://academics.umw.edu/disability/">accommodations and learn more about documentation</a>. You can contact their office at (540) 654-1266 with any questions.</li>
