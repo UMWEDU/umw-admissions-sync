@@ -26,13 +26,11 @@ We hope you’re able to visit campus for Destination UMW to see what a great fi
 <h3><strong>Admitted Student Receptions</strong></h3>
 Attend a reception where you’ll meet admissions staff, UMW alumni, current parents and students. They'll tell you all about Mary Washington and answer any questions you have. Light refreshments will be provided. Register early, space is limited. Receptions are from 2-4 p.m.
 
-<a href="https://admissions.umw.edu/register/admittedNOVA2020">March 15</a> - Northern Virginia. <em>(Registration has reached capacity)</em>
 <a href="https://admissions.umw.edu/register/admittedRichmond2020">April 5</a> - Richmond
 <a href="https://admissions.umw.edu/register/admittedTidewater2020">April 5</a> – Tidewater
 <h3>UMW is Coming to You</h3>
 Join admissions staff and current students at your local pizzeria!
 
-<a href="https://admissions.umw.edu/register/chesapeake2020">March 17 - Chesapeake</a>
 <a href="https://admissions.umw.edu/register/Montgomery2020">March 19 - Mongtomery, MD</a>
 <a href="https://admissions.umw.edu/register/Vienna2020">March 23 - Vienna</a>
 <a href="https://admissions.umw.edu/register/Arlington2020">March 24 - Arlington</a>
