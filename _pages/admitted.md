@@ -20,9 +20,11 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 <h2></h2>
 <h3>Destination UMW</h3>
-We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted students and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel.
+We hope you’re able to visit campus for Destination UMW to see what a great fit Mary Washington is for you! This event is for admitted students and parents. You’ll hear from our current students and have a classroom experience while your guests hear from an administrative panel. The March 21 Destination event is cancelled.
 
 <a href="https://admissions.umw.edu/register/destinationapril">April 18</a>
+
+&nbsp;
 <h3><strong>Admitted Student Receptions</strong></h3>
 Attend a reception where you’ll meet admissions staff, UMW alumni, current parents and students. They'll tell you all about Mary Washington and answer any questions you have. Light refreshments will be provided. Register early, space is limited. Receptions are from 2-4 p.m.
 
