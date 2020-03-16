@@ -31,8 +31,8 @@ Attend a reception where you’ll meet admissions staff, UMW alumni, current par
 <h3>UMW is Coming to You</h3>
 Join admissions staff and current students at your local pizzeria!
 
-<a href="https://admissions.umw.edu/register/Montgomery2020">March 19 - Mongtomery, MD</a>
-<a href="https://admissions.umw.edu/register/Vienna2020">March 23 - Vienna</a>
+March 19 - Mongtomery, MD (Event is being rescheduled)
+March 23 - Vienna (Event is being rescheduled)
 <a href="https://admissions.umw.edu/register/Arlington2020">March 24 - Arlington</a>
 <a href="https://admissions.umw.edu/register/Loudoun2020">March 30 - Ashburn</a>
 <a href="https://admissions.umw.edu/register/WestSpringfield2020">April 6 - Springfield</a>
