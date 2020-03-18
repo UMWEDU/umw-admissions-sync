@@ -14,7 +14,7 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 
 <em>Please note that the UMW is doing its part to help halt the spread of the coronavirus (COVID-19) by moving classes online and cancelling all on-campus activities and events until May 15.</em>
 
-While the Admissions Office is unable to host on campus information sessions and tours, we are hosting online information sessions. We hope you register to join us and find out more about life at Mary Washington.
+The Admissions office is open and welcomes walk-ins to gather information and speak with a staff member. We are not hosting organized information sessions or student guided tours. We are hosting online information sessions. We hope you register to join us and find out more about life at Mary Washington.
 <h2>Virtual:</h2>
 <strong>Online Information Sessions</strong> - Preregistration is required for the online sessions. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
 
