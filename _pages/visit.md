@@ -15,14 +15,14 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 <em>Please note that the UMW is doing its part to help halt the spread of the coronavirus (COVID-19) this virus by moving classes online and cancelling all on-campus activities and events until May 15.</em>
 
 While the Admissions Office is unable to host on campus information sessions and tours, we are hosting online information sessions. We hope you register to join us and find out more about life at Mary Washington.
+<h2>Virtual:</h2>
+<strong>Online Information Sessions</strong> - Preregistration is required for the online sessions. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
 
-<strong>Online Information Sessions</strong> - Preregistration is required for the online sessions. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions.
+It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://umw.university-tour.com/homepage.php">interactive video tour</a>.
+
+&nbsp;
 <h2>Can't Make it to Campus?</h2>
 We hope to see you on the road as we're traveling. Find out where we'll be <a href="https://admissions.umw.edu/portal/travel_calendar">next</a>!
-<h2>Virtual:</h2>
-<ul>
- 	<li>It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://umw.university-tour.com/homepage.php">interactive video tour</a>.</li>
-</ul>
 <h2>How to get here:</h2>
 The main campus is located at <a href="https://www.google.com/maps/place/University+of+Mary+Washington/@38.3005178,-77.4749152,15z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e987a255:0x1ef2db66d097c3c1">1301 College Avenue, Fredericksburg, VA 22401</a>. The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
 <h2>Where to stay:</h2>
