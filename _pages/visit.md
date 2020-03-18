@@ -19,8 +19,15 @@ The Admissions office is open and welcomes walk-ins to gather information and sp
 <strong>Online Information Sessions</strong> - Preregistration is required for the online sessions. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
 
 It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://umw.university-tour.com/homepage.php">interactive video tour</a>.
-
-&nbsp;
+<h2>On Campus:</h2>
+<ul>
+ 	<li><a href="https://admissions.umw.edu/portal/event_landing">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. When you've arrive on campus, check in is in Lee Hall, room 301.</li>
+ 	<li><a href="https://admissions.umw.edu/portal/transfer_events">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a tour. Registration is in Lee Hall, room 301.</li>
+ 	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
+ 	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal! Pick your visit (fall or spring) based on your academic interests and follow a current student through a typical day on campus. Reserved for high school seniors.</li>
+ 	<li><a href="https://admissions.umw.edu/portal/admission_interviews">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2020 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing.  The interview must be completed by February 1 for consideration.</li>
+ 	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
+</ul>
 <h2>Can't Make it to Campus?</h2>
 We hope to see you on the road as we're traveling. Find out where we'll be <a href="https://admissions.umw.edu/portal/travel_calendar">next</a>!
 <h2>How to get here:</h2>
