@@ -12,14 +12,15 @@ post_date: 2015-05-26 01:36:38
 
 One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg. There are so many ways to get to know us!
 
-<em>Please note that the UMW is doing its part to help halt the spread of the coronavirus (COVID-19) by moving classes online and cancelling all on-campus activities and events until May 15.</em>
+<strong><em>Please note that the UMW is doing its part to help halt the spread of the coronavirus (COVID-19) by moving classes online and cancelling all on-campus activities and events until May 15. Please call before coming to campus. </em></strong>
 
-The Admissions office is open and welcomes walk-ins to gather information and speak with a staff member. We are not hosting organized information sessions or student guided tours. We are hosting online information sessions. We hope you register to join us and find out more about life at Mary Washington.
-<h2>Virtual:</h2>
-<strong>Online Information Sessions</strong> - Preregistration is required for the online sessions. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
+Currently, organized information sessions and student guided tours are not available. We are hosting virtual information sessions. We hope you register to join us and find out more about life at Mary Washington.
+<h2>Virtual Visit:</h2>
+<strong>Virtual Information Sessions</strong> - Preregistration is required for the online webinars including daily information sessions and special topics. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
 
-It’s not like being here, but you can get a feel for UMW by following along with this <a href="https://umw.university-tour.com/homepage.php">interactive video tour</a>.
-<h2>On Campus:</h2>
+It’s not exactly like being here, but you can get a feel for UMW by following along with these <a href="https://umw.university-tour.com/homepage.php">interactive video viewbooks</a>.
+<h2>On Campus</h2>
+<strong><em>We hope to start offering on campus information sessions and tours after May 15.</em></strong>
 <ul>
  	<li><a href="https://admissions.umw.edu/portal/event_landing">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. When you've arrive on campus, check in is in Lee Hall, room 301.</li>
  	<li><a href="https://admissions.umw.edu/portal/transfer_events">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a tour. Registration is in Lee Hall, room 301.</li>
