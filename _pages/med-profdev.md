@@ -21,15 +21,12 @@ This program is designed for licensed, practicing teachers who want to work with
 <h3>What will I learn?</h3>
 Students choose from five distinct curriculums:
 <ul>
- 	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#diverse"><strong>Diverse Student Populations</strong></a>. Enhance your skills in meeting the needs of various student populations, or choose to pursue the gifted education endorsement.</li>
  	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#leadership"><strong>Educational Leadership</strong></a>. This cohort program is open for fall admission only. Course work, along with a passing score on the School Leaders License Assessment, fulfills administration and supervision endorsement requirements.</li>
  	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#literacy"><strong>Literacy Specialist</strong></a>. This cohort program is open for spring admission only. Course work, along with a passing score on the Reading for Virginia Educators: Reading Specialist Assessment, leads to a reading specialist endorsement and highlights foundational knowledge, instructional strategies and curriculum development, assessment and intervention, literacy in communication, and literacy leadership.</li>
  	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#secondary"><strong>Secondary Mathematics</strong></a>. This cohort program, for those with a strong background in undergraduate math, preferably a bachelor’s degree, prepares teachers to teach Advanced Placement and International Baccalaureate courses, as well as high school-community college dual-enrollment courses.</li>
  	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#special"><strong>Special Education General Curriculum</strong></a>. Pursue a degree and added licensure.</li>
- 	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#special"><strong>Special Education Adapted Curriculum</strong></a>. Pursue a degree and added licensure.</li>
- 	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#esl"><strong>Teaching English as a Second Language</strong></a>. Learn to better meet the needs of P-12 English language learners in public schools.</li>
+ 	<li><a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-education/master-of-education/#special"><strong>Special Education Adapted Curriculum</strong></a>. Pursue a degree and added licensure.<strong> </strong></li>
 </ul>
-<strong> </strong>
 <h3>What careers will I be prepared for?</h3>
 UMW’s graduate education programs lead to state certified endorsements and more fulfilling teaching careers in instructional technology, higher education, ESL, and more.
 <strong>
