@@ -15,6 +15,12 @@ Throughout the day you’ll hear from current students about everything from wee
 
 Pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus!
 
-Please note the Open House scheduled for April 10 has been cancelled.
+Please note the Open House scheduled for April 10, 2020 has been cancelled.
+<h3>Open House 2020 - 2021</h3>
+<a href="https://admissions.umw.edu/register/OpenHouseSept2020">September 26</a>
+<a href="https://admissions.umw.edu/register/OpenHouseOct2020">October 17</a>
+<a href="https://admissions.umw.edu/register/OpenHouseNov2020">November 14</a>
+<a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
+<a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
 
 Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
