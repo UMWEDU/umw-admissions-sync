@@ -1,7 +1,7 @@
 ---
 ID: 48383
 post_title: @MaryWash
-author: Curtiss Grymala
+author: UMW
 post_excerpt: ""
 layout: page
 permalink: http://www.umw.edu/admissions/marywash/
