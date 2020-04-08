@@ -18,6 +18,10 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 <h2></h2>
 <h2></h2>
-<h2></h2>
-<h4>Please note that all on and off campus university events are cancelled until May 15. If you have questions regarding the cancelled admissions events/tours, contact the Admissions office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.</h4>
+While we're unable to hold on campus events for admitted students, we hope you join us for our virtual information sessions. We have various academic departments and offices across campus who are ready to share their knowledge and love of UMW with you.
+
+Visit our <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times and then register for all that interest you!
+
+Please note that all on and off campus university events are cancelled until June 10. If you have questions regarding the cancelled admissions events/tours, contact the Admissions office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
+
 &nbsp;
