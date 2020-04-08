@@ -11,7 +11,9 @@ post_date: 2015-05-26 18:51:51
 ---
 Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ details. Take a look at this handy checklist and start getting everything submitted. We’re excited to read your application!
 
-Suggested filing dates are October 15 for the spring semester, April 1 for the fall semester and March 1 for summer. Admissions decisions are sent by letter as they are made.
+<em>Please note that the application filing dates have been suspended due to the COVID-19 outbreak. </em>
+
+Suggested filing dates are October 15 for the spring semester, April 1 for the fall semester and March 1 for summer. Admissions decisions are sent by letter as they are made.
 
 Use the checklist below to be sure you’ve got everything covered.
 <ul>
