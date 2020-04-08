@@ -18,9 +18,9 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 <h2></h2>
 <h2></h2>
-While we're unable to hold on campus events for admitted students, we hope you join us for our virtual information sessions. We have various academic departments and offices across campus who are ready to share their knowledge and love of UMW with you.
+While we're unable to hold on campus events for admitted students, we hope you join us for our virtual information sessions. These topical perspectives are led by faculty and staff from academic majors, programs, student affairs, and student service or support areas across campus who are ready to share their knowledge and love of UMW with you. Visit our <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times and then register for all that interest you!
 
-Visit our <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times and then register for all that interest you!
+Students, at the end of each evening, there is a UMW current student led session to answer any follow up questions related to the evening’s virtual session or just to answer general questions and connect with you. Check your email for an invitation to the Go Live Zoom link or email your personal counselor to have it sent again.
 
 Please note that all on and off campus university events are cancelled until June 10. If you have questions regarding the cancelled admissions events/tours, contact the Admissions office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
 
