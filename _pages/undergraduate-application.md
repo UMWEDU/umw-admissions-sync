@@ -21,7 +21,7 @@ UMW accepts both <a href="https://apply.commonapp.org/login">The Common Applicat
  	<li>Regular Decision - February 1</li>
 </ul>
 </li>
- 	<li>Transfer Applicants
+ 	<li>Transfer Applicants - <em>Please note that the application filing dates have been suspended due to the COVID-19 outbreak.</em>
 <ul>
  	<li>Summer admission - March 1</li>
  	<li>Fall admission - April 1</li>
