@@ -1,8 +1,8 @@
 ---
 ID: 48413
 post_title: >
-  5-Year Pathway Initial Licensure
-  Programs Application
+  Undergraduate Initial Licensure Programs
+  Application
 author: keury
 post_excerpt: ""
 layout: page
