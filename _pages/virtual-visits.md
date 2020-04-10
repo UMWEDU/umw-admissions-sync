@@ -51,8 +51,6 @@ Immerse yourself and learn about the opportunities, values, traditions, and loca
 <h2>Self Guided Walking Tour</h2>
 <iframe style="border: none; width: 100%; height: 500px;" src="//e.issuu.com/embed.html?backgroundColor=%23aec0d9&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;hideShareButton=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
 <h2>Digital Swag</h2>
-<h3>Mobile Wallpaper</h3>
-[gallery type="square" link="file" columns="2" ids="48808,48807"]
 <h3>Desktop Wallpaper</h3>
 <h4>1920 x 1080</h4>
 [gallery type="columns" link="file" columns="4" ids="48798,48800,48799,48801"]
@@ -60,3 +58,5 @@ Immerse yourself and learn about the opportunities, values, traditions, and loca
 [gallery type="columns" link="file" columns="4" ids="48803,48804,48805,48802"]
 <h3>Facebook Banners</h3>
 [gallery type="rectangular" link="file" ids="48796,48795,48797"]
+<h3>Mobile Wallpaper</h3>
+[gallery type="square" link="file" columns="2" ids="48808,48807"]
