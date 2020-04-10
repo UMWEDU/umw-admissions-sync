@@ -18,14 +18,15 @@ We hate that you can’t make it to campus so we’re bringing faculty, staff, a
 <a class="button" style="color: #fff; text-decoration: none;" href="https://admissions.umw.edu/portal/webinars">Upcoming Virtual Sessions</a>
 
 Pre-registration is required. If you have any questions, please contact the Admissions Office at 540/654-2000 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.We look forward to chatting with you!
-
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://umw.university-tour.com/homepage.php">View our Video Viewbook</a>
 
+<h2>Digital Swag</h2>
+Save a small piece of the campus experience on your device or social media. 
 </div>
-<div class="one-half" style="background: #edf3f4; padding: .75em .75em 0 .75em;">
+<div class="one-half" style="background: #edf3f4; padding: .75em .75em 0 .75em; margin-bottom:1em;">
 <h4>Virtual interest session participants include:</h4>
 <ul>
  	<li>Biological Sciences</li>
@@ -49,9 +50,6 @@ Immerse yourself and learn about the opportunities, values, traditions, and loca
 </ul>
 </div>
 </div>
-<h2>Digital Swag</h2>
-Save a small piece of the campus experience on your device or social media.
-
-<a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
+&nbsp;
 <h2>Self Guided Walking Tour</h2>
 <iframe style="border: none; width: 100%; height: 500px;" src="//e.issuu.com/embed.html?backgroundColor=%23aec0d9&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;hideShareButton=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
