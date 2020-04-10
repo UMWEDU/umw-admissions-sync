@@ -10,14 +10,7 @@ published: true
 post_date: 2016-01-13 13:05:45
 ---
 <img class="alignleft wp-image-48254 size-page-feature-uncropped" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/01/Homecoming-20-1140x744.jpg" alt="UMW Homecoming, Saturday Oct. 22, 2016. (Photo by Norm Shafer)." width="1100" height="718" />
-
-&nbsp;
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
+<h2>Virtual Interest Sessions</h2>
 While we're unable to hold on campus events for admitted students, we hope you join us for our virtual information sessions. These topical perspectives are led by faculty and staff from academic majors, programs, student affairs, and student service or support areas across campus who are ready to share their knowledge and love of UMW with you. Check out the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Admitted-Student-Webinars-April-2020.pdf">calendar</a> for dates and times and then <a href="https://admissions.umw.edu/portal/webinars">register</a> for all that interest you!
 
 <strong>Students </strong>- A the end of each evening, there is a UMW current student led session to answer any follow up questions related to the evening’s virtual session or just to answer general questions and connect with you. Check your email for an invitation to the Go Live Zoom link or email your personal counselor to have it sent again.
