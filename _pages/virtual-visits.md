@@ -28,7 +28,7 @@ Save a small piece of the campus experience on your device or social media.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
 </div>
-<div class="one-half" style="background: #edf3f4; padding: .75em .75em 0 .75em; margin-bottom:1em;">
+<div class="one-half" style="background: #edf3f4; padding: .75em .75em 0 .75em; margin-bottom:.75em;">
 <h4>Virtual interest session participants include:</h4>
 <ul>
  	<li>Biological Sciences</li>
