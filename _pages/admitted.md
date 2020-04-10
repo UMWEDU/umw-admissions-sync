@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-01-13 13:05:45
 ---
-<img class="alignleft wp-image-48254" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/01/Homecoming-20-1024x669.jpg" alt="UMW Homecoming, Saturday Oct. 22, 2016. (Photo by Norm Shafer)." width="600" height="392" />
+<img class="alignleft wp-image-48254 size-page-feature-uncropped" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2016/01/Homecoming-20-1140x744.jpg" alt="UMW Homecoming, Saturday Oct. 22, 2016. (Photo by Norm Shafer)." width="1100" height="718" />
 
 &nbsp;
 <h2></h2>
