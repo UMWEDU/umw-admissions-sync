@@ -1,13 +1,13 @@
 ---
-ID: 48791
+ID: 48776
 post_title: Virtual Visits
 author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/virtual-visits/
+  http://umwwebmaster.staging.wpengine.com/admissions/virtual-visits/
 published: true
-post_date: 2020-04-10 09:07:10
+post_date: 2020-04-10 13:49:51
 ---
 <img src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Virtual-Visit-header-sml.jpg" />
 <div class="clearfix">
