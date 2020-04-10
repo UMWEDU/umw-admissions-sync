@@ -1,13 +1,13 @@
 ---
-ID: 48791
+ID: 48776
 post_title: Virtual Visits
 author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/virtual-visits/
+  http://umwwebmaster.staging.wpengine.com/admissions/virtual-visits/
 published: true
-post_date: 2020-04-10 09:07:10
+post_date: 2020-04-10 13:49:51
 ---
 <img src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Virtual-Visit-header-sml.jpg" />
 <div class="clearfix">
@@ -53,16 +53,5 @@ Immerse yourself and learn about the opportunities, values, traditions, and loca
 <iframe style="border: none; width: 100%; height: 500px;" src="//e.issuu.com/embed.html?backgroundColor=%23aec0d9&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;hideShareButton=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
 
 <h2>Digital Swag</h2>
-Save a small piece of the campus experience on your device or social media. 
-
-<h3>Desktop Wallpaper</h3>
-<h4>1920 x 1080</h4>
-[gallery type="columns" link="file" columns="4" ids="48798,48800,48799,48801"]
-<h4>1024 x 786</h4>
-[gallery type="columns" link="file" columns="4" ids="48803,48804,48805,48802"]
-
-<h3>Facebook Banners</h3>
-[gallery type="rectangular" link="file" ids="48796,48795,48797"]
-
-<h3>Mobile Wallpaper</h3>
-[gallery type="square" link="file" columns="2" ids="48808,48807"]
+Save a small piece of the campus experience on your device or social media account. 
+<a class="button" style="color: #fff; text-decoration: none;">Download Digital Swag</a>
