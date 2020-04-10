@@ -48,10 +48,10 @@ Immerse yourself and learn about the opportunities, values, traditions, and loca
 </ul>
 </div>
 </div>
-&nbsp;
-<h2>Self Guided Walking Tour</h2>
-<iframe style="border: none; width: 100%; height: 500px;" src="//e.issuu.com/embed.html?backgroundColor=%23aec0d9&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;hideShareButton=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
-
 <h2>Digital Swag</h2>
 Save a small piece of the campus experience on your device or social media account. 
+
 <a class="button" style="color: #fff; text-decoration: none;">Download Digital Swag</a>
+
+<h2>Self Guided Walking Tour</h2>
+<iframe style="border: none; width: 100%; height: 500px;" src="//e.issuu.com/embed.html?backgroundColor=%23aec0d9&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;hideShareButton=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
