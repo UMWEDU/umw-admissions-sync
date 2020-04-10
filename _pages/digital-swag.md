@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-04-10 15:20:39
 ---
-Save a small piece of the campus experience on your device or social media.
+Save a small piece of the campus experience on your device or social media. Click the images below to open and download.
 <h2>Desktop Wallpaper</h2>
 <h3>1920 x 1080</h3>
 [gallery type="columns" link="file" columns="4" ids="48798,48800,48799,48801"]
