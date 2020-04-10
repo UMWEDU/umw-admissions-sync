@@ -49,6 +49,8 @@ Immerse yourself and learn about the opportunities, values, traditions, and loca
 </div>
 </div>
 <h2>Digital Swag</h2>
+<h3>Mobile Wallpaper</h3>
+<img class="alignnone wp-image-48807 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Eagle-muted-200x300.jpg" alt="mobile wallpaper" width="200" height="300" /> <img class="alignnone wp-image-48808 size-medium" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Belltower1-200x300.jpg" alt="mobile wallpaper" width="200" height="300" />
 <h3>Desktop Wallpaper</h3>
 <h4>1920 x 1080</h4>
 [gallery type="columns" link="file" columns="4" ids="48798,48800,48799,48801"]
