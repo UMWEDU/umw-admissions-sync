@@ -17,7 +17,7 @@ We hate that you can’t make it to campus so we’re bringing faculty, staff, a
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://admissions.umw.edu/portal/webinars">Upcoming Virtual Sessions</a>
 
-Pre-registration is required. If you have any questions, please contact the Admissions Office at 540/654-2000 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.We look forward to chatting with you!
+Pre-registration is required. If you have any questions, please contact the Admissions Office at 540/654-2000 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>. We look forward to chatting with you!
 </div>
 <div class="column second">
 <h4>Virtual interest session participants include:</h4>
