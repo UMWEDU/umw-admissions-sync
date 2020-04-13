@@ -11,7 +11,7 @@ post_date: 2020-04-10 13:49:51
 ---
 <img src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Virtual-Visit-header-sml.jpg" />
 <h2>Virtual Interest Sessions</h2>
-<div class="alignright" style="width: 45%; min-width: 300px; background: #edf3f4; padding: .75em .75em 0 .75em; margin-bottom: .75em;">
+<div class="alignright" style="text-align: left; width: 45%; min-width: 300px; background: #edf3f4; padding: .75em .75em 0 .75em; margin-bottom: .75em;">
 <h4>Virtual interest session participants include:</h4>
 <ul>
  	<li>Biological Sciences</li>
