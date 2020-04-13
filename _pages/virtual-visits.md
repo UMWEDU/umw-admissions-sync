@@ -10,7 +10,7 @@ published: true
 post_date: 2020-04-10 13:49:51
 ---
 <img src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Virtual-Visit-header-sml.jpg" />
-<div class="clearfix">
+<div class="clearfix umw-grid">
 <div class="one-half first">
 <h2>Virtual Interest Sessions</h2>
 We hate that you can’t make it to campus so we’re bringing faculty, staff, and programs to you! Join a virtual interest session from Admissions or various academic and student service departments to find out more about life at Mary Washington. Check out our full list of upcoming sessions below. We hope you join us!
@@ -18,6 +18,7 @@ We hate that you can’t make it to campus so we’re bringing faculty, staff, a
 <a class="button" style="color: #fff; text-decoration: none;" href="https://admissions.umw.edu/portal/webinars">Upcoming Virtual Sessions</a>
 
 Pre-registration is required. If you have any questions, please contact the Admissions Office at 540/654-2000 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>. We look forward to chatting with you!
+
 </div>
 <div class="one-half" style="background: #edf3f4; padding: .75em .75em 0 .75em; margin-bottom: .75em;">
 <h4>Virtual interest session participants include:</h4>
@@ -42,7 +43,6 @@ Pre-registration is required. If you have any questions, please contact the Admi
  	<li>And more!</li>
 </ul>
 </div>
-
 <div class="one-half first">
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
