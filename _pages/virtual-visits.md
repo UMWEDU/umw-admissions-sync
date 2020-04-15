@@ -55,5 +55,10 @@ Save a small piece of the campus experience on your device or social media.
 
 </div>
 </div>
+
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=63572&data-image-width=100%&data-image-height=100%&">Launch Experience</a>
+
+<a alt="Launch Experience" href ="https://www.youvisit.com/#/vte/?data-platform=v&data-inst=63572&data-image width=100%&data-image-height=100%&">Launch Experience</a>
+
 <h2>Self Guided Walking Tour</h2>
 <iframe style="border: none; width: 100%; height: 500px;" src="//e.issuu.com/embed.html?backgroundColor=%23aec0d9&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;hideShareButton=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
