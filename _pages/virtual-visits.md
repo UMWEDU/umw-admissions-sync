@@ -1,13 +1,13 @@
 ---
-ID: 48776
+ID: 48791
 post_title: Virtual Visits
 author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://umwwebmaster.staging.wpengine.com/admissions/virtual-visits/
+  http://www.umw.edu/admissions/virtual-visits/
 published: true
-post_date: 2020-04-10 13:49:51
+post_date: 2020-04-10 09:07:10
 ---
 <img src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/04/Virtual-Visit-header-sml.jpg" />
 <div class="umw-grid">
@@ -20,7 +20,7 @@ We hate that you can’t make it to campus so we’re bringing faculty, staff, a
 Pre-registration is required. If you have any questions, please contact the Admissions Office at 540/654-2000 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>. We look forward to chatting with you!
 
 </div>
-<div class="column second" style="background: #edf3f4; padding: .75em .75em 0 .75em; margin-bottom: .75em;">
+<div class="column second">
 <h4>Virtual interest session participants include:</h4>
 <ul>
  	<li>Biological Sciences</li>
@@ -44,21 +44,22 @@ Pre-registration is required. If you have any questions, please contact the Admi
 </ul>
 </div>
 <div class="column third">
+<h2>Virtual Tour</h2>
+It’s not like being here, but you can get a feel for UMW by following along with our guided interactive tour.
+
+<a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Virtual Tour</a>
+
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://umw.university-tour.com/homepage.php">View our Video Viewbook</a>
+
+</div>
+</div>
 <h2>Digital Swag</h2>
 Save a small piece of the campus experience on your device or social media.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
-
-</div>
-</div>
-
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=63572&data-image-width=100%&data-image-height=100%&">Launch Experience</a>
-
-<a alt="Launch Experience" href ="https://www.youvisit.com/#/vte/?data-platform=v&data-inst=63572&data-image width=100%&data-image-height=100%&">Launch Experience</a>
 
 <h2>Self Guided Walking Tour</h2>
 <iframe style="border: none; width: 100%; height: 500px;" src="//e.issuu.com/embed.html?backgroundColor=%23aec0d9&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;hideShareButton=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
