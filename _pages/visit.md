@@ -18,7 +18,7 @@ Currently, organized information sessions and student guided tours are not avail
 <h2>Virtual Visits</h2>
 <strong>Virtual Information Sessions</strong> - Pre-registration is required for the online webinars including daily information sessions and special topics. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
 
-It’s not exactly like being here, but you can get a feel for UMW by following along with our <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;amp;data-inst=63572&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;">virtual campus tour</a>, <a href="https://umw.university-tour.com/homepage.php">interactive video viewbook</a> or taking a <a href="https://issuu.com/umwpublications/docs/self_guided_walking_tour_-_march_2020">self guided walking tour</a>.
+It’s not exactly like being here, but you can get a feel for UMW by following along with our <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">virtual campus tour</a>, <a href="https://umw.university-tour.com/homepage.php">interactive video viewbook</a> or taking a <a href="https://issuu.com/umwpublications/docs/self_guided_walking_tour_-_march_2020">self guided walking tour</a>.
 <h2>On Campus</h2>
 <strong><em>We hope to start offering on campus information sessions and tours after May 15.</em></strong>
 <ul>
