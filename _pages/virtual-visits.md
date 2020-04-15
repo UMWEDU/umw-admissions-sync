@@ -47,7 +47,7 @@ Pre-registration is required. If you have any questions, please contact the Admi
 <h2>Virtual Tour</h2>
 It’s not like being here, but you can get a feel for UMW by following along with our guided interactive tour.
 
-<a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Virtual Tour</a>
+<a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/#/vte/?data-platform=v&data-inst=63572&data-image-width=100%&data-image-height=100%&">Launch Virtual Tour</a>
 
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
