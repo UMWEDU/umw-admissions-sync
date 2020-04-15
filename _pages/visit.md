@@ -15,10 +15,10 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 <strong><em>Please note that the UMW is doing its part to help halt the spread of the coronavirus (COVID-19) by moving classes online and cancelling all on-campus activities and events until May 15. Please call before coming to campus. </em></strong>
 
 Currently, organized information sessions and student guided tours are not available. We are hosting virtual information sessions. We hope you register to join us and find out more about life at Mary Washington.
-<h2>Virtual Visit:</h2>
+<h2>Virtual Visits</h2>
 <strong>Virtual Information Sessions</strong> - Pre-registration is required for the online webinars including daily information sessions and special topics. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
 
-It’s not exactly like being here, but you can get a feel for UMW by following along with these <a href="https://umw.university-tour.com/homepage.php">interactive video viewbooks</a> or taking a <a href="https://issuu.com/umwpublications/docs/self_guided_walking_tour_-_march_2020">self guided walking tour</a>.
+It’s not exactly like being here, but you can get a feel for UMW by following along with our <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;amp;data-inst=63572&amp;amp;data-image-width=100%&amp;amp;data-image-height=100%&amp;amp;">virtual campus tour</a>, <a href="https://umw.university-tour.com/homepage.php">interactive video viewbook</a> or taking a <a href="https://issuu.com/umwpublications/docs/self_guided_walking_tour_-_march_2020">self guided walking tour</a>.
 <h2>On Campus</h2>
 <strong><em>We hope to start offering on campus information sessions and tours after May 15.</em></strong>
 <ul>
