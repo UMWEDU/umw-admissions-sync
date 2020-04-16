@@ -5,7 +5,7 @@ author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/contact-graduate/federal-teach-grant/
+  http://www.umw.edu/admissions/graduate/federal-teach-grant/
 published: true
 post_date: 2020-04-16 13:17:07
 ---
