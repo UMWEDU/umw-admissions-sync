@@ -21,6 +21,8 @@ All session are at 12 p.m.<strong>
 <a href="https://admissions.umw.edu/register/MBAVirtualMay2020">Friday, June 26</a>
 <h3>Master of Education</h3>
 <a href="https://admissions.umw.edu/register/EducationVirtualApril2020">Monday, April 27</a> at 12 p.m. (Virtual Session)
+<h3>Master of Science in Geospatial Analysis</h3>
+<a href="https://admissions.umw.edu/register/MSGAApril2020">Wednesday, April 29</a> at 6 p.m. (Virtual Session)
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
 <h3>Master of Business Administration</h3>
