@@ -15,12 +15,9 @@ The best way to learn about graduate programs at the University of Mary Washingt
 
 <strong>MBA Virtual Information Session</strong>
 
-All session are at 12 p.m.<strong>
-</strong><a href="https://admissions.umw.edu/register/MBAVirtualApril2020">Friday, April 24</a>
+All session are at 12 p.m.
 <a href="https://admissions.umw.edu/register/MBAVirtualMay2020">Friday, May 29</a>
 <a href="https://admissions.umw.edu/register/MBAVirtualMay2020">Friday, June 26</a>
-<h3>Master of Education</h3>
-<a href="https://admissions.umw.edu/register/EducationVirtualApril2020">Monday, April 27</a> at 12 p.m. (Virtual Session)
 <h3>Master of Science in Geospatial Analysis</h3>
 <a href="https://admissions.umw.edu/register/MSGAApril2020">Wednesday, April 29</a> at 6 p.m. (Virtual Session)
 <h1>Individual Attention</h1>
