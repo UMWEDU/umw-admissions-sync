@@ -56,4 +56,4 @@ Save a small piece of the campus experience on your device or social media.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
 <h2>Self Guided Walking Tour</h2>
-<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?backgroundColor=%23edf3f4&d=self_guided_walking_tour_-_march_2020&u=umwpublications"></iframe>
+<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:540px;" src="//e.issuu.com/embed.html?backgroundColor=%23edf3f4&d=self_guided_walking_tour_-_march_2020&hideIssuuLogo=true&u=umwpublications"></iframe>
