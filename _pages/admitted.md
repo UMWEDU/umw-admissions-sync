@@ -16,12 +16,6 @@ While we're unable to hold on campus events for admitted students, we hope you j
 At the end of each evening, there is a UMW current student led session to answer any follow up questions related to the evening’s virtual session or just to answer general questions and connect with you. Check your email for an invitation to the Go Live Zoom link or email your personal counselor to have it sent again.
 
 Are you looking for more details on your steps to accept your offer of admission and enroll for fall?  Join us for a <strong>Next Steps virtual session</strong> for a quick overview and Q&amp;A for both admitted and deposited students. These sessions are held every Wednesday at 12 p.m. Please <a href="https://admissions.umw.edu/portal/webinars">register</a> for your preferred date. We are here to help you through these important steps this spring.
-<h3>Parents and family</h3>
-There will be a mini-series just for you!
-
-<a href="https://admissions.umw.edu/register/CampusSafetyApril2020">Campus Safety</a> on April 22 at 6 p.m. Hear from the Chief of Police and the Vice President for Student Affairs
-
-<a href="https://admissions.umw.edu/register/ParenttoParentApril2020">Parent to Parent</a> on April 23 at 6 p.m. Hear from the Parent Leadership Circle who are parents of former and current students.
 
 Please note that all on and off campus university events are cancelled until June 10. If you have questions regarding the cancelled admissions events/tours, contact the Admissions office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
 
