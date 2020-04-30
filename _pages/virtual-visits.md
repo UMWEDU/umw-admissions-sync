@@ -15,7 +15,7 @@ post_date: 2020-04-10 09:07:10
 <h2>Virtual Interest Sessions</h2>
 We hate that you can’t make it to campus so we’re bringing faculty, staff, and programs to you! Join a virtual interest session from Admissions or various academic and student service departments to find out more about life at Mary Washington. Check out our full list of upcoming sessions and sample lectures below. We hope you join us!
 
-<a class="button" style="color: #fff;text-decoration: none" href="https://admissions.umw.edu/portal/webinars">Upcoming Virtual Sessions</a>
+<a class="button" style="color: #fff; text-decoration: none;" href="https://admissions.umw.edu/portal/webinars">Upcoming Virtual Sessions</a>
 
 Pre-registration is required. If you have any questions, please contact the Admissions Office at 540/654-2000 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>. We look forward to chatting with you!
 
@@ -43,16 +43,17 @@ Pre-registration is required. If you have any questions, please contact the Admi
 <h2>Virtual Tour</h2>
 It’s not like being here, but you can get a feel for UMW by following along with our guided interactive tour.
 
-<a class="button" style="color: #fff;text-decoration: none" href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Virtual Tour</a>
+<a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Virtual Tour</a>
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
 
-<a class="button" style="color: #fff;text-decoration: none" href="https://umw.university-tour.com/homepage.php">View our Video Viewbook</a>
+<a class="button" style="color: #fff; text-decoration: none;" href="https://umw.university-tour.com/homepage.php">View our Video Viewbook</a>
 
 </div>
 </div>
 <h2>Digital Swag</h2>
 Save a small piece of the campus experience on your device or social media.
 
-<a class="button" style="color: #fff;text-decoration: none" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
+<a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
 <h2>Self Guided Walking Tour</h2>
+<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?backgroundColor=%23edf3f4&d=self_guided_walking_tour_-_march_2020&u=umwpublications"></iframe>
