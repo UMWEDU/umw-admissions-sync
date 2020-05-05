@@ -7,7 +7,7 @@ author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/5-year-pathway-initial-licensure-programs-application/
+  http://www.umw.edu/admissions/ug-pathway-initial-licensure-programs-application/
 published: true
 post_date: 2017-10-11 11:09:26
 ---
