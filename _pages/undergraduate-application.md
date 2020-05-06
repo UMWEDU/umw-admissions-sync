@@ -12,6 +12,8 @@ post_date: 2015-08-07 14:29:16
 The University of Mary Washington welcomes your application for admission!
 <h2>Apply Online</h2>
 UMW accepts both <a href="https://apply.commonapp.org/login">The Common Application</a> and the <a href="https://admissions.umw.edu/register/application">UMW Application</a>. Please submit the application along with an essay, application fee, or approved waiver.
+
+<em>Please note: Mary Washington continues to accept applications for both freshman and transfer students as COVID impacts plans and students need alternatives. We will continue to accept and review applications for admission as space is available in our class. The university's plan is to be face to face in late August for the fall semester.</em>
 <h2>Suggested Filing Dates</h2>
 <ul>
  	<li>Freshman Applicants
@@ -21,7 +23,7 @@ UMW accepts both <a href="https://apply.commonapp.org/login">The Common Applicat
  	<li>Regular Decision - February 1</li>
 </ul>
 </li>
- 	<li>Transfer Applicants - <em>Please note that the application filing dates have been suspended due to the COVID-19 outbreak.</em>
+ 	<li>Transfer Applicants
 <ul>
  	<li>Summer admission - March 1</li>
  	<li>Fall admission - April 1</li>
