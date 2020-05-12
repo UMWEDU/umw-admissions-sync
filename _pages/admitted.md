@@ -17,6 +17,6 @@ At the end of each evening, there is a UMW current student led session to answer
 
 Are you looking for more details on your steps to accept your offer of admission and enroll for fall?  Join us for a <strong>Next Steps virtual session</strong> for a quick overview and Q&amp;A for both admitted and deposited students. These sessions are held every Wednesday at 12 p.m. Please <a href="https://admissions.umw.edu/portal/webinars">register</a> for your preferred date. We are here to help you through these important steps this spring.
 
-Please note that all on and off campus university events are cancelled until June 10. If you have questions regarding the cancelled admissions events/tours, contact the Admissions office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
+Please note that all on and off campus university events are cancelled until the end of June. If you have questions regarding the cancelled admissions events/tours, contact the Admissions office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
 
 &nbsp;
