@@ -43,7 +43,7 @@ Pre-registration is required. If you have any questions, please contact the Admi
 <h2>Virtual Tour</h2>
 It’s not like being here, but you can get a feel for UMW by following along with our guided interactive tour.
 
-<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=63572&data-image-width=100%&data-image-height=100%&">Launch Experience</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=63572&data-image-width=100%&data-image-height=300&">Launch Experience</a>
 					
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
