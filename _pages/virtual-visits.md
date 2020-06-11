@@ -43,7 +43,8 @@ Pre-registration is required. If you have any questions, please contact the Admi
 <h2>Virtual Tour</h2>
 It’s not like being here, but you can get a feel for UMW by following along with our guided interactive tour.
 
-<a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Virtual Tour</a>
+<a alt="Launch Experience" href="https://www.youvisit.com/#/vte/?data-platform=v&data-link-type=immersive&data-inst=63572&data-image-width=100%&data-image-height=100%&">Launch Experience</a>
+					
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
 
@@ -56,4 +57,4 @@ Save a small piece of the campus experience on your device or social media.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
 <h2>Self Guided Walking Tour</h2>
-<iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:540px;" src="//e.issuu.com/embed.html?backgroundColor=%23edf3f4&d=self_guided_walking_tour_-_march_2020&hideIssuuLogo=true&u=umwpublications"></iframe>
+<iframe style="border: none; width: 100%; height: 540px;" src="//e.issuu.com/embed.html?backgroundColor=%23edf3f4&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
