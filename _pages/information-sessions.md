@@ -13,12 +13,10 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h3>Master of Business Administration</h3>
 <strong>Virtual Sessions</strong>
 
-<a href="https://admissions.umw.edu/register/MBASessionJune2020">Tuesday, June 9</a> at 6 p.m.
 <a href="https://admissions.umw.edu/register/MBAVirtualMay2020">Friday, June 26</a> at 12 p.m.
 <h3>Master of Education</h3>
 <strong>Virtual Sessions</strong>
 
-<a href="https://admissions.umw.edu/register/MEdJune112020">Thursday, June 11</a> at 5 p.m.
 <a href="https://admissions.umw.edu/register/MEdJune242020">Wednesday, June 24</a> at 11 a.m.
 <h3>Master of Science in Geospatial Analysis</h3>
 Please schedule an appointment at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to discuss details of the program and answer any questions you may have.
