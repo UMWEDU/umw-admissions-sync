@@ -40,7 +40,7 @@ Graduates of the UMW MBA program are well prepared for a variety of leadership p
 <h4><strong>Application Process</strong></h4>
 To enroll during the fall semester, the suggested filing date is Aug. 1. For spring, the suggested filing date is Nov. 15. For summer term, it is April 1. UMW accepts post-filing date applications on a rolling, space-available basis.
 <ul>
- 	<li>Complete the <a href="https://www.applyweb.com/umw/menu.html">Online Application for Admission</a></li>
+ 	<li>Complete the <a href="https://admissions.umw.edu/apply/?sr=a8f154ae-97ae-4eca-8187-234651110b0e">Online Application for Admission</a></li>
  	<li>Earned bachelor’s degree from a regionally accredited college or university.
 <ul>
  	<li>Additional official transcripts may also be required to verify transfer coursework.</li>
