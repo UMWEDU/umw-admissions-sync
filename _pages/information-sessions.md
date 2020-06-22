@@ -13,7 +13,7 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h3>Master of Business Administration</h3>
 <strong>Virtual Sessions</strong>
 
-<a href="https://admissions.umw.edu/register/MBAVirtualMay2020">Friday, June 26</a> at 12 p.m.
+<a href="https://admissions.umw.edu/register/MBAVirtualJune2020">Friday, June 26</a> at 12 p.m.
 <h3>Master of Education</h3>
 <strong>Virtual Sessions</strong>
 
