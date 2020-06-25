@@ -13,9 +13,11 @@ post_date: 2014-11-05 11:10:41
 
 <strong>Spring</strong> Deadline: Due by the date indicated on your letter
 
-<strong>Fall</strong> Deadline: May 1. <span style="color: #ff0000"><em>Please note the date has been extended until June 1. </em></span>
+<strong>Fall</strong> Deadline: May 1.
 
-To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. If you experience any difficulties please contact <a href="mailto:admit@umw.edu">admit@umw.edu</a>. </em>
+To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. If you experience any difficulties please contact <a href="mailto:admit@umw.edu">admit@umw.edu</a>. </em>
+
+<em>Please note the deposit site will be down for maintenance from Monday, June 29 at 4 p.m. until Wednesday, July 1 at 12 p.m.</em>
 <h2>Admissions Deposit Online Payment</h2>
 [gravityform id="34" title="false" description="false" tabindex="-1"]
 <h3>Benefits to paying early include:</h3>
