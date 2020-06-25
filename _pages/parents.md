@@ -11,7 +11,7 @@ post_date: 2015-06-03 09:06:51
 ---
 <img class="alignnone size-full wp-image-48038" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2015/06/UMWMom-e1441229944460.jpg" alt="Mom and daughter in a residence hall." width="100%" />
 <h2>Parent’s Summer Chat Series</h2>
-We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, we’re scheduling a Chat Series for parents that will occur this summer.
+We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, check out the <a href="https://admissions.umw.edu/portal/orientation_webinars">webinar series</a> through Orientation.
 
 We hope you join us to learn how you can support your student from home.  Whether home is Stafford County, VA or San Diego, CA, they are transitioning to their new routine just as you are transitioning to yours. You may have heard from them, or maybe not, about new experiences with professors, classes, extra-curriculars, the city of Fredericksburg, or even laundry in the residence halls. And this may lead you to think about their interaction in our community.
 
