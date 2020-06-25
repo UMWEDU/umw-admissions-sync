@@ -17,7 +17,7 @@ We hope you join us to learn how you can support your student from home.  Wheth
 
 Our staff are happy to take your questions, accept your comments, and address concerns to help you learn more about:
 <ul>
- 	<li>Join the <a href="https://www.facebook.com/groups/UMWClassof2023Parents/">Parents of 2023</a> Facebook group to stay informed.</li>
+ 	<li>Join the <a href="https://www.facebook.com/groups/UMWParents2024/">Parents of 2024</a> Facebook group to stay informed.</li>
  	<li><a href="/familyweekend/">Family Weekend</a> activities (Oct. 2-4)</li>
  	<li>Academic support systems (tutoring, the <a href="http://academics.umw.edu/writing-fredericksburg/">Writing Center</a>, the <a href="http://academics.umw.edu/speaking/speaking-center/">Speaking Center</a>, professors’ office hours)</li>
  	<li>Meal plans and other dining options</li>
