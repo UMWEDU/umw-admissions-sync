@@ -9,10 +9,6 @@ permalink: >
 published: true
 post_date: 2015-06-03 09:06:51
 ---
-&nbsp;
-
-&nbsp;
-
 <img class="aligncenter size-large wp-image-48837" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/06/Parent-pic-1024x670.jpg" alt="" width="1024" height="670" />
 <h2>Parent’s Summer Chat Series</h2>
 We’re excited to have your student on campus!  To help you navigate the transition of your student joining the UMW community, check out the <a href="https://admissions.umw.edu/portal/orientation_webinars">webinar series</a> through Orientation.
