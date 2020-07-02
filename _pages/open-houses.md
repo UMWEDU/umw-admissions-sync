@@ -15,7 +15,7 @@ Throughout the day you’ll hear from current students about everything from wee
 
 Pre-registration will close the weekday before the event, but on-site registrations are warmly welcomed; please arrive by 8:30 a.m. so we may register you on-site. An email will be sent a few days prior to the event with any final details. We look forward to seeing you on campus!
 <h3>Fall Open House</h3>
-Schedule is under construction
+Schedule is under construction. Virtual Open Houses coming soon
 <h3>Spring Open House</h3>
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
