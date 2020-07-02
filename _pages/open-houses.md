@@ -10,7 +10,7 @@ published: true
 post_date: 2015-08-07 12:51:14
 ---
 <em>Especially for high school juniors and seniors and transfer students.</em>
-<h2>Come explore UMW during an Open House!</h2>
+<h2>Explore UMW during an Open House!</h2>
 The day is filled with sessions about academics, special interests, and student life.
 <h3>Fall Open House</h3>
 Schedule is under construction. Virtual Open Houses coming soon.
