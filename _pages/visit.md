@@ -29,10 +29,10 @@ Campus tours and information sessions beginning on July 6.
 Tours will be at 9:30 a.m., 11 a.m., 1 p.m. and 2:30 p.m.
 Information sessions will be held at 10:30 a.m. and 2 p.m.
 
-UMW is adhering to recommendations from the Centers for Disease Control and Prevention (CDC) “<a href="https://www.cdc.gov/coronavirus/2019-ncov/community/colleges-universities/considerations.html">Considerations for Institutes of Higher Education</a>,” including Governor Northam’s “<u><a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Virginia-Forward-Phase-One-Business-Sector-Guidelines.pdf">Forward Virginia</a></u>” plan, and the Virginia Department of Health (VDH) such as the “<a href="https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-Testing-for-Colleges-and-Universities.pdf">COVID-19 Interim Testing Recommendations for Colleges and Universities</a>”
+UMW is adhering to recommendations from the Centers for Disease Control and Prevention (CDC) “<a href="https://www.cdc.gov/coronavirus/2019-ncov/community/colleges-universities/considerations.html">Considerations for Institutes of Higher Education</a>,” including Governor Northam’s “<u><a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Virginia-Forward-Phase-One-Business-Sector-Guidelines.pdf">Forward Virginia</a></u>” plan, and the Virginia Department of Health (VDH) such as the “<a href="https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-Testing-for-Colleges-and-Universities.pdf">COVID-19 Interim Testing Recommendations for Colleges and Universities</a>.”
 <h3>Special Notes for Your Visit</h3>
 <ul>
- 	<li>Guests must register in advance for <a href="https://admissions.umw.edu/portal/event_landing">tours &amp; information sessions</a></li>
+ 	<li>Guests must register in advance for <a href="https://admissions.umw.edu/portal/event_landing">tours &amp; information sessions.</a></li>
  	<li>Information Sessions are limited to 30 guests and will take place indoors.</li>
  	<li>Campus tours will be limited to 10 guests per tour.</li>
  	<li>Guided campus tours will remain outside of buildings.</li>
