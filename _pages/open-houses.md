@@ -18,4 +18,4 @@ Schedule is under construction. Virtual Open Houses coming soon.
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
 
-Looking for other <a href="http://www.umw.edu/admissions/visit/">campus visit opportunities</a>?
+Looking for other <a href="http://www.umw.edu/admissions/visit/">virtual or campus visit opportunities</a>?
