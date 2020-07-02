@@ -26,8 +26,8 @@ It’s not exactly like being here, but you can get a feel for UMW by following 
 <h2>Daily Tours and Information Sessions</h2>
 Campus tours and information sessions beginning on July 6.
 
-Tours will be at 9:30 a.m., 11 a.m., 1 p.m. and 2:30 p.m.
-Information sessions will be held at 10:30 a.m. and 2 p.m.
+Tours will be 60 minutes and will take place at 9:30 a.m., 11 a.m., 1 p.m. and 2:30 p.m.
+Information sessions are 30 minutes and will be held at 10:30 a.m. and 2 p.m.
 
 UMW is adhering to recommendations from the Centers for Disease Control and Prevention (CDC) “<a href="https://www.cdc.gov/coronavirus/2019-ncov/community/colleges-universities/considerations.html">Considerations for Institutes of Higher Education</a>,” including Governor Northam’s “<u><a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Virginia-Forward-Phase-One-Business-Sector-Guidelines.pdf">Forward Virginia</a></u>” plan, and the Virginia Department of Health (VDH) such as the “<a href="https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-Testing-for-Colleges-and-Universities.pdf">COVID-19 Interim Testing Recommendations for Colleges and Universities</a>.”
 <h3>Special Notes for Your Visit</h3>
