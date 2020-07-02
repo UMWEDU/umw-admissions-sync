@@ -18,17 +18,16 @@ Currently, organized information sessions and student guided tours are not avail
 <h2>Virtual Visits</h2>
 <strong>Virtual Information Sessions</strong> - Pre-registration is required for the online webinars including daily information sessions and special topics. Please check the <a href="https://admissions.umw.edu/portal/webinars">calendar</a> for dates and times of sessions and to register.
 
+Please note virtual transfer sessions are also held at 4 p.m. Monday-Friday. Attend the <a href="https://admissions.umw.edu/portal/webinars">transfer information sessions</a> and learn about the admissions process at UMW.
+
 It’s not exactly like being here, but you can get a feel for UMW by following along with our <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">virtual campus tour</a>, <a href="https://umw.university-tour.com/homepage.php">interactive video viewbook</a> or taking a <a href="https://issuu.com/umwpublications/docs/self_guided_walking_tour_-_march_2020">self guided walking tour</a>.
 
 <a href="https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Experience</a>
 <h2>On Campus</h2>
 <ul>
  	<li><a href="https://admissions.umw.edu/portal/event_landing">Tours &amp; information sessions</a>: Learn about UMW and take a student-led tour. Sessions are held Monday through Friday at 10:30 a.m. and 2 p.m. and most Saturdays at 10:30 a.m. When you've arrive on campus, check in is in Lee Hall, room 301.</li>
- 	<li><a href="https://admissions.umw.edu/portal/transfer_events">Transfer information sessions</a>:  Learn about the transfer admissions process at UMW and take a tour. Registration is in Lee Hall, room 301.</li>
  	<li><a href="/admissions/visit/open-houses/">Open houses</a>: Get a glimpse of UMW academics, athletics, and student life. See classrooms, residence halls, and other key campus spots.</li>
- 	<li><a href="/admissions/visit/shadow-a-student/">Shadow a student</a>: Get up close and personal! Pick your visit (fall or spring) based on your academic interests and follow a current student through a typical day on campus. Reserved for high school seniors.</li>
  	<li><a href="https://admissions.umw.edu/portal/admission_interviews">Interview</a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2020 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing.  The interview must be completed by February 1 for consideration.</li>
- 	<li><a href="/admissions/visit/group-tours/">Group tours</a>: Register in advance to tour UMW and our amazing facilities with a group from your middle- or high-school, or other organization.</li>
 </ul>
 <h2>Can't Make it to Campus?</h2>
 We hope to see you on the road as we're traveling. Find out where we'll be <a href="https://admissions.umw.edu/portal/travel_calendar">next</a>!
