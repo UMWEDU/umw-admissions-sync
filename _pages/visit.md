@@ -16,7 +16,7 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 
 Please note <strong>virtual transfer sessions</strong> are also held at 4 p.m. Monday-Friday. Attend the <a href="https://admissions.umw.edu/portal/webinars">transfer information sessions</a> and learn about the admissions process at UMW.
 
-<strong><a href="https://admissions.umw.edu/portal/admission_interviews">Interview</a></strong>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2020 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing.  The interview must be completed by February 1 for consideration.
+<strong><a href="https://admissions.umw.edu/portal/admission_interviews">Interview</a></strong>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2021 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing.  The interview must be completed by February 1 for consideration.
 <h3>Open House</h3>
 <a href="/admissions/visit/open-houses/">Open houses</a>: Check back soon for fall virtual Open House dates
 <h2>Get a Feel for UMW</h2>
