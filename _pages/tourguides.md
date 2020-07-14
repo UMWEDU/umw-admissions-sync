@@ -1,6 +1,6 @@
 ---
 ID: 48839
-post_title: TourGuides
+post_title: Meet the Washington Tour Guides
 author: keury
 post_excerpt: ""
 layout: page
@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2020-07-14 09:38:41
 ---
-<h3><strong>Meet the Washington Tour Guides!</strong></h3>
 <img class="aligncenter size-page-feature wp-image-48853" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/07/Group-Photo-718x460.jpg" alt="" width="718" height="460" />
 
 &nbsp;
