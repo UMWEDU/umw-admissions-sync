@@ -21,7 +21,8 @@ Pre-registration is required. If you have any questions, please contact the Admi
 
 </div>
 <div class="column second">
-<h4>Recordings of some virtual interest session include:</h4>
+<div class="interest-session-links">
+<h4>Recordings of some virtual interest sessions include:</h4>
 <ul>
  	<li><a href="https://admissions.umw.edu/share/recording?id=08564fa1-86ce-4331-aa82-e6a3a438d68e">Career and Professional Development</a></li>
  	<li><a href="https://admissions.umw.edu/share/recording?id=9192a1a9-fcdf-4852-9c9c-b6b0c0c46794">College of Business</a></li>
@@ -39,21 +40,32 @@ Pre-registration is required. If you have any questions, please contact the Admi
  	<li><a href="https://admissions.umw.edu/share/recording?id=9efc3ad1-dfb5-4ca7-96f3-e23d8d776ff6">Theatre</a></li>
 </ul>
 </div>
-<div class="column third">
-<h2>Virtual Tour</h2>
-It’s not like being here, but you can get a feel for UMW by following along with our guided interactive tour.
-
-<a href="https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=300&amp;">Launch Experience</a>
 <h2>Video Viewbook</h2>
 Immerse yourself and learn about the opportunities, values, traditions, and location that set us apart.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://umw.university-tour.com/homepage.php">View our Video Viewbook</a>
-
-</div>
-</div>
 <h2>Digital Swag</h2>
 Save a small piece of the campus experience on your device or social media.
 
 <a class="button" style="color: #fff; text-decoration: none;" href="https://www.umw.edu/admissions/youarein/digital-swag/">Download Digital Swag</a>
+
+</div>
+<div class="column third">
+<h2>Daily Tours and Information Sessions</h2>
+We are once again offering daily, in-person campus tours and information sessions.
+<ul>
+ 	<li><strong>Tours</strong> will be <strong>60 minutes</strong> and will take place at <strong>9:30 a.m., 11 a.m., 1 p.m. and 2:30 p.m.</strong></li>
+ 	<li><strong>Information sessions</strong> are <strong>30 minutes</strong> and will be held at <strong>10:30 a.m. and 2 p.m.</strong></li>
+</ul>
+<a class="button" style="color: white; text-decoration: none;" href="https://admissions.umw.edu/portal/event_landing">Register Now</a>
+
+<em>The registration process will contain arrival protocol to minimize risk for yourself, your guests and the campus community. UMW is adhering to recommendations from the <a href="https://www.cdc.gov/coronavirus/2019-ncov/community/colleges-universities/considerations.html">Centers for Disease Control and Prevention (CDC)</a>, Governor Northam’s “<u><a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Virginia-Forward-Phase-One-Business-Sector-Guidelines.pdf">Forward Virginia</a></u>” plan, and the <a href="https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-Testing-for-Colleges-and-Universities.pdf">Virginia Department of Health (VDH)</a>.</em>
+
+</div>
+</div>
+<h2>Virtual Tour</h2>
+It’s not like being here, but you can get a feel for UMW by following along with our guided interactive tour.
+
+<a href="https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=300&amp;">Launch Experience</a>
 <h2>Self Guided Walking Tour</h2>
 <iframe style="border: none; width: 100%; height: 540px;" src="//e.issuu.com/embed.html?backgroundColor=%23edf3f4&amp;d=self_guided_walking_tour_-_march_2020&amp;hideIssuuLogo=true&amp;u=umwpublications" allowfullscreen="allowfullscreen"></iframe>
