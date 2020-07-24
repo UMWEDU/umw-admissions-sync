@@ -8,7 +8,7 @@ permalink: http://www.umw.edu/admissions/apply/
 published: true
 post_date: 2015-05-26 01:36:27
 ---
-The BA/BS, BLS, and graduate programs each have a separate application process.
+The BA/BS, BLS, and graduate programs each have a separate application process. Please note the the application sites will be down for maintenance from July 24-31.
 
 Mary Washington continues to accept applications as COVID impacts plans and students need alternatives. We will continue to accept and review applications for admission as space is available in our class. The university's plan is to be face to face in late August for the fall semester.
 
