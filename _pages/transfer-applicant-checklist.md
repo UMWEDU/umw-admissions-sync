@@ -16,6 +16,8 @@ Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ det
 Suggested filing dates are October 15 for the spring semester, April 1 for the fall semester and March 1 for summer. Admissions decisions are sent by letter as they are made.
 
 Use the checklist below to be sure you’ve got everything covered.
+
+Please note the the application sites will be down for maintenance from July 24-31.
 <ul>
  	<li>Apply online through <a href="https://apply.commonapp.org/login">The Common Application</a> and the <a href="https://admissions.umw.edu/register/QATransfer">UMW application</a> with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
  	<li>Ask your high school to send an official final transcript to UMW, no matter your age or total transfer credits, or submit your final GED results. (Home-schooled applicants should provide documentation of their educational experiences, as well.)</li>
