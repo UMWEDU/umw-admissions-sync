@@ -17,7 +17,7 @@ Suggested filing dates are October 15 for the spring semester, April 1 for the f
 
 Use the checklist below to be sure you’ve got everything covered.
 
-Please note the the application sites will be down for maintenance from July 24-31.
+<strong>Please note the the application sites will be down for maintenance from July 24-31.</strong> If you are still considering applying for Fall 2020, please contact your <a href="https://admissions.umw.edu/register/?id=5e2a8316-a566-4f82-92e5-89af7a4b3498">counselor</a> to expedite this time sensitive process.
 <ul>
  	<li>Apply online through <a href="https://apply.commonapp.org/login">The Common Application</a> and the <a href="https://admissions.umw.edu/register/QATransfer">UMW application</a> with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
  	<li>Ask your high school to send an official final transcript to UMW, no matter your age or total transfer credits, or submit your final GED results. (Home-schooled applicants should provide documentation of their educational experiences, as well.)</li>
