@@ -23,7 +23,7 @@ Prospective high school seniors have the option to <a href="https://admissions.u
 <h2>First Year Admission Checklist</h2>
 Use the checklist below to be sure you’ve got everything covered.
 
-Please note the the application sites will be down for maintenance from July 24-31.
+<strong>Please note the the application sites will be down for maintenance from July 24-31.</strong> If you are still considering applying for Fall 2020, please contact your <a href="https://admissions.umw.edu/register/?id=5e2a8316-a566-4f82-92e5-89af7a4b3498">counselor</a> to expedite this time sensitive process.
 <ul>
  	<li>UMW accepts both <a href="https://apply.commonapp.org/login">The Common Application</a> and the <a href="https://admissions.umw.edu/register/fyquickapp">UMW Application</a>. Please submit the application along with an essay, application fee, or approved waiver.</li>
  	<li>Create a ZeeMee profile to bring your application to life!  Share your passion, talents, and interests through videos or photos directly with your admissions counselor. Don’t have ZeeMee? Get it for free at <a href="http://www.zeemee.com">www.zeemee.com</a>. Include your ZeeMee link within your application for admission.</li>
