@@ -74,8 +74,8 @@ Six (6) additional credits chosen from any other 500-level GBUS or MMIS course.
 &nbsp;
 <h4><strong>How can I learn more about UMW’s MBA program?</strong></h4>
 Contact Information:
-David Harger
-Assistant Director of Graduate Admissions
+Christy Pack
+Director of Graduate Admissions
 UMW Graduate Admissions
 540-286-8088
-<a href="mailto:dharger@umw.edu">dharger@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
+<a href="mailto:dharger@umw.edu">dpack@umw.edu</a> or <a href="mailto:graduate@umw.edu">graduate@umw.edu</a>
