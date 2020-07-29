@@ -26,11 +26,9 @@ It’s not exactly like being here, but you can get a feel for UMW by following 
 <h2>Daily Tours and Information Sessions</h2>
 We are once again offering daily, in-person campus tours and information sessions.
 <ul>
- 	<li><strong>Tours</strong> will be <strong>60 minutes</strong> and will take place at <strong>9:30 a.m., 11 a.m., 1 p.m. and 2:30 p.m.</strong></li>
- 	<li><strong>Information sessions</strong> are <strong>30 minutes</strong> and will be held at <strong>10:30 a.m. and 2 p.m.</strong></li>
+ 	<li><strong><a href="https://admissions.umw.edu/portal/event_landing">Tours</a>:</strong> Campus tours will be <strong>60 minutes</strong> and will take place at <strong>9:30 a.m., 11 a.m., 1 p.m. and 2:30 p.m.</strong></li>
+ 	<li><strong><a href="https://admissions.umw.edu/portal/event_landing">Information sessions</a>:</strong> In-person sessions are <strong>30 minutes</strong> and will be held at <strong>10:30 a.m. and 2 p.m.</strong></li>
 </ul>
-<a class="button" style="color: white; text-decoration: none;" href="https://admissions.umw.edu/portal/event_landing">Register Now</a>
-
 <em>The registration process will contain arrival protocol to minimize risk for yourself, your guests and the campus community. UMW is adhering to recommendations from the <a href="https://www.cdc.gov/coronavirus/2019-ncov/community/colleges-universities/considerations.html">Centers for Disease Control and Prevention (CDC)</a>, Governor Northam’s “<u><a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Virginia-Forward-Phase-One-Business-Sector-Guidelines.pdf">Forward Virginia</a></u>” plan, and the <a href="https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-Testing-for-Colleges-and-Universities.pdf">Virginia Department of Health (VDH)</a>.</em>
 <h2>How to get here:</h2>
 The main campus is located at <a href="https://www.google.com/maps/place/University+of+Mary+Washington/@38.3005178,-77.4749152,15z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e987a255:0x1ef2db66d097c3c1">1301 College Avenue, Fredericksburg, VA 22401</a>. The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
