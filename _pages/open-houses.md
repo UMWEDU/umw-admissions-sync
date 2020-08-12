@@ -13,7 +13,9 @@ post_date: 2015-08-07 12:51:14
 <h2>Explore UMW during an Open House!</h2>
 The day is filled with sessions about academics, special interests, and student life.
 <h3>Fall Open House</h3>
-Schedule is under construction. Virtual Open Houses coming soon.
+<a href="https://admissions.umw.edu/register/Sept2020OpenHouse">September 26</a>
+<a href="https://admissions.umw.edu/register/Oct2020OpenHouse">October 17</a>
+<a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
 <h3>Spring Open House</h3>
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
