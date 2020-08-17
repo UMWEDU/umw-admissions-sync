@@ -16,7 +16,6 @@ Virtual Sessions at 5 p.m.
 <a href="https://admissions.umw.edu/register/?id=a2fb9f63-bf11-4c02-8655-02822c726aaf">Tuesday, August 25</a>
 <h3>Master of Education</h3>
 Virtual Sessions at 5 p.m.
-<a href="https://admissions.umw.edu/register/?id=35966fd4-c1d4-456c-9982-eabf0f7a90cb">Tuesday, August 11</a>
 <a href="https://admissions.umw.edu/register/?id=7a9df71f-dbd3-48cb-96ec-8e58be685fa5">Thursday, August 27</a>
 <h3>Master of Science in Geospatial Analysis</h3>
 Please schedule an appointment at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to discuss details of the program and answer any questions you may have.
