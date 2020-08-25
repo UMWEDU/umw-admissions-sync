@@ -21,12 +21,14 @@ UMW partners with Germanna Community College to provide a unique dual degree pro
 <ul>
  	<li>Admission is determined with the first year application for admission.</li>
  	<li>First year applicants must indicate pre-nursing as their primary academic interest within the application to be considered.</li>
- 	<li>Students proceed as a cohort and are not admitted to the program as new transfer students or continuing sophomores or juniors. (Please visit the <a href="https://cas.umw.edu/nursing/dual-degrees/">BSN Program</a> for details regarding admission as a transfer student go here)</li>
- 	<li>Applicants are strongly encouraged to apply under Early Decision (binding admission) or Early Action (non-binding admission) application processes for maximum consideration.</li>
- 	<li>Competitive applicants should have earned at least a “B” in high school math and science coursework including Algebra, Biology, and Chemistry.</li>
+ 	<li>Students proceed as a cohort and are not admitted to the program as new transfer students or continuing sophomores or juniors. (Please visit the <strong><a href="https://cas.umw.edu/nursing/dual-degrees/">BSN Program</a></strong> for details regarding admission as a transfer student)</li>
+ 	<li>Admission to the program is competitive.</li>
+ 	<li>Applicants are strongly encouraged to <strong>apply early</strong> under Early Decision (binding admission) or Early Action (non-binding admission) application processes for maximum consideration.</li>
+ 	<li>Competitive applicants should have earned at least a “B” in high school math and science coursework including Algebra, Geometry, Biology, and Chemistry.</li>
  	<li>Students may <strong>not</strong> apply test choice for pre-nursing consideration. Minimum scores of 520 on Evidence Based Critical Reading and 520 on the Math sections of the new SAT are required to continue on track within the cohort. Similar ACT scores of 22 will be considered.</li>
+ 	<li><strong>Due to COVID-19 impact on test availability</strong>, students with a minimum weighted GPA of 3.5 may be considered for pre-nursing <strong>without</strong> test scores for fall 2021.</li>
  	<li>Students offered admission may be considered for the Student Transition Program but are not able to participate in the Honors Program.</li>
- 	<li>Students who are offered admission and wish to enroll are encouraged to deposit early to reserve space. Space is limited to 18 enrolling students each fall.</li>
+ 	<li>Students who are offered admission and wish to enroll are encouraged to deposit early to reserve space. Spaces in this program are limited to 20 enrolling students each fall and have filled as early as March 1.</li>
  	<li>For additional 1+2+1 Partnership Plan details visit the <a href="http://www.umw.edu/admissions/adult/bsn/app/">BSN Academic Partnership Plan</a>.</li>
 </ul>
 <h3><a name="STP"></a><strong>Admission to the Student Transition Program</strong></h3>
