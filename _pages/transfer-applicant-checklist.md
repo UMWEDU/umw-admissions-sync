@@ -11,13 +11,9 @@ post_date: 2015-05-26 18:51:51
 ---
 Once you’re ready to apply you’ll need all the ‘when’ and ‘what’ details. Take a look at this handy checklist and start getting everything submitted. We’re excited to read your application!
 
-<span style="color: #ff0000"><em>Please note that the application filing dates have been suspended due to the COVID-19 outbreak. </em></span>
-
 Suggested filing dates are October 15 for the spring semester, April 1 for the fall semester and March 1 for summer. Admissions decisions are sent by letter as they are made.
 
 Use the checklist below to be sure you’ve got everything covered.
-
-<strong>If you are still considering applying for Fall 2020, please contact your <a href="https://admissions.umw.edu/register/?id=5e2a8316-a566-4f82-92e5-89af7a4b3498">counselor</a> to expedite this time sensitive process.</strong>
 <ul>
  	<li>Apply online through <a href="https://apply.commonapp.org/login">The Common Application</a> and the <a href="http://admissions.umw.edu/apply">UMW application</a> with all accompanying materials, including your essay and the application fee (or approved waiver), to UMW.</li>
  	<li>Ask your high school to send an official final transcript to UMW, no matter your age or total transfer credits, or submit your final GED results. (Home-schooled applicants should provide documentation of their educational experiences, as well.)</li>
