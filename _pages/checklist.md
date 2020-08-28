@@ -13,7 +13,6 @@ post_date: 2015-05-26 18:51:28
 
 Take a look at the checklist below and start getting everything submitted. We’re excited to read your application!
 <h2><strong>Suggested filing dates:</strong></h2>
-Mary Washington continues to accept applications as COVID impacts plans and students need alternatives. We will continue to accept and review applications for admission as space is available in our class. The university's plan is to be face to face in late August for the fall semester.
 <ul>
  	<li>Nov. 1 - Early Decision (notification by December 10 and reply date of January 10)</li>
  	<li>Nov. 15 - Early Action (notification by January 31 and reply date of May 1)</li>
