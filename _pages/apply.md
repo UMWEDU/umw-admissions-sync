@@ -10,8 +10,6 @@ post_date: 2015-05-26 01:36:27
 ---
 The BA/BS, BLS, and graduate programs each have a separate application process.
 
-<strong>If you are still considering applying for Fall 2020, please contact your <a href="https://admissions.umw.edu/register/?id=5e2a8316-a566-4f82-92e5-89af7a4b3498">counselor</a> to expedite this time sensitive process for BA/BS and BLS programs.</strong>
-
 Mary Washington continues to accept applications as COVID impacts plans and students need alternatives. We will continue to accept and review applications for admission as space is available in our class. The university's plan is to be face to face in late August for the fall semester.
 
 Please select a program for further information:
