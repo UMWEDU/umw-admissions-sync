@@ -10,8 +10,6 @@ post_date: 2015-05-26 01:36:27
 ---
 The BA/BS, BLS, and graduate programs each have a separate application process.
 
-Mary Washington continues to accept applications as COVID impacts plans and students need alternatives. We will continue to accept and review applications for admission as space is available in our class. The university's plan is to be face to face in late August for the fall semester.
-
 Please select a program for further information:
 <div class="one-half first">
 <div class="CTAbutton CTAdkgreen" style="font-size: 1em"><a href="/admissions/apply/undergraduate-application/">Undergraduate</a></div>
