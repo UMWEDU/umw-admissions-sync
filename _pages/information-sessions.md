@@ -11,12 +11,19 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Registration is encouraged, but is not required for in person sessions. for  except for virtual.
 <h3>Master of Business Administration</h3>
-Virtual Sessions
-<a href="https://admissions.umw.edu/register/?id=a2fb9f63-bf11-4c02-8655-02822c726aaf">Tuesday, August 25</a> - 5 p.m.
-<a href="https://admissions.umw.edu/register/MBASept2020">Wednesday, September 16</a> - 6 p.m.
+Virtual Sessions at 6 p.m.
+<a href="https://admissions.umw.edu/register/MBASept2020">Wednesday, September 16</a>
+<a href="https://admissions.umw.edu/register/Oct12020">Thursday, October 1</a>
+<a href="https://admissions.umw.edu/register/Oct272020">Tuesday, October 27</a>
+<a href="https://admissions.umw.edu/register/MBANov192020">Thursday, November 19</a>
+<a href="https://admissions.umw.edu/register/MBADec2020">Wednesday, December 9</a>
 <h3>Master of Education</h3>
 Virtual Sessions at 5 p.m.
-<a href="https://admissions.umw.edu/register/?id=7a9df71f-dbd3-48cb-96ec-8e58be685fa5">Thursday, August 27</a>
+<a href="https://admissions.umw.edu/register/MEdSept2020">Thursday, September 17</a>
+<a href="https://admissions.umw.edu/register/MEdOct62020">Tuesday, October 6</a>
+<a href="https://admissions.umw.edu/register/MEdOct282020">Wednesday, October 28</a>
+<a href="https://admissions.umw.edu/register/MEdNov172020">Tuesday, November 17</a>
+<a href="https://admissions.umw.edu/register/MEdDec102020">Thursday, December 10</a>
 <h3>Master of Science in Geospatial Analysis</h3>
 Please schedule an appointment at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to discuss details of the program and answer any questions you may have.
 <h1>Individual Attention</h1>
