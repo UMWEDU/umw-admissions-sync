@@ -11,9 +11,7 @@ post_date: 2015-08-07 12:51:14
 ---
 <em>Especially for high school juniors and seniors and transfer students.</em>
 <h2>Explore UMW during an Open House!</h2>
-Join us for a virtual Open House (from 10 a.m. - 1 p.m.) and get an overview on student life, academic programs, and hear from the deans of the College of Arts and Sciences, College of Business, and College of Education.
-
-Additional sessions include:
+Join us for a virtual Open House (from 10 a.m. - 1 p.m.) and get an overview on student life, academic programs, and hear from the deans of the College of Arts and Sciences, College of Business, and College of Education. Additional sessions include:
 <ul>
  	<li>Admissions</li>
  	<li>Financial Aid</li>
@@ -22,12 +20,19 @@ Additional sessions include:
  	<li>Student Transition Program</li>
 </ul>
 All these sessions and more will be available. We hope you join us to see why Mary Wash is right for you! Register by selecting a date below.
-
-Then come back and join us virtually in October and November for a deeper dive into Arts and Humanities, Business, Education, STEM and more. Stay tuned for more details.
 <h3>Virtual Fall Open House</h3>
 <a href="https://admissions.umw.edu/register/Sept2020OpenHouse">September 26</a>
 <a href="https://admissions.umw.edu/register/Oct2020OpenHouse">October 17</a>
 <a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
+<h3>Eagle Week</h3>
+Join us October 5-8 starting at 6 p.m. to take a more in-depth look at what UMW has to offer. Please select the date and topic below to register.
+
+<a href="https://admissions.umw.edu/register/EagleWeekOct5">October 5 - Explore Your Academic Interest</a>
+<a href="https://admissions.umw.edu/register/EagleWeekOct6">October 6 - Tips to Applying for College and Financial Aid</a>
+<a href="https://admissions.umw.edu/register/EagleWeekOct7">October 7 - Tour the UMW Campus</a>
+<a href="https://admissions.umw.edu/register/EagleWeekOct8">October 8 - Student Life and Activities</a>
+
+Then come back and join us virtually in October and November for a deeper dive into Arts and Humanities, Business, Education, STEM and more. Stay tuned for more details.
 <h3>Spring Open House</h3>
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
