@@ -24,6 +24,13 @@ All these sessions and more will be available. We hope you join us to see why Ma
 <a href="https://admissions.umw.edu/register/Sept2020OpenHouse">September 26</a>
 <a href="https://admissions.umw.edu/register/Oct2020OpenHouse">October 17</a>
 <a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
+<h3><strong>Eagle Week</strong></h3>
+Join us October 5-8 starting at 6 p.m. to take a more in-depth look at what UMW has to offer. Please select the date and topic below to register.
+
+<a href="https://admissions.umw.edu/register/EagleWeekOct5">October 5 - Explore Your Academic Interest</a>
+<a href="https://admissions.umw.edu/register/EagleWeekOct6">October 6 - Tips to Applying for College and Financial Aid</a>
+<a href="https://admissions.umw.edu/register/EagleWeekOct7">October 7 - Tour the UMW Campus</a>
+<a href="https://admissions.umw.edu/register/EagleWeekOct8">October 8 - Student Life and Activities</a>
 
 Then come back and join us virtually in October and November for a deeper dive into Arts and Humanities, Business, Education, STEM and more. Stay tuned for more details.
 <h3>Spring Open House</h3>
