@@ -17,8 +17,8 @@ High school, transfer, and international students.
 
 </div>
 <div class="one-half">
-<div class="CTAbutton CTAburgundy" style="font-size: 1em"><a class="GraduateApp" href="https://admissions.umw.edu/apply/?sr=a8f154ae-97ae-4eca-8187-234651110b0e">Graduate</a></div>
-For graduate degree and certificate programs. <em>Please note the graduation application site will be down for maintenance from September 7-11.</em>
+<div class="CTAbutton CTAburgundy" style="font-size: 1em">Graduate</div>
+For graduate degree and certificate programs. <em>Please note the graduation application site will be down for maintenance until September 11.</em>
 
 </div>
 <div class="one-half first">
