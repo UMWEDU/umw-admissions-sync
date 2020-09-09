@@ -11,12 +11,18 @@ post_date: 2015-08-07 16:19:06
 ---
 <div id="content">
 <div id="mainContent">
-<div>
 <div id="primaryContent">
 
-First-year, degree-seeking applicants may be eligible for the scholarships listed below. Scholarship amounts vary based on a student's status including if the student lives instate or out of state and whether the student is a residential or commuter student. Transfer students that apply by the preferred application filing dates will be given automatic consideration for <a href="https://www.umw.edu/admissions/transfer/transfer-scholarships/">Transfer Merit Scholarships</a>.
+First-year, degree-seeking applicants may be eligible for the scholarships listed below. Scholarship amounts vary based on a student's status including if the student lives instate or out of state and whether the student is a residential or commuter student.
 
-</div>
+<a href="https://www.umw.edu/admissions/in-state-merit-scholarships/">In-State Merit Scholarship Chart</a>
+
+<a href="https://www.umw.edu/admissions/out-of-state-merit-scholarship/">Out-of-State Merit Scholarship Chart</a>
+
+Are you considering applying to UMW using the test choice policy? Please check out the <a href="https://www.umw.edu/admissions/talontestchoice/">available scholarships</a>.
+
+Transfer students that apply by the preferred application filing dates will be given automatic consideration for <a href="https://www.umw.edu/admissions/transfer/transfer-scholarships/">Transfer Merit Scholarships</a>.
+<h3>Additional Scholarship Opportunities</h3>
 </div>
 </div>
 </div>
