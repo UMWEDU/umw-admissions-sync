@@ -18,7 +18,7 @@ High school, transfer, and international students.
 </div>
 <div class="one-half">
 <div class="CTAbutton CTAburgundy" style="font-size: 1em">Graduate</div>
-For graduate degree and certificate programs. <em>Please note the graduation application site will be down for maintenance until September 11.</em>
+For graduate degree and certificate programs. <em>Please note the graduation application site will be down for maintenance until September 14.</em>
 
 </div>
 <div class="one-half first">
