@@ -15,7 +15,7 @@ post_date: 2015-08-07 16:19:06
 
 First-year, degree-seeking applicants may be eligible for the scholarships listed below. Scholarship amounts vary based on a student's status including if the student lives instate or out of state and whether the student is a residential or commuter student.
 
-<a href="https://www.umw.edu/admissions/in-state-merit-scholarships/">In-State Merit Scholarship Chart</a>
+<a href="https://www.umw.edu/admissions/in-state-merit-scholarship/">In-State Merit Scholarship Chart</a>
 
 <a href="https://www.umw.edu/admissions/out-of-state-merit-scholarship/">Out-of-State Merit Scholarship Chart</a>
 
