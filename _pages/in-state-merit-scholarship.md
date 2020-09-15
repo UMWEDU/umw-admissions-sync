@@ -11,4 +11,6 @@ post_date: 2020-09-09 16:36:04
 ---
 [table id=4 /]
 
+Students must present the minimum GPA (weighted) and test score noted to be awarded the scholarship.
+
 &nbsp;
