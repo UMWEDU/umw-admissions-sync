@@ -9,4 +9,6 @@ permalink: >
 published: true
 post_date: 2020-09-09 16:00:01
 ---
+Talon Awards are based on cumulative GPA (weighted) when provided and strength of the high school curriculum. Here is a general guide to curriculum strength.
+
 [table id=6 /]
