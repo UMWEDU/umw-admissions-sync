@@ -1,6 +1,6 @@
 ---
 ID: 48874
-post_title: Talon Merit Awards with Test Choice
+post_title: Talon Awards with Test Choice
 author: keury
 post_excerpt: ""
 layout: page
