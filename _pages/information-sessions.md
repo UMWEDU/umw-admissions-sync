@@ -25,6 +25,10 @@ Virtual Sessions at 5 p.m.
 <a href="https://admissions.umw.edu/register/MEdNov172020">Tuesday, November 17</a>
 <a href="https://admissions.umw.edu/register/MEdDec102020">Thursday, December 10</a>
 <h3>Master of Science in Geospatial Analysis</h3>
+Virtual sessions are at 6 p.m.
+<a href="https://admissions.umw.edu/register/MSGASept2020">Tuesday, September 29</a>
+<a href="https://admissions.umw.edu/register/MSGAOct2020">Thursday, October 29</a>
+
 Please schedule an appointment at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to discuss details of the program and answer any questions you may have.
 <h1>Individual Attention</h1>
 The graduate admissions staff encourages everyone who has questions about a graduate program to set up a <a href="http://www.umw.edu/admissions/graduate/advising/">pre-admission</a> appointment. Please call (540) 286-8030 or email <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to schedule your appointment.
