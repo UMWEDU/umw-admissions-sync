@@ -1,6 +1,8 @@
 ---
 ID: 48876
-post_title: Out-of-State Merit Scholarship
+post_title: >
+  Out-of-State Residential Merit
+  Scholarship
 author: keury
 post_excerpt: ""
 layout: page
