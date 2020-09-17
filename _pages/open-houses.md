@@ -25,12 +25,19 @@ All these sessions and more will be available. We hope you join us to see why Ma
 <a href="https://admissions.umw.edu/register/Oct2020OpenHouse">October 17</a>
 <a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
 <h3><strong>Eagle Week</strong></h3>
-Join us October 5-8 starting at 6 p.m. to take a more in-depth look at what UMW has to offer. Please select the date and topic below to register.
+Join us October 5-8 starting at 6 p.m. to take a look at what UMW has to offer. If you're not available to join us for a Saturday Open House, this is a great way to catch up! Join us as we introduce you to life as an Eagle! Please select the date and topic below to register.
 
-<a href="https://admissions.umw.edu/register/EagleWeekOct5">October 5 - Explore Your Academic Interest</a>
-<a href="https://admissions.umw.edu/register/EagleWeekOct6">October 6 - Tips to Applying for College and Financial Aid</a>
-<a href="https://admissions.umw.edu/register/EagleWeekOct7">October 7 - Tour the UMW Campus</a>
+<strong><a href="https://admissions.umw.edu/register/EagleWeekOct5">October 5 - Explore Your Academic Interest</a>
+</strong>Learn about the College of Arts and Sciences, College of Business, College of Education and the first year experience
+
+<strong> <a href="https://admissions.umw.edu/register/EagleWeekOct6">October 6 - Tips to Applying for College and Financial Aid</a>
+</strong>Advice on going through the  application and financial aid process
+
+<strong><a href="https://admissions.umw.edu/register/EagleWeekOct7">October 7 - Tour the UMW Campus</a>
+</strong>Tour campus and the local Fredericksburg community
+
 <a href="https://admissions.umw.edu/register/EagleWeekOct8">October 8 - Student Life and Activities</a>
+Hear from our current students about what life is like at UMW
 
 Then come back and join us virtually in October and November for a deeper dive into Arts and Humanities, Business, Education, STEM and more. Stay tuned for more details.
 <h3>Spring Open House</h3>
