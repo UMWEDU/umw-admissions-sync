@@ -20,16 +20,15 @@ No matter how, where, or why you began your college career, the University of 
  	<li>Fall semester: April 1</li>
 </ul>
 </li>
- 	<li>Decide if you can take advantage of the Guaranteed Admissions Agreement UMW has with the Virginia Community College System and Richard Bland College. If you’ve earned an associate’s degree, with a 3.25 minimum cumulative GPA, you may qualify. If you choose this option, please include the GAA Student Letter of Intent form with your application.</li>
+ 	<li>Decide if you can take advantage of the Guaranteed Admissions Agreement UMW has with the Virginia Community College System and Richard Bland College. If you’ve earned an associate’s degree, you may qualify. If you choose this option, please include the GAA Student Letter of Intent form with your application.</li>
  	<li>Gather materials needed for admission of most transfer students:
 <ul>
  	<li>Final high school transcript</li>
- 	<li>SAT/ACT scores (for those with fewer than 30 college credits)</li>
+ 	<li>Test choice</li>
  	<li>Official college transcript (one from each school attended)</li>
- 	<li>Letters of recommendation</li>
- 	<li>Common Application</li>
- 	<li>UMW member screen</li>
- 	<li>Essay</li>
+ 	<li>Letters of recommendation (optional)</li>
+ 	<li>Common Application or UMW Application</li>
+ 	<li>Essay (optional)</li>
  	<li>Application fee (credit card or e-check required) or approved waiver</li>
 </ul>
 </li>
