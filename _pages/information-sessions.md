@@ -18,7 +18,6 @@ Virtual Sessions at 6 p.m.
 <a href="https://admissions.umw.edu/register/MBADec2020">Wednesday, December 9</a>
 <h3>Master of Education</h3>
 Virtual Sessions at 5 p.m.
-<a href="https://admissions.umw.edu/register/MEdSept2020">Thursday, September 17</a>
 <a href="https://admissions.umw.edu/register/MEdOct62020">Tuesday, October 6</a>
 <a href="https://admissions.umw.edu/register/MEdOct282020">Wednesday, October 28</a>
 <a href="https://admissions.umw.edu/register/MEdNov172020">Tuesday, November 17</a>
