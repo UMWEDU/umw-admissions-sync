@@ -27,7 +27,7 @@ To apply to the program, you must:
 </li>
 </ul>
 <h3>What can I major in?</h3>
-At UMW, BLS students receive a well-rounded liberal arts and sciences education, exploring an array of subjects in the arts, humanities, and natural and social sciences. Choose from more than 30 majors, including Leadership and Management (link to this: http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/ldms/), which is unique to the BLS program. BLS students also can double major, or work with the BLS office and UMW faculty to design their own major and degree plan.
+At UMW, BLS students receive a well-rounded liberal arts and sciences education, exploring an array of subjects in the arts, humanities, and natural and social sciences. Choose from more than <a href="http://publications.umw.edu/undergraduatecatalog/courses-of-study/majors/ldms/">30 majors</a>, including Leadership and Management, which is unique to the BLS program. BLS students also can double major, or work with the BLS office and UMW faculty to design their own major and degree plan.
 <h3>How can I learn more about the Leadership and Management program?</h3>
 The Leadership and Management degree is unique to UMW’s BLS program. For more information, click on the link above or contact Ana Garcia Chichester at (540) 654-1989 or <a href="mailto:achiches@umw.edu"><u>achiches@umw.edu</u></a>.
 <h3>Do all the credits I transfer have to have been earned in the traditional way?</h3>
