@@ -35,7 +35,7 @@ All applicants that apply by the preferred application filing dates listed above
 <h2>For those from the Virginia Community College System or Richard Bland College.</h2>
 The University of Mary Washington welcomes applicants from the VCCS and RBC. In fall 2011, 65 percent of our enrolled transfer students joined us from these institutions. Many were able to streamline the admissions process through the Guaranteed Admissions Agreement (GAA).
 <h3>Who qualifies for the Guaranteed Admissions Agreement?</h3>
-A student who completes an associate’s degree with a 3.25 minimum cumulative grade-point average (GPA). Learn more about the <a href="http://www.umw.edu/admissions/transfer/our-commitment/guaranteed-admission-agreement/" target="_blank" rel="noopener">guaranteed admission agreement</a>.
+A student who completes an associate’s degree with a 3.0 minimum cumulative grade-point average (GPA). Learn more about the <a href="http://www.umw.edu/admissions/transfer/our-commitment/guaranteed-admission-agreement/" target="_blank" rel="noopener noreferrer">guaranteed admission agreement</a>.
 <h3>Can I transfer without an associate’s degree or without qualifying for the GAA?</h3>
 <strong>Yes.</strong> Students who have not earned an associate’s degree or do not qualify for the GAA are encouraged to secure a GPA of 3.0 or higher and at least 30 transferrable credits, and to complete a class in math, foreign language, writing composition, and a lab science.
 <h3>How do my credits transfer to UMW?</h3>
