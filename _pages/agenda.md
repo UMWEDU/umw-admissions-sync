@@ -51,6 +51,7 @@ post_date: 2020-09-23 16:22:17
  	<li><a href="https://umw-sso.zoom.us/j/93318005811">Pre-Health</a></li>
  	<li><a href="https://umw-sso.zoom.us/j/98562165733?pwd=OEYzRVc2UlE4SllpYlY2SE1tL2FNZz09">Residence Life</a></li>
 </ul>
+<h3>Additional questions for your <a href="https://www.umw.edu/admissions/meet-us/">personal recruiter</a>?</h3>
 <h3>Zoom Instructions</h3>
 <strong>PC Information</strong>
 
