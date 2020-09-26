@@ -41,7 +41,7 @@ post_date: 2020-09-23 16:22:17
 <ul>
  	<li><a href="https://umw-sso.zoom.us/j/94481812744?pwd=emIrbmJSVUJRYzd6K3NIdHJFblI5QT09">Applications Tips and Tricks</a></li>
  	<li><a href="https://umw-sso.zoom.us/j/93672647403?pwd=dDFxRFNCUFFmdDJDQm81emZjWTZLZz09">Diversity and Inclusion</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/91452014226?pwd=bmdIY2FFeXA5Z094UndVVzdpOVo4QT09">Financial Aid</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/99256598688?pwd=VkVHTURQVkhIZndkT2krSDFnR0Jidz09">Financial Aid</a></li>
  	<li><a href="https://umw-sso.zoom.us/j/93621681581?pwd=TFZVQ1ZwTkdUSVFBZzJsbndHZUI2dz09">First Year Experience</a></li>
  	<li><a href="https://umw-sso.zoom.us/j/96504258657?pwd=OTFsYjBjOEtPalBlREU1aUc0cm90QT09">Honors Program</a></li>
  	<li><u><a href="https://umw-sso.zoom.us/j/96176247390?pwd=LzRlYmJZN0NPUTFsTDByemRkU3N4dz09">Nursing Program</a></u></li>
