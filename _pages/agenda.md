@@ -19,9 +19,9 @@ post_date: 2020-09-23 16:22:17
 <h4><em>To join a session, please click on a link below. </em></h4>
 <h3><strong>Academic Sessions from 11:15 a.m. - 12 p.m.</strong></h3>
 <ul>
- 	<li><a href="https://umw-sso.zoom.us/j/94796540955?pwd=U1VUblMwVHBLL25lR014UDhya0pEdz09">College of Arts and Sciences</a></li>
- 	<li><u><a href="https://umw-sso.zoom.us/j/95166007927?pwd=RTNTUjRtSTJhNnE5eVlyNWs5WHlsdz09">College of Business</a></u></li>
- 	<li><a href="https://umw-sso.zoom.us/j/95983025900?pwd=QkpKTE9vaXZGa0FpVVdGTVdiM2RiUT09">College of Education</a></li>
+ 	<li>College of Arts and Sciences</li>
+ 	<li><u>College of Business</u></li>
+ 	<li>College of Education</li>
 </ul>
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
