@@ -17,18 +17,6 @@ post_date: 2015-08-06 13:02:31
 Director of Graduate Admissions
 <a href="mailto:dpack@umw.edu">dpack@umw.edu
 </a>540-286-8030
-Master of Education Programs
-
-&nbsp;
-
-&nbsp;
-
-<strong>David Harger
-</strong>Assistant Director of Graduate Admissions
-<a href="mailto:dharger@umw.edu">dharger@umw.edu</a>
-540-286-8088
-Master of Business Administration
-Master of Science in Geospatial Analysis
 
 &nbsp;
 
