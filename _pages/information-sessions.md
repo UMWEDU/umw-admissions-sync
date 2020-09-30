@@ -24,7 +24,6 @@ Virtual Sessions at 5 p.m.
 <a href="https://admissions.umw.edu/register/MEdDec102020">Thursday, December 10</a>
 <h3>Master of Science in Geospatial Analysis</h3>
 Virtual sessions are at 6 p.m.
-<a href="https://admissions.umw.edu/register/MSGASept2020">Tuesday, September 29</a>
 <a href="https://admissions.umw.edu/register/MSGAOct2020">Thursday, October 29</a>
 
 Please schedule an appointment at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to discuss details of the program and answer any questions you may have.
