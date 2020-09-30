@@ -20,9 +20,13 @@ Join us for a virtual Open House (from 10 a.m. - 1 p.m.) and get an overview on 
  	<li>Student Transition Program</li>
 </ul>
 Please take a look at the <a href="https://www.umw.edu/admissions/agenda/">agenda</a> to see all of the sessions offered. We hope you join us to see why Mary Wash is right for you! Register by selecting a date below.
-<h3>Virtual Fall Open House</h3>
+
 <a href="https://admissions.umw.edu/register/Oct2020OpenHouse">October 17</a>
 <a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
+<h3></h3>
+
+<hr />
+
 <h3><strong>Eagle Week</strong></h3>
 Join us October 5-8 starting at 6 p.m. to take a look at what UMW has to offer. If you're not available to join us for a Saturday Open House, this is a great way to catch up! Join us as we introduce you to life as an Eagle! Please select the date and topic below to register.
 
@@ -37,7 +41,12 @@ Join us October 5-8 starting at 6 p.m. to take a look at what UMW has to offer. 
 
 <a href="https://admissions.umw.edu/register/EagleWeekOct8">October 8 - Student Life and Activities</a>
 Hear from our current students about what life is like at UMW
+
+<hr />
+
 <h3>Majors, Minors, and Programs</h3>
+Join us October 19-22 starting at 6 p.m. to hear from faculty and take a more in-depth look at what UMW has to offer. Please select the date and topic below to register.
+
 <a href="https://admissions.umw.edu/register/MMPOct192020">October 19 - Arts and Humanities</a>
 
 <a href="https://admissions.umw.edu/register/MMPOct202020">October 20 - STEM</a>
@@ -45,6 +54,9 @@ Hear from our current students about what life is like at UMW
 <a href="https://admissions.umw.edu/register/MMPOct212020">October 21 - Social Sciences</a>
 
 <a href="https://admissions.umw.edu/register/MMPOct222020">Oct 22 - Business and Education</a>
+
+<hr />
+
 <h3>Spring Open House</h3>
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
