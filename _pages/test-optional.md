@@ -13,7 +13,7 @@ Within the application, first year applicants to the University of Mary Washingt
 
 <strong>Exceptions to test choice review include</strong>:
 <ul>
- 	<li>Students applying for admission to the Pre-Nursing (1+2+1 plan) Program with 3.5 cumulative weight GPA.</li>
+ 	<li>Students applying for admission to the Pre-Nursing Program with less than a 3.5 cumulative GPA.</li>
  	<li>Students applying for merit based scholarships (full-ride Washington and Alvey Scholarships)</li>
  	<li>Home-schooled applicants</li>
  	<li>Candidates applying from schools that provide written evaluations rather than grades</li>
