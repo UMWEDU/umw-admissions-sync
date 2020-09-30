@@ -37,8 +37,14 @@ Join us October 5-8 starting at 6 p.m. to take a look at what UMW has to offer. 
 
 <a href="https://admissions.umw.edu/register/EagleWeekOct8">October 8 - Student Life and Activities</a>
 Hear from our current students about what life is like at UMW
+<h3>Majors, Minors, and Programs</h3>
+<a href="https://admissions.umw.edu/register/MMPOct192020">October 19 - Arts and Humanities</a>
 
-Then come back and join us virtually in October and November for a deeper dive into Arts and Humanities, Business, Education, STEM and more. Stay tuned for more details.
+<a href="https://admissions.umw.edu/register/MMPOct202020">October 20 - STEM</a>
+
+<a href="https://admissions.umw.edu/register/MMPOct212020">October 21 - Social Sciences</a>
+
+<a href="https://admissions.umw.edu/register/MMPOct222020">Oct 22 - Business and Education</a>
 <h3>Spring Open House</h3>
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
