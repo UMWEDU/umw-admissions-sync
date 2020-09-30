@@ -5,7 +5,7 @@ author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/graduate/graduate-app-error/
+  http://www.umw.edu/admissions/graduate/app-error/
 published: true
 post_date: 2020-09-30 18:35:05
 ---
