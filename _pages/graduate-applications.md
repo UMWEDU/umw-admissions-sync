@@ -14,7 +14,7 @@ post_date: 2015-08-07 17:24:41
  	<li><a href="/admissions/graduate/degrees/mba/">Program Information</a></li>
  	<li><a href="/admissions/graduate/degrees/mba/mba-checklist/">Application Checklist</a></li>
  	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/MBA-Application.pdf">Printable PDF Application</a> ($50 application fee)</li>
- 	<li><a href="https://admissions.umw.edu/apply/?sr=a8f154ae-97ae-4eca-8187-234651110b0e">Online Application</a> (Fee waived - Free!)</li>
+ 	<li><a href="https://admissions.umw.edu/apply/?sr=136e0bf9-e702-4eae-852a-8bfaf871b4bb">Online Application</a> (Fee waived - Free!)</li>
 </ul>
 <h2>Master of Education (M.Ed.)</h2>
 <ul>
@@ -34,12 +34,12 @@ post_date: 2015-08-07 17:24:41
 </ul>
 </li>
  	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/COE-grad-app.pdf">M.Ed. Printable PDF Application</a> ($50 application fee)</li>
- 	<li><a href="https://admissions.umw.edu/apply/?sr=a8f154ae-97ae-4eca-8187-234651110b0e">Online Application</a> (Fee waived - Free!)</li>
+ 	<li><a href="https://admissions.umw.edu/apply/?sr=136e0bf9-e702-4eae-852a-8bfaf871b4bb">Online Application</a> (Fee waived - Free!)</li>
 </ul>
 <h2>Master of Science in Geospatial Analysis (MSGA)</h2>
 <ul>
  	<li><a href="/admissions/graduate/degrees/msga/">Program Information</a></li>
  	<li><a href="/admissions/graduate/degrees/msga/msga-checklist/">Application Checklist</a></li>
  	<li><a href="/admissions/wp-content/uploads/sites/6/2015/08/MSGA-Application.pdf">Printable PDF Application</a> ($50 application fee)</li>
- 	<li><a href="https://admissions.umw.edu/apply/?sr=a8f154ae-97ae-4eca-8187-234651110b0e">Online Application</a> (Fee waived - Free!)</li>
+ 	<li><a href="https://admissions.umw.edu/apply/?sr=136e0bf9-e702-4eae-852a-8bfaf871b4bb">Online Application</a> (Fee waived - Free!)</li>
 </ul>
