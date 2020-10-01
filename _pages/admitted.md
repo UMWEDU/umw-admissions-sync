@@ -14,7 +14,7 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 <h2></h2>
 <h2></h2>
-We
+&nbsp;
 
 We hope to be able to offer in person admitted student events in the spring. Please check back in January for additional information. In the meantime, we do offer virtual sessions.
 
