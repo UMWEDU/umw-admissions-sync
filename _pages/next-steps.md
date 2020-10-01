@@ -33,7 +33,7 @@ post_date: 2011-12-14 15:12:45
  	<li>Submit your <a href="http://students.umw.edu/healthcenter/" target="_blank" rel="nofollow noopener noreferrer">health forms</a> by August 1.</li>
  	<li>Review opportunities for special <a href="http://students.umw.edu/chls/n-e-s-t/">Early Arrival Programs</a>, which take place four days before Welcome Week in August. These optional experiences are a fun way for a limited number of new students to explore UMW and surrounding attractions and meet and bond with classmates before classes begin.</li>
  	<li><a href="http://academics.umw.edu/academicservices/placement-testing/">Placement tests</a> - The university offers new students the opportunity to test into courses above the introductory level in certain key subjects.</li>
- 	<li>Move-in Day is Wednesday, August 19.</li>
+ 	<li>Move-in Day is Wednesday, August 18.</li>
 </ul>
 Provide changes in your address and/or telephone number to Admissions at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
 
