@@ -48,13 +48,13 @@ Hear from our current students about what life is like at UMW
 Join us October 19-22 starting at 6 p.m. to hear from faculty and take a more in-depth look at what UMW has to offer. Please select the date and topic below to register.
 
 <a href="https://admissions.umw.edu/register/MMPOct192020">October 19 - Arts and Humanities</a>
-Studio Art; Art History; Modern Languages and Literature; Historic Preservation; Theatre and Dance; Classics, Philosophy, and Religious Studies;
+Art History; Classics, Philosophy, and Religious Studies; Historic Preservation; Modern Languages and Literature; Studio Art; Theatre and Dance
 
 <a href="https://admissions.umw.edu/register/MMPOct202020">October 20 - STEM</a>
-Computer Science, Biological Sciences, Chemistry, Physics, Earth and Environmental Sciences, Math
+Biological Sciences; Chemistry; Computer Science; Earth and Environmental Sciences; Math; Physics
 
 <a href="https://admissions.umw.edu/register/MMPOct212020">October 21 - Social Sciences</a>
-Geography; Athletics, Health, Physical Education; Psychological Science; History and American Studies; Economics; Political Science and International Affairs
+Athletics, Health, Physical Education; Economics; Geography; History and American Studies; Political Science and International Affairs; Psychological Science
 
 <a href="https://admissions.umw.edu/register/MMPOct222020">Oct 22 - Business and Education</a>
 Business - Account, Business Administration, International Business, Marketing
