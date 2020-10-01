@@ -14,7 +14,7 @@ post_date: 2011-12-14 15:12:45
 <ul>
  	<li><a href="/admissions/youarein/next-steps/enrollment-deposit/">Pay your deposit</a>. We do encourage students to deposit online. If students mail in documents and deposits, the processing will be delayed as the University is working remotely. The fastest way is to deposit online and there is no fee for e-checks.</li>
  	<li><a href="https://umw.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=886">Online Scholarship Application</a></li>
- 	<li>Join the <a href="https://www.facebook.com/groups/UMWClassof2024official">UMW Class of 2024</a> Facebook page!</li>
+ 	<li>Join the <a href="https://www.facebook.com/groups/UMWClassof2025">UMW Class of 2025</a> Facebook page!</li>
  	<li>Submit the <a href="https://fafsa.ed.gov/">Free Application for Federal Student Aid</a> (FAFSA) form no later than February 1 to receive maximum consideration for financial aid.</li>
  	<li>Service members should speak with their Educational Services Officer (ESO) or counselor within their Military Service prior to enrolling at UMW.</li>
 </ul>
