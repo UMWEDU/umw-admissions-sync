@@ -10,7 +10,7 @@ published: true
 post_date: 2015-08-07 12:51:14
 ---
 <em>Especially for high school juniors and seniors and transfer students.</em>
-<h2>Explore UMW during an Open House!</h2>
+
 Join us for a virtual Open House (from 10 a.m. - 1 p.m.) and get an overview on student life, academic programs, and hear from the deans of the College of Arts and Sciences, College of Business, and College of Education. Additional sessions include:
 <ul>
  	<li>Admissions</li>
