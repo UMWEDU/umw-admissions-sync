@@ -33,6 +33,12 @@ Join us October 5-8 starting at 6 p.m. to take a look at what UMW has to offer. 
 <strong><a href="https://admissions.umw.edu/register/EagleWeekOct5">October 5 - Explore Your Academic Interest</a>
 </strong>Learn about the College of Arts and Sciences, College of Business, College of Education and the first year experience
 
+After registering using the above link, below are the three links for each college to tonight's programming which start at 6:15 p.m.:
+
+<a href="https://umw-sso.zoom.us/j/88218837993?pwd=YnJSa0IzQWNMRWdGWUxONjZEUzdtZz09">College of Arts and Sciences</a>
+<a href="https://umw-sso.zoom.us/j/86779319018?pwd=VmIrdjRVM054VHFCVlFscTRycnExUT09">College of Business</a>
+<a href="http://umw-sso.zoom.us/j/82802388193">College of Education</a>
+
 <strong> <a href="https://admissions.umw.edu/register/EagleWeekOct6">October 6 - Tips to Applying for College and Financial Aid</a>
 </strong>Advice on going through the application and financial aid process
 
