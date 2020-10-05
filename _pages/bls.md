@@ -19,7 +19,6 @@ You’ve gathered lots of great experience through your life and your work. Let 
  	<li>Official transcripts from each college you’ve attended, even if the credits were transferred to another school.</li>
  	<li>Official documentation of all nontraditional credit earned (College Level Examination Program or Defense Activity for Non-Traditional Education Support tests, military training, etc.)</li>
  	<li>Verification of high school completion. Unless the applicant holds an associate degree, UMW will need a high school transcript or a copy of your diploma or GED award letter.</li>
- 	<li>Essay, no more than two pages long: Introduce yourself to the Admissions Committee. Think about including such things as why you’re returning to college, previous life and work experience, and your professional or life goals.</li>
  	<li>Demonstration of competency on the Test of English as a Foreign Language, as necessary, if the student’s native language is not English.</li>
  	<li>Service members should speak with their Educational Services Officer (ESO) or counselor within their Military Service prior to enrolling at UMW.</li>
 </ul>
