@@ -23,7 +23,6 @@ Please take a look at the <a href="https://www.umw.edu/admissions/agenda/">agend
 
 <a href="https://admissions.umw.edu/register/Oct2020OpenHouse">October 17</a>
 <a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
-<h3></h3>
 
 <hr />
 
