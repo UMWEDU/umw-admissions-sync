@@ -29,9 +29,6 @@ Please take a look at the <a href="https://www.umw.edu/admissions/agenda/">agend
 <h3><strong>Eagle Week</strong></h3>
 Join us October 5-8 starting at 6 p.m. to take a look at what UMW has to offer. If you're not available to join us for a Saturday Open House, this is a great way to catch up! Join us as we introduce you to life as an Eagle! Please select the date and topic below to register.
 
-<strong><a href="https://admissions.umw.edu/register/EagleWeekOct7">October 7 - Tour the UMW Campus</a>
-</strong>Tour campus and the local Fredericksburg community
-
 <a href="https://admissions.umw.edu/register/EagleWeekOct8">October 8 - Student Life and Activities</a>
 Hear from our current students about what life is like at UMW
 
