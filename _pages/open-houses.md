@@ -44,7 +44,7 @@ Art History; Classics, Philosophy, and Religious Studies; English; Historic Pres
 Biological Sciences; Chemistry; Computer Science; Earth and Environmental Sciences; Math; Physics
 
 <a href="https://admissions.umw.edu/register/MMPOct212020">October 21 - Social Sciences</a>
-Athletics, Health, Physical Education; Economics; Geography; History and American Studies; Political Science and International Affairs; Psychological Science
+Athletics, Health, Physical Education; Economics; Geography; History and American Studies; Political Science and International Affairs; Psychological Science; Women's and Gender Studies
 
 <a href="https://admissions.umw.edu/register/MMPOct222020">Oct 22 - Business and Education</a>
 Business - Account, Business Administration, International Business, Marketing
