@@ -15,7 +15,17 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 <ul>
  	<li><a href="https://admissions.umw.edu/portal/webinars"><strong>Virtual Information Sessions</strong></a>: Pre-registration is required for the online webinars including daily information sessions and special topics. Please check the calendar for dates and times of sessions and to register.</li>
  	<li><strong><a href="https://admissions.umw.edu/portal/webinars">Virtual transfer sessions</a>:</strong> Transfer information sessions are also held at 4 p.m. Monday-Friday. Attend the sessions and learn about the admissions process at UMW.</li>
- 	<li><a href="https://admissions.umw.edu/portal/admission_interviews"><strong>Interviews</strong></a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2021 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing. The interview must be completed by February 1 for consideration.</li>
+ 	<li><a href="https://admissions.umw.edu/portal/admission_interviews"><strong>Interviews</strong></a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2021 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing. The interview must be completed by February 1 for consideration. You can also schedule your interview directly with your admissions counselor. Find out who your <a href="https://admissions.umw.edu/register/?id=5e2a8316-a566-4f82-92e5-89af7a4b3498">counselor</a> is and then select your counselor below to see their interview schedule and availability:
+<ul>
+ 	<li><a href="https://admissions.umw.edu/portal/InterviewsOfficeHours_AdamMoore">Adam Moore</a></li>
+ 	<li><a href="https://admissions.umw.edu/portal/InterviewsOfficeHours_AmandaHart">Amanda Hart</a></li>
+ 	<li>Melissa Yakabouski</li>
+ 	<li><a href="//admissions.umw.edu/portal/InterviewOfficeHour_TakeraZajac">Natalie Davis</a></li>
+ 	<li><a href="https://admissions.umw.edu/portal/InterviewOfficeHour_OliviaLehman">Olivia Lehman</a></li>
+ 	<li><a href="https://admissions.umw.edu/portal/InterviewOfficeHrs_SarahLindberg">Sarah Lindberg</a></li>
+ 	<li><a href="//admissions.umw.edu/portal/InterviewOfficeHour_TakeraZajac">Takera Zajac</a></li>
+</ul>
+</li>
  	<li><strong><a href="https://admissions.umw.edu/portal/webinars">Virtual Tour</a></strong> - Take a tour of campus lead by a Washington Tour Guide. Held Monday, Wednesday, and Friday afternoons at 3:30 p.m.</li>
  	<li><a href="https://admissions.umw.edu/portal/webinars"><strong>Chat with a Current Student</strong></a> - Have a casual conversation with some of our students. Held on Tuesday and Thursday evenings at 6 p.m.</li>
  	<li><a href="/admissions/visit/open-houses/"><strong>Open Houses</strong></a>: Register now for a fall virtual open house.</li>
