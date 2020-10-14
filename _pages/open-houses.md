@@ -40,7 +40,7 @@ Athletics, Health, Physical Education; Economics; Geography; History and America
 
 <a href="https://admissions.umw.edu/register/MMPOct222020">Oct 22 - Business and Education</a>
 Business - Accounting, Business Administration, International Business, Marketing
-Education - Elementary and Special Education
+Education - Elementary, Secondary, and Special Education
 
 <hr />
 
