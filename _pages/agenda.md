@@ -9,7 +9,7 @@ published: true
 post_date: 2020-09-23 16:22:17
 ---
 <h2><img class="aligncenter size-page-feature wp-image-48887" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/09/Lee-Hall-Sept-2020-1140x460.jpg" alt="" width="1100" height="444" /></h2>
-<h2>Open House - September 26, 2020</h2>
+<h2>Open House - October 17, 2020</h2>
 <h3><strong>Welcome and Opening Remarks
 </strong></h3>
 10-10:20 a.m.
