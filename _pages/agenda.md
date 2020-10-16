@@ -16,7 +16,7 @@ post_date: 2020-09-23 16:22:17
 <h3><strong>Student Life Session
 </strong></h3>
 10:20-11:15 a.m.
-<h4><em>To join a session, please click on a link below. </em></h4>
+<h4><em>Please note the links will be made live the morning of the event. To join a session, please click on a link below. </em></h4>
 <h3><strong>Academic Sessions from 11:15 a.m. - 12 p.m.</strong></h3>
 <ul>
  	<li>College of Arts and Sciences</li>
