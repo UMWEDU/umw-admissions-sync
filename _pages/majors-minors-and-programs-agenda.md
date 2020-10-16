@@ -32,7 +32,7 @@ To join a session, please click the department name below. Links will be made li
 </ul>
 <h3><strong>October 21 – Social Sciences</strong></h3>
 <ul>
- 	<li>Athletics, Health, Physical Education</li>
+ 	<li>Athletics, Health, and Physical Education</li>
  	<li>Economics</li>
  	<li>Geography</li>
  	<li>History and American Studies</li>
