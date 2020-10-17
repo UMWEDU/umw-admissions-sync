@@ -19,23 +19,23 @@ post_date: 2020-09-23 16:22:17
 <h4><em>To join a session, please click on a link below. </em></h4>
 <h3><strong>Academic Sessions from 11:15 a.m. - 12 p.m.</strong></h3>
 <ul>
- 	<li><a href="https://umw-sso.zoom.us/j/87483692324?pwd=SFg2a3hheFJiZ2M4dmVVVkFGZUc5Zz09">College of Arts and Sciences</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/85414576236?pwd=WWh3Q1VRb0VjUUZqdkVtUFRZQmZNdz09">College of Business</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/83929861501?pwd=RW8ybUtKRnQxYW1sMEEvVkVqOEx1dz09">College of Education</a></li>
+ 	<li>College of Arts and Sciences</li>
+ 	<li>College of Business</li>
+ 	<li>College of Education</li>
 </ul>
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
- 	<li><a href="https://umw-sso.zoom.us/j/82019362418?pwd=Yld4dk1PakFScFJySXgzblZzd1VMUT09">Applications Tips and Tricks</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87071406907?pwd=YXUxMFR3eWlMS3VtRGZUN3hiTm1mZz09">Diversity and Inclusion</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/85628710803?pwd=RlFNN2xqbHhYaFZYaCtNZGZzWXRyZz09">Financial Aid</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/81219513096?pwd=N2dpTHk2NjRnQnNteER0SDF3UUNpUT09">First Year Experience</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/88129515762?pwd=U04wYm91NTlzZVpIRzg1SEo5eCtkdz09">Honors Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/85320767033?pwd=UTNxUGZtTmcreTRLbkZ0NUFjN2o0UT09">Nursing Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/81782959782">Student Transition Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/84448940749?pwd=TjNRMVdib05uQnJGT0N5K3hKV3BPZz09">Study Abroad</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/86993486142?pwd=YkpoM1MydHc0KzZhRlFLdHZmWXg2Zz09">Transfer Student Q &amp; A</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/82825182474">Pre-Health</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/85148358503">Residence Life</a></li>
+ 	<li>Applications Tips and Tricks</li>
+ 	<li>Diversity and Inclusion</li>
+ 	<li>Financial Aid</li>
+ 	<li>First Year Experience</li>
+ 	<li>Honors Program</li>
+ 	<li>Nursing Program</li>
+ 	<li>Student Transition Program</li>
+ 	<li>Study Abroad</li>
+ 	<li>Transfer Student Q &amp; A</li>
+ 	<li>Pre-Health</li>
+ 	<li>Residence Life</li>
 </ul>
 <h3><strong>Concurrent Sessions from 12:30-1 p.m.</strong></h3>
 <ul>
