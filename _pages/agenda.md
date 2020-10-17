@@ -19,9 +19,9 @@ post_date: 2020-09-23 16:22:17
 <h4><em>Please note the links will be made live the morning of the event. To join a session, please click on a link below. </em></h4>
 <h3><strong>Academic Sessions from 11:15 a.m. - 12 p.m.</strong></h3>
 <ul>
- 	<li>College of Arts and Sciences</li>
- 	<li>College of Business</li>
- 	<li>College of Education</li>
+ 	<li><a href="https://umw-sso.zoom.us/j/87483692324?pwd=SFg2a3hheFJiZ2M4dmVVVkFGZUc5Zz09">College of Arts and Sciences</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/85414576236?pwd=WWh3Q1VRb0VjUUZqdkVtUFRZQmZNdz09">College of Business</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/83929861501?pwd=RW8ybUtKRnQxYW1sMEEvVkVqOEx1dz09">College of Education</a></li>
 </ul>
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
