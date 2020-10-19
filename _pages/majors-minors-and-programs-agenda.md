@@ -13,13 +13,13 @@ post_date: 2020-10-16 16:38:17
 To join a session, please click the department name below. Links will be made live the day of the virtual session.
 <h3><strong>October 19 – Arts and Humanities</strong></h3>
 <ul>
- 	<li>Art History/Studio Art</li>
- 	<li>Classics, Philosophy, and Religious Studies</li>
- 	<li>Communication and Digital Studies</li>
- 	<li>English</li>
- 	<li>Historic Preservation</li>
- 	<li>Modern Languages and Literature</li>
- 	<li>Theatre and Dance</li>
+ 	<li><a href="https://umw-sso.zoom.us/j/89567026437?pwd=c0NZaVhka21ET3pNNVpjT3lDdjJwUT09">Art History/Studio Art</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/87008112505?pwd=MXdueTBGKyt3SlptNFhZNDVia0dWQT09">Classics, Philosophy, and Religious Studies</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/88950094724?pwd=MTlIY3N4cnIrelpKVmRTZktiZDlLUT09">Communication and Digital Studies</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/83157863851">English</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/88642670288?pwd=SVRNYTYwU09MMHJ1V2VuUnVxVm5RUT09">Historic Preservation</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/87008112505?pwd=MXdueTBGKyt3SlptNFhZNDVia0dWQT09">Modern Languages and Literature</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/89524924033?pwd=b0MybWt4NmMzck4wS2M3NFppYjRhUT09">Theatre and Dance</a></li>
 </ul>
 <h3><strong>October 20 – STEM</strong></h3>
 <ul>
