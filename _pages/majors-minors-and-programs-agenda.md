@@ -11,24 +11,14 @@ post_date: 2020-10-16 16:38:17
 ---
 <h3><img class="aligncenter wp-image-48898 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/10/Jepson-Faculty-Students-1024x683.jpg" alt="" width="1024" height="683" /></h3>
 To join a session, please click the department name below. Links will be made live the day of the virtual session.
-<h3><strong>October 19 – Arts and Humanities</strong></h3>
-<ul>
- 	<li><a href="https://umw-sso.zoom.us/j/89567026437?pwd=c0NZaVhka21ET3pNNVpjT3lDdjJwUT09">Art History/Studio Art</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87008112505?pwd=MXdueTBGKyt3SlptNFhZNDVia0dWQT09">Classics, Philosophy, and Religious Studies</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/88950094724?pwd=MTlIY3N4cnIrelpKVmRTZktiZDlLUT09">Communication and Digital Studies</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/83157863851">English</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/88642670288?pwd=SVRNYTYwU09MMHJ1V2VuUnVxVm5RUT09">Historic Preservation</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87008112505?pwd=MXdueTBGKyt3SlptNFhZNDVia0dWQT09">Modern Languages and Literature</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/89524924033?pwd=b0MybWt4NmMzck4wS2M3NFppYjRhUT09">Theatre and Dance</a></li>
-</ul>
 <h3><strong>October 20 – STEM</strong></h3>
 <ul>
- 	<li>Biological Sciences</li>
- 	<li>Chemistry</li>
- 	<li>Computer Science</li>
- 	<li>Earth and Environmental Sciences</li>
- 	<li>Math</li>
- 	<li>Physics</li>
+ 	<li><a href="https://umw-sso.zoom.us/j/82964631098?pwd=cFQvUWYrcDg5cUluMC9ubGRMNUxnZz09">Biological Sciences</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/82083841246?pwd=M0MrSGxFS2xpamNaTGY0cXpxY250QT09">Chemistry</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/84413613869?pwd=TEU0MDNLZmtMQ3pya1ZSSDM2NWxFZz09">Computer Science</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/81219083283?pwd=Vk41VEF1R0ZLWExvd3Y0OGdvc21qQT09">Earth and Environmental Sciences</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/86326130863?pwd=OXpZejRUejh4NDNWdWg0aVRScGFhZz09">Math</a></li>
+ 	<li><a href="https://umw-sso.zoom.us/j/84903658324">Physics</a></li>
 </ul>
 <h3><strong>October 21 – Social Sciences</strong></h3>
 <ul>
