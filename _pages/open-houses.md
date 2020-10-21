@@ -21,7 +21,6 @@ Join us for a virtual Open House (from 10 a.m. - 1 p.m.) and get an overview on 
 </ul>
 Please take a look at the <a href="https://www.umw.edu/admissions/agenda/">agenda</a> to see all of the sessions offered. We hope you join us to see why Mary Wash is right for you! Register by selecting a date below.
 
-<a href="https://admissions.umw.edu/register/Oct2020OpenHouse">October 17</a>
 <a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
@@ -29,12 +28,6 @@ Please take a look at the <a href="https://www.umw.edu/admissions/agenda/">agend
 &nbsp;
 <h3>Majors, Minors, and Programs</h3>
 Join us October 19-22 starting at 6 p.m. to hear from faculty and take a more in-depth look at what UMW has to offer. Please select the date and topic below to register.
-
-<a href="https://admissions.umw.edu/register/MMPOct192020">October 19 - Arts and Humanities</a>
-Art History; Classics, Philosophy, and Religious Studies; Communication and Digital Studies; English; Historic Preservation; Modern Languages and Literature; Studio Art; Theatre and Dance
-
-<a href="https://admissions.umw.edu/register/MMPOct202020">October 20 - STEM</a>
-Biological Sciences; Chemistry; Computer Science; Earth and Environmental Sciences; Math; Physics
 
 <a href="https://admissions.umw.edu/register/MMPOct212020">October 21 - Social Sciences</a>
 Athletics, Health, Physical Education; Economics; Geography; History and American Studies; Political Science and International Affairs; Psychological Science; Women's and Gender Studies
