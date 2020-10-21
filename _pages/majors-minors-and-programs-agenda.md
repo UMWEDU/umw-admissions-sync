@@ -23,6 +23,6 @@ To join a session, please click the department name below. Links will be made li
 </ul>
 <strong>Oct 22 – Business and Education</strong>
 <ul>
- 	<li>Business – Accounting, Business Administration, International Business, Marketing</li>
- 	<li>Education – Elementary, Secondary, and Special Education</li>
+ 	<li>Business – Accounting, Business Administration, International Business, Marketing (6:10 - 6:55 p.m.)</li>
+ 	<li>Education – Elementary, Secondary, and Special Education (7-7:50 p.m.)</li>
 </ul>
