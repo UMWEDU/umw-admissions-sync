@@ -75,8 +75,7 @@ GBUS 529 Strategic Management
 Six (6) additional credits chosen from any other 500-level GBUS or MMIS course.
 <h4>Click here for full <a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-business/mba/">MBA program catalog information</a>.</h4>
 &nbsp;
-<h4>
-<a id="How Can I learn more about UMW's MBA Program"></a><strong>How Can I learn more about UMW's MBA Program</strong></h4>
+<h4><a id="How Can I learn more about UMW's MBA Program"></a><strong>How Can I learn more about UMW's MBA Program</strong></h4>
 Contact Information:
 Christy Pack
 Director of Graduate Admissions
