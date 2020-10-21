@@ -23,6 +23,9 @@ post_date: 2015-08-05 11:22:19
  	<li>Enroll full or part-time.</li>
  	<li>Courses offered through online, hybrid and face-to-face delivery methods</li>
 </ul>
+<a href="#Application Process">Application Process</a>
+<a href="#Degree Completion Timeline">Degree Completion Timeline</a>
+<a href="#How Can I learn more about UMW's MBA Program">How Can I learn more about UMW's MBA Program</a>
 <h4><strong>Professional Outcomes </strong></h4>
 Graduates of the UMW MBA program are well prepared for a variety of leadership positions in Fortune 500 companies, government agencies, not-for-profits, and entrepreneurial ventures. Graduates of UMW’s MBA program have landed positions with organizations such as:
 <ul>
@@ -37,7 +40,7 @@ Graduates of the UMW MBA program are well prepared for a variety of leadership p
  	<li>Northrop Grumman</li>
  	<li>Intuit</li>
 </ul>
-<h4><strong>Application Process</strong></h4>
+<h4><a id="Application Process"></a><strong>Application Process</strong></h4>
 To enroll during the fall semester, the suggested filing date is Aug. 1. For spring, the suggested filing date is Nov. 15. For summer term, it is April 1. UMW accepts post-filing date applications on a rolling, space-available basis.
 <ul>
  	<li>Complete the <a href="https://admissions.umw.edu/apply/?sr=a8f154ae-97ae-4eca-8187-234651110b0e">Online Application for Admission</a></li>
@@ -54,7 +57,7 @@ To enroll during the fall semester, the suggested filing date is Aug. 1. For spr
 </li>
  	<li>International students may need to submit an International Transcript Evaluation and demonstration of English Language Proficiency.</li>
 </ul>
-<h4><strong>Degree Completion Timeline </strong></h4>
+<h4><a id="Degree Completion Timeline"></a><strong>Degree Completion Timeline</strong></h4>
 UMW offers MBA courses in a variety of formats (hybrid, online and face-to-face) including an evening program at our Stafford campus designed for those with job and family responsibilities in mind. Most classes meet one night per week for eight weeks. Take a full course load to finish in two years or less, or take one course at a time. Degree completion must be achieved within six years.
 <h5><strong>MBA Course Requirements (36 credits)</strong></h5>
 <h5><strong>Required Core Courses (30 credits) — all courses are 3 credits</strong></h5>
@@ -72,7 +75,8 @@ GBUS 529 Strategic Management
 Six (6) additional credits chosen from any other 500-level GBUS or MMIS course.
 <h4>Click here for full <a href="http://publications.umw.edu/graduatecatalog/graduate-programs/college-of-business/mba/">MBA program catalog information</a>.</h4>
 &nbsp;
-<h4><strong>How can I learn more about UMW’s MBA program?</strong></h4>
+<h4>
+<a id="How Can I learn more about UMW's MBA Program"></a><strong>How Can I learn more about UMW's MBA Program</strong></h4>
 Contact Information:
 Christy Pack
 Director of Graduate Admissions
