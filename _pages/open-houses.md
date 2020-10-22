@@ -24,12 +24,6 @@ Please take a look at the <a href="https://www.umw.edu/admissions/agenda/">agend
 <a href="https://admissions.umw.edu/register/Nov2020OpenHouse">November 14</a>
 <a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
 <a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
-<h3>Majors, Minors, and Programs</h3>
-Join us October 19-22 starting at 6 p.m. to hear from faculty and take a more in-depth look at what UMW has to offer. Please select the date and topic below to register.
-
-<a href="https://admissions.umw.edu/register/MMPOct222020">Oct 22 - Business and Education</a>
-Business - Accounting, Business Administration, International Business, Marketing
-Education - Elementary, Secondary, and Special Education
 
 <hr />
 
