@@ -1,6 +1,6 @@
 ---
 ID: 192
-post_title: Information Sessions
+post_title: Virtual Information Sessions
 author: Shelley Keith
 post_excerpt: ""
 layout: page
