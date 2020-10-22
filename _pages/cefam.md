@@ -49,7 +49,11 @@ The total cost of attendance for CEFAM students to complete the UMW MBA program 
 Funding opportunities for CEFAM students in the form of scholarships will vary between $5,000 and $9,000 based on their academic GPA. CEFAM students will be notified of their scholarship with their offer of admission.
 <h3>Housing</h3>
 Graduate students will live in <a href="https://www.umw.edu/residencelife/residence-hall/eagle-landing/">Eagle Landing</a> (double occupancy) and have a 150-meal plan for the spring and fall terms and the 50-meal plan for both summer terms, which will allow access to eat in various dining facilities on campus. Additionally, students will be able to stay in their residence hall during the breaks between terms.
+<h3>Student Life</h3>
+<a href="https://umw.university-tour.com/homepage.php"><img class="size-medium wp-image-48904 alignnone" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/10/Student-Bridge-Photo-300x166.png" alt="" width="300" height="166" /></a>
+
+&nbsp;
 <h3><strong>Questions</strong></h3>
-Please contact Graduate Admissions via email at <a href="graduate@umw.edu">dharger@umw.edu</a> or via Skype at graduateumw.
+Please contact Graduate Admissions at <a href="mailto:graduate@umw.edu">graduate@umw.edu.</a>
 
 &nbsp;
