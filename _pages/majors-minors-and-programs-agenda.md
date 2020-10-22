@@ -10,7 +10,7 @@ published: true
 post_date: 2020-10-16 16:38:17
 ---
 <h3><img class="aligncenter wp-image-48898 size-large" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/10/Jepson-Faculty-Students-1024x683.jpg" alt="" width="1024" height="683" /></h3>
-To join a session, please click the department name below. Links will be made live the day of the virtual session.
+To join a session, please click the department name below.
 
 <strong>Oct 22 – Business and Education</strong>
 <ul>
