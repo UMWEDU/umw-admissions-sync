@@ -14,6 +14,6 @@ To join a session, please click the department name below. Links will be made li
 
 <strong>Oct 22 – Business and Education</strong>
 <ul>
- 	<li><a href="https://umw-sso.zoom.us/j/87620905551?pwd=WnVVN3h0QXJtTURub2pjS2FnOWNidz09">Business</a> – Accounting, Business Administration, International Business, Marketing (6:10 - 6:55 p.m.)</li>
- 	<li><a href="https://umw-sso.zoom.us/j/84604854440?pwd=eCtXZGZMVVRNaVNxMEczUkpMeFpSdz09">Education</a> – Elementary, Secondary, and Special Education (7-7:50 p.m.)</li>
+ 	<li><a href="https://umw-sso.zoom.us/j/87620905551?pwd=WnVVN3h0QXJtTURub2pjS2FnOWNidz09">Business</a> – Accounting, Business Administration, International Business, and Marketing. The welcome begins at 6 p.m and the session is from 6:10 - 6:55 p.m.</li>
+ 	<li><a href="https://umw-sso.zoom.us/j/84604854440?pwd=eCtXZGZMVVRNaVNxMEczUkpMeFpSdz09">Education</a> – Elementary, Secondary, and Special Education. The welcome begins at 6:45 p.m. and the session is from 7-7:50 p.m.</li>
 </ul>
