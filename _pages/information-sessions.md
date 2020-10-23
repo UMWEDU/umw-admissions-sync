@@ -18,6 +18,7 @@ Virtual Sessions at 6 p.m.
 <h3>Master of Education</h3>
 Virtual Sessions at 5 p.m.
 <a href="https://admissions.umw.edu/register/MEdOct282020">Wednesday, October 28</a>
+<a href="https://admissions.umw.edu/register/MEdNov42020">Wednesday, November 4</a>
 <a href="https://admissions.umw.edu/register/MEdNov172020">Tuesday, November 17</a>
 <a href="https://admissions.umw.edu/register/MEdDec102020">Thursday, December 10</a>
 <h3>Master of Science in Geospatial Analysis</h3>
