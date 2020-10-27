@@ -1,6 +1,6 @@
 ---
 ID: 48910
-post_title: Graduate Students Additional Information
+post_title: Graduate Information Form Request
 author: keury
 post_excerpt: ""
 layout: page
