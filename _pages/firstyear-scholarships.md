@@ -40,4 +40,4 @@ Please visit our <a href="http://adminfinance.umw.edu/umwstatic/financialaid/Net
 
 <a id="Taking Flight"></a><strong>Taking Flight</strong>
 
-Prospective high school seniors now have the option to share more information with our Admissions staff as part of the admission process. Students may choose to <a href="https://admissions.umw.edu/portal/admission_interviews">interview</a> in person to be considered for an additional institutional scholarship that may range from $1,000 to $2,000. Students must apply for admission prior to the interview taking place.
+Prospective high school seniors now have the option to share more information with our Admissions staff as part of the admission process. Students may choose to <a href="https://admissions.umw.edu/portal/admission_interviews">interview</a>  to be considered for an additional institutional scholarship that may range from $1,000 to $2,000. Students must apply for admission prior to the interview taking place.
