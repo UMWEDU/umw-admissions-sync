@@ -1,11 +1,11 @@
 ---
 ID: 48912
-post_title: Leadership Program
+post_title: Leader Program
 author: keury
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/leadership-program/
+  http://www.umw.edu/admissions/leader-program/
 published: true
 post_date: 2020-11-04 11:25:18
 ---
