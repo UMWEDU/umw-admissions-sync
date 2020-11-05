@@ -11,13 +11,10 @@ post_date: 2020-11-04 11:25:18
 ---
 <img class="aligncenter size-full wp-image-48913" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/11/170418_UMW_3_1987.jpg" alt="" width="8495" height="5663" />
 
-Interested in becoming a student leader at the University of Mary Washington? Check back soon for details on the new <strong>Presidential Emerging Leaders Program.</strong>
+The Presidential Emerging Leaders Program is a new one year leadership development program designed to help first year students create lasting friendships, make meaningful connections across campus, and develop their leadership profile. Selected students will participate in activities that include personal leadership development, team building, skill-building sessions, and networking with campus influencers including University President Troy Paino.
 
-<strong>Apply <a href="https://www.umw.edu/admissions/apply/undergraduate-application/">early action</a> for consideration to this program to make sure you are among those given priority consideration. </strong>
-<h3>Learning Outcomes</h3>
-<ul>
- 	<li>Participants will discover the many opportunities to get involved in and around campus</li>
- 	<li>Participants will explore what kind of leader they aspire to be by exploring different leadership opportunities available to them.</li>
- 	<li>Participants will reflect and learn more about their personal identities and their role in the community.</li>
- 	<li>Participants will identify key elements of appropriate and healthy interpersonal relationships.</li>
-</ul>
+Participants will spend the year immersed in various experiential learning opportunities where they will explore what kind of leader they aspire to be.  Participation in this program will serve as a solid springboard to future engagement opportunities on and off campus.
+
+This program is open to all majors and requires no prior leadership experience or knowledge.
+
+Stay tuned for more information on how to apply to be a part of the inaugural class of the Presidential Emerging Leaders Program. Those who apply <a href="https://www.umw.edu/admissions/apply/undergraduate-application/">early action</a> will be given priority consideration for admission into the program.
