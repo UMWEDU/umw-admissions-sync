@@ -9,7 +9,7 @@ published: true
 post_date: 2020-09-23 16:22:17
 ---
 <h2><img class="aligncenter size-page-feature wp-image-48887" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/09/Lee-Hall-Sept-2020-1140x460.jpg" alt="" width="1100" height="444" /></h2>
-<h2>Open House - October 17, 2020</h2>
+<h2>Open House - November 14, 2020</h2>
 <h3><strong>Welcome and Opening Remarks
 </strong></h3>
 10-10:20 a.m.
@@ -26,7 +26,7 @@ post_date: 2020-09-23 16:22:17
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
- 	<li>Diversity and Inclusion</li>
+ 	<li>Diversity &amp; Inclusion/Student Transition Program</li>
  	<li>Financial Aid</li>
  	<li>First Year Experience</li>
  	<li>Honors Program</li>
@@ -36,11 +36,12 @@ post_date: 2020-09-23 16:22:17
  	<li>Transfer Student Q &amp; A</li>
  	<li>Pre-Health</li>
  	<li>Residence Life</li>
+ 	<li>Leader Program</li>
 </ul>
 <h3><strong>Concurrent Sessions from 12:30-1 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
- 	<li>Diversity and Inclusion</li>
+ 	<li>Diversity &amp; Inclusion/Student Transition Program</li>
  	<li>Financial Aid</li>
  	<li>First Year Experience</li>
  	<li>Honors Program</li>
@@ -48,8 +49,9 @@ post_date: 2020-09-23 16:22:17
  	<li>Student Transition Program</li>
  	<li>Study Abroad</li>
  	<li>Transfer Student Q &amp; A</li>
- 	<li>Pre-Health</li>
  	<li>Residence Life</li>
+ 	<li>Leader Program</li>
+ 	<li>Campus Dining</li>
 </ul>
 <h3>Questions?</h3>
 Reach out to your <a style="font-size: 16px" href="https://www.umw.edu/admissions/meet-us/">personal recruiter.</a>
