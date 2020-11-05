@@ -23,6 +23,4 @@ This program is open to all majors and requires no prior leadership experience o
 
 <img class="alignright size-medium wp-image-48917" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/11/Willard-Fall-2019-300x200.jpg" alt="" width="300" height="200" />
 
-&nbsp;
-
 Stay tuned for more information on how to apply to be a part of the inaugural class of the Presidential Emerging Leaders Program. Those who apply <a href="https://www.umw.edu/admissions/apply/undergraduate-application/">early action</a> will be given priority consideration for admission into the program.
