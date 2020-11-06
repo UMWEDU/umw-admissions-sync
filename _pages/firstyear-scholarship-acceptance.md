@@ -17,7 +17,7 @@ The university awards merit scholarships based on information submitted on the a
 
 The university will credit one-half of the scholarship each semester to the student’s account (Fall/Spring).  The recipient qualifies to receive a scholarship for each of four academic years of continuous undergraduate study at the University of Mary Washington if all of the following conditions are satisfied:
 <ol>
- 	<li>Recipients must be full-time at the University of Mary Washington and successfully complete at least 12 credit hours each semester.</li>
+ 	<li>Recipients must be full-time at the University of Mary Washington and successfully complete at least 12 credit hours each semester. Students with approved reduced loads from the Office of Disability Resources will have their award automatically adjusted should they fall below full-time status.</li>
  	<li>Current scholars who have maintained eligibility may use a merit scholarship for pre-approved study abroad programs.  The Office of Financial Aid must receive written permission from the Center for International Education prior to the semester abroad term.  Participation will be limited to one period of study, not to exceed two semesters.  The University of Mary Washington will use study abroad credit hours equivalent to full-time enrollment transferred back to the University for consideration if scholarship eligibility for the subsequent year.  Study abroad participants must return to the University of Mary Washington as full-time residence hall students to complete their degree requirements. Students may review the process for using merit scholarships for study abroad programs <a href="http://www.umw.edu/financialaid/eligibility/study-abroad">here</a>.</li>
  	<li>Students may not use merit scholarships if participating in an internship in which the student resides off campus.</li>
  	<li>The recipient must maintain the following yearly grade point averages to retain a merit scholarship:</li>
@@ -32,7 +32,5 @@ The grade point average is to be determined by the course load requirement used 
 5. Should the recipient be placed on social or administrative probation, or be found guilty of an Honor Code violation, the scholarship will be withdrawn, and charges to the student shall be adjusted according to the University’s refund policy.
 
 6. An adjustment to the amount of the scholarship will be made according to the University’s refund policy should the recipient withdraw during the academic year.
-
-7. Students with approved reduced loads from the Office of Disability Resources will have their award automatically adjusted should they fall below full-time status.
 
 [gravityform id="4" name="Scholarship Acceptance Certificate" description="false"]
