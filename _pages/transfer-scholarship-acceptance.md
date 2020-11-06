@@ -23,5 +23,6 @@ The university will credit one-half of the scholarship each semester to the stud
  	<li>The recipient must maintain a yearly grade point average (not cumulative average) of at least 2.5 on a 4.0 scale. The grade point average is to be determined by the course load requirement used in the determination of Dean’s List students and is based on the end of the spring term regardless if the student attends fall courses. “<strong>Earned Credit Hours</strong>” are credit hours earned only at UMW.</li>
  	<li>Should the recipient be placed on social or administrative probation, or be found guilty of an Honor Code violation, the scholarship will be withdrawn and charges to the student shall be adjusted according to the University’s refund policy.</li>
  	<li>An adjustment to the amount of the scholarship will be made according to the University’s refund policy should the recipient withdraw during the academic year.</li>
+ 	<li>Students with approved reduced loads from the Office of Disability Resources will have their award automatically adjusted should they fall below full-time status.</li>
 </ol>
 [gravityform id="5" title="true" description="false" ajax="true"]
