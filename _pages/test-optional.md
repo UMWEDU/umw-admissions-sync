@@ -14,10 +14,16 @@ Within the application, first year applicants to the University of Mary Washingt
 <strong>Exceptions to test choice review include</strong>:
 <ul>
  	<li>Students applying for admission to the Pre-Nursing Program with less than a 3.5 cumulative GPA.</li>
- 	<li>Students applying for merit based scholarships (full-ride Washington and Alvey Scholarships)</li>
+</ul>
+<div>
+<div>While COVID continues to impact standardized test seat inventory, UMW is temporarily suspending the requirement of test scores for:</div>
+<div>
+<ul>
  	<li>Home-schooled applicants</li>
  	<li>Candidates applying from schools that provide written evaluations rather than grades</li>
 </ul>
+</div>
+</div>
 Admission to UMW remains a competitive process, and all candidates for admission will be considered on their own merits. Qualifying for application review without submitting standardized test scores does <strong>not</strong> guarantee admission to UMW. Students interested in pre-nursing can apply test choice, but may be required to provide SAT or ACT scores for admission to the Nursing Program.
 
 If you have questions regarding the test choice policy, please contact Admissions at 540/654-2000, 800/468-5614 or <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
