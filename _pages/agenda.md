@@ -31,8 +31,6 @@ post_date: 2020-09-23 16:22:17
  	<li>James Farmer Multicultural Center</li>
  	<li>Student Transition Program</li>
  	<li>Multicultural Clubs and Groups</li>
- 	<li>
-<div></div></li>
 </ul>
 </li>
  	<li>Financial Aid</li>
