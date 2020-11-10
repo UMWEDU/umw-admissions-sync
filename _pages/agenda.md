@@ -26,7 +26,15 @@ post_date: 2020-09-23 16:22:17
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
- 	<li>Diversity &amp; Inclusion/Student Transition Program</li>
+ 	<li>Diversity &amp; Inclusion with Student Panel representing:
+<ul>
+ 	<li>James Farmer Multicultural Center</li>
+ 	<li>Student Transition Program</li>
+ 	<li>Multicultural Clubs and Groups</li>
+ 	<li>
+<div></div></li>
+</ul>
+</li>
  	<li>Financial Aid</li>
  	<li>First Year Experience</li>
  	<li>Honors Program</li>
@@ -41,7 +49,13 @@ post_date: 2020-09-23 16:22:17
 <h3><strong>Concurrent Sessions from 12:30-1 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
- 	<li>Diversity &amp; Inclusion/Student Transition Program</li>
+ 	<li>Diversity &amp; Inclusion with Student Panel representing:
+<ul>
+ 	<li>James Farmer Multicultural Center</li>
+ 	<li>Student Transition Program</li>
+ 	<li>Multicultural Clubs and Groups</li>
+</ul>
+</li>
  	<li>Financial Aid</li>
  	<li>First Year Experience</li>
  	<li>Honors Program</li>
