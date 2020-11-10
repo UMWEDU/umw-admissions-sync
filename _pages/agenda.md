@@ -26,7 +26,7 @@ post_date: 2020-09-23 16:22:17
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
- 	<li>Diversity &amp; Inclusion with Student Panel representing:
+ 	<li>*Diversity &amp; Inclusion with Student Panel representing:
 <ul>
  	<li>James Farmer Multicultural Center</li>
  	<li>Student Transition Program</li>
@@ -44,10 +44,11 @@ post_date: 2020-09-23 16:22:17
  	<li>Residence Life</li>
  	<li>Leader Program</li>
 </ul>
+<em>*Please note this session is an hour long but you are welcome to join any point from 12-1 p.m.</em>
 <h3><strong>Concurrent Sessions from 12:30-1 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
- 	<li>Diversity &amp; Inclusion with Student Panel representing:
+ 	<li>*Diversity &amp; Inclusion with Student Panel representing:
 <ul>
  	<li>James Farmer Multicultural Center</li>
  	<li>Student Transition Program</li>
