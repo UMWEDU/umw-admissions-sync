@@ -38,7 +38,6 @@ post_date: 2020-09-23 16:22:17
  	<li>First Year Experience</li>
  	<li>Honors Program</li>
  	<li>Nursing Program</li>
- 	<li>Student Transition Program</li>
  	<li>Study Abroad</li>
  	<li>Transfer Student Q &amp; A</li>
  	<li>Pre-Health</li>
@@ -62,7 +61,6 @@ post_date: 2020-09-23 16:22:17
  	<li>First Year Experience</li>
  	<li>Honors Program</li>
  	<li>Nursing Program</li>
- 	<li>Student Transition Program</li>
  	<li>Study Abroad</li>
  	<li>Transfer Student Q &amp; A</li>
  	<li>Residence Life</li>
