@@ -23,6 +23,7 @@ post_date: 2020-09-23 16:22:17
  	<li>College of Business</li>
  	<li>College of Education</li>
 </ul>
+Reserved for College Partnership Program from 11:15 a.m. - 12 p.m.
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
@@ -42,9 +43,11 @@ post_date: 2020-09-23 16:22:17
  	<li>Transfer Student Q &amp; A</li>
  	<li>Pre-Health</li>
  	<li>Residence Life</li>
- 	<li>Leader Program</li>
+ 	<li>Presidential Emerging Leaders Program</li>
 </ul>
 <em>*Please note this session is an hour long but you are welcome to join any point from 12-1 p.m.</em>
+
+<em>**A session on campus dining will only be held from 12:30-1 p.m. </em>
 <h3><strong>Concurrent Sessions from 12:30-1 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
@@ -63,8 +66,8 @@ post_date: 2020-09-23 16:22:17
  	<li>Study Abroad</li>
  	<li>Transfer Student Q &amp; A</li>
  	<li>Residence Life</li>
- 	<li>Leader Program</li>
- 	<li>Campus Dining</li>
+ 	<li>Presidential Emerging Leaders Program</li>
+ 	<li>**Campus Dining</li>
 </ul>
 <h3>Questions?</h3>
 Reach out to your <a style="font-size: 16px" href="https://www.umw.edu/admissions/meet-us/">personal recruiter.</a>
