@@ -9,24 +9,24 @@ published: true
 post_date: 2020-09-23 16:22:17
 ---
 <h2><img class="aligncenter size-page-feature wp-image-48887" src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/09/Lee-Hall-Sept-2020-1140x460.jpg" alt="" width="1100" height="444" /></h2>
-<h2>Open House - November 14, 2020</h2>
+<h2>Open House</h2>
 <h3><strong>Welcome and Opening Remarks
 </strong></h3>
 10-10:20 a.m.
 <h3><strong>Student Life Session
 </strong></h3>
 10:20-11:15 a.m.
-<h4><em>To join a session, please click on a link below. Links will be made live the morning of the event.  </em></h4>
+<h4><em>Links will be made live the morning of the event.  </em></h4>
 <h3><strong>Academic Sessions from 11:15 a.m. - 12 p.m.</strong></h3>
 <ul>
- 	<li><a href="https://umw-sso.zoom.us/j/87344751965?pwd=ZHlTTHhBaGZvTWoyWGF6Rlk1SVNhZz09">College of Arts and Sciences</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/89588902045?pwd=SGRBcXFlMmRGaXl3UGhTT2djYkhWZz09">College of Business</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87965890335?pwd=UjhaQWt6eU85TEJxTmlSK3MxZy9XZz09">College of Education</a></li>
+ 	<li>College of Arts and Sciences</li>
+ 	<li>College of Business</li>
+ 	<li>College of Education</li>
 </ul>
-<h3><a href="https://umw-sso.zoom.us/j/87383554245?pwd=Smtrbm82MnBsbWg2K2Z5M0xuTXMrZz09">Session</a> reserved for College Partnership Program from 11:15 a.m. - 12 p.m.</h3>
+<h3>Session reserved for College Partnership Program from 11:15 a.m. - 12 p.m.</h3>
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
- 	<li><a href="https://umw-sso.zoom.us/j/85220801343?pwd=WGU2blB2KzNZSUU1Z0dSaUZNVmtZQT09">Applications Tips and Tricks</a></li>
+ 	<li>Applications Tips and Tricks</li>
  	<li>*<a href="https://umw-sso.zoom.us/j/82735344754?pwd=ZFE0RzArbHpUTG0rSTc0WWVSRW5GZz09">Diversity &amp; Inclusion with Student Pane</a>l representing:
 <ul>
  	<li>James Farmer Multicultural Center</li>
@@ -34,15 +34,15 @@ post_date: 2020-09-23 16:22:17
  	<li>Multicultural Clubs and Groups</li>
 </ul>
 </li>
- 	<li><a href="https://umw-sso.zoom.us/j/88098691415?pwd=OU1mcTBjN2lrMUt4RmcrNHpzWXB4UT09">Financial Aid</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/86323368421?pwd=WGZuSkZOYzZOVnFUeXBtS0VsbnVVZz09">First Year Experience</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/86516978770?pwd=cVhOU0VmTHo3VFdaUGh6azNodFNLZz09">Honors Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/84640212261">Nursing Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87393914385">Pre-Health</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/81181681109?pwd=SW51K3VpTC9QMjVqZ3EycjFVdlYzQT09">Presidential Emerging Leaders Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/85311360765">Residence Life</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87347021071?pwd=NFRZVHRjOEY5VVh5TFFWejBuL1ZYdz09">Study Abroad</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/86734993496?pwd=bktaTkxIbWhIWGtxbmFxUWRXSi85Zz09">Transfer Student Q &amp; A</a></li>
+ 	<li>Financial Aid</li>
+ 	<li>First Year Experience</li>
+ 	<li>Honors Program</li>
+ 	<li>Nursing Program</li>
+ 	<li>Pre-Health</li>
+ 	<li>Presidential Emerging Leaders Program</li>
+ 	<li>Residence Life</li>
+ 	<li>Study Abroad</li>
+ 	<li>Transfer Student Q &amp; A</li>
 </ul>
 <em>*Please note this session is an hour long but you are welcome to join any point from 12-1 p.m.</em>
 
