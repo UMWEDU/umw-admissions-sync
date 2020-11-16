@@ -17,7 +17,7 @@ UMW accepts both <a href="https://apply.commonapp.org/login">The Common Applicat
  	<li>Freshman Applicants
 <ul>
  	<li>Early Decision - November 1</li>
- 	<li>Early Action - November 15</li>
+ 	<li>Early Action - November 15. <em>This date has been extended until December 1.</em></li>
  	<li>Regular Decision - February 1</li>
 </ul>
 </li>
