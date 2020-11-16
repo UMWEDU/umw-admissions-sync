@@ -14,8 +14,8 @@ post_date: 2015-05-26 18:51:28
 Take a look at the checklist below and start getting everything submitted. We’re excited to read your application!
 <h2><strong>Suggested filing dates:</strong></h2>
 <ul>
- 	<li>Nov. 1 - Early Decision (notification by December 10 and reply date of January 10)</li>
- 	<li>Nov. 15 - Early Action (notification by January 31 and reply date of May 1)</li>
+ 	<li>Nov. 1 - Early Decision (notification by Dec. 10 and reply date of Jan. 10)</li>
+ 	<li>Nov. 15 - Early Action - <strong>This date has been extended until Dec. 1</strong> (notification by Jan.31 and reply date of May 1)</li>
  	<li>Feb. 1 - Regular Decision date (notification by April 1 and reply date of May 1)</li>
 </ul>
 Prospective high school seniors have the option to <a href="https://admissions.umw.edu/portal/admission_interviews">interview</a> with our Admissions staff as part of the admissions process. Students who interview in person may have the opportunity to be considered for a “Taking Flight” scholarship that ranges from $1,000 to $2,000. Interview dates are between July 1 to February 1.
