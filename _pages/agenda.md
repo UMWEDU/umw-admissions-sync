@@ -27,11 +27,9 @@ post_date: 2020-09-23 16:22:17
 <h3><strong>Concurrent Sessions from 12-12:30 p.m.</strong></h3>
 <ul>
  	<li>Applications Tips and Tricks</li>
- 	<li>*<a href="https://umw-sso.zoom.us/j/82735344754?pwd=ZFE0RzArbHpUTG0rSTc0WWVSRW5GZz09">Diversity &amp; Inclusion with Student Pane</a>l representing:
+ 	<li>*Diversity &amp; Inclusion
 <ul>
- 	<li>James Farmer Multicultural Center</li>
  	<li>Student Transition Program</li>
- 	<li>Multicultural Clubs and Groups</li>
 </ul>
 </li>
  	<li>Financial Aid</li>
@@ -41,32 +39,25 @@ post_date: 2020-09-23 16:22:17
  	<li>Pre-Health</li>
  	<li>Presidential Emerging Leaders Program</li>
  	<li>Residence Life</li>
+ 	<li>Student Transition Program</li>
  	<li>Study Abroad</li>
  	<li>Transfer Student Q &amp; A</li>
 </ul>
-<em>*Please note this session is an hour long but you are welcome to join any point from 12-1 p.m.</em>
-
-<em>**A session on campus dining will only be held from 12:30-1 p.m. </em>
 <h3><strong>Concurrent Sessions from 12:30-1 p.m.</strong></h3>
 <ul>
- 	<li><a href="https://umw-sso.zoom.us/j/85220801343?pwd=WGU2blB2KzNZSUU1Z0dSaUZNVmtZQT09">Applications Tips and Tricks</a></li>
- 	<li>**<a href="https://umw-sso.zoom.us/j/89204093944?pwd=bmZ4R3NOMVBmdjMzeUV2YTZXV29oUT09">Campus Dining</a></li>
- 	<li>*<a href="https://umw-sso.zoom.us/j/82735344754?pwd=ZFE0RzArbHpUTG0rSTc0WWVSRW5GZz09">Diversity &amp; Inclusion with Student Panel</a> representing:
-<ul>
- 	<li>James Farmer Multicultural Center</li>
+ 	<li>Applications Tips and Tricks</li>
+ 	<li>Campus Dining</li>
+ 	<li>Diversity &amp; Inclusion</li>
+ 	<li>Financial Aid</li>
+ 	<li>First Year Experience</li>
+ 	<li>Honors Program</li>
+ 	<li>Nursing Program</li>
+ 	<li>Residence Life</li>
+ 	<li>Pre-Health</li>
+ 	<li>Presidential Emerging Leaders Program</li>
  	<li>Student Transition Program</li>
- 	<li>Multicultural Clubs and Groups</li>
-</ul>
-</li>
- 	<li><a href="https://umw-sso.zoom.us/j/88098691415?pwd=OU1mcTBjN2lrMUt4RmcrNHpzWXB4UT09">Financial Aid</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/86323368421?pwd=WGZuSkZOYzZOVnFUeXBtS0VsbnVVZz09">First Year Experience</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/86516978770?pwd=cVhOU0VmTHo3VFdaUGh6azNodFNLZz09">Honors Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/84640212261">Nursing Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/85311360765">Residence Life</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87393914385">Pre-Health</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/81181681109?pwd=SW51K3VpTC9QMjVqZ3EycjFVdlYzQT09">Presidential Emerging Leaders Program</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/87347021071?pwd=NFRZVHRjOEY5VVh5TFFWejBuL1ZYdz09">Study Abroad</a></li>
- 	<li><a href="https://umw-sso.zoom.us/j/86734993496?pwd=bktaTkxIbWhIWGtxbmFxUWRXSi85Zz09">Transfer Student Q &amp; A</a></li>
+ 	<li>Study Abroad</li>
+ 	<li>Transfer Student Q &amp; A</li>
 </ul>
 Questions? Reach out to your <a style="font-size: 16px" href="https://www.umw.edu/admissions/meet-us/">personal recruiter.</a>
 <h3>Zoom Instructions</h3>
