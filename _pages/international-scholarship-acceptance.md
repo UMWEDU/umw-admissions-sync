@@ -21,10 +21,10 @@ The recipient qualifies to receive a scholarship for each of four academic years
 Earned Credit Hours            Yearly GPA Requirement
 1-29                                          2.5
 30-59                                       2.75
-60+                                          3.0The grade point average is to be determined by the course load requirement used in the determination of Dean’s List students and is based on the end of the spring term regardless if the student attends fall courses. “<strong>Earned Credit Hours</strong>” are credit hours earned only at UMW.</li>
+60+                                          3.0
+The grade point average is to be determined by the course load requirement used in the determination of Dean’s List students and is based on the end of the spring term regardless if the student attends fall courses. “<strong>Earned Credit Hours</strong>” are credit hours earned only at UMW.</li>
 </ol>
 <ol start="6">
- 	<li>Should the recipient be placed on social or administrative probation, or be found guilty of an Honor Code violation, the scholarship will be withdrawn, and charges to the student shall be adjusted according to the University’s refund policy.</li>
  	<li>Should the recipient withdraw during the academic year, an adjustment in the amount of the scholarship will be made according to the University’s refund policy.</li>
 </ol>
 [gravityform id="11" title="true" description="true"]
