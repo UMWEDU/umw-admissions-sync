@@ -1,15 +1,14 @@
 ---
-ID: 48776
+ID: 48791
 post_title: Visit Us
 author: Mike Breitenbach
 post_excerpt: ""
 layout: page
-permalink: >
-  http://umwwebmaster.staging.wpengine.com/admissions/visit-us/
+permalink: http://www.umw.edu/admissions/visit-us/
 published: true
-post_date: 2020-04-10 13:49:51
+post_date: 2020-04-10 09:07:10
 ---
-<img src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/07/Visit_Us.jpg" />
+<img src="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/07/Visit_Us.jpg" alt="visit us" />
 <div class="umw-grid">
 <div class="column first">
 <h2>Virtual Interest Sessions</h2>
