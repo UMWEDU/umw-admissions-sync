@@ -25,7 +25,7 @@ UMW accepts both <a href="https://apply.commonapp.org/login">The Common Applicat
 <ul>
  	<li>Summer admission - March 1</li>
  	<li>Fall admission - April 1</li>
- 	<li>Spring admission - October 15</li>
+ 	<li>Spring admission - October 15. <em>This date has been extended, please submit your application at your earliest convenience.</em></li>
 </ul>
 </li>
 </ul>
