@@ -13,6 +13,8 @@ The best way to learn about graduate programs at the University of Mary Washingt
 <h3>Master of Business Administration</h3>
 Virtual Sessions at 6 p.m.
 <h3>Master of Education</h3>
+<a href="https://admissions.umw.edu/register/?id=4f978d5a-32c8-4b31-9ffa-e4768b854087">Thursday, January 7</a>
+
 Virtual Sessions at 5 p.m.
 
 Please schedule an appointment at <a href="mailto:graduate@umw.edu">graduate@umw.edu</a> to discuss details of the program and answer any questions you may have.
