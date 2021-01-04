@@ -11,6 +11,8 @@ post_date: 2015-08-07 11:42:13
 ---
 The best way to learn about graduate programs at the University of Mary Washington is to attend an information session or another visit opportunity. Registration is encouraged, but is not required for in person sessions except for virtual sessions. Check back in January for 2021 information session dates.
 <h3>Master of Business Administration</h3>
+<a href="https://admissions.umw.edu/register/?id=b6f5873b-6d6b-4edc-bb02-b94988dc601a">Wednesday, January 6</a>
+
 Virtual Sessions at 6 p.m.
 <h3>Master of Education</h3>
 <a href="https://admissions.umw.edu/register/?id=4f978d5a-32c8-4b31-9ffa-e4768b854087">Thursday, January 7</a>
