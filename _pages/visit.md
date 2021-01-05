@@ -13,8 +13,8 @@ post_date: 2015-05-26 01:36:38
 One springtime stroll under the magnificent pale-pink blossoms of the cherry trees on Campus Walk, and you won’t want to leave. Whatever the season, it’s always a great time to visit the University of Mary Washington. Meet our master teachers; catch up with current students; check out our classrooms, stately Georgian architecture, and beautiful wooded campus; and explore historic downtown Fredericksburg. There are so many ways to get to know us!
 <h2>Virtual Visits</h2>
 <ul>
- 	<li><a href="https://admissions.umw.edu/portal/webinars"><strong>Virtual Information Sessions</strong></a>: Pre-registration is required for the online webinars including daily information sessions and special topics. Please check the calendar for dates and times of sessions and to register.</li>
- 	<li><strong><a href="https://admissions.umw.edu/portal/webinars">Virtual transfer sessions</a>:</strong> Transfer information sessions are also held at 4 p.m. Monday-Friday. Attend the sessions and learn about the admissions process at UMW.</li>
+ 	<li><a href="https://admissions.umw.edu/portal/webinars"><strong>Virtual Information Sessions</strong></a>: Pre-registration is required for the online webinars including daily information sessions and special topics.</li>
+ 	<li><strong><a href="https://admissions.umw.edu/portal/webinars">Virtual transfer sessions</a>:</strong> Sessions are held at 4 p.m. Monday-Friday. Attend the sessions and learn about the admissions process at UMW.</li>
  	<li><a href="https://admissions.umw.edu/portal/admission_interviews"><strong>Interviews</strong></a>: Applying to UMW as a first-year student? Share who you are with our Admissions staff directly. Interviews are not required, but will place you in consideration for a “Taking Flight” scholarship that ranges between $1,000-$2,000. Interviews are reserved for high school seniors for fall 2021 admission candidates and are available between July 1-February 1. Students must apply to UMW prior to interviewing. The interview must be completed by February 1 for consideration. You can also schedule your interview directly with your admissions counselor. Find out who your <a href="https://admissions.umw.edu/register/?id=5e2a8316-a566-4f82-92e5-89af7a4b3498">counselor</a> is and then select your counselor below to see their interview schedule and availability:
 <ul>
  	<li><a href="https://admissions.umw.edu/portal/InterviewsOfficeHours_AdamMoore">Adam Moore</a></li>
@@ -34,13 +34,19 @@ One springtime stroll under the magnificent pale-pink blossoms of the cherry tre
 It’s not exactly like being here, but you can get a feel for UMW by following along with our <a href="https://www.umw.edu/#/vte/?data-platform=v&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">virtual campus tour</a>, <a href="https://umw.university-tour.com/homepage.php">interactive video viewbook</a> or taking a <a href="https://issuu.com/umwpublications/docs/self_guided_walking_tour_-_march_2020">self guided walking tour</a>.
 
 <a href="https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Experience</a>
-<h2>Daily Tours and Information Sessions</h2>
+<h2>On Campus Tours and Information Sessions</h2>
 We are once again offering daily, in-person campus tours and information sessions.
 <ul>
  	<li><strong><a href="https://admissions.umw.edu/portal/event_landing">Tours</a>:</strong> Campus tours will be <strong>60 minutes</strong> long and will take place at <strong>9:45 a.m. and 2:30 p.m.</strong></li>
  	<li><strong><a href="https://admissions.umw.edu/portal/event_landing">Information sessions</a>:</strong> In-person information sessions are <strong>30 minutes</strong> long and will be held at <strong>9:15 a.m. and 2 p.m.</strong></li>
 </ul>
 <em>The registration process will contain arrival protocol to minimize risk for yourself, your guests and the campus community. UMW is adhering to recommendations from the <a href="https://www.cdc.gov/coronavirus/2019-ncov/community/colleges-universities/considerations.html">Centers for Disease Control and Prevention (CDC)</a>, Governor Northam’s “<u><a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/Virginia-Forward-Phase-One-Business-Sector-Guidelines.pdf">Forward Virginia</a></u>” plan, and the <a href="https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-Testing-for-Colleges-and-Universities.pdf">Virginia Department of Health (VDH)</a>.</em>
+<h2>Recorded Information and Interest Sessions</h2>
+<a href="https://www.youtube.com/watch?v=c9a_pjru8i0&amp;feature=youtu.be">Spanish Information Session</a>
+
+<a href="https://www.youtube.com/watch?v=cKRYbfhoFyk&amp;feature=youtu.be">Spanish Video Tour</a>
+
+<a href="https://www.youtube.com/watch?v=GxSROeMqSv4&amp;feature=youtu.be">Admission Process Information Session</a>
 <h2>How to get here:</h2>
 The main campus is located at <a href="https://www.google.com/maps/place/University+of+Mary+Washington/@38.3005178,-77.4749152,15z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e987a255:0x1ef2db66d097c3c1">1301 College Avenue, Fredericksburg, VA 22401</a>. The Office of Admissions – in <a href="https://www.google.com/maps/place/Lee+Hall,+University+of+Mary+Washington,+1301+College+Ave,+Fredericksburg,+VA+22401/@38.3026184,-77.4742811,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f7148e6255:0xe0ae54bddccaa014">Lee Hall</a>, Room 301 – is open Monday through Friday, 8 a.m. to 5 p.m.
 <h2>Where to stay:</h2>
