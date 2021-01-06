@@ -35,7 +35,7 @@ It’s not exactly like being here, but you can get a feel for UMW by following 
 
 <a href="https://www.youvisit.com/#/vte/?data-platform=v&amp;data-link-type=immersive&amp;data-inst=63572&amp;data-image-width=100%&amp;data-image-height=100%&amp;">Launch Experience</a>
 <h2>On Campus Tours and Information Sessions</h2>
-We are once again offering daily, in-person campus tours and information sessions.
+<em>Please note that we have suspended on campus tours and information sessions  out of an abundance of safety. We anticipate once our students return to campus in late January that we will be able to resume tours and sessions again. </em>
 <ul>
  	<li><strong><a href="https://admissions.umw.edu/portal/event_landing">Tours</a>:</strong> Campus tours will be <strong>60 minutes</strong> long and will take place at <strong>9:45 a.m. and 2:30 p.m.</strong></li>
  	<li><strong><a href="https://admissions.umw.edu/portal/event_landing">Information sessions</a>:</strong> In-person information sessions are <strong>30 minutes</strong> long and will be held at <strong>9:15 a.m. and 2 p.m.</strong></li>
