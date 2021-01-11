@@ -21,8 +21,8 @@ Join us for a virtual Open House (from 10 a.m. - 1 p.m.) and get an overview on 
 </ul>
 Please take a look at the <a href="https://www.umw.edu/admissions/agenda/">agenda</a> to see all of the sessions offered. We hope you join us to see why Mary Wash is right for you! Register by selecting a date below.
 
-<a href="https://admissions.umw.edu/register/OpenHouseFeb2021">February 15</a>
-<a href="https://admissions.umw.edu/register/OpenHouseApril2021">April 2</a>
+<a href="https://admissions.umw.edu/register/OpenHouseFeb2021">Monday, February 15</a>
+<a href="https://admissions.umw.edu/register/OpenHouseApril2021">Saturday, April 11</a>
 
 <hr />
 
