@@ -19,4 +19,4 @@ Students who graduate with an associate’s degree in arts, sciences, or arts an
  	<li>Speaking- and writing- intensive course requirements</li>
  	<li>Experiential learning requirement</li>
 </ul>
-If you wish to invoke the Guaranteed Admission Agreement and receive a $50 application fee waiver, please complete the <a href="http://www.umw.edu/documents/document/gaa-student-letter-of-intent/">GAA Student Intent Form</a> and submit it to your community college counselor.
+If you wish to invoke the Guaranteed Admission Agreement and receive a $50 application fee waiver, please complete the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2021/01/Letter-of-Intent-VCCS-Sept-2020.pdf">GAA Letter of Intent</a> and submit it to your community college counselor.
