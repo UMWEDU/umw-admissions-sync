@@ -14,6 +14,9 @@ The best way to learn about graduate programs at the University of Mary Washingt
 Virtual sessions start at 6 p.m.
 
 <a href="https://admissions.umw.edu/register/?id=f7492c6e-9afe-478d-8f0c-232e3e23fd4a">Thursday, February 11</a>
+<a href="https://admissions.umw.edu/register/?id=825bf8c3-543e-4f00-9810-25dfe4b55923">Wednesday, February 24</a>
+<a href="https://admissions.umw.edu/register/?id=41081869-f8b9-4def-a7bc-3c9e314ea75c">Tuesday, March 16</a>
+<a href="https://admissions.umw.edu/register/?id=35ab3f9d-710d-4a95-a6f6-c6b064a58922">Tuesday, March 30</a>
 <h3>Master of Education</h3>
 Virtual sessions start at 5 p.m.
 <h3>Master of Science in Geospatial Analysis</h3>
