@@ -16,9 +16,13 @@ post_date: 2016-01-13 13:05:45
 <h2></h2>
 &nbsp;
 
-We hope to be able to offer in person admitted student events in the spring. Please check back in January for additional information. In the meantime, we do offer virtual sessions.
+&nbsp;
 
-These topical perspectives are led by faculty and staff from academic majors, programs, student affairs, and student service or support areas across campus who are ready to share their knowledge and love of UMW with you. Check out the <a href="http://www.umw.edu/admissions/wp-content/uploads/sites/6/2020/05/CALENDAR-Webinars-May-2020.pdf">calendar</a> and then <a href="https://admissions.umw.edu/portal/webinars">register</a> for all that interest you. We've also included some sample class lectures!
+Check out our <a href="https://admissions.umw.edu/portal/event_landing">on campus events</a> and <a href="https://admissions.umw.edu/portal/webinars">virtual events</a> and register for all that interest you.
+
+These topical perspectives are led by faculty and staff from academic majors, programs, student affairs, and student service or support areas across campus who are ready to share their knowledge and love of UMW with you.
+
+In February, March, and April we will be hosting special events for admitted students covering a variety of topics. Check back soon for specific dates and information.
 
 If you have questions regarding admissions events/tours, contact the Admissions office at <a href="mailto:admit@umw.edu">admit@umw.edu</a>.
 
