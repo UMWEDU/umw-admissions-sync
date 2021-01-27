@@ -15,9 +15,8 @@ post_date: 2014-11-05 11:10:41
 
 <strong>Fall</strong> Deadline: May 1.
 
-<strong>Deposits</strong>
-
-Residential - $550 (includes the $250 housing deposit)
+<strong>Deposits
+</strong>Residential - $550 (includes the $250 housing deposit)
 Commuter - $300
 
 To pay online, enter your Student ID below and confirm that your name appears on all subsequent pages. By submitting your deposit electronically, you are enrolling and your deposit is non-refundable after May 1 (for freshman fall enrollment). <em>Internet Explorer is recommended to pay your deposit online. If you experience any difficulties please contact <a href="mailto:admit@umw.edu">admit@umw.edu</a>.</em>
