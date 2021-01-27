@@ -11,9 +11,9 @@ post_date: 2014-11-05 11:10:41
 ---
 <strong>Congratulations once again on being admitted to UMW!</strong> To confirm your intent to attend Mary Washington, you can either send a check or pay online. We do encourage students to deposit online. If students mail in documents and deposits, the processing will be delayed as the University is working remotely. The fastest way is to deposit online and there is no fee for e-checks.
 
-<strong>Spring</strong> Deadline: Due by the date indicated on your letter
+<strong>Spring</strong> <strong>Deadline</strong>: Due by the date indicated on your letter
 
-<strong>Fall</strong> Deadline: May 1.
+<strong>Fall</strong> <strong>Deadline</strong>: May 1.
 
 <strong>Deposits
 </strong>Residential - $550 (includes the $250 housing deposit)
