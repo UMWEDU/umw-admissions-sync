@@ -4,8 +4,7 @@ post_title: Master of Science in Geospatial Analysis
 author: Shelley Keith
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/admissions/graduate/degrees/msga/
+permalink: 'https://catalog.umw.edu/graduate/arts-sciences-programs/masters-science-geospatial-analysis/#admissiontext'
 published: true
 post_date: 2015-08-05 11:06:44
 ---
