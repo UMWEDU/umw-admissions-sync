@@ -4,7 +4,8 @@ post_title: Master of Science in Geospatial Analysis
 author: Shelley Keith
 post_excerpt: ""
 layout: page
-permalink: 'https://catalog.umw.edu/graduate/arts-sciences-programs/masters-science-geospatial-analysis/#admissiontext'
+permalink: >
+  http://www.umw.edu/admissions/graduate/degrees/msga/
 published: true
 post_date: 2015-08-05 11:06:44
 ---
@@ -37,7 +38,7 @@ This program is designed to address the growing demand for GIS-trained personnel
  	<li>All courses are taught face to face on the Fredericksburg campus</li>
  	<li>All courses meet once a week, from 6-9:30 p.m.</li>
  	<li>30 credits required- 6, 4-credit courses and a 6-credit research project.</li>
- 	<li>Click <a href="https://www.umw.edu/admissions/graduate/degrees/msga/msga-checklist/">here</a> for full admission criteria.</li>
+ 	<li>Click <a href="https://catalog.umw.edu/graduate/arts-sciences-programs/masters-science-geospatial-analysis/#admissiontext">here</a> for full admission criteria.</li>
 </ul>
 
 <hr />
