@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/visit/virtual-information-sessions/
+  https://admissions.umw.edu/portal/webinars
 published: true
 post_date: 2020-03-26 09:17:07
 ---
