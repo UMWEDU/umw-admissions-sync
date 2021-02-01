@@ -5,7 +5,7 @@ author: Mike Breitenbach
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/admissions/undergraduate/checklist/special-programs/presidential-emerging-leaders-program/
+  https://www.umw.edu/admissions/leader-program/
 published: true
 post_date: 2021-02-01 12:23:45
 ---
