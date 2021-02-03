@@ -18,14 +18,14 @@ UMW accepts both <a href="https://apply.commonapp.org/login">The Common Applicat
 <ul>
  	<li>Early Decision - November 1</li>
  	<li>Early Action - November 15.</li>
- 	<li>Regular Decision - February 1</li>
+ 	<li>Regular Decision - February 1 - <em>This date has been extended, please submit your application at your earliest convenience.</em></li>
 </ul>
 </li>
  	<li>Transfer Applicants
 <ul>
  	<li>Summer admission - March 1</li>
  	<li>Fall admission - April 1</li>
- 	<li>Spring admission - October 15. <em>This date has been extended, please submit your application at your earliest convenience.</em></li>
+ 	<li>Spring admission - October 15.</li>
 </ul>
 </li>
 </ul>
